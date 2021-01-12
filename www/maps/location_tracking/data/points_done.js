@@ -1,0 +1,19661 @@
+var points_done = [{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.461389, 51.4775]
+      },
+      "properties": {
+        "date": "2015-02-14",
+        "name": "London Heathrow Airport",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.705547, 51.54405]
+      },
+      "properties": {
+        "date": "2015-02-14",
+        "name": "Maidenhead",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.67659, 51.52237]
+      },
+      "properties": {
+        "date": "2015-02-14",
+        "name": "Taplow strip mall",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.108421, 51.55486]
+      },
+      "properties": {
+        "date": "2015-02-15",
+        "name": "Emirates Stadium",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.604403, 51.48387]
+      },
+      "properties": {
+        "date": "2015-02-19",
+        "name": "Windsor Castle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.608344, 51.48592]
+      },
+      "properties": {
+        "date": "2015-02-19",
+        "name": "Windsor Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.6655, 51.4933]
+      },
+      "properties": {
+        "date": "2015-02-19",
+        "name": "Dorney Lake",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1331, 51.5284]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "London Euston",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.09834, 51.51376]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "St. Paul's Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.113112, 51.48221]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "Rothesay Court",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.159756, 51.43553]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "Tooting Bec",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1774, 51.5173]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "London Paddington",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.722629, 51.51858]
+      },
+      "properties": {
+        "date": "2015-02-22",
+        "name": "Maidenhead",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.68822, 51.55846]
+      },
+      "properties": {
+        "date": "2015-02-23",
+        "name": "Cliveden House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.53527, 50.46341]
+      },
+      "properties": {
+        "date": "2015-02-23",
+        "name": "Torquay Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.735738, 50.43811]
+      },
+      "properties": {
+        "date": "2015-02-24",
+        "name": "Bidwell solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.464585, 50.68135]
+      },
+      "properties": {
+        "date": "2015-02-24",
+        "name": "Topsham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.060093, 51.0179]
+      },
+      "properties": {
+        "date": "2015-02-24",
+        "name": "Ruishton Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.914856, 51.21807]
+      },
+      "properties": {
+        "date": "2015-02-25",
+        "name": "Yardwell solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.535372, 52.28836]
+      },
+      "properties": {
+        "date": "2015-02-26",
+        "name": "Royal Leamington Spa Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.449568, 52.21224]
+      },
+      "properties": {
+        "date": "2015-02-27",
+        "name": "Southam solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.130185, 51.51365]
+      },
+      "properties": {
+        "date": "2015-02-28",
+        "name": "Shackfuyu",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.530948, 51.50036]
+      },
+      "properties": {
+        "date": "2015-03-01",
+        "name": "Langley",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.661993, 52.7958]
+      },
+      "properties": {
+        "date": "2015-03-02",
+        "name": "Burton upon Trent Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.688645, 52.83735]
+      },
+      "properties": {
+        "date": "2015-03-03",
+        "name": "Rolleston solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.6455, 51.52069]
+      },
+      "properties": {
+        "date": "2015-03-03",
+        "name": "Tummies",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.541787, 51.50798]
+      },
+      "properties": {
+        "date": "2015-03-04",
+        "name": "Langley",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.003111, 51.50296]
+      },
+      "properties": {
+        "date": "2015-03-04",
+        "name": "The O2",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.134053, 51.52414]
+      },
+      "properties": {
+        "date": "2015-03-04",
+        "name": "University College London",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.253989, 51.75341]
+      },
+      "properties": {
+        "date": "2015-03-06",
+        "name": "Oxford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.59075, 51.51056]
+      },
+      "properties": {
+        "date": "",
+        "name": "Slough Wellington Tesco Extra",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.578888, 51.508]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sainsbury's Slough Superstore",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.590481, 51.50904]
+      },
+      "properties": {
+        "date": "",
+        "name": "Observatory Shopping Centre",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.991011, 50.72515]
+      },
+      "properties": {
+        "date": "2015-03-08",
+        "name": "Poole Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.171587, 50.84102]
+      },
+      "properties": {
+        "date": "2015-03-09",
+        "name": "Littleton solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.242747, 51.61082]
+      },
+      "properties": {
+        "date": "2015-03-12",
+        "name": "Didcot Parkway",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.30687, 51.57734]
+      },
+      "properties": {
+        "date": "2015-03-12",
+        "name": "Harwell Innovation Center",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.289539, 51.60164]
+      },
+      "properties": {
+        "date": "2015-03-12",
+        "name": "Harwell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.540934, 51.5253]
+      },
+      "properties": {
+        "date": "2015-03-14",
+        "name": "Langley Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.541835, 51.54644]
+      },
+      "properties": {
+        "date": "2015-03-14",
+        "name": "Black Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.176378, 51.49591]
+      },
+      "properties": {
+        "date": "2015-03-15",
+        "name": "Natural History Museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.971389, 51.45852]
+      },
+      "properties": {
+        "date": "2015-03-16",
+        "name": "Reading",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.976255, 51.45465]
+      },
+      "properties": {
+        "date": "2015-03-16",
+        "name": "Broad Street Mall",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.936971, 51.43892]
+      },
+      "properties": {
+        "date": "2015-03-16",
+        "name": "Department of Meteorology University of Reading",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7016, 51.5745]
+      },
+      "properties": {
+        "date": "2015-03-17",
+        "name": "Second Severn Crossing",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.226313, 51.59306]
+      },
+      "properties": {
+        "date": "2015-03-17",
+        "name": "Premier Inn Caerphilly Corbetts Lane",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.162812, 51.62508]
+      },
+      "properties": {
+        "date": "2015-03-18",
+        "name": "Hill solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.591359, 51.51172]
+      },
+      "properties": {
+        "date": "2015-03-20",
+        "name": "Slough",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.322891, 51.40099]
+      },
+      "properties": {
+        "date": "2015-03-22",
+        "name": "Newbury",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.54761, 50.82682]
+      },
+      "properties": {
+        "date": "2015-03-22",
+        "name": "The Falcon Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.435222, 50.75089]
+      },
+      "properties": {
+        "date": "2015-03-23",
+        "name": "Northmoor solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.826211, 51.17886]
+      },
+      "properties": {
+        "date": "2015-03-24",
+        "name": "Stonehenge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.797278, 51.0649]
+      },
+      "properties": {
+        "date": "2015-03-24",
+        "name": "Salisbury Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.771417, 51.08979]
+      },
+      "properties": {
+        "date": "2015-03-24",
+        "name": "Premier Inn Salisbury North Bishopsdown",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.739103, 51.14446]
+      },
+      "properties": {
+        "date": "2015-03-25",
+        "name": "Hale solar farm",
+        "type": "Solar farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.585003, 51.13986]
+      },
+      "properties": {
+        "date": "2015-03-25",
+        "name": "Middle Wallop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.075184, 51.50539]
+      },
+      "properties": {
+        "date": "2015-03-27",
+        "name": "Tower Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.177373, 51.50088]
+      },
+      "properties": {
+        "date": "2015-03-27",
+        "name": "Royal Albert Hall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.177778, 51.5025]
+      },
+      "properties": {
+        "date": "2015-03-27",
+        "name": "Albert Memorial",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.180278, 51.50722]
+      },
+      "properties": {
+        "date": "2015-03-27",
+        "name": "Kensington Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.087417, 51.50216]
+      },
+      "properties": {
+        "date": "2015-03-27",
+        "name": "The Miller",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.990327, 51.45405]
+      },
+      "properties": {
+        "date": "2015-03-31",
+        "name": "Reading",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.956064, 51.45178]
+      },
+      "properties": {
+        "date": "2015-03-31",
+        "name": "London Road Reading",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.145992, 51.49527]
+      },
+      "properties": {
+        "date": "2015-04-04",
+        "name": "London Victoria",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.473029, 51.75315]
+      },
+      "properties": {
+        "date": "2015-04-04",
+        "name": "Hemel Hempstead",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.480448, 51.85744]
+      },
+      "properties": {
+        "date": "2015-04-04",
+        "name": "The Horse and Jockey",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.356588, 51.81557]
+      },
+      "properties": {
+        "date": "2015-04-04",
+        "name": "Harpenden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.339292, 51.75157]
+      },
+      "properties": {
+        "date": "2015-04-04",
+        "name": "St. Albans",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.990486, 51.45514]
+      },
+      "properties": {
+        "date": "2015-04-07",
+        "name": "Reading West",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.009967, 51.45041]
+      },
+      "properties": {
+        "date": "2015-04-07",
+        "name": "Prospect Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.965086, 51.45635]
+      },
+      "properties": {
+        "date": "2015-04-08",
+        "name": "Reading Abbey ruins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.99826, 51.45848]
+      },
+      "properties": {
+        "date": "2015-04-08",
+        "name": "Tesco Reading West Extra",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.941622, 51.46024]
+      },
+      "properties": {
+        "date": "2015-04-11",
+        "name": "Thames Valley Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.340511, 51.56223]
+      },
+      "properties": {
+        "date": "2015-04-15",
+        "name": "East Hendred Down",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.318862, 51.62273]
+      },
+      "properties": {
+        "date": "2015-04-17",
+        "name": "The Cherry Tree",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.081705, 51.49825]
+      },
+      "properties": {
+        "date": "2015-04-26",
+        "name": "Bermondsey Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.135966, 51.50909]
+      },
+      "properties": {
+        "date": "2015-05-06",
+        "name": "Waterstones Piccadilly",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.132028, 51.5102]
+      },
+      "properties": {
+        "date": "2015-05-06",
+        "name": "Prince of Wales Theatre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.116887, 51.5086]
+      },
+      "properties": {
+        "date": "2015-05-06",
+        "name": "Waterloo Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.989563, 51.47669]
+      },
+      "properties": {
+        "date": "2015-05-10",
+        "name": "Caversham Heights",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.153484, 51.49057]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Daylesford",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.149836, 51.48468]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Chelsea Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.144377, 51.48178]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Battersea Power Station",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.099212, 51.5146]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Paternoster Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.15854, 51.52375]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "The Sherlock Holmes Museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.156568, 51.52096]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Park Plaza Sherlock Holmes London",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.15467, 51.51836]
+      },
+      "properties": {
+        "date": "2015-05-16",
+        "name": "Blandford Street pub",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.913889, 51.47569]
+      },
+      "properties": {
+        "date": "2015-05-17",
+        "name": "Sonning Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.91868, 51.47258]
+      },
+      "properties": {
+        "date": "2015-05-17",
+        "name": "Sonning Lock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.235544, 51.61359]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Ladygrove",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.132963, 51.5215]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Goring & Streatley",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.138596, 51.52234]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Goring",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.148744, 51.52248]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Streatley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.146529, 51.51469]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "The Holies",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.121527, 51.4991]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Basildon Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.125798, 51.4908]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Orange Walk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090377, 51.48542]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "Pangbourne",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087919, 51.4858]
+      },
+      "properties": {
+        "date": "2015-05-24",
+        "name": "River Pang",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.02976, 51.47127]
+      },
+      "properties": {
+        "date": "2015-05-26",
+        "name": "Tilehurst",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.046228, 51.46088]
+      },
+      "properties": {
+        "date": "2015-05-26",
+        "name": "Elmstone Drive",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.233933, 51.56628]
+      },
+      "properties": {
+        "date": "2015-05-30",
+        "name": "Blewbury",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.263259, 51.57701]
+      },
+      "properties": {
+        "date": "2015-05-30",
+        "name": "Upton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.285957, 51.57523]
+      },
+      "properties": {
+        "date": "2015-05-30",
+        "name": "Hagbourne Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.338002, 51.59431]
+      },
+      "properties": {
+        "date": "2015-05-30",
+        "name": "East Hendred",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.426396, 51.58886]
+      },
+      "properties": {
+        "date": "2015-05-30",
+        "name": "Wantage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.985, 51.419]
+      },
+      "properties": {
+        "date": "2015-05-31",
+        "name": "Green Park Business Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.740624, 51.53617]
+      },
+      "properties": {
+        "date": "2015-06-06",
+        "name": "Furze Platt",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.775407, 51.57326]
+      },
+      "properties": {
+        "date": "2015-06-06",
+        "name": "Marlow",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.900903, 51.53762]
+      },
+      "properties": {
+        "date": "2015-06-06",
+        "name": "Henley on Thames",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.046684, 51.45159]
+      },
+      "properties": {
+        "date": "2015-06-07",
+        "name": "Tilehurst Water Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.035738, 51.46664]
+      },
+      "properties": {
+        "date": "2015-06-07",
+        "name": "The Arthur Newbery Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.104757, 51.52372]
+      },
+      "properties": {
+        "date": "2015-06-13",
+        "name": "Future Cities Catapult",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.123877, 51.601]
+      },
+      "properties": {
+        "date": "2015-06-15",
+        "name": "Wallingford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.153242, 51.5752]
+      },
+      "properties": {
+        "date": "2015-06-15",
+        "name": "Cholsey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.968218, 51.45299]
+      },
+      "properties": {
+        "date": "",
+        "name": "The Great Expectations",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.067252, 51.44829]
+      },
+      "properties": {
+        "date": "2015-06-21",
+        "name": "Wilder's Folly",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.079787, 51.43669]
+      },
+      "properties": {
+        "date": "2015-06-21",
+        "name": "Theale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.140499, 51.48146]
+      },
+      "properties": {
+        "date": "2015-06-23",
+        "name": "Upper Basildon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.250641, 51.51613]
+      },
+      "properties": {
+        "date": "2015-06-23",
+        "name": "Compton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.290788, 51.52728]
+      },
+      "properties": {
+        "date": "2015-06-23",
+        "name": "East Ilsley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.040893, 51.47939]
+      },
+      "properties": {
+        "date": "2015-06-25",
+        "name": "Purley on Thames",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.040276, 51.48654]
+      },
+      "properties": {
+        "date": "2015-06-25",
+        "name": "Mapledurham Lock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.036684, 51.48542]
+      },
+      "properties": {
+        "date": "2015-06-28",
+        "name": "Mapledurham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.088976, 51.50911]
+      },
+      "properties": {
+        "date": "2015-07-03",
+        "name": "Fieldfisher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.126644, 51.51539]
+      },
+      "properties": {
+        "date": "2015-07-03",
+        "name": "Freud",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.210054, 51.49356]
+      },
+      "properties": {
+        "date": "2015-07-03",
+        "name": "Fitzjames Avenue",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.226872, 51.50267]
+      },
+      "properties": {
+        "date": "2015-07-03",
+        "name": "Shepherds Bush Market",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.088061, 51.263]
+      },
+      "properties": {
+        "date": "2015-07-05",
+        "name": "Basingstoke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.007498, 51.27321]
+      },
+      "properties": {
+        "date": "2015-07-05",
+        "name": "Old Basing",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.856294, 51.29637]
+      },
+      "properties": {
+        "date": "",
+        "name": "Fleet Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.846145, 51.33915]
+      },
+      "properties": {
+        "date": "2015-07-05",
+        "name": "Yateley",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.971359, 51.34886]
+      },
+      "properties": {
+        "date": "2015-07-05",
+        "name": "Duke of Wellington Commemorative Column",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.292105, 51.59846]
+      },
+      "properties": {
+        "date": "2015-07-06",
+        "name": "M P H Motor Engineers",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.338602, 51.59772]
+      },
+      "properties": {
+        "date": "2015-07-09",
+        "name": "The Plough",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.336898, 51.59715]
+      },
+      "properties": {
+        "date": "2015-07-09",
+        "name": "The Wheatsheaf Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.355946, 51.39449]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "Perfect View",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.358712, 51.38143]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "Bath Abbey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.357848, 51.38303]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "Pulteney Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.364108, 51.38562]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "The Circus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.368168, 51.38723]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "The Royal Crescent",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.36362, 51.39267]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "St Stephen's Church",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.251954, 51.3455]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "Bradford on Avon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.207397, 51.31834]
+      },
+      "properties": {
+        "date": "2015-07-10",
+        "name": "Trowbridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085159, 51.48686]
+      },
+      "properties": {
+        "date": "2015-07-12",
+        "name": "Whitchurch Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087259, 51.4915]
+      },
+      "properties": {
+        "date": "2015-07-12",
+        "name": "Whitchurch on Thames",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083156, 51.52043]
+      },
+      "properties": {
+        "date": "2015-07-12",
+        "name": "Cray's Pond",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.354755, 51.57671]
+      },
+      "properties": {
+        "date": "2015-07-16",
+        "name": "East Ginge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.131591, 51.54642]
+      },
+      "properties": {
+        "date": "2015-07-16",
+        "name": "South Stoke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.115712, 51.57286]
+      },
+      "properties": {
+        "date": "2015-07-16",
+        "name": "North Stoke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.986014, 51.4345]
+      },
+      "properties": {
+        "date": "2015-07-19",
+        "name": "Fobney Lock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.038103, 51.4275]
+      },
+      "properties": {
+        "date": "2015-07-19",
+        "name": "Theale Water Sports Club",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.360952, 51.58518]
+      },
+      "properties": {
+        "date": "2015-07-23",
+        "name": "Ginge Brook",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.378178, 51.58438]
+      },
+      "properties": {
+        "date": "2015-07-23",
+        "name": "Lockinge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.279698, 51.66845]
+      },
+      "properties": {
+        "date": "2015-07-23",
+        "name": "Abingdon",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.086949, 51.46898]
+      },
+      "properties": {
+        "date": "2015-08-01",
+        "name": "Tidmarsh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.773232, 51.56732]
+      },
+      "properties": {
+        "date": "2015-08-02",
+        "name": "Marlow Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.77195, 51.56849]
+      },
+      "properties": {
+        "date": "2015-08-02",
+        "name": "The Two Brewers",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.776554, 51.56661]
+      },
+      "properties": {
+        "date": "2015-08-02",
+        "name": "Higginson Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.26323, 51.57693]
+      },
+      "properties": {
+        "date": "2015-08-06",
+        "name": "The George & Dragon",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.201595, 51.57156]
+      },
+      "properties": {
+        "date": "2015-08-06",
+        "name": "Aston Tirrold & Upthorpe ",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.148686, 51.54916]
+      },
+      "properties": {
+        "date": "2015-08-14",
+        "name": "Moulsford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.176844, 51.5158]
+      },
+      "properties": {
+        "date": "2015-08-14",
+        "name": "The Mad Bishop & Bear",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.103694, 51.52012]
+      },
+      "properties": {
+        "date": "2015-08-14",
+        "name": "The Fence",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.100404, 51.51907]
+      },
+      "properties": {
+        "date": "2015-08-14",
+        "name": "APULIA",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.099003, 51.51969]
+      },
+      "properties": {
+        "date": "2015-08-14",
+        "name": "Piano Smithfield",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.831224, 51.41084]
+      },
+      "properties": {
+        "date": "2015-08-16",
+        "name": "Wokingham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.070508, 51.42969]
+      },
+      "properties": {
+        "date": "2015-08-22",
+        "name": "Theale Canal Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.194793, 51.87165]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "Birchanger Green Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.125374, 52.19813]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "Cambridge Department of Chemistry",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.122467, 52.20417]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "Grand Arcade",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.119046, 52.20536]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "Market Hill",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.117633, 52.2044]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "King's Parade",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.116523, 52.20983]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "River Cam",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.118908, 52.20843]
+      },
+      "properties": {
+        "date": "2015-08-23",
+        "name": "The Round Church",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08938, 51.42325]
+      },
+      "properties": {
+        "date": "2015-08-30",
+        "name": "Sulhamstead Swingbridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.100648, 51.41847]
+      },
+      "properties": {
+        "date": "2015-08-30",
+        "name": "Tyle Mill Lock",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.132245, 51.51137]
+      },
+      "properties": {
+        "date": "2015-09-03",
+        "name": "O'Neills Wardour St",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.153243, 51.50426]
+      },
+      "properties": {
+        "date": "2015-09-03",
+        "name": "Hyde Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.153296, 51.50772]
+      },
+      "properties": {
+        "date": "2015-09-03",
+        "name": "Park Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.160959, 51.51387]
+      },
+      "properties": {
+        "date": "2015-09-03",
+        "name": "Marble Arch Tower",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.168104, 51.51413]
+      },
+      "properties": {
+        "date": "2015-09-03",
+        "name": "Hyde Park Square",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.449061, 51.39937]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Kintbury",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.484518, 51.37586]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Inkpen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.477394, 51.35788]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Combe Gibbet",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.463689, 51.35426]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Walbury Hillfort",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.504897, 51.41037]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Hungerford Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.514418, 51.41659]
+      },
+      "properties": {
+        "date": "2015-09-06",
+        "name": "Hungerford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.160984, 51.52264]
+      },
+      "properties": {
+        "date": "2015-09-10",
+        "name": "Lardon Chase",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.099332, 51.50756]
+      },
+      "properties": {
+        "date": "2015-09-20",
+        "name": "Tate Modern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.089966, 51.50601]
+      },
+      "properties": {
+        "date": "2015-09-20",
+        "name": "Southwark Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.104333, 51.50537]
+      },
+      "properties": {
+        "date": "2015-09-20",
+        "name": "Prince William Henry",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.206637, 51.49075]
+      },
+      "properties": {
+        "date": "2015-09-20",
+        "name": "Famous Three Kings",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.210343, 51.49433]
+      },
+      "properties": {
+        "date": "2015-09-20",
+        "name": "The Cumberland Arms",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.487912, 51.47166]
+      },
+      "properties": {
+        "date": "2015-09-24",
+        "name": "London Heathrow Terminal 5",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.535428, 48.14265]
+      },
+      "properties": {
+        "date": "2015-09-24",
+        "name": "Donnersbergerbrücke",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.540255, 48.14673]
+      },
+      "properties": {
+        "date": "2015-09-24",
+        "name": "Klarastraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.543029, 48.14834]
+      },
+      "properties": {
+        "date": "2015-09-24",
+        "name": "Wassermann",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.536612, 48.14619]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Donnersbergerstraße",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.573924, 48.13724]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Galeria",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.566745, 48.13346]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Sendlinger Tor",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.567733, 48.13403]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Sendlinger Tor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.565447, 48.13094]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Reisingerstraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.476053, 48.01995]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Baierbrunn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.443707, 48.25455]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Dachau Bahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.466983, 48.26833]
+      },
+      "properties": {
+        "date": "2015-09-25",
+        "name": "Dachau Memorial site",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.444918, 47.99316]
+      },
+      "properties": {
+        "date": "2015-09-26",
+        "name": "Schäftlarn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.546916, 48.13094]
+      },
+      "properties": {
+        "date": "2015-09-26",
+        "name": "Wiesn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.579285, 48.14626]
+      },
+      "properties": {
+        "date": "2015-09-27",
+        "name": "Ludwigstraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.855025, 48.08162]
+      },
+      "properties": {
+        "date": "2015-09-27",
+        "name": "Kaufering",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.808418, 48.07481]
+      },
+      "properties": {
+        "date": "2015-09-27",
+        "name": "Igling",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.137752, 47.56048]
+      },
+      "properties": {
+        "date": "2015-09-27",
+        "name": "Alpsee Bergwelt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.144906, 47.55388]
+      },
+      "properties": {
+        "date": "2015-09-27",
+        "name": "Berghütte Bärenfalle",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.459686, 48.21079]
+      },
+      "properties": {
+        "date": "2015-09-28",
+        "name": "Karlsfeld",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.081853, 47.49124]
+      },
+      "properties": {
+        "date": "2015-09-28",
+        "name": "Garmisch-Partenkirchen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.991412, 47.45702]
+      },
+      "properties": {
+        "date": "2015-09-28",
+        "name": "Eibsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.137149, 47.55522]
+      },
+      "properties": {
+        "date": "2015-09-28",
+        "name": "Birkenstock outlet",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.549959, 48.1352]
+      },
+      "properties": {
+        "date": "2015-09-29",
+        "name": "Wiesn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.205099, 51.46697]
+      },
+      "properties": {
+        "date": "2015-10-11",
+        "name": "Yattendon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.240233, 51.48396]
+      },
+      "properties": {
+        "date": "2015-10-11",
+        "name": "Hampstead Norreys",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.566649, 51.57716]
+      },
+      "properties": {
+        "date": "2015-10-11",
+        "name": "Uffington White Horse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.567825, 51.57577]
+      },
+      "properties": {
+        "date": "2015-10-11",
+        "name": "Uffington Castle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.44901, 51.4749]
+      },
+      "properties": {
+        "date": "2015-10-11",
+        "name": "Great Shefford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.166891, 51.48552]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "The Parade",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.177989, 51.4787]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "McDonald's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.176233, 51.47927]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "Cardiff Centre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.180322, 51.4815]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "Ball in the wall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.183302, 51.48257]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "Castle Green",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.182935, 51.48082]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "The Angel Hotel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.181843, 51.47773]
+      },
+      "properties": {
+        "date": "2015-10-17",
+        "name": "Millennium Stadium",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.970731, 51.45353]
+      },
+      "properties": {
+        "date": "2015-10-18",
+        "name": "Bella Italia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.089413, 51.51516]
+      },
+      "properties": {
+        "date": "2015-10-24",
+        "name": "The Tokenhouse",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.075075, 51.51931]
+      },
+      "properties": {
+        "date": "2015-10-24",
+        "name": "Vagabond",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17841, 51.51649]
+      },
+      "properties": {
+        "date": "2015-10-28",
+        "name": "Eastbourne Terrace",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.132317, 51.51541]
+      },
+      "properties": {
+        "date": "2015-10-31",
+        "name": "Soho Square",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.135266, 51.51492]
+      },
+      "properties": {
+        "date": "2015-10-31",
+        "name": "The George",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.133711, 51.51319]
+      },
+      "properties": {
+        "date": "2015-10-31",
+        "name": "Wahaca",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.318996, 51.53986]
+      },
+      "properties": {
+        "date": "2015-11-07",
+        "name": "West Ilsley",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.092936, 51.50735]
+      },
+      "properties": {
+        "date": "2015-12-06",
+        "name": "The Anchor",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.126293, 51.50338]
+      },
+      "properties": {
+        "date": "2015-12-06",
+        "name": "10 Dowing Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.128028, 51.50796]
+      },
+      "properties": {
+        "date": "2015-12-06",
+        "name": "Trafalgar Square",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.131221, 51.50572]
+      },
+      "properties": {
+        "date": "2015-12-06",
+        "name": "The Mall",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.14186, 51.5023]
+      },
+      "properties": {
+        "date": "2015-12-06",
+        "name": "Buckingham Palace",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.29949, 51.62795]
+      },
+      "properties": {
+        "date": "2015-12-09",
+        "name": "The Plub Pudding",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.449757, 51.46961]
+      },
+      "properties": {
+        "date": "2015-12-13",
+        "name": "London Heathrow Terminal 2",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.650934, 55.61846]
+      },
+      "properties": {
+        "date": "2015-12-13",
+        "name": "Copenhagen Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.56486, 55.67285]
+      },
+      "properties": {
+        "date": "2015-12-13",
+        "name": "Copenhagen Central Station",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.089081, 55.63924]
+      },
+      "properties": {
+        "date": "2015-12-13",
+        "name": "Roskilde Train Staition",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.095464, 55.66575]
+      },
+      "properties": {
+        "date": "2015-12-13",
+        "name": "Comwell Roskilde",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.106006, 55.69065]
+      },
+      "properties": {
+        "date": "2015-12-14",
+        "name": "Aarhus University Department of Environmental Science",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.078017, 55.64991]
+      },
+      "properties": {
+        "date": "2015-12-14",
+        "name": "Restaurant Snekken",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.081506, 55.64614]
+      },
+      "properties": {
+        "date": "2015-12-15",
+        "name": "Pipers Hus",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.023208, 51.55114]
+      },
+      "properties": {
+        "date": "2015-12-20",
+        "name": "Stoke Row",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.989633, 51.57563]
+      },
+      "properties": {
+        "date": "2015-12-20",
+        "name": "Nettlebed",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.109932, 46.23074]
+      },
+      "properties": {
+        "date": "2015-12-22",
+        "name": "Geneva Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.757561, 46.48492]
+      },
+      "properties": {
+        "date": "2015-12-22",
+        "name": "Lavaux Vineyard Terraces",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.843724, 46.46333]
+      },
+      "properties": {
+        "date": "2015-12-22",
+        "name": "Vevey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.875552, 46.47265]
+      },
+      "properties": {
+        "date": "2015-12-22",
+        "name": "Saint-Légier-La Chiésaz",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.89542, 46.46538]
+      },
+      "properties": {
+        "date": "2015-12-22",
+        "name": "Blonay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.834625, 46.46561]
+      },
+      "properties": {
+        "date": "2015-12-23",
+        "name": "Nestle Headquarters",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.846215, 46.45789]
+      },
+      "properties": {
+        "date": "2015-12-23",
+        "name": "Vevey Lakeside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.909262, 46.43212]
+      },
+      "properties": {
+        "date": "2015-12-23",
+        "name": "Montreux Christmas Markets",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.778662, 46.48121]
+      },
+      "properties": {
+        "date": "2015-12-24",
+        "name": "Chexbres",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.072705, 46.5824]
+      },
+      "properties": {
+        "date": "2015-12-25",
+        "name": "Gruyères cheese factory",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.081716, 46.58392]
+      },
+      "properties": {
+        "date": "2015-12-25",
+        "name": "Gruyères",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.915143, 46.42959]
+      },
+      "properties": {
+        "date": "2015-12-25",
+        "name": "Montreux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.948319, 46.05138]
+      },
+      "properties": {
+        "date": "2015-12-26",
+        "name": "Le Châtelard-Frontière",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.868974, 45.9226]
+      },
+      "properties": {
+        "date": "2015-12-26",
+        "name": "Chamonix-Mont-Blanc",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.884839, 45.90158]
+      },
+      "properties": {
+        "date": "2015-12-26",
+        "name": "Téléphérique de l'aiguille du Midi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.887086, 45.87941]
+      },
+      "properties": {
+        "date": "2015-12-26",
+        "name": "Aiguille du Midi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.62927, 46.51729]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "Lausanne",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.627603, 46.50546]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "Ouchy",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.626747, 46.52038]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "Palace of Justice",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.634324, 46.52013]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "Rue de Bourg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.634831, 46.52266]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "La Cathédrale de Lausanne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.976229, 46.31495]
+      },
+      "properties": {
+        "date": "2015-12-28",
+        "name": "Château d'Aigle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.884022, 51.51122]
+      },
+      "properties": {
+        "date": "2016-01-01",
+        "name": "Lower Shiplake",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.068545, 51.5338]
+      },
+      "properties": {
+        "date": "2016-01-10",
+        "name": "Woodcote",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.871439, 51.57156]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Hambleden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.894839, 51.61919]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Fingest",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.543362, 53.23275]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Victoria Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53755, 53.2344]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Lincoln Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.449724, 53.70564]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Humber Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090845, 53.95587]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Micklegate Bar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.092253, 53.95505]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Blossom St South",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083331, 53.96221]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "York Minster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.080521, 53.95564]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "Clifford's Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090252, 53.95644]
+      },
+      "properties": {
+        "date": "2016-01-20",
+        "name": "The Old Siam",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.079937, 53.9592]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "Shambles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.094573, 53.95993]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "National Railway Museum York",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.051806, 53.94863]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "University of York",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.531075, 53.98608]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "St. James's Drive",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.540087, 53.99321]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "Harrogate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.474783, 54.00937]
+      },
+      "properties": {
+        "date": "2016-01-21",
+        "name": "Knaresborough",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.105271, 53.99088]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Clifton Moor Centre",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.046478, 53.94769]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Wolfson Atmospheric Chemistry Laboratories",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.776217, 54.24447]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Pickering",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.691232, 54.3267]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "North Yorkshire Moors",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.665694, 54.45166]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Sleights",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.615928, 54.48507]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Whitby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.613003, 54.49305]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "West Pier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.056939, 54.61692]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Park Hotel Redcar",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.063276, 54.61714]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Lord Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.059579, 54.61634]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "St. Peters",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.055926, 54.61372]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Cedar Grove",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.612111, 54.48727]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Four Seasons",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.611147, 54.48874]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "199 Steps",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.608, 54.489]
+      },
+      "properties": {
+        "date": "2016-01-22",
+        "name": "Whitby Abbey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.576111, 54.77361]
+      },
+      "properties": {
+        "date": "2016-01-23",
+        "name": "Durham Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.575789, 54.77703]
+      },
+      "properties": {
+        "date": "2016-01-23",
+        "name": "Durham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.20968, 54.68946]
+      },
+      "properties": {
+        "date": "2016-01-23",
+        "name": "Hartlepool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.047256, 54.53634]
+      },
+      "properties": {
+        "date": "2016-01-23",
+        "name": "Gisborough Priory",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.640433, 52.6075]
+      },
+      "properties": {
+        "date": "2016-01-24",
+        "name": "Tamworth Services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.879183, 51.44051]
+      },
+      "properties": {
+        "date": "2016-01-30",
+        "name": "Dinton Pastures Country Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.249667, 51.59873]
+      },
+      "properties": {
+        "date": "2016-01-31",
+        "name": "Falcon Way",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.167334, 51.55236]
+      },
+      "properties": {
+        "date": "2016-01-31",
+        "name": "The George",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.165857, 51.55967]
+      },
+      "properties": {
+        "date": "2016-01-31",
+        "name": "Hampstead Heath",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.432708, 51.77847]
+      },
+      "properties": {
+        "date": "2016-02-06",
+        "name": "Cuffley Court",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.410171, 51.78805]
+      },
+      "properties": {
+        "date": "2016-02-06",
+        "name": "The Nickey Line",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.602712, 51.83371]
+      },
+      "properties": {
+        "date": "2016-02-06",
+        "name": "Ashridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.608369, 51.84209]
+      },
+      "properties": {
+        "date": "2016-02-06",
+        "name": "Ivinghoe Beacon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.143829, 51.5231]
+      },
+      "properties": {
+        "date": "2016-02-13",
+        "name": "Boat House at The Swan at Streatley",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.146218, 52.00842]
+      },
+      "properties": {
+        "date": "2016-02-19",
+        "name": "Evenley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.988015, 51.99983]
+      },
+      "properties": {
+        "date": "2016-02-19",
+        "name": "Buckingham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.307908, 52.82214]
+      },
+      "properties": {
+        "date": "2016-02-19",
+        "name": "Donington Park services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.113795, 53.93285]
+      },
+      "properties": {
+        "date": "2016-02-19",
+        "name": "York Tadcaster Tesco",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.240475, 51.59118]
+      },
+      "properties": {
+        "date": "2016-02-26",
+        "name": "The Fleur De Lys",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.183666, 51.52725]
+      },
+      "properties": {
+        "date": "2016-02-28",
+        "name": "Rectory Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.143668, 51.52358]
+      },
+      "properties": {
+        "date": "2016-03-12",
+        "name": "The Swan at Streatley",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.130215, 51.52796]
+      },
+      "properties": {
+        "date": "2016-03-13",
+        "name": "Goring Church of England Primary School",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.69717, 51.41221]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Savernake Forest",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.67728, 51.39903]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Eight Walks",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.70081, 51.39807]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Cadley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.67199, 51.36076]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Burbadge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.73197, 51.41993]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Marlborough",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.830585, 51.41148]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Overton Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.8581, 51.41484]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Silbury Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.936326, 51.42483]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Cherhill Downs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.00523, 51.43812]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Calne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.12114, 51.45836]
+      },
+      "properties": {
+        "date": "2016-03-20",
+        "name": "Chippenham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.311922, 51.06578]
+      },
+      "properties": {
+        "date": "2016-03-27",
+        "name": "North Walls",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.314968, 51.06267]
+      },
+      "properties": {
+        "date": "2016-03-27",
+        "name": "High Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.314796, 51.06143]
+      },
+      "properties": {
+        "date": "2016-03-27",
+        "name": "Winchester Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.313321, 51.06265]
+      },
+      "properties": {
+        "date": "2016-03-27",
+        "name": "McDonald's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.976271, 51.45648]
+      },
+      "properties": {
+        "date": "2016-03-30",
+        "name": "Thai Corner",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.504642, 52.2167]
+      },
+      "properties": {
+        "date": "2016-04-02",
+        "name": "Warwick Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14906, 53.98275]
+      },
+      "properties": {
+        "date": "2016-04-02",
+        "name": "Upper Poppleton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.785536, 53.98557]
+      },
+      "properties": {
+        "date": "2016-04-05",
+        "name": "Bishop Wilton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.78557, 53.98533]
+      },
+      "properties": {
+        "date": "2016-04-05",
+        "name": "Fleece Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.01958, 53.91672]
+      },
+      "properties": {
+        "date": "2016-04-06",
+        "name": "Heslington Tilmire",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.044646, 53.94472]
+      },
+      "properties": {
+        "date": "2016-04-06",
+        "name": "Browns of Heslington",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.079081, 53.9577]
+      },
+      "properties": {
+        "date": "2016-04-08",
+        "name": "Piccadilly",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.078864, 53.95869]
+      },
+      "properties": {
+        "date": "2016-04-08",
+        "name": "The Hop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083245, 53.96047]
+      },
+      "properties": {
+        "date": "2016-04-08",
+        "name": "Banyan Bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4702, 54.00798]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Waterside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.47001, 54.00682]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Knaresborough Castle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.56796, 54.03989]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Ripley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.52101, 54.13504]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Ripon Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.52377, 54.13626]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Ripon Market Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.29235, 53.9932]
+      },
+      "properties": {
+        "date": "2016-04-10",
+        "name": "Kirk Hammerton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.04705, 53.9858]
+      },
+      "properties": {
+        "date": "2016-04-15",
+        "name": "Monks Cross",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.045, 54.20387]
+      },
+      "properties": {
+        "date": "2016-04-17",
+        "name": "Oswaldkirk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.061275, 54.24632]
+      },
+      "properties": {
+        "date": "2016-04-17",
+        "name": "Helmsley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14081, 54.39044]
+      },
+      "properties": {
+        "date": "2016-04-17",
+        "name": "Chop Gate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08597, 54.40641]
+      },
+      "properties": {
+        "date": "2016-04-17",
+        "name": "Round Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.12206, 54.40965]
+      },
+      "properties": {
+        "date": "2016-04-17",
+        "name": "Urra",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.045009, 53.94525]
+      },
+      "properties": {
+        "date": "2016-04-18",
+        "name": "Charles XII",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.043638, 53.94394]
+      },
+      "properties": {
+        "date": "2016-04-18",
+        "name": "The Deramore Arms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.724552, 54.43586]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Grosmont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.75504, 54.44731]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Egton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.792058, 54.43865]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Beggar's Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.83788, 54.42684]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Plum Tree Farm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.80694, 54.43774]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Glaisdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.120587, 53.94403]
+      },
+      "properties": {
+        "date": "2016-04-23",
+        "name": "Lidl",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.98904, 53.63517]
+      },
+      "properties": {
+        "date": "2016-04-27",
+        "name": "Pennines",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.145622, 53.60854]
+      },
+      "properties": {
+        "date": "2016-04-27",
+        "name": "MK Automobiles",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.30704, 54.56929]
+      },
+      "properties": {
+        "date": "2016-04-30",
+        "name": "Norton Lodge Car Sales",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.84097, 54.29102]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Cropton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.88762, 54.35341]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Rosedale Abbey",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93401, 54.36268]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Rosedale Railway",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.904075, 54.36788]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Rosedale East",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.89157, 54.34338]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Rosedale Chimney Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7217, 54.23615]
+      },
+      "properties": {
+        "date": "2016-05-07",
+        "name": "Thordon le Dale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.141064, 53.91479]
+      },
+      "properties": {
+        "date": "2016-05-15",
+        "name": "Copmanthorpe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.588983, 53.75877]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Churwell",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.548636, 53.80006]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Tiled Hall Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.548384, 53.80162]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Millennium Square",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.541284, 53.79819]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Victorian Quarter",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.537811, 53.79428]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "River Aire",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.540172, 53.79591]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Corn Exchange",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.542399, 53.79695]
+      },
+      "properties": {
+        "date": "2016-05-21",
+        "name": "Briggate",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53212, 54.40913]
+      },
+      "properties": {
+        "date": "2016-05-28",
+        "name": "Scarborough and Whitby Railway",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.56788, 54.39397]
+      },
+      "properties": {
+        "date": "2016-05-28",
+        "name": "Fylingdales",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.55808, 54.42521]
+      },
+      "properties": {
+        "date": "2016-05-28",
+        "name": "Flying Hall School",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53493, 54.43427]
+      },
+      "properties": {
+        "date": "2016-05-28",
+        "name": "Robin Hood’s Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53227, 54.43029]
+      },
+      "properties": {
+        "date": "2016-05-28",
+        "name": "Robin Hood’s Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14851, 53.97603]
+      },
+      "properties": {
+        "date": "2016-05-29",
+        "name": "Poppleton",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08062, 53.95928]
+      },
+      "properties": {
+        "date": "2016-05-29",
+        "name": "Shambles Market",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08827, 53.96202]
+      },
+      "properties": {
+        "date": "2016-05-29",
+        "name": "Museum Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.09545, 53.94218]
+      },
+      "properties": {
+        "date": "2016-04-09",
+        "name": "Knavesmire",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06045, 53.94749]
+      },
+      "properties": {
+        "date": "2016-05-11",
+        "name": "Walmgate Stray",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1079, 53.96838]
+      },
+      "properties": {
+        "date": "2016-05-22",
+        "name": "Clifton Ings",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.082097, 53.94485]
+      },
+      "properties": {
+        "date": "2016-05-13",
+        "name": "Millennium Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.520762, 54.0213]
+      },
+      "properties": {
+        "date": "2016-06-05",
+        "name": "Nidd Gorge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087376, 53.95748]
+      },
+      "properties": {
+        "date": "2016-06-10",
+        "name": "Micklegate",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2206, 54.00621]
+      },
+      "properties": {
+        "date": "2016-06-12",
+        "name": "Moor Monkton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10167, 53.99012]
+      },
+      "properties": {
+        "date": "2016-06-15",
+        "name": "J R Motor Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07555, 53.95331]
+      },
+      "properties": {
+        "date": "2016-06-24",
+        "name": "The Seahorse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084753, 53.95896]
+      },
+      "properties": {
+        "date": "2016-06-24",
+        "name": "Pitcher & Piano",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.006845, 54.08906]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Sheriff Hutton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.978983, 54.17144]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Hovingham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.15015, 54.41709]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Cold Moor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1732, 54.41926]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Cringle Moor",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.176908, 54.42265]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Cringle End",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.210097, 54.2362]
+      },
+      "properties": {
+        "date": "2016-06-26",
+        "name": "Sutton Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.89209, 53.97156]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Bolton Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1062, 53.9834]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Gargave",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.25525, 54.0197]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Long Preston",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.27759, 54.06741]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Settle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.29271, 54.14431]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Horton in Ribblesdale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.24883, 54.15605]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Pen-y-ghent",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.36917, 54.20943]
+      },
+      "properties": {
+        "date": "2016-07-09",
+        "name": "Ribblehead Viaduct",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.078364, 53.95161]
+      },
+      "properties": {
+        "date": "2016-07-17",
+        "name": "Foss-Ouse confluence-Blue Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.077209, 53.92223]
+      },
+      "properties": {
+        "date": "2016-07-17",
+        "name": "York Designer Outlet",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.029928, 53.94725]
+      },
+      "properties": {
+        "date": "2016-07-21",
+        "name": "The Ron Cooke Hub",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0675, 53.78403]
+      },
+      "properties": {
+        "date": "2016-07-31",
+        "name": "Selby Abbey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.251728, 53.79759]
+      },
+      "properties": {
+        "date": "2016-07-31",
+        "name": "Sherburn in Elmet",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.26252, 53.88481]
+      },
+      "properties": {
+        "date": "2016-07-31",
+        "name": "Tadcaster",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.305795, 53.53451]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Philips Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.313157, 53.53133]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Waterdale Meadow",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.315195, 53.52849]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Clifton Viaduct",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.348497, 53.53648]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "River Irwell",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.24224, 53.48269]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Market Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.244611, 53.47929]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Manchester Town Hall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.237209, 53.48078]
+      },
+      "properties": {
+        "date": "2016-08-06",
+        "name": "Piccadilly Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.149198, 54.56627]
+      },
+      "properties": {
+        "date": "2016-08-07",
+        "name": "Moordale Court",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.717757, 54.40022]
+      },
+      "properties": {
+        "date": "2016-08-21",
+        "name": "Goathland",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.711037, 54.39923]
+      },
+      "properties": {
+        "date": "2016-08-21",
+        "name": "Goathland railway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.732029, 54.39772]
+      },
+      "properties": {
+        "date": "2016-08-21",
+        "name": "Mallyan Spout",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.757854, 54.37215]
+      },
+      "properties": {
+        "date": "2016-08-21",
+        "name": "Wheeldale Roman Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.485013, 54.99104]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Tyne Tunnel",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.043116, 55.80671]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Scottish-English boarder",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.188309, 55.95187]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Edinburgh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.181439, 55.95105]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "The Royal Mile",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.161736, 55.94413]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Arthur’s Seat",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.403851, 56.00137]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Forth Road Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.24856, 56.85964]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Pass of Drumochter",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.148037, 57.04279]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Ralia Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.224855, 57.469]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Bellfield Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.227638, 57.47691]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Inverness",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.225473, 57.47634]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Inverness Castle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.22083, 57.47829]
+      },
+      "properties": {
+        "date": "2016-08-24",
+        "name": "Girvans",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.975924, 57.97408]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Golspie",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.500603, 58.18471]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Berriedale Braes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.093675, 58.44146]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Wick",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.069551, 58.64416]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "John O’Groats",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.025324, 58.64415]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Duncansby Head",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.342743, 58.62241]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Dunnet",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.383967, 58.59075]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Castletown",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.262386, 57.49031]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Clachnaharry Sea Lock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.23444, 57.46154]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Ness Islands",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.641766, 57.1726]
+      },
+      "properties": {
+        "date": "2016-08-25",
+        "name": "Loch Ness",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.10789, 56.82064]
+      },
+      "properties": {
+        "date": "2016-08-26",
+        "name": "Fort William",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.40459, 56.49067]
+      },
+      "properties": {
+        "date": "2016-08-26",
+        "name": "Benderloch",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.47299, 56.41276]
+      },
+      "properties": {
+        "date": "2016-08-26",
+        "name": "Oban",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.135345, 56.80067]
+      },
+      "properties": {
+        "date": "2016-08-26",
+        "name": "Innseagan House Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0771, 56.81124]
+      },
+      "properties": {
+        "date": "2016-08-27",
+        "name": "Ben Nevis car park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.00356, 56.79686]
+      },
+      "properties": {
+        "date": "2016-08-27",
+        "name": "Ben Nevis summit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.09191, 56.84795]
+      },
+      "properties": {
+        "date": "2016-08-27",
+        "name": "Neptune’s Staircase",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.43564, 56.87075]
+      },
+      "properties": {
+        "date": "2016-08-27",
+        "name": "Glenfinnan",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.934582, 56.6633]
+      },
+      "properties": {
+        "date": "2016-08-28",
+        "name": "A82",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.71071, 56.20302]
+      },
+      "properties": {
+        "date": "2016-08-28",
+        "name": "Tarbet",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.088215, 53.95679]
+      },
+      "properties": {
+        "date": "2016-09-05",
+        "name": "Trinity Lane",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084314, 53.96219]
+      },
+      "properties": {
+        "date": "2016-09-05",
+        "name": "Three Legged Mare",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08312, 53.96112]
+      },
+      "properties": {
+        "date": "2016-09-16",
+        "name": "Evil Eye",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.136759, 54.48898]
+      },
+      "properties": {
+        "date": "2016-09-18",
+        "name": "Great Ayton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.107314, 54.50539]
+      },
+      "properties": {
+        "date": "2016-09-18",
+        "name": "Roseberry Topping",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090802, 54.48302]
+      },
+      "properties": {
+        "date": "2016-09-18",
+        "name": "Captain Cook's Monument",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.913, 54.11099]
+      },
+      "properties": {
+        "date": "2016-09-25",
+        "name": "The Stray",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9059, 54.12122]
+      },
+      "properties": {
+        "date": "2016-09-25",
+        "name": "Castle Howard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.462009, 53.37821]
+      },
+      "properties": {
+        "date": "2016-10-02",
+        "name": "Sheffield",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.204777, 51.49199]
+      },
+      "properties": {
+        "date": "2016-10-02",
+        "name": "Mornington Avenue",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.230212, 51.48836]
+      },
+      "properties": {
+        "date": "2016-10-03",
+        "name": "Hammersmith Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.126904, 51.51933]
+      },
+      "properties": {
+        "date": "2016-10-03",
+        "name": "The British Museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.13694, 51.51104]
+      },
+      "properties": {
+        "date": "2016-10-03",
+        "name": "Unknown Japanese restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.138412, 51.50836]
+      },
+      "properties": {
+        "date": "2016-10-03",
+        "name": "Fortnum & Mason",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.20951, 51.48938]
+      },
+      "properties": {
+        "date": "2016-10-03",
+        "name": "The Curtains Up",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.212979, 51.46688]
+      },
+      "properties": {
+        "date": "2016-10-04",
+        "name": "Putney Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.190905, 51.49366]
+      },
+      "properties": {
+        "date": "2016-10-04",
+        "name": "Premier Inn London Kensington Earl's Court",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17454, 51.4978]
+      },
+      "properties": {
+        "date": "2016-10-04",
+        "name": "Science Museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.096294, 51.51818]
+      },
+      "properties": {
+        "date": "2016-10-05",
+        "name": "Ironmongers' Hall",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.078916, 51.52715]
+      },
+      "properties": {
+        "date": "2016-10-06",
+        "name": "The Bike Shed",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.38597, 53.927]
+      },
+      "properties": {
+        "date": "2016-10-09",
+        "name": "Wetherby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.44771, 53.95377]
+      },
+      "properties": {
+        "date": "2016-10-09",
+        "name": "Spofforth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087994, 53.95928]
+      },
+      "properties": {
+        "date": "2016-10-13",
+        "name": "The Maltings",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084922, 53.96105]
+      },
+      "properties": {
+        "date": "2016-10-13",
+        "name": "Ask Italian",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.830094, 54.30969]
+      },
+      "properties": {
+        "date": "2016-10-15",
+        "name": "Leyburn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.996804, 54.29158]
+      },
+      "properties": {
+        "date": "2016-10-15",
+        "name": "Aysgarth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.200033, 54.30424]
+      },
+      "properties": {
+        "date": "2016-10-15",
+        "name": "Hawes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.402563, 54.22774]
+      },
+      "properties": {
+        "date": "2016-10-15",
+        "name": "Whernside",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.916496, 54.29905]
+      },
+      "properties": {
+        "date": "2016-10-23",
+        "name": "Hutton-le-Hole",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.941437, 54.35176]
+      },
+      "properties": {
+        "date": "2016-10-23",
+        "name": "Blakey Ridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.939882, 54.46328]
+      },
+      "properties": {
+        "date": "2016-10-23",
+        "name": "Castleton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.945205, 54.46679]
+      },
+      "properties": {
+        "date": "2016-10-23",
+        "name": "The Eskdale Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.463777, 53.38239]
+      },
+      "properties": {
+        "date": "2016-10-30",
+        "name": "Pond Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.46956, 53.37988]
+      },
+      "properties": {
+        "date": "2016-10-30",
+        "name": "Sheffield",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.468131, 53.37985]
+      },
+      "properties": {
+        "date": "2016-10-30",
+        "name": "Winter Garden",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07057, 53.957]
+      },
+      "properties": {
+        "date": "2016-11-02",
+        "name": "Morrisons Foss Island",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.12598, 53.9546]
+      },
+      "properties": {
+        "date": "2016-11-08",
+        "name": "Morrisons Acomb",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.886329, 54.35368]
+      },
+      "properties": {
+        "date": "2016-11-12",
+        "name": "Graze On The Green",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.19857, 51.94984]
+      },
+      "properties": {
+        "date": "2016-11-15",
+        "name": "Cherwell Valley services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.335564, 51.60056]
+      },
+      "properties": {
+        "date": "2016-11-15",
+        "name": "The Annex at Greensands",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.328664, 53.13941]
+      },
+      "properties": {
+        "date": "2016-11-16",
+        "name": "Tibshelf services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.33641, 51.59632]
+      },
+      "properties": {
+        "date": "2015-09-15",
+        "name": "The Eyston Arms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.544553, 53.99254]
+      },
+      "properties": {
+        "date": "2016-11-19",
+        "name": "Harrogate Christmas Market",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.516686, 53.973]
+      },
+      "properties": {
+        "date": "2016-11-19",
+        "name": "Crimple Viaduct",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.391496, 54.11783]
+      },
+      "properties": {
+        "date": "2016-11-24",
+        "name": "Clapham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.397769, 54.16656]
+      },
+      "properties": {
+        "date": "2016-11-24",
+        "name": "Ingleborough",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.082281, 53.96028]
+      },
+      "properties": {
+        "date": "2016-12-02",
+        "name": "Las Iguanas",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.054581, 54.00771]
+      },
+      "properties": {
+        "date": "2016-12-04",
+        "name": "Earswick",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.035443, 54.03989]
+      },
+      "properties": {
+        "date": "2016-12-04",
+        "name": "Strensall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.15909, 22.28388]
+      },
+      "properties": {
+        "date": "2017-01-26",
+        "name": "Hong Kong",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.15638, 22.27756]
+      },
+      "properties": {
+        "date": "2017-01-26",
+        "name": "Hong Kong Zoological & Botanical Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.15131, 22.27449]
+      },
+      "properties": {
+        "date": "2017-01-26",
+        "name": "Old Peak Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.15085, 22.27102]
+      },
+      "properties": {
+        "date": "2017-01-26",
+        "name": "Peak Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.15821, 22.28563]
+      },
+      "properties": {
+        "date": "2017-01-26",
+        "name": "IFC Mall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.18228, 54.18751]
+      },
+      "properties": {
+        "date": "2017-02-04",
+        "name": "Coxwold",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.21506, 54.21015]
+      },
+      "properties": {
+        "date": "2017-02-04",
+        "name": "Kilburn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.21269, 54.22496]
+      },
+      "properties": {
+        "date": "2017-02-04",
+        "name": "Kilburn White Horse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083828, 53.96059]
+      },
+      "properties": {
+        "date": "2017-02-10",
+        "name": "The Punch Bowl",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.530886, 54.13687]
+      },
+      "properties": {
+        "date": "2017-02-12",
+        "name": "St Wilfrid's Catholic Primary School",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.759871, 54.08615]
+      },
+      "properties": {
+        "date": "2017-02-12",
+        "name": "Pateley Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.798284, 54.07614]
+      },
+      "properties": {
+        "date": "2017-02-12",
+        "name": "Toft Gate Barn Cafe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.909342, 54.46842]
+      },
+      "properties": {
+        "date": "2017-02-18",
+        "name": "Danby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.894462, 54.46525]
+      },
+      "properties": {
+        "date": "2017-02-18",
+        "name": "Danby Car Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.86566, 54.47351]
+      },
+      "properties": {
+        "date": "2017-02-18",
+        "name": "Danby Beacon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.871526, 54.28055]
+      },
+      "properties": {
+        "date": "2017-02-18",
+        "name": "Appleton-le-Moors",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.497759, 53.84497]
+      },
+      "properties": {
+        "date": "2017-02-19",
+        "name": "Bishop Burton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.424496, 53.83927]
+      },
+      "properties": {
+        "date": "2017-02-19",
+        "name": "Beverley Minster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.431698, 53.84246]
+      },
+      "properties": {
+        "date": "2017-02-19",
+        "name": "Beverley Market",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.435943, 53.84497]
+      },
+      "properties": {
+        "date": "2017-02-19",
+        "name": "North Bar",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.432336, 53.84302]
+      },
+      "properties": {
+        "date": "2017-02-19",
+        "name": "Vanessa Delicatessen & Café",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.547542, 53.79453]
+      },
+      "properties": {
+        "date": "2017-02-24",
+        "name": "Leeds",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.533915, 53.79669]
+      },
+      "properties": {
+        "date": "2017-02-24",
+        "name": "ODI Leeds",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.139762, 51.52083]
+      },
+      "properties": {
+        "date": "2017-02-25",
+        "name": "Grange Close Bed & Breakfast",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.137031, 51.52144]
+      },
+      "properties": {
+        "date": "2017-02-25",
+        "name": "The Catherine Wheel",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.136687, 51.52251]
+      },
+      "properties": {
+        "date": "2017-02-26",
+        "name": "The Village Café",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.136202, 51.52262]
+      },
+      "properties": {
+        "date": "2017-02-26",
+        "name": "Masoom's Tandoori Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.006487, 54.08785]
+      },
+      "properties": {
+        "date": "2017-03-05",
+        "name": "Sheriff Hutton Castle Perimeter walk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.978916, 54.17374]
+      },
+      "properties": {
+        "date": "2017-03-05",
+        "name": "Hovingham Spa Tearooms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.098883, 54.14473]
+      },
+      "properties": {
+        "date": "2017-03-05",
+        "name": "Brandsby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.108233, 54.10287]
+      },
+      "properties": {
+        "date": "2017-03-05",
+        "name": "Stillington",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.108275, 54.07464]
+      },
+      "properties": {
+        "date": "2017-03-05",
+        "name": "Sutton on the Forest",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090395, 53.9564]
+      },
+      "properties": {
+        "date": "2017-03-08",
+        "name": "Brewdog",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090045, 53.95663]
+      },
+      "properties": {
+        "date": "2017-03-08",
+        "name": "Brigantes",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.752638, 54.53389]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Bank Top",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.773264, 54.53783]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Hinderwell",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.799774, 54.55027]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Dalehouse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.790144, 54.55879]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Staithes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.775644, 54.55654]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Old Nab",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.750606, 54.53272]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Runswick Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.767157, 54.51997]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Ellerby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.670371, 54.50072]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Sandsend",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.664839, 54.4551]
+      },
+      "properties": {
+        "date": "2017-03-11",
+        "name": "Post Office Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.154453, 53.97906]
+      },
+      "properties": {
+        "date": "2017-03-14",
+        "name": "Lord Collingwood",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.955884, 54.38828]
+      },
+      "properties": {
+        "date": "2017-03-19",
+        "name": "Blakley Ridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.27357, 53.36165]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Manchester Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.249953, 41.79496]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Leonardo da Vinci-Fiumicino Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.502177, 41.90085]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Roma Termini",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.497778, 41.90102]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Hotel Nord Nuova Roma",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.491299, 41.89094]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Colosseum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.482715, 41.8954]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Statua equestre di Vittorio Emanuele II",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.470821, 41.89239]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Ponte Sisto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.491127, 41.89936]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Via Nazionale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48719, 41.89693]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Wonderful Ice Cream",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.496833, 41.90079]
+      },
+      "properties": {
+        "date": "2017-03-23",
+        "name": "Caffè Washington dal 1939",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.476803, 41.89895]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Pantheon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48253, 41.90591]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Spanish Steps",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.458152, 41.9093]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Ottaviano",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.453792, 41.90656]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Vatican Museums",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.454571, 41.90295]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Sistine Chapel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.453752, 41.90216]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "St. Peter's Basilica",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.456475, 41.90217]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "St. Peter's Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.466377, 41.90247]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Castel Sant'Angelo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.483328, 41.90085]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Trevi Fountain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.495121, 41.89943]
+      },
+      "properties": {
+        "date": "2017-03-24",
+        "name": "Ristorante Pizzeria Holiday",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.471077, 41.9031]
+      },
+      "properties": {
+        "date": "2017-03-25",
+        "name": "Corte Suprema di Cassazione",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.483603, 41.89246]
+      },
+      "properties": {
+        "date": "2017-03-26",
+        "name": "Roman Forum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.881769, 54.30442]
+      },
+      "properties": {
+        "date": "2017-04-01",
+        "name": "Lastingham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.887233, 54.33558]
+      },
+      "properties": {
+        "date": "2017-04-01",
+        "name": "Ana Cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.090641, 53.95591]
+      },
+      "properties": {
+        "date": "2017-04-01",
+        "name": "Gibson's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.089769, 53.95743]
+      },
+      "properties": {
+        "date": "2017-04-02",
+        "name": "Fibbers",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.353087, 51.59249]
+      },
+      "properties": {
+        "date": "2017-04-05",
+        "name": "West Hendred",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.272369, 52.13544]
+      },
+      "properties": {
+        "date": "2017-04-05",
+        "name": "Chipping Warden",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.267849, 52.96216]
+      },
+      "properties": {
+        "date": "",
+        "name": "Trowell Services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.97962, 54.17103]
+      },
+      "properties": {
+        "date": "2017-04-08",
+        "name": "The Park",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9704207, 54.19536]
+      },
+      "properties": {
+        "date": "2017-04-08",
+        "name": "Caulkleys Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07145, 54.01621]
+      },
+      "properties": {
+        "date": "2017-04-08",
+        "name": "Haxby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.18813, 53.94356]
+      },
+      "properties": {
+        "date": "2017-04-09",
+        "name": "Rufforth Airfield",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.600165, 54.20047]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Kirby Lonsdale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.233905, 54.33167]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Ulpha",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.321005, 54.38889]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Eskdale Green",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.306351, 54.4394]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Wast Water",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.262559, 54.456]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Scarfell Car Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.251085, 54.44754]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Eskdale Fell",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.225, 54.448]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Scafell",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.25636, 54.46734]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Wasdale Head",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.352134, 54.42416]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Nether Wasdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.349699, 54.42463]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Chruch Stile Farm Shop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.137708, 54.60103]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Keswick",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.147633, 54.51896]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Borrowdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.199097, 54.51136]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Honister Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.276632, 54.54136]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Buttermere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.249382, 54.54734]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Newlands Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.96238, 54.43134]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Ambleside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.746486, 54.32844]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Kendal",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.798555, 54.29844]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Brigsteer",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.800327, 54.30021]
+      },
+      "properties": {
+        "date": "2017-04-15",
+        "name": "Wheatsheaf Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.788727, 54.30953]
+      },
+      "properties": {
+        "date": "2017-04-16",
+        "name": "Scout Scar",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.133815, 54.48841]
+      },
+      "properties": {
+        "date": "2017-04-17",
+        "name": "Aytons Traditional Yorkshire Fish & Chips",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.16562, 53.9283]
+      },
+      "properties": {
+        "date": "2017-04-22",
+        "name": "Askham Bryan",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.236235, 53.95291]
+      },
+      "properties": {
+        "date": "2017-04-22",
+        "name": "Long Marston",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.060338, 54.6179]
+      },
+      "properties": {
+        "date": "2017-04-23",
+        "name": "The Zetland Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.254482, 55.86453]
+      },
+      "properties": {
+        "date": "2017-04-24",
+        "name": "Premier Inn Glasgow City Centre",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.266223, 55.86546]
+      },
+      "properties": {
+        "date": "2017-04-24",
+        "name": "The State",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.26343, 55.86301]
+      },
+      "properties": {
+        "date": "2017-04-25",
+        "name": "Ricardo Energy & Environment Glasgow",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.263969, 55.86463]
+      },
+      "properties": {
+        "date": "2017-04-25",
+        "name": "The Slouch",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.931119, 54.26952]
+      },
+      "properties": {
+        "date": "2017-04-30",
+        "name": "Kirkbymoorside",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.541068, 53.99202]
+      },
+      "properties": {
+        "date": "2017-05-01",
+        "name": "Zinc Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.870889, 32.00086]
+      },
+      "properties": {
+        "date": "2017-05-04",
+        "name": "Ben Gurion Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.76944, 32.06898]
+      },
+      "properties": {
+        "date": "2017-05-04",
+        "name": "Tel Aviv",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.76994, 32.0695]
+      },
+      "properties": {
+        "date": "2017-05-04",
+        "name": "Camel Market",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.77011, 32.06979]
+      },
+      "properties": {
+        "date": "2017-05-04",
+        "name": "Pasta Basta",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.773613, 32.0925]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Grand Beach Tel Aviv",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.40268, 31.80256]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Sea Level rest area",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.546148, 31.83709]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Qasr el Yahud",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.50242, 31.75855]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Dead Sea resort",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.23092, 31.77654]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Jerusalem",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.229775, 31.7784]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Church of the Holy Sepulchre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.233843, 31.77662]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "The Western Wall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.20497, 31.72358]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Check Point",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.206263, 31.70479]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Bethlehem",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.207477, 31.7043]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Church of Nativity",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.75717, 32.05776]
+      },
+      "properties": {
+        "date": "2017-05-05",
+        "name": "Tel Aviv beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.78274, 32.09598]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Yarkon River",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.77376, 32.07221]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Unknown cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.775254, 32.07529]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Dizingoff Centre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.774608, 32.07686]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Bauhause",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.78525, 32.07318]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Unknown market",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.770036, 32.07051]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Falafel Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.756268, 32.053]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Old Jaffa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.753151, 32.0542]
+      },
+      "properties": {
+        "date": "2017-05-06",
+        "name": "Abrasha Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.118594, 54.25743]
+      },
+      "properties": {
+        "date": "2017-05-14",
+        "name": "Rievaulx",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08372, 53.96932]
+      },
+      "properties": {
+        "date": "2017-05-14",
+        "name": "York Hospital Emergency Department",
+        "type": "Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.364757, 51.37668]
+      },
+      "properties": {
+        "date": "2017-05-17",
+        "name": "Magdalen Avenue",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.360581, 51.38381]
+      },
+      "properties": {
+        "date": "2017-05-17",
+        "name": "Côte Brasserie",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.361455, 51.38047]
+      },
+      "properties": {
+        "date": "2017-05-18",
+        "name": "Thermae Bath Spa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0830899, 53.95714]
+      },
+      "properties": {
+        "date": "2017-06-02",
+        "name": "The Kings Arms",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.562478, 47.45075]
+      },
+      "properties": {
+        "date": "2017-06-06",
+        "name": "Zurich Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.607924, 47.4023]
+      },
+      "properties": {
+        "date": "2017-06-06",
+        "name": "Dübendorf Giessen",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.611938, 47.40236]
+      },
+      "properties": {
+        "date": "2017-06-06",
+        "name": "Empa",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6074112, 47.40502]
+      },
+      "properties": {
+        "date": "2017-06-06",
+        "name": "Seidenstrasse 24",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5961649, 47.40869]
+      },
+      "properties": {
+        "date": "2017-06-06",
+        "name": "Glattzentrum",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.599031, 47.38239]
+      },
+      "properties": {
+        "date": "2017-06-07",
+        "name": "Gockhausen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59614, 47.39713]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Stettbach",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53991, 47.37794]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Zürich Hauptbahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53828, 47.37257]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Bahnhofstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54296, 47.36696]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Quaibrücke",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54136, 47.36818]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Metropol",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5436, 47.37013]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Grossmünster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54158, 47.36992]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Fraumünster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5353, 47.38509]
+      },
+      "properties": {
+        "date": "2017-06-10",
+        "name": "Oberwasserkanal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5668775, 47.38568]
+      },
+      "properties": {
+        "date": "2017-06-12",
+        "name": "Zürichberg summit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5442217, 47.41099]
+      },
+      "properties": {
+        "date": "2017-06-14",
+        "name": "Le Muh Bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5989, 47.36978]
+      },
+      "properties": {
+        "date": "2017-06-18",
+        "name": "Loorenkopf Turm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59188, 47.37066]
+      },
+      "properties": {
+        "date": "2017-06-18",
+        "name": "Adlisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.547029, 47.40319]
+      },
+      "properties": {
+        "date": "2017-06-19",
+        "name": "Interkantonale Hochschule für Heilpädagogik",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.546558, 47.40368]
+      },
+      "properties": {
+        "date": "2017-06-19",
+        "name": "Migrationsamt",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.548017, 47.37642]
+      },
+      "properties": {
+        "date": "2017-06-20",
+        "name": "ETH Zürich",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.546538, 47.37593]
+      },
+      "properties": {
+        "date": "2017-06-22",
+        "name": "bQm Kulturcafé & Bar",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54629, 47.37682]
+      },
+      "properties": {
+        "date": "2017-06-22",
+        "name": "Polybahn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.534509, 47.37224]
+      },
+      "properties": {
+        "date": "2017-06-24",
+        "name": "Paddy Reilly's",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.526141, 47.38037]
+      },
+      "properties": {
+        "date": "2017-06-29",
+        "name": "Toro Bar",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.660304, 47.37346]
+      },
+      "properties": {
+        "date": "2017-07-02",
+        "name": "Greifensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.531192, 47.36428]
+      },
+      "properties": {
+        "date": "2017-07-02",
+        "name": "Enge",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.812873, 47.22708]
+      },
+      "properties": {
+        "date": "2017-07-02",
+        "name": "Rapperswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.815536, 47.22612]
+      },
+      "properties": {
+        "date": "2017-07-02",
+        "name": "Unknown bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.524389, 47.35225]
+      },
+      "properties": {
+        "date": "2017-07-02",
+        "name": "Fork & Bottle",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57915, 47.40252]
+      },
+      "properties": {
+        "date": "2017-07-07",
+        "name": "Dübendorfstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.13055, 47.14262]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Nottwil",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.13853, 47.13246]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Katholische Kirche St. Mariä Himmelfahrt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30597, 47.05216]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Luzern Altstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30711, 47.05132]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Kapellbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.303611, 47.05413]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Luzern’s city walls",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.302132, 47.05385]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Luegislandturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.303218, 47.05186]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Mill'Feuille",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.301808, 47.05197]
+      },
+      "properties": {
+        "date": "2017-07-09",
+        "name": "Spreuerbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.77932, 46.65663]
+      },
+      "properties": {
+        "date": "2017-07-14",
+        "name": "Leissigen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.68244, 46.49718]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Kandersteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.71392, 46.49727]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Oechinensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.73509, 46.50893]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Oberbärgli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.69028, 46.62424]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Tropic",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.857476, 46.68394]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Interlaken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9076, 46.59277]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Lauterbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90562, 46.5896]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Staubachfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.856734, 46.68558]
+      },
+      "properties": {
+        "date": "2017-07-15",
+        "name": "Grand Café Restaurant Schuh",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04603, 46.61319]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Gletscherschlucht",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02339, 46.59987]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Eiger Face",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.023575, 46.6222]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Grundelwald Grund",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44295, 46.94673]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Bundeshaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44359, 46.94783]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Bärenplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.447975, 46.94797]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Zytglogge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45074, 46.94717]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Berner Münster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443432, 46.94834]
+      },
+      "properties": {
+        "date": "2017-07-16",
+        "name": "Ristorante Da Vinci",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.732431, 52.45303]
+      },
+      "properties": {
+        "date": "2017-07-18",
+        "name": "Birmingham Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.646258, 47.4093]
+      },
+      "properties": {
+        "date": "2017-07-23",
+        "name": "Wangen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.572715, 47.39958]
+      },
+      "properties": {
+        "date": "2017-07-25",
+        "name": "Wirtschaft Ziegelhütte",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.567071, 47.38239]
+      },
+      "properties": {
+        "date": "2017-07-27",
+        "name": "Hotel Zürichberg",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.537218, 47.38091]
+      },
+      "properties": {
+        "date": "2017-07-29",
+        "name": "Zürich Bus Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.549938, 48.14241]
+      },
+      "properties": {
+        "date": "2017-07-29",
+        "name": "Munich Bus Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.57601, 48.12632]
+      },
+      "properties": {
+        "date": "2017-07-29",
+        "name": "River Isar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.7525, 46.52194]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Wurzen Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.78262, 46.47492]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Kranjska Gora",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.784585, 46.4842]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Gostilna Viktor",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.740004, 46.40366]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Vršič Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.551996, 46.33779]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Bovec",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.57215, 46.32978]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Camp Vodenca",
+        "type": "Camp ground"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4875, 46.31889]
+      },
+      "properties": {
+        "date": "2017-07-30",
+        "name": "Boka",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.94934, 46.27568]
+      },
+      "properties": {
+        "date": "2017-07-31",
+        "name": "Kamp Danica",
+        "type": "Camp ground"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.88069, 46.28207]
+      },
+      "properties": {
+        "date": "2017-07-31",
+        "name": "Lake Bohinj",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.8502778, 46.30861]
+      },
+      "properties": {
+        "date": "2017-08-01",
+        "name": "Planina Blato",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.83652, 46.37832]
+      },
+      "properties": {
+        "date": "2017-08-02",
+        "name": "Triglav",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.099612, 46.36043]
+      },
+      "properties": {
+        "date": "2017-08-03",
+        "name": "Lake Bled",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.506293, 46.05114]
+      },
+      "properties": {
+        "date": "2017-08-03",
+        "name": "Triple Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.509654, 46.0512]
+      },
+      "properties": {
+        "date": "2017-08-04",
+        "name": "Open Kitchen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.50865, 46.04927]
+      },
+      "properties": {
+        "date": "2017-08-04",
+        "name": "Ljubljana Castle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.5248, 46.03741]
+      },
+      "properties": {
+        "date": "2017-08-04",
+        "name": "Župnija Ljubljana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.98905, 47.58832]
+      },
+      "properties": {
+        "date": "2017-08-05",
+        "name": "Königsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.99772, 47.58314]
+      },
+      "properties": {
+        "date": "2017-08-05",
+        "name": "Rabenwand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.545118, 47.36778]
+      },
+      "properties": {
+        "date": "2017-08-09",
+        "name": "Odeon",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.005258, 53.63217]
+      },
+      "properties": {
+        "date": "2017-08-11",
+        "name": "Hamburg Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.995854, 53.55158]
+      },
+      "properties": {
+        "date": "2017-08-13",
+        "name": "Europa Passage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.961948, 53.6021]
+      },
+      "properties": {
+        "date": "2017-08-11",
+        "name": "McDonald's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.967773, 53.59891]
+      },
+      "properties": {
+        "date": "2017-08-11",
+        "name": "Höxterstraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.987483, 53.59436]
+      },
+      "properties": {
+        "date": "2017-08-11",
+        "name": "Taverna Symposion",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.918299, 53.55414]
+      },
+      "properties": {
+        "date": "2017-08-12",
+        "name": "Kloster Zarrentin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.724499, 53.63258]
+      },
+      "properties": {
+        "date": "2017-08-12",
+        "name": "Waldhof auf Herrenland",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.700674, 53.63014]
+      },
+      "properties": {
+        "date": "2017-08-13",
+        "name": "Schwanenhof Mölln",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.958727, 53.57218]
+      },
+      "properties": {
+        "date": "2017-08-13",
+        "name": "Tornquiststraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.957104, 53.56689]
+      },
+      "properties": {
+        "date": "2017-08-13",
+        "name": "BurgerKultour",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85494, 48.08145]
+      },
+      "properties": {
+        "date": "2017-08-18",
+        "name": "Kaufering",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.875972, 48.0476]
+      },
+      "properties": {
+        "date": "2017-08-18",
+        "name": "Lechgarten",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.95384, 47.95698]
+      },
+      "properties": {
+        "date": "2017-08-18",
+        "name": "Issing-Vilgertshofen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.972563, 47.95269]
+      },
+      "properties": {
+        "date": "2017-08-19",
+        "name": "Issing Forest",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.262984, 48.62869]
+      },
+      "properties": {
+        "date": "2017-08-19",
+        "name": "Geraer Weg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.229964, 48.61981]
+      },
+      "properties": {
+        "date": "2017-08-19",
+        "name": "Bühlbergstraße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.291565, 48.55422]
+      },
+      "properties": {
+        "date": "2017-08-19",
+        "name": "In der Au",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.299859, 48.42447]
+      },
+      "properties": {
+        "date": "2017-08-19",
+        "name": "Legoland Deutschland",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.876037, 48.0392]
+      },
+      "properties": {
+        "date": "2017-08-20",
+        "name": "Landsberg Wildpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.885644, 48.02351]
+      },
+      "properties": {
+        "date": "2017-08-20",
+        "name": "Teufelsküche",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.452857, 51.58859]
+      },
+      "properties": {
+        "date": "2017-08-22",
+        "name": "East Challow",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.424856, 51.58848]
+      },
+      "properties": {
+        "date": "2017-08-22",
+        "name": "Masooms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.548793, 47.39732]
+      },
+      "properties": {
+        "date": "2017-08-28",
+        "name": "Universität Zürich",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.542232, 47.37175]
+      },
+      "properties": {
+        "date": "2017-08-28",
+        "name": "Thai Kitchen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.544184, 47.36735]
+      },
+      "properties": {
+        "date": "2017-08-28",
+        "name": "Imbiss Riviera",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.508324, 47.35221]
+      },
+      "properties": {
+        "date": "2017-08-31",
+        "name": "Schützenhaus Albisgütli",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.534932, 47.37301]
+      },
+      "properties": {
+        "date": "2017-09-01",
+        "name": "Mausefalle",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.492068, 47.34952]
+      },
+      "properties": {
+        "date": "2017-09-02",
+        "name": "Uetliberg - Uto Kulm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.490263, 47.35127]
+      },
+      "properties": {
+        "date": "2017-09-02",
+        "name": "Uetliberg TV-Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.530468, 47.33857]
+      },
+      "properties": {
+        "date": "2017-09-05",
+        "name": "Wollishofen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.623075, 47.4002]
+      },
+      "properties": {
+        "date": "2017-09-09",
+        "name": "Dübendorf",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.718629, 47.35034]
+      },
+      "properties": {
+        "date": "2017-09-09",
+        "name": "Uster",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.669336, 47.34089]
+      },
+      "properties": {
+        "date": "2017-09-09",
+        "name": "Maur",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6296604, 46.75492]
+      },
+      "properties": {
+        "date": "2017-09-14",
+        "name": "Thun",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.714674, 46.71565]
+      },
+      "properties": {
+        "date": "2017-09-14",
+        "name": "Solbadhotel Sigriswil",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7823068, 46.68467]
+      },
+      "properties": {
+        "date": "2017-09-14",
+        "name": "St.Beatus-Höhlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7899345, 46.68495]
+      },
+      "properties": {
+        "date": "2017-09-14",
+        "name": "Beatushöhlen-Sundlauenen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5039921, 47.39428]
+      },
+      "properties": {
+        "date": "2017-09-17",
+        "name": "Hardturm",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.533856, 47.37844]
+      },
+      "properties": {
+        "date": "2017-09-29",
+        "name": "Loft Five",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.610667, 47.40718]
+      },
+      "properties": {
+        "date": "2017-10-08",
+        "name": "Föhrlibuck",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.524261, 47.31189]
+      },
+      "properties": {
+        "date": "2017-10-14",
+        "name": "Adliswil",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.509608, 47.30873]
+      },
+      "properties": {
+        "date": "2017-10-14",
+        "name": "Felsenegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.500471, 47.32464]
+      },
+      "properties": {
+        "date": "2017-10-14",
+        "name": "Planetenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.529765, 47.37347]
+      },
+      "properties": {
+        "date": "2017-10-14",
+        "name": "McDonald's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.571622, 47.38182]
+      },
+      "properties": {
+        "date": "2017-10-14",
+        "name": "Zoo",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.675238, 47.22931]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Wädenswil",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.744946, 47.12734]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Einselden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.751241, 47.12665]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Kloster Einsiedeln",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.703112, 47.04161]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Brunni",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6885334, 47.02988]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Grosser Mythen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.653402, 47.02102]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Schwyz",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.631993, 47.02635]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Schwyz Bahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.515104, 47.17314]
+      },
+      "properties": {
+        "date": "2017-10-21",
+        "name": "Zug",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.310328, 47.05004]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Lucerne",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43325, 47.08319]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Küssnacht am Rigi",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.441458, 47.08144]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Küssnacht am Rigi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.466707, 47.06882]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Seebodenalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46341, 47.06733]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Rigi Seebodenalp",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.474263, 47.05358]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Rigi Staffel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48536, 47.0567]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Rigi Kulm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.458397, 47.04607]
+      },
+      "properties": {
+        "date": "2017-10-28",
+        "name": "Grill area",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.621482, 47.41401]
+      },
+      "properties": {
+        "date": "2017-10-29",
+        "name": "Industriestrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9827094, 46.5475]
+      },
+      "properties": {
+        "date": "2017-11-01",
+        "name": "Jungfraujoch",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.97138, 46.5455]
+      },
+      "properties": {
+        "date": "2017-11-01",
+        "name": "Jungfrau Ostgrat",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.98483, 46.54751]
+      },
+      "properties": {
+        "date": "2017-11-01",
+        "name": "Sphinx Observatory",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5349, 47.37371]
+      },
+      "properties": {
+        "date": "2017-11-01",
+        "name": "Zapote",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.630729, 46.75799]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Aarequai",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.703465, 46.67593]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Faulensee (See)",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.686764, 46.68708]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Spiez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.435788, 46.95051]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Pittaria",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.589666, 47.54754]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Basel SBB",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.587963, 47.55813]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Marktplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.589765, 47.55848]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Reinsprung Aussichtspunkt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.307883, 47.47321]
+      },
+      "properties": {
+        "date": "2017-11-04",
+        "name": "Baden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.604556, 47.39599]
+      },
+      "properties": {
+        "date": "2017-11-14",
+        "name": "Sorell Hotel Sonnental",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53978, 47.3777]
+      },
+      "properties": {
+        "date": "2017-11-14",
+        "name": "Atrio",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54758, 47.37634]
+      },
+      "properties": {
+        "date": "2017-11-15",
+        "name": "Dozenten-Foyer",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.148752, 53.98033]
+      },
+      "properties": {
+        "date": "2017-11-17",
+        "name": "Newnham House",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.002455, 53.99507]
+      },
+      "properties": {
+        "date": "2017-11-18",
+        "name": "Stockton on the Forest",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.152746, 53.98033]
+      },
+      "properties": {
+        "date": "2017-11-30",
+        "name": "The White Horse",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.108398, 53.98932]
+      },
+      "properties": {
+        "date": "2017-12-01",
+        "name": "Lindley Wood Grive",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.110358, 53.98652]
+      },
+      "properties": {
+        "date": "2017-12-01",
+        "name": "Rawcliffe Recreation Ground",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.107448, 53.98346]
+      },
+      "properties": {
+        "date": "2017-12-01",
+        "name": "Rawcliffe Lake",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083203, 53.96112]
+      },
+      "properties": {
+        "date": "2017-12-01",
+        "name": "Ye Olde Starre Inne",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085006, 53.95994]
+      },
+      "properties": {
+        "date": "2017-12-01",
+        "name": "Lendal Cellars",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.943894, 54.46777]
+      },
+      "properties": {
+        "date": "2017-12-03",
+        "name": "Esk Moors Lodge Bradbury Centre",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.946783, 54.46721]
+      },
+      "properties": {
+        "date": "2017-12-03",
+        "name": "Castleton Moor",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.427061, 51.58839]
+      },
+      "properties": {
+        "date": "2017-12-05",
+        "name": "The Bear Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7490972, 54.00229]
+      },
+      "properties": {
+        "date": "2017-12-17",
+        "name": "Bishop Wilton Wold",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.735136, 53.95529]
+      },
+      "properties": {
+        "date": "2017-12-17",
+        "name": "Millington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.778838, 53.93035]
+      },
+      "properties": {
+        "date": "2017-12-17",
+        "name": "Pocklington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.891895, 53.94886]
+      },
+      "properties": {
+        "date": "2017-12-17",
+        "name": "Wilberfoss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.57969, 51.21915]
+      },
+      "properties": {
+        "date": "2017-12-20",
+        "name": "Fyfield",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.522868, 51.26476]
+      },
+      "properties": {
+        "date": "2017-12-20",
+        "name": "The Fox Inn",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.902309, 51.53759]
+      },
+      "properties": {
+        "date": "2017-12-21",
+        "name": "Giggling Squid",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.097313, 53.96988]
+      },
+      "properties": {
+        "date": "2017-12-23",
+        "name": "Clifton Green",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.609978, 52.80332]
+      },
+      "properties": {
+        "date": "2017-12-25",
+        "name": "Colsterworth Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.071446, 51.56365]
+      },
+      "properties": {
+        "date": "2017-12-25",
+        "name": "Gibson Gardens",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.221211, 51.51739]
+      },
+      "properties": {
+        "date": "2017-12-25",
+        "name": "Balliol Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.138651, 51.51641]
+      },
+      "properties": {
+        "date": "2017-12-26",
+        "name": "Yalla Yalla",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.216725, 51.57542]
+      },
+      "properties": {
+        "date": "2017-12-26",
+        "name": "Brent Cross Tesco Fuel Station",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.049084, 53.98334]
+      },
+      "properties": {
+        "date": "2017-12-28",
+        "name": "Vangarde Shopping Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.995017, 54.19213]
+      },
+      "properties": {
+        "date": "2018-01-01",
+        "name": "Stonegrave",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.043207, 54.0214]
+      },
+      "properties": {
+        "date": "2018-01-01",
+        "name": "Strensall Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.098052, 53.98945]
+      },
+      "properties": {
+        "date": "",
+        "name": "Euro Car Parts York",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.01381, 14.50933]
+      },
+      "properties": {
+        "date": "2018-01-07",
+        "name": "Manila Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.102379, -35.20288]
+      },
+      "properties": {
+        "date": "2018-01-10",
+        "name": "Black Rocks",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.963313, -35.20179]
+      },
+      "properties": {
+        "date": "2018-01-17",
+        "name": "Charlie’s Rock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.79946, -35.19876]
+      },
+      "properties": {
+        "date": "2018-01-17",
+        "name": "Puketi Forest Walk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7743, -41.29727]
+      },
+      "properties": {
+        "date": "2018-01-22",
+        "name": "The Third Eye",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.781149, -41.29369]
+      },
+      "properties": {
+        "date": "2018-01-22",
+        "name": "Chow",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8740055, -41.18343]
+      },
+      "properties": {
+        "date": "",
+        "name": "Belmont Trig",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.777084, -41.28206]
+      },
+      "properties": {
+        "date": "2018-01-25",
+        "name": "Americanos",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.095421, -35.16883]
+      },
+      "properties": {
+        "date": "2018-01-28",
+        "name": "Marsden Cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.140527, 53.99707]
+      },
+      "properties": {
+        "date": "2018-02-17",
+        "name": "Stripe Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.869023, 54.41255]
+      },
+      "properties": {
+        "date": "2018-02-18",
+        "name": "Caper Hill",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.887087, 54.3535]
+      },
+      "properties": {
+        "date": "2018-02-18",
+        "name": "Abbey Tearooms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7237624, 54.37158]
+      },
+      "properties": {
+        "date": "2018-02-25",
+        "name": "Simon's Howe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.768134, 54.38173]
+      },
+      "properties": {
+        "date": "2018-02-25",
+        "name": "Wheeldale Gill Ford",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.777755, 54.32187]
+      },
+      "properties": {
+        "date": "2018-02-25",
+        "name": "Stape",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.753261, 54.30387]
+      },
+      "properties": {
+        "date": "2018-02-25",
+        "name": "Newton-on-Rawcliffe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.768965, 54.2579]
+      },
+      "properties": {
+        "date": "2018-02-25",
+        "name": "New Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.151744, 51.57097]
+      },
+      "properties": {
+        "date": "2018-03-03",
+        "name": "Apiary Place",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.150975, 51.57712]
+      },
+      "properties": {
+        "date": "2018-03-03",
+        "name": "The Red Lion",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.361006, 51.84142]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Blenheim Palace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.367395, 51.84746]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Blenheim Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.369661, 51.8499]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Victory Column",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.706373, 52.19276]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Stratford-Upon-Avon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.708011, 52.19388]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Shakespeare's Birthplace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.702969, 51.99126]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Moreton-in-Marsh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.723003, 51.93051]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Stow-on-the-Wold",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.636759, 51.80752]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Burford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.152227, 51.5763]
+      },
+      "properties": {
+        "date": "2018-03-04",
+        "name": "Memories Of Bengal",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.205704, 52.61914]
+      },
+      "properties": {
+        "date": "2018-03-06",
+        "name": "Leicester Forest East services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.907939, 53.97511]
+      },
+      "properties": {
+        "date": "2018-03-15",
+        "name": "High Catton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085484, 53.96111]
+      },
+      "properties": {
+        "date": "2018-03-17",
+        "name": "Thomas's of York",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10783, 54.20107]
+      },
+      "properties": {
+        "date": "2018-03-19",
+        "name": "Ampleforth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.058224, 53.94594]
+      },
+      "properties": {
+        "date": "2018-03-23",
+        "name": "The Edge",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.049741, 53.39615]
+      },
+      "properties": {
+        "date": "2018-03-25",
+        "name": "Birkenhead Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084591, 53.96028]
+      },
+      "properties": {
+        "date": "2018-03-27",
+        "name": "Carluccio's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.082931, 53.96126]
+      },
+      "properties": {
+        "date": "2018-03-27",
+        "name": "House Of The Trembling Madness",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7131, 53.9658]
+      },
+      "properties": {
+        "date": "2018-03-31",
+        "name": "Sylvan Dale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.715, 53.9729]
+      },
+      "properties": {
+        "date": "2018-03-31",
+        "name": "Millington Dale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.65674, 53.98575]
+      },
+      "properties": {
+        "date": "2018-03-31",
+        "name": "Huggate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.54542, 53.79658]
+      },
+      "properties": {
+        "date": "2018-04-01",
+        "name": "Pret a Manger",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.54612, 53.82991]
+      },
+      "properties": {
+        "date": "2018-04-01",
+        "name": "Scott Hall Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.51183, 53.90066]
+      },
+      "properties": {
+        "date": "2018-04-01",
+        "name": "Harewood",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.266347, 53.69794]
+      },
+      "properties": {
+        "date": "2018-04-07",
+        "name": "Ferrybridge services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.42637, 51.60832]
+      },
+      "properties": {
+        "date": "2018-04-07",
+        "name": "Grove",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.45025, 51.62459]
+      },
+      "properties": {
+        "date": "2018-04-07",
+        "name": "Denchworth",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.45276, 51.64925]
+      },
+      "properties": {
+        "date": "2018-04-07",
+        "name": "Charney Bassett",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.38788, 51.5858]
+      },
+      "properties": {
+        "date": "2018-04-08",
+        "name": "East Lockinge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.37855, 51.59237]
+      },
+      "properties": {
+        "date": "2018-04-08",
+        "name": "Ardington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.37789, 51.59217]
+      },
+      "properties": {
+        "date": "2018-04-08",
+        "name": "The Boars Head",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.333621, 53.24391]
+      },
+      "properties": {
+        "date": "2018-04-09",
+        "name": "Markham Vale Services",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.836024, 52.56407]
+      },
+      "properties": {
+        "date": "2018-04-14",
+        "name": "Sutton Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.220001, 54.52272]
+      },
+      "properties": {
+        "date": "2018-04-15",
+        "name": "Parkway Shopping Centre",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.99656, 54.19244]
+      },
+      "properties": {
+        "date": "2018-04-22",
+        "name": "Stonegrave Minster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9767, 54.20601]
+      },
+      "properties": {
+        "date": "2018-04-22",
+        "name": "Nunnington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.200439, 53.90031]
+      },
+      "properties": {
+        "date": "2018-04-28",
+        "name": "Aagrah",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.95434, 54.37875]
+      },
+      "properties": {
+        "date": "2018-04-29",
+        "name": "Blakey Bank",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.97086, 54.36872]
+      },
+      "properties": {
+        "date": "2018-04-29",
+        "name": "Church Houses",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.96654, 54.34748]
+      },
+      "properties": {
+        "date": "2018-04-29",
+        "name": "Low Mill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.01778, 54.34284]
+      },
+      "properties": {
+        "date": "2018-04-29",
+        "name": "Bandsdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0467, 54.37767]
+      },
+      "properties": {
+        "date": "2018-04-29",
+        "name": "Cockayne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.01125, 53.96652]
+      },
+      "properties": {
+        "date": "2018-05-04",
+        "name": "Murton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.17288, 54.18206]
+      },
+      "properties": {
+        "date": "2018-05-05",
+        "name": "Newburgh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14282, 54.12767]
+      },
+      "properties": {
+        "date": "2018-05-05",
+        "name": "Crayke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9328, 54.1624]
+      },
+      "properties": {
+        "date": "2018-05-06",
+        "name": "Slingsby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93208, 54.09997]
+      },
+      "properties": {
+        "date": "2018-05-06",
+        "name": "Bulmer",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.306598, 53.87682]
+      },
+      "properties": {
+        "date": "2018-05-08",
+        "name": "Tadcaster Grammar School",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.262453, 53.88333]
+      },
+      "properties": {
+        "date": "2018-05-08",
+        "name": "21 The High Street",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.533023, 48.14911]
+      },
+      "properties": {
+        "date": "2018-05-11",
+        "name": "Hirschbergstraße 16B",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.546027, 48.1493]
+      },
+      "properties": {
+        "date": "2018-05-11",
+        "name": "S' Maillinger",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.218191, 47.634]
+      },
+      "properties": {
+        "date": "2018-05-12",
+        "name": "Ohlstadt",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.280658, 47.61272]
+      },
+      "properties": {
+        "date": "2018-05-12",
+        "name": "Heimgarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.29955, 47.61504]
+      },
+      "properties": {
+        "date": "2018-05-12",
+        "name": "Schlehdorfer Kreuz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.23073, 47.63448]
+      },
+      "properties": {
+        "date": "2018-05-12",
+        "name": "Eiscafe Maier",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.536452, 48.15076]
+      },
+      "properties": {
+        "date": "2018-05-12",
+        "name": "Traffic Bar",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.61668, 48.18079]
+      },
+      "properties": {
+        "date": "2018-05-13",
+        "name": "Englisher Garten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.95045, 54.5447]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Glenridding",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.00976, 54.52566]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Striding Edge",
+        "type": "Arête"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.017604, 54.52699]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Helvellyn",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.01794, 54.52923]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Swirral Edge",
+        "type": "Arête"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0088402, 54.53354]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Catstycam",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9478, 54.54183]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "St Patricks Boat Landing",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.49126, 54.57742]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Appleton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.34901, 54.47391]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "Kirkby Stephen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.28845, 54.27346]
+      },
+      "properties": {
+        "date": "2018-05-16",
+        "name": "B6255",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.851454, 53.68976]
+      },
+      "properties": {
+        "date": "2018-05-20",
+        "name": "Heath",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.940254, 53.67439]
+      },
+      "properties": {
+        "date": "2018-05-20",
+        "name": "Ripponden",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.002143, 53.70541]
+      },
+      "properties": {
+        "date": "2018-05-20",
+        "name": "Cragg Vale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.192015, 54.12146]
+      },
+      "properties": {
+        "date": "2018-05-22",
+        "name": "Easingwold",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.120883, 52.30759]
+      },
+      "properties": {
+        "date": "2018-05-23",
+        "name": "Watford Gap Services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.34567, 51.39595]
+      },
+      "properties": {
+        "date": "2018-05-24",
+        "name": "London Place",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.76419, 53.9742]
+      },
+      "properties": {
+        "date": "2018-05-28",
+        "name": "Givendale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79956, 53.95865]
+      },
+      "properties": {
+        "date": "2018-05-28",
+        "name": "Yapham",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.127293, 51.52847]
+      },
+      "properties": {
+        "date": "2018-05-29",
+        "name": "Pizza Express",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.18088, 51.51429]
+      },
+      "properties": {
+        "date": "2018-05-29",
+        "name": "Park Grand London Paddington",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.177181, 51.49252]
+      },
+      "properties": {
+        "date": "2018-05-30",
+        "name": "Byron",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.175058, 51.49402]
+      },
+      "properties": {
+        "date": "2018-05-31",
+        "name": "Khan's of Kensington",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.173627, 51.49497]
+      },
+      "properties": {
+        "date": "2018-05-31",
+        "name": "Venchi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.161372, 51.43496]
+      },
+      "properties": {
+        "date": "2018-06-01",
+        "name": "Spice Village Tooting",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.166163, 51.42895]
+      },
+      "properties": {
+        "date": "2018-06-01",
+        "name": "Tooting Market",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.076067, 51.50803]
+      },
+      "properties": {
+        "date": "2018-06-02",
+        "name": "Tower of London",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.001209, 51.47789]
+      },
+      "properties": {
+        "date": "2018-06-02",
+        "name": "Greenwich Prime Meridian",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.00365, 51.47775]
+      },
+      "properties": {
+        "date": "2018-06-02",
+        "name": "Greenwich Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.00618, 51.48397]
+      },
+      "properties": {
+        "date": "2018-06-02",
+        "name": "Old Royal Naval College",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.093159, 53.94557]
+      },
+      "properties": {
+        "date": "2018-06-05",
+        "name": "The Knavesmire",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.91361, 54.36082]
+      },
+      "properties": {
+        "date": "2018-06-09",
+        "name": "Thorgill",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0461, 54.37294]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Bransdale Mill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06726, 54.37544]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Stump Cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06787, 54.34438]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Bonfield Ghyll",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.04362, 54.34221]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Stork House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.04395, 54.35864]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Old School House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9188, 54.30157]
+      },
+      "properties": {
+        "date": "2018-06-16",
+        "name": "Merrills",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1257, 54.34426]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Fangdale Beck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14962, 54.35832]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Bilsdale Transmitting Station",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1516, 54.36121]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Bilsdale West Moor summit",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.16607, 54.37785]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Cairn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1721, 54.38183]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Cairn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.13609, 54.30906]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Laskill",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.16728, 54.30109]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Hawnby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.24829, 54.273]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Boltby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.28366, 54.25554]
+      },
+      "properties": {
+        "date": "2018-06-23",
+        "name": "Felixkirk",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.8015, 54.0574]
+      },
+      "properties": {
+        "date": "2018-06-24",
+        "name": "Leavering",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7404, 54.0429]
+      },
+      "properties": {
+        "date": "2018-06-24",
+        "name": "Water Dale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.71525, 54.03902]
+      },
+      "properties": {
+        "date": "2018-06-24",
+        "name": "Thixendale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7101, 54.0215]
+      },
+      "properties": {
+        "date": "2018-06-24",
+        "name": "Thixen Dale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.71143, 54.01954]
+      },
+      "properties": {
+        "date": "2018-06-24",
+        "name": "Waves and Time",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.01913, 54.63319]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "Scales",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.04025, 54.64373]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "Scales Tarn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.04508, 54.64559]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "Sharp Edge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.04977, 54.63997]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "Blencathra",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.04704, 54.63704]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "Hall’s Fell Ridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.75808, 54.66246]
+      },
+      "properties": {
+        "date": "2018-06-26",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.13076, 53.99919]
+      },
+      "properties": {
+        "date": "2018-06-30",
+        "name": "Skelton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.28805, 54.20939]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Filey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.28351, 54.21614]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Filey Country Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.26013, 54.21598]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Filey Brigg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.31538, 54.23168]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Filey Cliffs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.27948, 54.21486]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Filey Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.28319, 54.21126]
+      },
+      "properties": {
+        "date": "2018-07-01",
+        "name": "Cobble Landing",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.45138, 51.57606]
+      },
+      "properties": {
+        "date": "2018-07-04",
+        "name": "Letcombe Regis",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.71663, 53.97898]
+      },
+      "properties": {
+        "date": "2018-07-13",
+        "name": "Swinsty Reservoir",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.99425, 54.39794]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "Farndale Railway track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.04182, 54.40842]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "Wares Gill",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.05273, 54.40518]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "Bloworth Crossing",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.03709, 54.39137]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "Cammon Stone",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9952, 54.3654]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "Monket House Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.96649, 54.3693]
+      },
+      "properties": {
+        "date": "2018-07-15",
+        "name": "St. Mary",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10022, 53.92111]
+      },
+      "properties": {
+        "date": "2018-07-17",
+        "name": "Bishopthorpe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10891, 53.92279]
+      },
+      "properties": {
+        "date": "2018-07-17",
+        "name": "Bishopthorpe cycle path",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.09126, 53.91104]
+      },
+      "properties": {
+        "date": "2018-07-17",
+        "name": "Naburn Railway Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.18198, 54.49886]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Seathwaite",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.18297, 54.48768]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Stockley Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.18987, 54.46856]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Ruddy Gill ravine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.18531, 54.46256]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Esk Hause",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.21156, 54.45424]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Scafell Pike",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.19603, 54.46498]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Great End",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.19929, 54.51125]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Sky Hi Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.15639, 54.54704]
+      },
+      "properties": {
+        "date": "2018-07-19",
+        "name": "Grange in Borrowdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.35436, 51.5912]
+      },
+      "properties": {
+        "date": "2018-07-31",
+        "name": "West Hendred",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.092458, 53.94699]
+      },
+      "properties": {
+        "date": "2018-08-03",
+        "name": "Winsor Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.12822, 54.42579]
+      },
+      "properties": {
+        "date": "2018-08-04",
+        "name": "White Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14047, 54.42449]
+      },
+      "properties": {
+        "date": "2018-08-04",
+        "name": "The Wainstones",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.19271, 54.42178]
+      },
+      "properties": {
+        "date": "2018-08-04",
+        "name": "Lordstones Country Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.17892, 54.41037]
+      },
+      "properties": {
+        "date": "2018-08-04",
+        "name": "Raisdale Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.21819, 54.43256]
+      },
+      "properties": {
+        "date": "2018-08-04",
+        "name": "Carlton in Cleveland",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9363, 54.0774]
+      },
+      "properties": {
+        "date": "2018-08-11",
+        "name": "Foston",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.95441, 54.07711]
+      },
+      "properties": {
+        "date": "2018-08-11",
+        "name": "Thornton-le-Clay",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.96347, 54.05229]
+      },
+      "properties": {
+        "date": "2018-08-11",
+        "name": "Flaxton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.112294, 53.98891]
+      },
+      "properties": {
+        "date": "2018-08-25",
+        "name": "The Lysander Arms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.080916, 53.95438]
+      },
+      "properties": {
+        "date": "2018-09-01",
+        "name": "Dyls",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07849, 53.9583]
+      },
+      "properties": {
+        "date": "2018-09-08",
+        "name": "Cosy Time",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.796934, 54.1326]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Malton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.80634, 54.20468]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Kirby Misperton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7184, 54.2459]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Whitbygate",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.628876, 54.4701]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Ruswarp",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.61343, 54.48824]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Tate Hill Pier",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.615, 54.48908]
+      },
+      "properties": {
+        "date": "2018-09-14",
+        "name": "Magpie Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.537348, 53.99271]
+      },
+      "properties": {
+        "date": "2018-09-15",
+        "name": "Harrogate Station",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.54259, 53.9928]
+      },
+      "properties": {
+        "date": "2018-09-15",
+        "name": "Betty’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.261773, 53.8839]
+      },
+      "properties": {
+        "date": "2018-09-16",
+        "name": "Costa",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.080465, 53.96042]
+      },
+      "properties": {
+        "date": "2018-09-16",
+        "name": "The York Roast Co.",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06466, 54.2717]
+      },
+      "properties": {
+        "date": "2018-09-27",
+        "name": "Carlton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06295, 54.29371]
+      },
+      "properties": {
+        "date": "2018-09-27",
+        "name": "Cowhouse Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9918, 54.3012]
+      },
+      "properties": {
+        "date": "2018-09-27",
+        "name": "Sleightholmedale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.91774, 54.30122]
+      },
+      "properties": {
+        "date": "2018-09-27",
+        "name": "The Crown",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.97607, 54.44376]
+      },
+      "properties": {
+        "date": "2018-09-29",
+        "name": "Westerdale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9145, 54.4624]
+      },
+      "properties": {
+        "date": "2018-09-29",
+        "name": "Ainthorpe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9052, 54.43989]
+      },
+      "properties": {
+        "date": "2018-09-29",
+        "name": "Little Fryup Dale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.86116, 54.4314]
+      },
+      "properties": {
+        "date": "2018-09-29",
+        "name": "Viewpoint",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.86235, 54.352]
+      },
+      "properties": {
+        "date": "2018-09-29",
+        "name": "Hartoft Rigg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.70755, 54.2984]
+      },
+      "properties": {
+        "date": "2018-09-30",
+        "name": "Lockton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.72115, 54.30412]
+      },
+      "properties": {
+        "date": "2018-09-30",
+        "name": "Levisham",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.26527, 53.88516]
+      },
+      "properties": {
+        "date": "2018-10-04",
+        "name": "Tadcaster Physio",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.15785, 53.99588]
+      },
+      "properties": {
+        "date": "2018-10-06",
+        "name": "Overton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93356, 54.43133]
+      },
+      "properties": {
+        "date": "2018-10-07",
+        "name": "Danby Dale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.92855, 54.42794]
+      },
+      "properties": {
+        "date": "2018-10-07",
+        "name": "Botton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.940966, 54.46332]
+      },
+      "properties": {
+        "date": "2018-10-07",
+        "name": "The Old Chapel Tearoom",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.230927, 51.84815]
+      },
+      "properties": {
+        "date": "2018-10-09",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.29938, 54.36842]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Osmotherley",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.26348, 54.35641]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Square Corner",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.21545, 54.34272]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Rye Dale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1856, 54.30703]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "New Hall Cottage",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.20318, 54.30739]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Arden Hall turnaround",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.15695, 54.26567]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Old Byland",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.18431, 54.25385]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Cold Kirby",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.34298, 54.23265]
+      },
+      "properties": {
+        "date": "2018-10-14",
+        "name": "Thirsk",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.156225, 54.01012]
+      },
+      "properties": {
+        "date": "2018-10-17",
+        "name": "200 miles to Edinburgh sign",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.211285, 51.87928]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "London Stansted long stay parking",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.253315, 51.88142]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "London Stansted",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.899993, 37.42321]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Seville Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.00355, 37.39138]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Plaza de Armas",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.993013, 37.3979]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Calle Joaquín Costa",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.994013, 37.39714]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Alameda de Hércules",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.995243, 37.39269]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Calle Campana",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.993461, 37.39791]
+      },
+      "properties": {
+        "date": "2018-10-26",
+        "name": "Arte y Sabor",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.002427, 37.38629]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Puente de Triana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.996417, 37.38273]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Torre Del Oro",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.990905, 37.38081]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Universidad de Sevilla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.987078, 37.37712]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Plaza de España",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.993076, 37.38511]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Catedral de Sevilla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.999059, 37.38728]
+      },
+      "properties": {
+        "date": "2018-10-27",
+        "name": "Bartolomea",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.974892, 37.39235]
+      },
+      "properties": {
+        "date": "2018-10-28",
+        "name": "Sevilla Santa Justa",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.991788, 37.39332]
+      },
+      "properties": {
+        "date": "2018-10-28",
+        "name": "Las Setas De Sevilla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.788807, 37.8888]
+      },
+      "properties": {
+        "date": "2018-10-29",
+        "name": "Córdoba",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.778505, 37.87709]
+      },
+      "properties": {
+        "date": "2018-10-29",
+        "name": "Roman Bridge of Córdoba",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.78031, 37.88006]
+      },
+      "properties": {
+        "date": "2018-10-29",
+        "name": "Córdoba Old Town",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.604916, 36.01067]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Tarifa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.44031, 36.1292]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Algeciras",
+        "type": "Port"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.320802, 35.89364]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Ceuta",
+        "type": "Port"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.344802, 35.86948]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Moroccan Customs",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.364847, 35.56801]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Tetouan",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.366122, 35.56948]
+      },
+      "properties": {
+        "date": "2018-10-30",
+        "name": "Tetouan Merdina",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.004007, 37.3845]
+      },
+      "properties": {
+        "date": "2018-10-31",
+        "name": "Triana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.320608, 52.53165]
+      },
+      "properties": {
+        "date": "2018-10-31",
+        "name": "Peterborough Services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084402, 53.95999]
+      },
+      "properties": {
+        "date": "2018-11-01",
+        "name": "The Ivy St Helen’s Square",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93269, 54.09983]
+      },
+      "properties": {
+        "date": "2018-11-03",
+        "name": "Bulmer",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9479, 54.12455]
+      },
+      "properties": {
+        "date": "2018-11-03",
+        "name": "Ganthorpe",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9756, 54.12763]
+      },
+      "properties": {
+        "date": "2018-11-03",
+        "name": "Terrington",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0563, 54.3904]
+      },
+      "properties": {
+        "date": "2018-11-03",
+        "name": "Cockayne Ridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.48067, 54.43999]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Calder Bridge",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4362, 54.4188]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Gosforth",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.25605, 54.46584]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Wasdale Head parking",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.24412, 54.48319]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Kirk Fell",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.22834, 54.48509]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Black Head Tarn",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.21921, 54.48208]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Great Gable",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.20676, 54.47495]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Sty Head",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.25348, 54.46706]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "St. Olaf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1857, 54.4029]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Hardknott Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1215, 54.414]
+      },
+      "properties": {
+        "date": "2018-11-13",
+        "name": "Wrynose Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.075893, 53.95697]
+      },
+      "properties": {
+        "date": "2018-11-16",
+        "name": "Khao San Road",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79529, 53.92079]
+      },
+      "properties": {
+        "date": "2018-11-18",
+        "name": "Starbucks",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.94869, 54.54335]
+      },
+      "properties": {
+        "date": "2018-11-24",
+        "name": "Let It Brew",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.218647, 55.94548]
+      },
+      "properties": {
+        "date": "2018-11-26",
+        "name": "Haymarket",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.265702, 55.86503]
+      },
+      "properties": {
+        "date": "2018-11-26",
+        "name": "Mini Grill Steakhouse",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.255875, 55.86124]
+      },
+      "properties": {
+        "date": "2018-11-27",
+        "name": "Chaakoo Bombay Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.261522, 55.86113]
+      },
+      "properties": {
+        "date": "2018-11-28",
+        "name": "Viva",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.259731, 55.86359]
+      },
+      "properties": {
+        "date": "2018-11-29",
+        "name": "Kcal Kitchen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.444087, 53.99994]
+      },
+      "properties": {
+        "date": "2018-12-02",
+        "name": "St James Retail Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.548355, 53.80152]
+      },
+      "properties": {
+        "date": "2018-12-08",
+        "name": "Millennium Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.547582, 53.79852]
+      },
+      "properties": {
+        "date": "2018-12-08",
+        "name": "The Liquorist",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.548034, 53.79526]
+      },
+      "properties": {
+        "date": "2018-12-08",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08314, 53.95533]
+      },
+      "properties": {
+        "date": "2018-12-08",
+        "name": "Emperors Wharf",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.402, 54.28167]
+      },
+      "properties": {
+        "date": "2018-12-09",
+        "name": "Scarborough",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.398386, 54.2801]
+      },
+      "properties": {
+        "date": "2018-12-09",
+        "name": "The Grand Hotel Scarborough",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.397148, 54.28006]
+      },
+      "properties": {
+        "date": "2018-12-09",
+        "name": "Scarborough Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.392419, 54.28346]
+      },
+      "properties": {
+        "date": "2018-12-09",
+        "name": "Scarborough Harbour",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.390637, 54.28727]
+      },
+      "properties": {
+        "date": "2018-12-09",
+        "name": "Viewpoint of North Bay",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.204972, 51.49219]
+      },
+      "properties": {
+        "date": "2018-12-12",
+        "name": "Mornington Avenue",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.206038, 51.48914]
+      },
+      "properties": {
+        "date": "2018-12-12",
+        "name": "Casa Bardotti Pizzeria",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.207121, 51.492]
+      },
+      "properties": {
+        "date": "2018-12-13",
+        "name": "Chapter Coffee Roasters",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.921517, 53.25554]
+      },
+      "properties": {
+        "date": "2018-12-13",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.964029, 54.44462]
+      },
+      "properties": {
+        "date": "2018-12-16",
+        "name": "Christy Gate Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.976349, 54.44327]
+      },
+      "properties": {
+        "date": "2018-12-16",
+        "name": "Christ Church",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.72746, 54.28451]
+      },
+      "properties": {
+        "date": "2018-12-22",
+        "name": "Farwath",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7384, 54.31555]
+      },
+      "properties": {
+        "date": "2018-12-22",
+        "name": "Viewpoint",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.72798, 54.31563]
+      },
+      "properties": {
+        "date": "2018-12-22",
+        "name": "Dundale Pond",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.74449, 54.30855]
+      },
+      "properties": {
+        "date": "2018-12-22",
+        "name": "Levisham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.15451, 54.06001]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Malham",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.13631, 54.0658]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Janet’s Foss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.13053, 54.07271]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Gordale Scar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1567, 54.0978]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Malham Tarn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.16293, 54.07727]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Ing Scar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.15993, 54.07296]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Limestone Pavements",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.15853, 54.07166]
+      },
+      "properties": {
+        "date": "2018-12-27",
+        "name": "Malham Cove",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.69035, 54.33158]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "Saltergate car park",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.704225, 54.32692]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "Hole of Horcum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.740629, 54.32484]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "Skelton Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.72715, 54.39569]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "The Coach House",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.82122, 54.1989]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "Kirby Misperton fracking site",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7851, 54.1704]
+      },
+      "properties": {
+        "date": "2018-12-29",
+        "name": "Ryton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.24962, 54.49166]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Black Sail Pass",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.25775, 54.49497]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Looking Stead",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.26612, 54.49647]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "High Level Route",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.27855, 54.49932]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Shamrock Traverse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.28119, 54.49744]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Pillar",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4043, 54.3567]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Ravensglass",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.583905, 54.54454]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.589003, 54.54837]
+      },
+      "properties": {
+        "date": "2018-12-30",
+        "name": "Whitehaven",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.331816, 54.30163]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "Corney Fell Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.076416, 54.36854]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "Coniston",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.075531, 54.36913]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "Yewdale Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.270335, 54.20964]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "Millom",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.410544, 54.35531]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "The Inn at Ravenglass",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.409015, 54.3556]
+      },
+      "properties": {
+        "date": "2018-12-31",
+        "name": "Ratty Arms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.03778, 54.43408]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Elterwater",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0953, 54.4457]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Great Langdale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1168, 54.44137]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Stool End Farm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.12654, 54.43719]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Oxendale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1588, 54.432]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Crinkle Crags",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.16582, 54.44737]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "Bowfell",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1374, 54.4424]
+      },
+      "properties": {
+        "date": "2019-01-01",
+        "name": "The Band",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.935413, 53.92043]
+      },
+      "properties": {
+        "date": "2019-01-06",
+        "name": "Elvington",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.18819, 54.21317]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Oldstead",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.16032, 54.20363]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Byland Abbey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.15095, 54.20645]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Wass",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2128, 54.3074]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Aden Bank",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.17661, 54.31132]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Hill End House",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.87823, 54.23794]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Marton",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.85289, 54.2015]
+      },
+      "properties": {
+        "date": "2019-01-12",
+        "name": "Great Barugh",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10465, 53.89812]
+      },
+      "properties": {
+        "date": "2019-01-13",
+        "name": "Acaster Malbis",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.09522, 53.95322]
+      },
+      "properties": {
+        "date": "2019-01-13",
+        "name": "Kwik Fit",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08414, 53.96054]
+      },
+      "properties": {
+        "date": "2019-01-13",
+        "name": "York Roast Co.",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08452, 53.95723]
+      },
+      "properties": {
+        "date": "2019-01-13",
+        "name": "Missoula",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.077248, 53.95457]
+      },
+      "properties": {
+        "date": "2019-01-15",
+        "name": "The Postern Gate",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083381, 53.96077]
+      },
+      "properties": {
+        "date": "2019-01-16",
+        "name": "The Botanist",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083375, 53.96059]
+      },
+      "properties": {
+        "date": "2019-01-16",
+        "name": "Sotano",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.514348, 54.29681]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Hackness",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5132, 54.30589]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Kirk Gate",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.52328, 54.32867]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Whisperdale",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5174, 54.33623]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Reasty Hill Top",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.51808, 54.31544]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Silpho",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.55877, 54.30859]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Langdale End",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53437, 54.43386]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Victoria Hotel",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.61619, 54.49048]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Captain Cook’s Statue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.62034, 54.49035]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "West Cliff",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.61369, 54.486]
+      },
+      "properties": {
+        "date": "2019-01-22",
+        "name": "Angel Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.48979, 54.40027]
+      },
+      "properties": {
+        "date": "2019-01-23",
+        "name": "Ravenscar",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.49256, 54.40693]
+      },
+      "properties": {
+        "date": "2019-01-23",
+        "name": "Ravenscar Cliffs",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.53028, 54.42285]
+      },
+      "properties": {
+        "date": "2019-01-23",
+        "name": "Boggle Hole",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.67331, 54.50391]
+      },
+      "properties": {
+        "date": "2019-01-23",
+        "name": "Wits End Cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.84281, 46.46491]
+      },
+      "properties": {
+        "date": "2019-01-25",
+        "name": "Rue des Moulins",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8451, 46.46394]
+      },
+      "properties": {
+        "date": "2019-01-25",
+        "name": "Pizzeria Vecchia Napoli",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.85677, 46.23711]
+      },
+      "properties": {
+        "date": "2019-01-26",
+        "name": "Monthey",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.84098, 46.26708]
+      },
+      "properties": {
+        "date": "2019-01-26",
+        "name": "Châtel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.78956, 46.23252]
+      },
+      "properties": {
+        "date": "2019-01-26",
+        "name": "Pré-la-Joux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.78026, 46.23163]
+      },
+      "properties": {
+        "date": "2019-01-26",
+        "name": "La place des plaines",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.84252, 46.46236]
+      },
+      "properties": {
+        "date": "2019-01-27",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.142516, 46.21062]
+      },
+      "properties": {
+        "date": "2019-01-28",
+        "name": "Geneva",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1441, 46.20902]
+      },
+      "properties": {
+        "date": "2019-01-28",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.14878, 46.20602]
+      },
+      "properties": {
+        "date": "2019-01-28",
+        "name": "Pont du Mont-Blanc",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.968, 54.3242]
+      },
+      "properties": {
+        "date": "2019-02-03",
+        "name": "Harland Moor",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08482, 53.95697]
+      },
+      "properties": {
+        "date": "2019-02-14",
+        "name": "Teajuanas",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.070173, 53.95487]
+      },
+      "properties": {
+        "date": "2019-02-15",
+        "name": "The Rook & Gaskill",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084803, 53.95187]
+      },
+      "properties": {
+        "date": "2019-02-16",
+        "name": "Robinsons Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083742, 53.95937]
+      },
+      "properties": {
+        "date": "2019-02-17",
+        "name": "All Bar One",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08183, 53.96084]
+      },
+      "properties": {
+        "date": "2019-02-22",
+        "name": "Lucia Wine Bar & Grill",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.082993, 53.95657]
+      },
+      "properties": {
+        "date": "2019-02-27",
+        "name": "The Lowther (outside)",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084208, 53.95951]
+      },
+      "properties": {
+        "date": "2019-02-27",
+        "name": "Bill's",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.357044, 51.38501]
+      },
+      "properties": {
+        "date": "2019-02-28",
+        "name": "Henrietta Street",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.362982, 51.38144]
+      },
+      "properties": {
+        "date": "2019-02-28",
+        "name": "Boston Tea Party",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.357285, 51.3805]
+      },
+      "properties": {
+        "date": "2019-02-28",
+        "name": "Salathai",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.361823, 51.38278]
+      },
+      "properties": {
+        "date": "2019-02-28",
+        "name": "The Canary Gin Bar",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.360144, 51.38276]
+      },
+      "properties": {
+        "date": "2019-03-01",
+        "name": "The Whole Bagel",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.357556, 51.38328]
+      },
+      "properties": {
+        "date": "2019-03-01",
+        "name": "Pulteney Kitchen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.779344, 52.41274]
+      },
+      "properties": {
+        "date": "2019-03-01",
+        "name": "Touchwood Shopping Centre",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.77869, 52.41335]
+      },
+      "properties": {
+        "date": "2019-03-01",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.127703, 53.9753]
+      },
+      "properties": {
+        "date": "2019-03-02",
+        "name": "Energi Trampoline Park",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083451, 53.96065]
+      },
+      "properties": {
+        "date": "2019-03-03",
+        "name": "Kennedy's Bar & Restaurant",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085067, 53.95491]
+      },
+      "properties": {
+        "date": "2019-03-03",
+        "name": "Golden Ball",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07887, 53.95847]
+      },
+      "properties": {
+        "date": "2019-03-07",
+        "name": "Mumbai Lounge",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085634, 53.95815]
+      },
+      "properties": {
+        "date": "2019-03-08",
+        "name": "The Whippet Inn",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.048326, 53.98508]
+      },
+      "properties": {
+        "date": "2019-03-11",
+        "name": "Aldi",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085541, 53.96044]
+      },
+      "properties": {
+        "date": "2019-03-16",
+        "name": "Spring Espresso",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.611845, 54.48765]
+      },
+      "properties": {
+        "date": "2019-03-23",
+        "name": "Sanders Yard",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.615038, 54.49077]
+      },
+      "properties": {
+        "date": "2019-03-23",
+        "name": "The Fisherman's Wife",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.621269, 54.49048]
+      },
+      "properties": {
+        "date": "2019-03-23",
+        "name": "Arnold Palmer Putting Course",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.076351, 53.95768]
+      },
+      "properties": {
+        "date": "2019-03-23",
+        "name": "Brew York Craft Brewery & Tap Room",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0388, 53.39532]
+      },
+      "properties": {
+        "date": "2019-03-24",
+        "name": "Caffe Cream",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07924, 53.95886]
+      },
+      "properties": {
+        "date": "2019-03-30",
+        "name": "Sutlers",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.453639, 54.00695]
+      },
+      "properties": {
+        "date": "2019-03-31",
+        "name": "Lidl",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.35464, 51.59951]
+      },
+      "properties": {
+        "date": "2019-04-03",
+        "name": "The Extraordinary Hare",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.778678, 53.93026]
+      },
+      "properties": {
+        "date": "2019-04-07",
+        "name": "Black Bull",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.753883, 54.66504]
+      },
+      "properties": {
+        "date": "2019-04-13",
+        "name": "Wrights Coffee & Ice Cream",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.665566, 53.55182]
+      },
+      "properties": {
+        "date": "2019-04-18",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.63414, 53.50602]
+      },
+      "properties": {
+        "date": "2019-04-18",
+        "name": "Three Sisters Race Circuit",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.811988, 53.68347]
+      },
+      "properties": {
+        "date": "2019-04-18",
+        "name": "Dewsbury Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.929201, 53.67611]
+      },
+      "properties": {
+        "date": "2019-04-18",
+        "name": "The Fleece",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084257, 53.95213]
+      },
+      "properties": {
+        "date": "2019-04-18",
+        "name": "Angel on the Green",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.474402, 54.00954]
+      },
+      "properties": {
+        "date": "2019-04-21",
+        "name": "Worlds End",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.065915, 53.95864]
+      },
+      "properties": {
+        "date": "2019-04-24",
+        "name": "Hazel Court",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.723925, 51.52261]
+      },
+      "properties": {
+        "date": "2019-04-27",
+        "name": "Sheesh",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.405802, 51.30439]
+      },
+      "properties": {
+        "date": "2019-04-28",
+        "name": "Cobham Services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.130029, 51.09039]
+      },
+      "properties": {
+        "date": "2019-04-28",
+        "name": "Tesco",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.156879, 51.09419]
+      },
+      "properties": {
+        "date": "2019-04-28",
+        "name": "Premier Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.121703, 51.0956]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "Eurotunnel Le Shuttle",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.81355, 50.9357]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "Eurotunnel Calais Terminal",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.389834, 48.27974]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "Garage Walter",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.148338, 48.27256]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "Tunnel Maurice-Lemaire",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.563052, 47.57531]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "French-Swiss border",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60655, 47.40492]
+      },
+      "properties": {
+        "date": "2019-04-29",
+        "name": "Seidenstrasse 14",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60258, 47.4051]
+      },
+      "properties": {
+        "date": "2019-04-30",
+        "name": "Aldi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61894, 47.41247]
+      },
+      "properties": {
+        "date": "2019-05-04",
+        "name": "Green House",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61875, 47.41329]
+      },
+      "properties": {
+        "date": "2019-05-04",
+        "name": "Dietlikon Center",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.723839, 47.50024]
+      },
+      "properties": {
+        "date": "2019-05-05",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.783483, 47.36667]
+      },
+      "properties": {
+        "date": "2019-05-05",
+        "name": "Pfäffikon",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.639644, 47.35207]
+      },
+      "properties": {
+        "date": "2019-05-05",
+        "name": "Ebmatingen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.619085, 47.4011]
+      },
+      "properties": {
+        "date": "2019-05-07",
+        "name": "Im Grund",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.179782, 47.65253]
+      },
+      "properties": {
+        "date": "2019-05-11",
+        "name": "Parkplatz Hafen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.17831, 47.65497]
+      },
+      "properties": {
+        "date": "2019-05-11",
+        "name": "Kunstgrenze Konstanz-Kreuzlingen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.176089, 47.6569]
+      },
+      "properties": {
+        "date": "2019-05-11",
+        "name": "LAGO Shopping Center",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.177073, 47.65867]
+      },
+      "properties": {
+        "date": "2019-05-11",
+        "name": "Coffee Fellows",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.175826, 47.66031]
+      },
+      "properties": {
+        "date": "2019-05-11",
+        "name": "Konstanz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.878478, 47.36794]
+      },
+      "properties": {
+        "date": "2019-05-12",
+        "name": "Bauma",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.912528, 47.38711]
+      },
+      "properties": {
+        "date": "2019-05-12",
+        "name": "Sternenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71905, 47.74049]
+      },
+      "properties": {
+        "date": "2019-05-18",
+        "name": "Zollamt Thayngen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.765979, 47.75085]
+      },
+      "properties": {
+        "date": "2019-05-18",
+        "name": "A 81 Autobahn",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01402, 47.84976]
+      },
+      "properties": {
+        "date": "2019-05-18",
+        "name": "Rewe",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.010158, 47.85163]
+      },
+      "properties": {
+        "date": "2019-05-18",
+        "name": "Bäckerei Harder Stockach",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.538497, 47.3728]
+      },
+      "properties": {
+        "date": "2019-05-23",
+        "name": "Swatch",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.541361, 47.36892]
+      },
+      "properties": {
+        "date": "2019-05-23",
+        "name": "Lidl",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.546514, 47.36543]
+      },
+      "properties": {
+        "date": "2019-05-23",
+        "name": "Sechseläutenplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9345, 47.34385]
+      },
+      "properties": {
+        "date": "2019-05-26",
+        "name": "Schwarzengrundstrasse",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96086, 47.331]
+      },
+      "properties": {
+        "date": "2019-05-26",
+        "name": "Bärloch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97486, 47.32353]
+      },
+      "properties": {
+        "date": "2019-05-26",
+        "name": "Tierhag",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97958, 47.32565]
+      },
+      "properties": {
+        "date": "2019-05-26",
+        "name": "Schnebelhorn",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9731646, 47.33988]
+      },
+      "properties": {
+        "date": "2019-05-26",
+        "name": "Hirzegg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.96452, 48.62631]
+      },
+      "properties": {
+        "date": "2019-05-31",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.809412, 50.93403]
+      },
+      "properties": {
+        "date": "2019-05-31",
+        "name": "Cité Europe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.81463, 50.93423]
+      },
+      "properties": {
+        "date": "2019-05-31",
+        "name": "Calais Eurotunnel",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.060968, 53.38743]
+      },
+      "properties": {
+        "date": "2019-06-01",
+        "name": "Blyth Services",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.133825, 53.96187]
+      },
+      "properties": {
+        "date": "2019-06-01",
+        "name": "Jute Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08587, 53.9609]
+      },
+      "properties": {
+        "date": "2019-06-02",
+        "name": "Brew & Brownie Bakeshop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.080985, 53.95929]
+      },
+      "properties": {
+        "date": "2019-06-02",
+        "name": "The Market Cat",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08203, 53.96002]
+      },
+      "properties": {
+        "date": "2019-06-02",
+        "name": "The Cut & Craft",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54781, 47.35299]
+      },
+      "properties": {
+        "date": "2019-06-10",
+        "name": "Kleine Rundfahrt",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.617838, 47.39599]
+      },
+      "properties": {
+        "date": "2019-06-21",
+        "name": "Leepüntstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.622552, 47.41356]
+      },
+      "properties": {
+        "date": "2019-06-22",
+        "name": "Ikea",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.308982, 47.04979]
+      },
+      "properties": {
+        "date": "2019-06-23",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.310583, 47.05829]
+      },
+      "properties": {
+        "date": "2019-06-23",
+        "name": "Löwendenkmal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30716, 47.05205]
+      },
+      "properties": {
+        "date": "2019-06-23",
+        "name": "dieci Gelateria Luzern",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.078541, 53.95842]
+      },
+      "properties": {
+        "date": "2019-07-01",
+        "name": "Cosy Club",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.899122, 52.47774]
+      },
+      "properties": {
+        "date": "2019-07-03",
+        "name": "Birmingham New Street",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.936907, 52.45099]
+      },
+      "properties": {
+        "date": "2019-07-03",
+        "name": "University (Birmingham)",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.930826, 52.44901]
+      },
+      "properties": {
+        "date": "2019-07-03",
+        "name": "University of Birmingham",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.070163, 53.95616]
+      },
+      "properties": {
+        "date": "2019-07-13",
+        "name": "Enterprise",
+        "type": "Car rental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087271, 53.96053]
+      },
+      "properties": {
+        "date": "2019-07-13",
+        "name": "The Star in the City",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.613648, 47.41248]
+      },
+      "properties": {
+        "date": "2019-07-23",
+        "name": "Lidl",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.40483, 47.40589]
+      },
+      "properties": {
+        "date": "2019-07-27",
+        "name": "Dietikon",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.387913, 47.4141]
+      },
+      "properties": {
+        "date": "2019-07-27",
+        "name": "Zaiter Automobile",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.37395, 47.41838]
+      },
+      "properties": {
+        "date": "2019-07-27",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52032, 47.38845]
+      },
+      "properties": {
+        "date": "2019-08-01",
+        "name": "Hardbrücke",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.674966, 47.38004]
+      },
+      "properties": {
+        "date": "2019-08-02",
+        "name": "Obi",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.022178, 47.32352]
+      },
+      "properties": {
+        "date": "2019-08-04",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68167, 47.37347]
+      },
+      "properties": {
+        "date": "2019-08-07",
+        "name": "Lenzlinger Tankstellen",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94178, 47.37091]
+      },
+      "properties": {
+        "date": "2019-08-11",
+        "name": "Hörnli",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94066, 47.37461]
+      },
+      "properties": {
+        "date": "2019-08-11",
+        "name": "Chlihörnli",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96715, 47.36293]
+      },
+      "properties": {
+        "date": "2019-08-11",
+        "name": "Hulftegg",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08493, 53.95172]
+      },
+      "properties": {
+        "date": "2019-08-15",
+        "name": "Lal Quila",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.081911, 53.95765]
+      },
+      "properties": {
+        "date": "2019-08-16",
+        "name": "Drift-In",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.543339, 53.79665]
+      },
+      "properties": {
+        "date": "2019-08-17",
+        "name": "Giraffe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.541066, 53.80081]
+      },
+      "properties": {
+        "date": "2019-08-17",
+        "name": "Belgrave Music Hall & Canteen",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08249, 53.96035]
+      },
+      "properties": {
+        "date": "2019-08-18",
+        "name": "Luxury Ice Cream Co.",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.635745, 47.38314]
+      },
+      "properties": {
+        "date": "2019-08-27",
+        "name": "Hermikon",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.546673, 47.36638]
+      },
+      "properties": {
+        "date": "2019-08-30",
+        "name": "Santa Lucia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.318676, 47.05462]
+      },
+      "properties": {
+        "date": "2019-08-31",
+        "name": "Seebad Luzern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.54188, 46.87772]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Autogrill",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9122, 46.5732]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Weisse Lütschine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90731, 46.59511]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Airtime Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.68519, 46.68869]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Schachenstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.702645, 46.67509]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Faulensee",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.676043, 46.68944]
+      },
+      "properties": {
+        "date": "2019-09-02",
+        "name": "Bangkok Cuisine",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.714705, 46.49777]
+      },
+      "properties": {
+        "date": "2019-09-03",
+        "name": "Berghaus am Oeschinensee",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.709298, 46.67155]
+      },
+      "properties": {
+        "date": "2019-09-03",
+        "name": "Seebad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.707125, 46.63163]
+      },
+      "properties": {
+        "date": "2019-09-04",
+        "name": "Faltschen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.698054, 46.615]
+      },
+      "properties": {
+        "date": "2019-09-04",
+        "name": "Scharnachtal",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.667686, 46.73044]
+      },
+      "properties": {
+        "date": "2019-09-04",
+        "name": "Pier 17",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.539541, 47.3684]
+      },
+      "properties": {
+        "date": "2019-09-05",
+        "name": "Kafe Züri",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.540013, 47.37632]
+      },
+      "properties": {
+        "date": "2019-09-05",
+        "name": "D-Vino",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.529732, 47.3788]
+      },
+      "properties": {
+        "date": "2019-09-05",
+        "name": "Thach",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.541901, 47.37115]
+      },
+      "properties": {
+        "date": "2019-09-05",
+        "name": "Hotel Storchen",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.006595, 47.85086]
+      },
+      "properties": {
+        "date": "2019-09-06",
+        "name": "Edeka",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.544076, 47.37635]
+      },
+      "properties": {
+        "date": "2019-09-07",
+        "name": "Schurter",
+        "type": "Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.544154, 47.3766]
+      },
+      "properties": {
+        "date": "2019-09-08",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67856, 47.37439]
+      },
+      "properties": {
+        "date": "2019-09-11",
+        "name": "Happy Car Wash",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69037, 47.3433]
+      },
+      "properties": {
+        "date": "2019-09-15",
+        "name": "Niederuster Schiff",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68106, 47.36062]
+      },
+      "properties": {
+        "date": "2019-09-15",
+        "name": "Alpen Panorama",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41985, 47.02955]
+      },
+      "properties": {
+        "date": "2019-09-18",
+        "name": "Hotel Alexander",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43328, 47.03173]
+      },
+      "properties": {
+        "date": "2019-09-18",
+        "name": "Weggis",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46535, 47.04393]
+      },
+      "properties": {
+        "date": "2019-09-19",
+        "name": "Rigi Kaltbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46837, 47.04817]
+      },
+      "properties": {
+        "date": "2019-09-19",
+        "name": "Rigi Rotstock",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49237, 47.05113]
+      },
+      "properties": {
+        "date": "2019-09-19",
+        "name": "Chäserenholz",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48266, 47.00944]
+      },
+      "properties": {
+        "date": "2019-09-19",
+        "name": "Vitznau",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67187, 47.38157]
+      },
+      "properties": {
+        "date": "2019-09-22",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56656, 47.42377]
+      },
+      "properties": {
+        "date": "2019-09-24",
+        "name": "Glattpark",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.762394, 45.19393]
+      },
+      "properties": {
+        "date": "2019-09-26",
+        "name": "Université Grenoble Alpes",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72723, 45.19037]
+      },
+      "properties": {
+        "date": "2019-09-26",
+        "name": "Hotel De L'europe",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.728504, 45.19288]
+      },
+      "properties": {
+        "date": "2019-09-26",
+        "name": "Brasserie L'autre Table",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.730576, 45.19026]
+      },
+      "properties": {
+        "date": "2019-09-27",
+        "name": "Au Chardon Bleu",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72436, 45.19866]
+      },
+      "properties": {
+        "date": "2019-09-27",
+        "name": "The Bastille",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.7252, 45.19866]
+      },
+      "properties": {
+        "date": "2019-09-27",
+        "name": "Belvédère Vauban",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72607, 45.19296]
+      },
+      "properties": {
+        "date": "2019-09-27",
+        "name": "Gare du téléphérique",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.71436, 45.19135]
+      },
+      "properties": {
+        "date": "2019-09-27",
+        "name": "Gare de Grenoble",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.083156, 53.96168]
+      },
+      "properties": {
+        "date": "2019-09-29",
+        "name": "Guy Fawkes Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.617063, 54.96863]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Newcastle",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.616849, 54.96947]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.613155, 54.97383]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Grey’s Monument",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.428437, 55.01731]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Tynemouth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.42052, 55.01863]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Riley’s Fish Shack",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.423081, 55.02335]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Tynemouth Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.599478, 54.97051]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Pitcher & Piano Newcastle",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.60437, 54.96926]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Charts",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.611173, 54.97244]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "Dabbawal",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.616687, 54.96963]
+      },
+      "properties": {
+        "date": "2019-10-05",
+        "name": "The Hudson",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.563059, 47.39295]
+      },
+      "properties": {
+        "date": "2019-10-07",
+        "name": "Waldhüsli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.564805, 47.45398]
+      },
+      "properties": {
+        "date": "2019-10-10",
+        "name": "Operation Center 1",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98492, 47.3194]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Schindelberghöchi",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96891, 47.30942]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Hintere Töss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95763, 47.3176]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Wasserfall Lauf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93457, 47.34945]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Café Voland",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56217, 47.3896]
+      },
+      "properties": {
+        "date": "2019-10-19",
+        "name": "Moosholzweiher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99513, 47.28467]
+      },
+      "properties": {
+        "date": "2019-10-20",
+        "name": "Atzmännig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00769, 47.27841]
+      },
+      "properties": {
+        "date": "2019-10-20",
+        "name": "Atzmännig Bergstation",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02034, 47.2981]
+      },
+      "properties": {
+        "date": "2019-10-20",
+        "name": "Chrüzegg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01477, 47.29843]
+      },
+      "properties": {
+        "date": "2019-10-20",
+        "name": "Chrüzegg",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01077, 47.29919]
+      },
+      "properties": {
+        "date": "2019-10-20",
+        "name": "Chümibarren",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54325, 47.37996]
+      },
+      "properties": {
+        "date": "2019-10-23",
+        "name": "Ora Thai",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.081889, 53.96009]
+      },
+      "properties": {
+        "date": "2019-10-26",
+        "name": "Victor J’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.077128, 53.95485]
+      },
+      "properties": {
+        "date": "2019-10-26",
+        "name": "Travelodge York Central",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.077524, 53.95681]
+      },
+      "properties": {
+        "date": "2019-10-27",
+        "name": "Spark York",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.067174, 53.95689]
+      },
+      "properties": {
+        "date": "2019-10-28",
+        "name": "Atlas Physio",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.085043, 53.95165]
+      },
+      "properties": {
+        "date": "2019-10-28",
+        "name": "Rice Style",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9176, 54.418]
+      },
+      "properties": {
+        "date": "2019-11-01",
+        "name": "New Way",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0703, 54.2416]
+      },
+      "properties": {
+        "date": "2019-11-01",
+        "name": "Helmsley Castle grounds",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54789, 47.37998]
+      },
+      "properties": {
+        "date": "2019-11-05",
+        "name": "Vintage Massage",
+        "type": "Health"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43749, 46.94702]
+      },
+      "properties": {
+        "date": "2019-11-06",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43244, 46.94684]
+      },
+      "properties": {
+        "date": "2019-11-06",
+        "name": "Haus der Universität",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.47999, 46.97358]
+      },
+      "properties": {
+        "date": "2019-11-08",
+        "name": "Bundesamt für Umwelt (BAFU)",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.606984, 47.40333]
+      },
+      "properties": {
+        "date": "2019-11-11",
+        "name": "Bergamaschini",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53367, 47.38478]
+      },
+      "properties": {
+        "date": "2019-11-24",
+        "name": "Auer & Co",
+        "type": "Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.506852, 47.40868]
+      },
+      "properties": {
+        "date": "2019-11-27",
+        "name": "ETH Hönggerberg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58409, 47.38544]
+      },
+      "properties": {
+        "date": "2019-11-28",
+        "name": "Sagentobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.039969, 47.36265]
+      },
+      "properties": {
+        "date": "2019-12-01",
+        "name": "Mosnang",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.619753, 47.39807]
+      },
+      "properties": {
+        "date": "2019-12-03",
+        "name": "my senses",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.539902, 47.37009]
+      },
+      "properties": {
+        "date": "2019-12-04",
+        "name": "Santa Lucia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.175152, 47.65852]
+      },
+      "properties": {
+        "date": "2019-12-05",
+        "name": "Karma Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39093, 37.61617]
+      },
+      "properties": {
+        "date": "2019-12-07",
+        "name": "San Francisco International Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39671, 37.79295]
+      },
+      "properties": {
+        "date": "2019-12-07",
+        "name": "Embarcadero Station",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.400756, 37.79515]
+      },
+      "properties": {
+        "date": "2019-12-07",
+        "name": "Club Quarters Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.408597, 37.79007]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "Roxanne's Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.395095, 37.7968]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "Embarcadero",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.424913, 37.81072]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "Municipal Pier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.407445, 37.78749]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "Union Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.403834, 37.78327]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "Moscone West",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.406252, 37.79777]
+      },
+      "properties": {
+        "date": "2019-12-08",
+        "name": "E' Tutto Qua",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41894, 37.80208]
+      },
+      "properties": {
+        "date": "2019-12-09",
+        "name": "Lombard Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40569, 37.80212]
+      },
+      "properties": {
+        "date": "2019-12-09",
+        "name": "Coit Tower",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40407, 37.80205]
+      },
+      "properties": {
+        "date": "2019-12-09",
+        "name": "Filbert Steps",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.398827, 37.78352]
+      },
+      "properties": {
+        "date": "2019-12-09",
+        "name": "Chaat Corner",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.395607, 37.79481]
+      },
+      "properties": {
+        "date": "2019-12-09",
+        "name": "Osha Thai Restaurant & Lounge",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4112, 37.8108]
+      },
+      "properties": {
+        "date": "2019-12-10",
+        "name": "Sea lions",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.405956, 37.79624]
+      },
+      "properties": {
+        "date": "2019-12-10",
+        "name": "Bund Shanghai Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38548, 37.77847]
+      },
+      "properties": {
+        "date": "2019-12-11",
+        "name": "South Beach Harbor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41525, 37.80411]
+      },
+      "properties": {
+        "date": "2019-12-11",
+        "name": "Kennedy's Irish Pub & Curry House",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39925, 37.7935]
+      },
+      "properties": {
+        "date": "2019-12-12",
+        "name": "Barbacco",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.432805, 37.77625]
+      },
+      "properties": {
+        "date": "2019-12-13",
+        "name": "The Painted Ladies",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.418637, 37.77936]
+      },
+      "properties": {
+        "date": "2019-12-13",
+        "name": "San Francisco City Hall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.408004, 37.79901]
+      },
+      "properties": {
+        "date": "2019-12-13",
+        "name": "Original U.S. Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47472, 37.80768]
+      },
+      "properties": {
+        "date": "2019-12-14",
+        "name": "Golden Gate Welcome Center",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4785, 37.8183]
+      },
+      "properties": {
+        "date": "2019-12-14",
+        "name": "Golden Gate Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47971, 37.8324]
+      },
+      "properties": {
+        "date": "2019-12-14",
+        "name": "Golden Gate Bridge Vista Point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.48172, 37.82773]
+      },
+      "properties": {
+        "date": "2019-12-14",
+        "name": "Battery Spencer",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47993, 37.85667]
+      },
+      "properties": {
+        "date": "2019-12-14",
+        "name": "Sausalito",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44841, 37.80292]
+      },
+      "properties": {
+        "date": "2019-12-15",
+        "name": "The Palace Of Fine Arts",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.454265, 37.80627]
+      },
+      "properties": {
+        "date": "2019-12-15",
+        "name": "Crissy Field",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.429677, 37.80678]
+      },
+      "properties": {
+        "date": "2019-12-15",
+        "name": "Fort Mason",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39388, 37.79634]
+      },
+      "properties": {
+        "date": "2019-12-15",
+        "name": "The Slanted Door",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40423, 37.80293]
+      },
+      "properties": {
+        "date": "2019-12-16",
+        "name": "Greenwich Stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85335, 47.31105]
+      },
+      "properties": {
+        "date": "2020-01-12",
+        "name": "Ringwiler Weiher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88572, 47.29419]
+      },
+      "properties": {
+        "date": "2020-01-12",
+        "name": "Bachtel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86711, 47.30883]
+      },
+      "properties": {
+        "date": "2020-01-12",
+        "name": "Ruine Bernegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85658, 47.30839]
+      },
+      "properties": {
+        "date": "2020-01-12",
+        "name": "Waldbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.818427, 47.22699]
+      },
+      "properties": {
+        "date": "2020-01-19",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46613, 47.04372]
+      },
+      "properties": {
+        "date": "2020-01-22",
+        "name": "Mineralbad & Spa Rigi Kaltbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.295822, 47.05265]
+      },
+      "properties": {
+        "date": "2020-01-22",
+        "name": "GourmIndia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.298239, 47.05139]
+      },
+      "properties": {
+        "date": "2020-01-22",
+        "name": "Aldi car park",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.300726, 47.05289]
+      },
+      "properties": {
+        "date": "2020-01-22",
+        "name": "The Tourist Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.653, 47.36009]
+      },
+      "properties": {
+        "date": "2020-01-25",
+        "name": "Jugendherberge",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6181, 47.33678]
+      },
+      "properties": {
+        "date": "2020-01-25",
+        "name": "Hausammann",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52442, 47.38787]
+      },
+      "properties": {
+        "date": "2020-01-25",
+        "name": "Don Weber",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.534737, 47.373]
+      },
+      "properties": {
+        "date": "2020-01-30",
+        "name": "TLScontact",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55312, 47.38808]
+      },
+      "properties": {
+        "date": "2020-02-09",
+        "name": "Rigiblick",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55956, 47.38453]
+      },
+      "properties": {
+        "date": "2020-02-09",
+        "name": "Susenbergstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.533221, 47.37732]
+      },
+      "properties": {
+        "date": "2020-02-14",
+        "name": "Kennedy's",
+        "type": "Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.28337, 47.31731]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Urnäsch",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.308141, 47.2558]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Schwägalp Passhöhe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31841, 47.2562]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Schwägalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31757, 47.25647]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Säntis-Schwebebahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.343223, 47.24936]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Säntis",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.40799, 47.3318]
+      },
+      "properties": {
+        "date": "2020-02-16",
+        "name": "Appenzell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.539257, 47.3777]
+      },
+      "properties": {
+        "date": "2020-02-17",
+        "name": "TIME….",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.23075, 53.47743]
+      },
+      "properties": {
+        "date": "2020-02-23",
+        "name": "Manchester Piccadilly",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084829, 53.96273]
+      },
+      "properties": {
+        "date": "2020-02-23",
+        "name": "The Lamp and Lion",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.084014, 53.95494]
+      },
+      "properties": {
+        "date": "2020-02-23",
+        "name": "Middletons",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.679573, 47.36781]
+      },
+      "properties": {
+        "date": "2020-03-07",
+        "name": "Zentrum Meierwis",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95347, 47.39742]
+      },
+      "properties": {
+        "date": "2020-03-08",
+        "name": "Au",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.908805, 47.56411]
+      },
+      "properties": {
+        "date": "2020-03-10",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.967252, 47.41185]
+      },
+      "properties": {
+        "date": "2020-03-15",
+        "name": "Fischingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.180938, 47.46267]
+      },
+      "properties": {
+        "date": "2020-03-22",
+        "name": "Schloss Habsburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.211384, 47.48577]
+      },
+      "properties": {
+        "date": "2020-03-22",
+        "name": "Casinobrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.214744, 47.52629]
+      },
+      "properties": {
+        "date": "2020-03-22",
+        "name": "Villigen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.224729, 47.55509]
+      },
+      "properties": {
+        "date": "2020-03-22",
+        "name": "Schloss Böttstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63812, 47.41649]
+      },
+      "properties": {
+        "date": "2020-04-10",
+        "name": "Radar station",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65004, 47.41274]
+      },
+      "properties": {
+        "date": "2020-04-10",
+        "name": "Transmission tower",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6712, 47.4055]
+      },
+      "properties": {
+        "date": "2020-04-11",
+        "name": "Wangenerwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65497, 47.4127]
+      },
+      "properties": {
+        "date": "2020-04-11",
+        "name": "Kantonsmittelpunkt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94554, 47.32816]
+      },
+      "properties": {
+        "date": "2020-05-03",
+        "name": "Wasserfall Buri",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9363, 47.32757]
+      },
+      "properties": {
+        "date": "2020-05-03",
+        "name": "Tannen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94874, 47.31311]
+      },
+      "properties": {
+        "date": "2020-05-03",
+        "name": "Hüttchopf",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440401, 46.95012]
+      },
+      "properties": {
+        "date": "2020-05-07",
+        "name": "Bollwerk",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44432, 46.94958]
+      },
+      "properties": {
+        "date": "2020-05-07",
+        "name": "Waisenhausplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.541373, 47.20969]
+      },
+      "properties": {
+        "date": "2020-05-07",
+        "name": "Solothurn Baseltor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.671418, 47.38099]
+      },
+      "properties": {
+        "date": "2020-05-07",
+        "name": "KFC",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96516, 47.3195]
+      },
+      "properties": {
+        "date": "2020-05-10",
+        "name": "Sennhütte",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70331, 47.4507]
+      },
+      "properties": {
+        "date": "2020-05-17",
+        "name": "Kemptthal",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74362, 47.45671]
+      },
+      "properties": {
+        "date": "2020-05-17",
+        "name": "Kyburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71498, 47.44972]
+      },
+      "properties": {
+        "date": "2020-05-22",
+        "name": "Südlichster Punkt von Winterthur",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73197, 47.45767]
+      },
+      "properties": {
+        "date": "2020-05-22",
+        "name": "Tösstal",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74397, 47.45813]
+      },
+      "properties": {
+        "date": "2020-05-22",
+        "name": "Schloss Kyburg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.538587, 47.20814]
+      },
+      "properties": {
+        "date": "2020-06-01",
+        "name": "Solothurn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.539324, 47.20631]
+      },
+      "properties": {
+        "date": "2020-06-01",
+        "name": "Kreuzackerbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.535953, 47.20603]
+      },
+      "properties": {
+        "date": "2020-06-01",
+        "name": "Landhausquai",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.492578, 47.23667]
+      },
+      "properties": {
+        "date": "2020-06-01",
+        "name": "Weissenstein Talstation",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.558847, 47.25083]
+      },
+      "properties": {
+        "date": "2020-06-01",
+        "name": "Balm",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75981, 47.142]
+      },
+      "properties": {
+        "date": "2020-06-21",
+        "name": "Etzelstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76724, 47.16744]
+      },
+      "properties": {
+        "date": "2020-06-21",
+        "name": "Teufelsbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77227, 47.17349]
+      },
+      "properties": {
+        "date": "2020-06-21",
+        "name": "Etzelpass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76738, 47.17758]
+      },
+      "properties": {
+        "date": "2020-06-21",
+        "name": "Etzel Kulm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77927, 47.13045]
+      },
+      "properties": {
+        "date": "2020-06-21",
+        "name": "Viadukt Willerzell",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.491176, 47.38187]
+      },
+      "properties": {
+        "date": "2020-06-27",
+        "name": "Robi Müller Automobile",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62655, 47.39076]
+      },
+      "properties": {
+        "date": "2020-07-12",
+        "name": "Im Chreis mini golf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62716, 47.38961]
+      },
+      "properties": {
+        "date": "2020-07-12",
+        "name": "Dübi Ice Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62372, 47.39399]
+      },
+      "properties": {
+        "date": "2020-07-12",
+        "name": "Freibad Oberdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.573956, 47.38427]
+      },
+      "properties": {
+        "date": "2020-07-13",
+        "name": "Zürich Zoo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30612, 47.04971]
+      },
+      "properties": {
+        "date": "2020-07-19",
+        "name": "Kantonalbank Parking",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3074, 47.05217]
+      },
+      "properties": {
+        "date": "2020-07-19",
+        "name": "Mr. PickWick Pub",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63489, 47.38138]
+      },
+      "properties": {
+        "date": "2020-07-25",
+        "name": "Grillplatz Fällanden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.81606, 47.22561]
+      },
+      "properties": {
+        "date": "2020-08-01",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.53123, 46.85223]
+      },
+      "properties": {
+        "date": "2020-08-06",
+        "name": "Chur",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.85521, 46.82452]
+      },
+      "properties": {
+        "date": "2020-08-06",
+        "name": "Davosersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.85422, 46.82448]
+      },
+      "properties": {
+        "date": "2020-08-06",
+        "name": "Seebüel",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.8358, 46.80168]
+      },
+      "properties": {
+        "date": "2020-08-06",
+        "name": "Davos",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.83428, 46.80143]
+      },
+      "properties": {
+        "date": "2020-08-06",
+        "name": "Lokal",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.82253, 46.8026]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Bobbahnstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.81776, 46.8042]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Strelaalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.81237, 46.80719]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Strelaalp ski lift",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.94758, 46.75012]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Flüela Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.07883, 46.72837]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Upper Engadine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.8389, 46.48887]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "St. Moritz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.83912, 46.48881]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Soul Food Trailer",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.02157, 46.41087]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Ospizio Bernina",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.02234, 46.40924]
+      },
+      "properties": {
+        "date": "2020-08-07",
+        "name": "Bernina Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.522, 47.13981]
+      },
+      "properties": {
+        "date": "2020-08-08",
+        "name": "American Bagel & Coffee Co.",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.52239, 47.14066]
+      },
+      "properties": {
+        "date": "2020-08-08",
+        "name": "Vaduz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.06994, 47.03945]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Glarus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99908, 46.91967]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Linthal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90078, 46.88995]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Urnerboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85544, 46.86819]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Klausen Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.83685, 46.87229]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Klausen Pass Hotel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6439, 46.88166]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Altdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62566, 46.90208]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Flüelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63394, 46.90637]
+      },
+      "properties": {
+        "date": "2020-08-16",
+        "name": "Bannwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.32793, 47.1885]
+      },
+      "properties": {
+        "date": "2020-08-23",
+        "name": "Schwendi",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31181, 47.18482]
+      },
+      "properties": {
+        "date": "2020-08-23",
+        "name": "Iltios",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.29643, 47.1826]
+      },
+      "properties": {
+        "date": "2020-08-23",
+        "name": "Selamatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.30209, 47.17062]
+      },
+      "properties": {
+        "date": "2020-08-23",
+        "name": "Ruestel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.37152, 47.42282]
+      },
+      "properties": {
+        "date": "2020-08-30",
+        "name": "St. Gallen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.379619, 47.41944]
+      },
+      "properties": {
+        "date": "2020-08-30",
+        "name": "Mühlegg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34372, 47.37263]
+      },
+      "properties": {
+        "date": "2020-08-30",
+        "name": "Stein",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.23198, 47.24283]
+      },
+      "properties": {
+        "date": "2020-08-30",
+        "name": "Schwägalpstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.521803, 47.57525]
+      },
+      "properties": {
+        "date": "2020-09-01",
+        "name": "Eglisau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.570884, 47.61396]
+      },
+      "properties": {
+        "date": "2020-09-01",
+        "name": "Zollamt Lottstetten",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.565178, 47.64765]
+      },
+      "properties": {
+        "date": "2020-09-01",
+        "name": "EDEKA",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.574636, 47.65424]
+      },
+      "properties": {
+        "date": "2020-09-01",
+        "name": "Aldi",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.13698, 46.75687]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Brünig Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90877, 46.59819]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Parkhaus Lauterbrunnen",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90351, 46.58905]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Staubbachhittli",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.89609, 46.58204]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Winteregg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.89393, 46.55977]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Mürren",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.89199, 46.54642]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Gimmelwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90181, 46.55514]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Schilthornbahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.447519, 46.72951]
+      },
+      "properties": {
+        "date": "2020-09-05",
+        "name": "Susten Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5932, 46.6365]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Andermatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5671, 46.55581]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Saint Gotthard Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.38781, 46.47715]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Nufenen Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30629, 46.50721]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Ulrichen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.36137, 46.56215]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Gletsch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.33738, 46.56133]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Grimsel Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41511, 46.5727]
+      },
+      "properties": {
+        "date": "2020-09-12",
+        "name": "Furka Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.39006, 47.46243]
+      },
+      "properties": {
+        "date": "2020-09-13",
+        "name": "Otelfingen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.160847, 46.67828]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Ova Spin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.29246, 46.63967]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Ofenpass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.42429, 46.60159]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Santa Maria Val Müstair",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.458535, 46.63529]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Zoll Müstair",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.452778, 46.52861]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Stelvio Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.43318, 46.54168]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Umbrail Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.423672, 46.60127]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Café Fuschina",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.296552, 46.79476]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Scuol",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.205147, 46.77431]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Chastè Steinsberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.203164, 46.77516]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Ardez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.836461, 46.80309]
+      },
+      "properties": {
+        "date": "2020-09-19",
+        "name": "Davos Inn",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.86066, 46.84979]
+      },
+      "properties": {
+        "date": "2020-09-20",
+        "name": "Schwarzseealp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.84632, 46.8584]
+      },
+      "properties": {
+        "date": "2020-09-20",
+        "name": "Gotschnagrat",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.09838, 47.13528]
+      },
+      "properties": {
+        "date": "2020-09-27",
+        "name": "Weesen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.14156, 47.14911]
+      },
+      "properties": {
+        "date": "2020-09-27",
+        "name": "Amden",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.17395, 47.14725]
+      },
+      "properties": {
+        "date": "2020-09-27",
+        "name": "Arvenbüel",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19579, 47.15075]
+      },
+      "properties": {
+        "date": "2020-09-27",
+        "name": "Egg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.52463, 47.13916]
+      },
+      "properties": {
+        "date": "2020-09-27",
+        "name": "Schloss Vaduz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.15112, 46.80315]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "Fribourg",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.14826, 46.79677]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "Particle Vision",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.151787, 46.80016]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "BARRIO",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16331, 46.80259]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "Fribourg Old Town",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16736, 46.80261]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "Mittlere Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1651, 46.80499]
+      },
+      "properties": {
+        "date": "2020-10-09",
+        "name": "Café du Belvédère",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78179, 46.86423]
+      },
+      "properties": {
+        "date": "2020-10-18",
+        "name": "Ribi",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.81532, 46.86525]
+      },
+      "properties": {
+        "date": "2020-10-18",
+        "name": "Alp Aesch",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82676, 46.86641]
+      },
+      "properties": {
+        "date": "2020-10-18",
+        "name": "Balmwand",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00445, 47.03614]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Klöntalersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98844, 47.04284]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Schwämmli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0037, 47.03095]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Güntlenau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0198, 47.03103]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Sackbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01307, 47.0343]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Schwammhöchi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.071166, 47.03946]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Gastrorollbar",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62679, 46.89575]
+      },
+      "properties": {
+        "date": "2020-10-25",
+        "name": "Burger King",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.15924, 47.52836]
+      },
+      "properties": {
+        "date": "2020-10-31",
+        "name": "Bürersteig Passhöhe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.11157, 47.56908]
+      },
+      "properties": {
+        "date": "2020-10-31",
+        "name": "Etzgen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.12389, 47.5181]
+      },
+      "properties": {
+        "date": "2020-10-31",
+        "name": "Ampferehöchi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.209313, 47.15247]
+      },
+      "properties": {
+        "date": "2020-11-01",
+        "name": "First",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.21342, 47.14605]
+      },
+      "properties": {
+        "date": "2020-11-01",
+        "name": "Leistchamm",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.477532, 47.50961]
+      },
+      "properties": {
+        "date": "2020-11-02",
+        "name": "Sandbuckstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.47785, 47.51176]
+      },
+      "properties": {
+        "date": "2020-11-04",
+        "name": "Reidpark",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31407, 47.12303]
+      },
+      "properties": {
+        "date": "2020-11-07",
+        "name": "Walenstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.30214, 47.12793]
+      },
+      "properties": {
+        "date": "2020-11-07",
+        "name": "Bini’s Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.28158, 47.13413]
+      },
+      "properties": {
+        "date": "2020-11-07",
+        "name": "Frachtina",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.28522, 47.14073]
+      },
+      "properties": {
+        "date": "2020-11-07",
+        "name": "Rehazentrum Walenstadtberg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59174, 47.40602]
+      },
+      "properties": {
+        "date": "2020-11-07",
+        "name": "Domino’s Pizza",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49334, 47.51058]
+      },
+      "properties": {
+        "date": "2020-11-08",
+        "name": "Höriberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78581, 47.34209]
+      },
+      "properties": {
+        "date": "2020-11-14",
+        "name": "Pfäffikersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2337227, 47.11056]
+      },
+      "properties": {
+        "date": "2020-11-21",
+        "name": "Neuenkirch West services",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5560417, 46.94218]
+      },
+      "properties": {
+        "date": "2020-11-21",
+        "name": "Seelisberg Tunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7714413, 46.86367]
+      },
+      "properties": {
+        "date": "2020-11-21",
+        "name": "Hubrol Unterschächen",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7925653, 46.87246]
+      },
+      "properties": {
+        "date": "2020-11-21",
+        "name": "Seeliwald tunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.05871, 47.05078]
+      },
+      "properties": {
+        "date": "2020-11-22",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02887, 46.62909]
+      },
+      "properties": {
+        "date": "2020-11-28",
+        "name": "Jugendherberge Grindelwald",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02461, 46.64583]
+      },
+      "properties": {
+        "date": "2020-11-28",
+        "name": "Holewang",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.66812, 46.68504]
+      },
+      "properties": {
+        "date": "2020-11-28",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1175634, 46.99822]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Sernftal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1703868, 46.91943]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Elm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1434236, 46.90625]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Steinibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1459331, 46.98359]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Kleintal-Garage",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.13473, 47.13823]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Walensee Caves",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.14597, 47.13444]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Betlis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.14733, 47.13506]
+      },
+      "properties": {
+        "date": "2020-12-12",
+        "name": "Burgruine Strahlegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6157, 47.3791]
+      },
+      "properties": {
+        "date": "2020-12-13",
+        "name": "Waldmannsburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6235, 47.3723]
+      },
+      "properties": {
+        "date": "2020-12-13",
+        "name": "Waldmannsburg Forest",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.17798, 46.82064]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "OWI Land",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.81847, 46.68807]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "Luegibrüggli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.80953, 46.70346]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "Waldegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.78342, 46.69129]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "Beatenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.75477, 46.69338]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "Waldbrand",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.75218, 46.69542]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "Viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.85382, 46.68453]
+      },
+      "properties": {
+        "date": "2020-12-19",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.16427, 47.13809]
+      },
+      "properties": {
+        "date": "2020-12-24",
+        "name": "Seerenbachfälle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48749, 47.35183]
+      },
+      "properties": {
+        "date": "2020-12-27",
+        "name": "Uetliberg",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.47294, 47.57499]
+      },
+      "properties": {
+        "date": "2020-12-27",
+        "name": "Kraftwerk Eglisau-Glattfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53394, 47.57372]
+      },
+      "properties": {
+        "date": "2020-12-27",
+        "name": "Eglisau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91947, 47.10522]
+      },
+      "properties": {
+        "date": "2020-12-29",
+        "name": "Innerthal",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91164, 47.065]
+      },
+      "properties": {
+        "date": "2020-12-29",
+        "name": "Wägitalersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75212, 47.1963]
+      },
+      "properties": {
+        "date": "2020-12-29",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5479492, 47.4041]
+      },
+      "properties": {
+        "date": "2020-12-29",
+        "name": "Lian Hua",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7811, 47.36415]
+      },
+      "properties": {
+        "date": "2020-12-31",
+        "name": "Pfäffikersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7938957, 47.36037]
+      },
+      "properties": {
+        "date": "2020-12-31",
+        "name": "Lenzlinger Söhne AG Tankstelle",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.85768, 46.56188]
+      },
+      "properties": {
+        "date": "2021-01-01",
+        "name": "Brig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.83507, 46.55726]
+      },
+      "properties": {
+        "date": "2021-01-01",
+        "name": "Schilthorn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.85801, 46.56169]
+      },
+      "properties": {
+        "date": "2021-01-01",
+        "name": "Thrill Walk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93845, 47.02312]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Steppel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94623, 47.0263]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Vorauen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91172, 47.02279]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Richisau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.48941, 47.16909]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Rheinbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.47416, 47.16623]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Bucks",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41, 47.19643]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Wildhauserstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7213, 47.31003]
+      },
+      "properties": {
+        "date": "2021-01-05",
+        "name": "Mönchaltorf",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49002, 47.58127]
+      },
+      "properties": {
+        "date": "2021-01-06",
+        "name": "Grenzweg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.69697, 46.50204]
+      },
+      "properties": {
+        "date": "2021-01-08",
+        "name": "Oeschinen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.71386, 46.50076]
+      },
+      "properties": {
+        "date": "2021-01-08",
+        "name": "Läger",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6746154, 46.68999]
+      },
+      "properties": {
+        "date": "2021-01-08",
+        "name": "Mia Osteria",
+        "type": "Food"
+      }
+    }
+  ]
+}];

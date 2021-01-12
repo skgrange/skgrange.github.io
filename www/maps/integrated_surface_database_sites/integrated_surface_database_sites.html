@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content=
+    "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    name="viewport">
+    <title>Integrated surface database (ISD) sites</title>
+    <link href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" rel=
+    "stylesheet">
+    <style>
+  * { margin: 0; padding: 0; }
+      html, body { height: 100%; }
+      #map { width:100%; height:100%; }
+    </style>
+    	<style type="text/css">
+		table, td {
+			border-collapse: collapse;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #e9e9e9;
+			padding: 5px;
+		}
+		.evenrowcol{
+			background-color: #f6f6f6;
+		}
+	</style>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="data/integrated_surface_database_sites_data.js"></script>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-91054889-6', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body>	
+	<div id="map"></div>
+	<script src="../common_resources/leaflet_base_layers.js"></script>
+  <script src="../common_resources/leaflet_functions.js"></script>
+	<script src="integrated_surface_database_sites.js"></script>
+</body>
+</html>

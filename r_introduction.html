@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>R resources</title>
+
+<script src="libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="libs/navigation-1.1/tabsets.js"></script>
+<link href="libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!-- Global home -->
+      <a class="navbar-brand" href="index.html"><b>Home</b></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+        <!-- Dropdown -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tracking<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown-header"><b>Active activities</b></li>
+              <li><a href="running_log.html">Running Log</a></li>
+              <li><a href="fuel_efficiency.html">Fuel efficiency</a></li>
+              <li><a href="www/maps/location_tracking/location_tracking.html" target = "_blank">Location tracking</a></li>
+            </ul>
+        </li>
+        
+        <!-- Dropdown -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mapping<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+
+              <li class="dropdown-header"><b>Air quality databases</b></li>
+              <li><a href="www/maps/smonitor_europe_sites/smonitor_europe_sites.html" target = "_blank"><b>smonitor</b> Europe sites</a></li>
+              <li><a href="www/maps/smonitor_new_zealand_sites/smonitor_new_zealand_sites.html" target = "_blank"><b>smonitor</b> New Zealand sites</a></li>
+              <li><a href="www/maps/integrated_surface_database_sites/integrated_surface_database_sites.html" target = "_blank">Integrated surface database (ISD) sites</a></li>
+              
+              <li class="divider"></li>
+              <li class="dropdown-header"><b>Other</b></li>
+              <li><a href="www/maps/climate_averages/climate_averages.html" target = "_blank">Climate averages</a></li>
+              <li><a href="www/maps/events/event_links" target = "_blank">Maps of events</a></li>
+            </ul>
+        </li>
+        
+        <!-- Dropdown -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">R resources<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="r_introduction.html">Introduction</a></li>
+              <li><a href="r_set_up.html">R Set-up</a></li>
+              <li><a href="date_handling.html">Date handling</a></li>
+            </ul>
+        </li>
+        
+        <!-- Normal tab -->
+        <li><a href="www/figures/figure_links">Figures</a></li>
+        
+        <!-- Normal tab -->
+        <li><a href="data.html">Data</a></li>
+
+      </ul>
+      
+      <!-- Right hand tab -->
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="about.html"><b>About</b></a></li>
+      </ul>
+      
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">R resources</h1>
+
+</div>
+
+
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>R is a programming language which is usually described as an environment for statistical computing. Despite R’s domain-specific nature, it has become one of the primary tools for reading, cleaning, tidying, manipulating, exploring, and visualising data. Therefore, R’s abilities extend beyond statistical analyses to most other areas which involve interaction with data. Unlike many other other statistical products, R is free and open-source and has an extremely active community of developers, enthusiasts, and users.</p>
+<p>R’s open-source licence has resulted in a huge amount of reproducible R code, most of which is also free and open-source and bound together as downloadable <em>packages</em> which can be used by others. Over 7 000 packages are officially available on the Comprehensive R Archive Network (CRAN) with (probably) thousands more available on GitHub and similar services. This depth and diversity of community development has made R a mature and powerful tool. R continues to increase in popularity, functionality, and scope and can most likely help you if handle data regularly.</p>
+</div>
+<div id="history" class="section level2">
+<h2>History</h2>
+<p>R has a rather convoluted history and begun life as the S programming language in 1976. S was developed at Bell Laboratories, the same laboratory which produced C, C++, and the Unix operating system. R was first released in 1993 by Ross Ihaka and Robert Gentleman after many years work at the University of Auckland, New Zealand.</p>
+<p>After R’s initial release, the functionality and robustness of the language increased, but R remained a rather obscure product. However, more and more users begun to pick-up R when they needed or desired a free statistical package. At some point R ceased to be an exclusive statistical tool and became more utilitarian for data interaction tasks.</p>
+<p>R can now read and manipulate almost any data format, has a wide range of data-classes, has powerful packages and functions for data manipulation, and can integrate code with different types of reporting. I predict that in the future, R will be able to service the complete pipeline of data interaction: cleaning to analysis to visualisation to reporting. Interactive, data-driven web content is becoming very popular and R is beginning to integrate all these libraries so their use is easy and convenient. R may also be suitable for tackling the tricky nature of big-data. However, one or two of R’s limitations will need to be overcome, or mitigated for this to occur first.</p>
+</div>
+<div id="technical-details" class="section level2">
+<h2>Technical details</h2>
+<p>R is primarily a functional programming language. Therefore, programmers apply a series of steps to variables/data-objects using <em>functions</em>. Functions range in complexity and custom functions can be defined and used by an user. For example, perhaps a user wanted to load a data-file containing plant data, check what the table contains, and then plot these data. In R, this could look something like this:</p>
+<pre class="r"><code># Load data from a csv file
+data_plants &lt;- read.csv(&quot;plant_height_data.csv&quot;)
+
+# Look at top of table
+head(data_plants)
+
+# Plot these data
+plot(data_plants)</code></pre>
+<p><code>read.csv</code>, <code>head</code>, and <code>plot</code> are all functions and these are used on the data-object <code>data_plants</code>. This demonstrates the functional way R is designed and used.</p>
+<p>R is unconventional in the way that variables are stored as <em>vectors</em>. A vector is simply a series of things stored as a single unit. Because variables are vectors, it is easy to do things to the entire vector without constructing for-loops. For example, adding three to a number is done like so:</p>
+<pre class="r"><code># Define
+x &lt;- 5
+
+# Add three to x
+x + 3</code></pre>
+<pre><code>## [1] 8</code></pre>
+<p>but adding three to a vector of numbers is done in the same way (<code>c()</code> is used to combine/concatenate elements):</p>
+<pre class="r"><code># Define
+y &lt;- c(5, 6, 7, 8, 9, 10)
+
+# Add three to x
+y + 3</code></pre>
+<pre><code>## [1]  8  9 10 11 12 13</code></pre>
+<p>For those which are unfamiliar with programming, this may seem like a minor point. However, very few languages operate in this way and it allows for clear, readable code, especially when the complication increases. The addition of numbers as above is a trivial example, but this behaviour is preserved across R and it allows for the use of functions in complicated scenarios without the need to use large amounts of “book-keeping” code.</p>
+<p>R’s combination of a large package library, its vectorisation, and the ease of function development, has made the language capable at doing things quickly and correctly. In my opinion, this is what makes R so powerful, it has captured the essence of doing something, and then moving on. This being said, R is not a toy-language and it is also suitable for building large and scalable programmes.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
