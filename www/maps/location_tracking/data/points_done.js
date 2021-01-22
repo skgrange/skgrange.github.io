@@ -19656,6 +19656,30 @@ var points_done = [{
         "name": "Mia Osteria",
         "type": "Food"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94251, 47.02555]
+      },
+      "properties": {
+        "date": "2021-01-22",
+        "name": "Bergkirche Klöntal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.51166, 47.13245]
+      },
+      "properties": {
+        "date": "2021-01-22",
+        "name": "Alte Rheinbrücke Vaduz",
+        "type": "Attraction"
+      }
     }
   ]
 }];
