@@ -1608,6 +1608,18 @@ var points_to_do = [{
         "name": "Sättelegg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99459, 47.11801]
+      },
+      "properties": {
+        "date": "",
+        "name": "Wänifurggel",
+        "type": "To-do"
+      }
     }
   ]
 }];
