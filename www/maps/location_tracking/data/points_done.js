@@ -19680,6 +19680,54 @@ var points_done = [{
         "name": "Alte Rheinbrücke Vaduz",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.58902, 47.46732]
+      },
+      "properties": {
+        "date": "2021-01-29",
+        "name": "Rheineck",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.59399, 47.46462]
+      },
+      "properties": {
+        "date": "2021-01-29",
+        "name": "Holzbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.57789, 47.48802]
+      },
+      "properties": {
+        "date": "2021-01-29",
+        "name": "Rheinholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.56677, 47.50105]
+      },
+      "properties": {
+        "date": "2021-01-29",
+        "name": "Beach",
+        "type": "Attraction"
+      }
     }
   ]
 }];
