@@ -1620,6 +1620,30 @@ var points_to_do = [{
         "name": "Wänifurggel",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67254, 46.63313]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rheinquelle",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.72874, 50.13925]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lorelei",
+        "type": "To-do"
+      }
     }
   ]
 }];
