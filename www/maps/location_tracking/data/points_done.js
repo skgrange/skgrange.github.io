@@ -19728,6 +19728,78 @@ var points_done = [{
         "name": "Beach",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58459, 47.13735]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "Unterägeri",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61378, 47.13472]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "Oberägeri",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63067, 47.12908]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "Ländli",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6278, 47.10541]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "Neselen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64253, 47.10696]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "Morgartendenkmal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43799, 47.2716]
+      },
+      "properties": {
+        "date": "2021-01-31",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
     }
   ]
 }];
