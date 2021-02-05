@@ -1644,6 +1644,18 @@ var points_to_do = [{
         "name": "Lorelei",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6735, 62.45689]
+      },
+      "properties": {
+        "date": "",
+        "name": "Trollstigvegen",
+        "type": "To-do"
+      }
     }
   ]
 }];

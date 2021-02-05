@@ -19800,6 +19800,66 @@ var points_done = [{
         "name": "McDonald’s",
         "type": "Coffee"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77858, 47.6224]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Waltalingen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8672, 47.655]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Werd Island",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85909, 47.6597]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Stein am Rhein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85823, 47.66674]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Burg Hohenklingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87095, 47.67177]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Grenzübergang Ölberg",
+        "type": "Attraction"
+      }
     }
   ]
 }];
