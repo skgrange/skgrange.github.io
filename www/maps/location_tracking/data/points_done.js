@@ -19860,6 +19860,18 @@ var points_done = [{
         "name": "Grenzübergang Ölberg",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87386, 47.67088]
+      },
+      "properties": {
+        "date": "2021-02-05",
+        "name": "Grenzübergang Hof Bleiki",
+        "type": "Other"
+      }
     }
   ]
 }];
