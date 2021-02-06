@@ -19872,6 +19872,114 @@ var points_done = [{
         "name": "Grenzübergang Hof Bleiki",
         "type": "Other"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.50036, 47.42041]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Laufen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.41793, 47.4253]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Kleinlützel",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.41471, 47.41355]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Ring",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38078, 47.42146]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Ritzengrund",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38153, 47.43243]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Borne frontière 140",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38153, 47.43243]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Sägemühle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.33568, 47.42622]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Ederswiler",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.36067, 47.36267]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5567, 47.2834]
+      },
+      "properties": {
+        "date": "2021-02-06",
+        "name": "Thal",
+        "type": "Attraction"
+      }
     }
   ]
 }];
