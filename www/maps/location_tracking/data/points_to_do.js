@@ -1313,18 +1313,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36332, 47.48084]
-      },
-      "properties": {
-        "date": "",
-        "name": "Lägern",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.23178, 46.79852]
       },
       "properties": {

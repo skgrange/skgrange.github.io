@@ -19877,7 +19877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.50036, 47.42041]
+        "coordinates": [7.49932, 47.42309]
       },
       "properties": {
         "date": "2021-02-06",
@@ -19978,6 +19978,54 @@ var points_done = [{
       "properties": {
         "date": "2021-02-06",
         "name": "Thal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.33771, 47.46759]
+      },
+      "properties": {
+        "date": "2021-02-07",
+        "name": "Wettingen Brunnenwiese",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.35373, 47.47912]
+      },
+      "properties": {
+        "date": "2021-02-07",
+        "name": "Walhalla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.35521, 47.47999]
+      },
+      "properties": {
+        "date": "2021-02-07",
+        "name": "Lägernsattel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.34118, 47.47851]
+      },
+      "properties": {
+        "date": "2021-02-07",
+        "name": "Lägern ridge",
         "type": "Attraction"
       }
     }
