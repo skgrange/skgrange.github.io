@@ -20028,6 +20028,54 @@ var points_done = [{
         "name": "Lägern ridge",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.27069, 46.9398]
+      },
+      "properties": {
+        "date": "2021-02-13",
+        "name": "Alpnach",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.29325, 46.9418]
+      },
+      "properties": {
+        "date": "2021-02-13",
+        "name": "Kernwald",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30021, 46.94092]
+      },
+      "properties": {
+        "date": "2021-02-13",
+        "name": "Rütli",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.28343, 46.94143]
+      },
+      "properties": {
+        "date": "2021-02-13",
+        "name": "Alpnach airfield",
+        "type": "Other"
+      }
     }
   ]
 }];
