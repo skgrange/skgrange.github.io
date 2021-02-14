@@ -20076,6 +20076,66 @@ var points_done = [{
         "name": "Alpnach airfield",
         "type": "Other"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.36236, 47.3611]
+      },
+      "properties": {
+        "date": "2021-02-14",
+        "name": "Listbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.36697, 47.36916]
+      },
+      "properties": {
+        "date": "2021-02-14",
+        "name": "Haslen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3662, 47.38458]
+      },
+      "properties": {
+        "date": "2021-02-14",
+        "name": "Rotbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.36275, 47.38676]
+      },
+      "properties": {
+        "date": "2021-02-14",
+        "name": "Kloster Wonnenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34798, 47.38781]
+      },
+      "properties": {
+        "date": "2021-02-14",
+        "name": "Gmündertobelbrücke",
+        "type": "Other"
+      }
     }
   ]
 }];
