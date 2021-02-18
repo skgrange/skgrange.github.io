@@ -20136,6 +20136,30 @@ var points_done = [{
         "name": "Gmündertobelbrücke",
         "type": "Other"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01942, 46.62437]
+      },
+      "properties": {
+        "date": "2021-02-17",
+        "name": "Grindelwald Terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.86105, 46.66313]
+      },
+      "properties": {
+        "date": "2021-02-17",
+        "name": "Lehngasse",
+        "type": "Other"
+      }
     }
   ]
 }];
