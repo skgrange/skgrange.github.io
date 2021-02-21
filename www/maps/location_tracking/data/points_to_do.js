@@ -1644,6 +1644,42 @@ var points_to_do = [{
         "name": "Trollstigvegen",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4026, 46.8201]
+      },
+      "properties": {
+        "date": "",
+        "name": "Engelberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1706, 46.49588]
+      },
+      "properties": {
+        "date": "",
+        "name": "San Bernardino",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.33033, 46.50558]
+      },
+      "properties": {
+        "date": "",
+        "name": "Splügen Pass",
+        "type": "To-do"
+      }
     }
   ]
 }];
