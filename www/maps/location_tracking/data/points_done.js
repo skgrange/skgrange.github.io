@@ -20160,6 +20160,90 @@ var points_done = [{
         "name": "Lehngasse",
         "type": "Other"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5691, 46.5809]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Gotthard Road Tunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61232, 46.52852]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Airolo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62381, 46.52928]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Valle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63458, 46.53469]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Frasnè di Dentro",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62859, 46.52674]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Madrano",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6539, 46.52291]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Brugnasco",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62825, 47.0325]
+      },
+      "properties": {
+        "date": "2021-02-21",
+        "name": "Seewen Markt",
+        "type": "Food"
+      }
     }
   ]
 }];
