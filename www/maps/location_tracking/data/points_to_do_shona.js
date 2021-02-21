@@ -17,18 +17,6 @@ var points_to_do_shona = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.15857, 46.78914]
-      },
-      "properties": {
-        "date": "",
-        "name": "Lungerersee",
-        "type": "To-do for Shona"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [175.459528, -41.21856]
       },
       "properties": {

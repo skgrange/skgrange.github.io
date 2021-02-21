@@ -1289,7 +1289,7 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.7283, 46.4636]
+        "coordinates": [9.72813, 46.47221]
       },
       "properties": {
         "date": "",
