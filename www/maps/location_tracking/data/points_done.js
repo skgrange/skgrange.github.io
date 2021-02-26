@@ -20244,6 +20244,78 @@ var points_done = [{
         "name": "Seewen Markt",
         "type": "Food"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61484, 47.67608]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Schloss Laufen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61382, 47.67683]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Rheinfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61146, 47.67832]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Rheinfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6904, 47.697]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Büsingen am Hochrhein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74614, 47.69707]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Lidl",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75092, 47.69078]
+      },
+      "properties": {
+        "date": "2021-02-26",
+        "name": "Rheinhalde Brücke",
+        "type": "Attraction"
+      }
     }
   ]
 }];

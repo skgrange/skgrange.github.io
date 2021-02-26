@@ -1229,18 +1229,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.615157, 47.67526]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rheinfall",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.84616, 46.91451]
       },
       "properties": {
