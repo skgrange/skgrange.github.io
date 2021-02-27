@@ -20316,6 +20316,90 @@ var points_done = [{
         "name": "Rheinhalde Brücke",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2153, 47.1873]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "Transjurane tunnels",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.103, 47.2235]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "Tramelan",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.90478, 47.17628]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "Les Bois",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.85963, 47.16603]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "Biaufond",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.84449, 47.155]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "La Rasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.85728, 47.16457]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "Lac de Biaufond",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.86818, 47.18375]
+      },
+      "properties": {
+        "date": "2021-02-27",
+        "name": "La Mort",
+        "type": "Attraction"
+      }
     }
   ]
 }];
