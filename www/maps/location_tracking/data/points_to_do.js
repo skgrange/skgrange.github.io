@@ -1668,6 +1668,18 @@ var points_to_do = [{
         "name": "Splügen Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.05931, 47.133]
+      },
+      "properties": {
+        "date": "",
+        "name": "Chasseral",
+        "type": "To-do"
+      }
     }
   ]
 }];
