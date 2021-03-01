@@ -20400,6 +20400,18 @@ var points_done = [{
         "name": "La Mort",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6365, 47.39202]
+      },
+      "properties": {
+        "date": "2021-02-28",
+        "name": "Sonnenberg",
+        "type": "Attraction"
+      }
     }
   ]
 }];
