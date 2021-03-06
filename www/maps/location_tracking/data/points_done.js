@@ -20412,6 +20412,54 @@ var points_done = [{
         "name": "Sonnenberg",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16628, 46.80108]
+      },
+      "properties": {
+        "date": "2021-03-06",
+        "name": "Loretto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16314, 46.79197]
+      },
+      "properties": {
+        "date": "2021-03-06",
+        "name": "Sentier Jean-Schoch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16599, 46.79903]
+      },
+      "properties": {
+        "date": "2021-03-06",
+        "name": "Maigrauge Dam",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16727, 46.80394]
+      },
+      "properties": {
+        "date": "2021-03-06",
+        "name": "Rue de la Samaritaine",
+        "type": "Other"
+      }
     }
   ]
 }];
