@@ -20460,6 +20460,78 @@ var points_done = [{
         "name": "Rue de la Samaritaine",
         "type": "Other"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6047, 47.57391]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Erlenparkweg",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.63674, 47.58592]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Wiesendamm-Promenade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6501, 47.59594]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Am Mühleteich",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62767, 47.58181]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Soleck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5943, 47.57959]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Stücki-Steg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.34707, 47.43795]
+      },
+      "properties": {
+        "date": "2021-03-07",
+        "name": "Burger King",
+        "type": "Food"
+      }
     }
   ]
 }];
