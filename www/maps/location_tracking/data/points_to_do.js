@@ -1680,6 +1680,18 @@ var points_to_do = [{
         "name": "Chasseral",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.28317, 46.59531]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gastlosen",
+        "type": "To-do"
+      }
     }
   ]
 }];
