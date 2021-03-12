@@ -85,5 +85,3 @@
   - [Deaths by population normalised by day](covid_19/deaths_by_population.html)
   
   - [New daily deaths by population](covid_19/new_deaths_by_population.html)
-  
-  - [United States flu seasons daily deaths](covid_19/united_states_flu_seasons.html)
