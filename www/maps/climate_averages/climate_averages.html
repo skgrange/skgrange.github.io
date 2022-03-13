@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content=
+    "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    name="viewport">
+    <title>Climate averages</title>
+    <link href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" rel=
+    "stylesheet">
+    <style>
+  * { margin: 0; padding: 0; }
+      html, body { height: 100%; }
+      #map { width:100%; height:100%; }
+    </style>
+    	<style type="text/css">
+		table, td {
+			border-collapse: collapse;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #e9e9e9;
+			padding: 5px;
+		}
+		.evenrowcol{
+			background-color: #f6f6f6;
+		}
+	</style>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="data/annual_climate_averages.js"></script>
+</head>
+<body>	
+	<div id="map"></div>
+	<script src="../common_resources/leaflet_base_layers.js"></script>
+  <script src="../common_resources/leaflet_functions.js"></script>
+	<script src="climate_averages.js"></script>
+</body>
+</html>
