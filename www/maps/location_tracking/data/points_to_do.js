@@ -1908,6 +1908,18 @@ var points_to_do = [{
         "name": "Charles Kuonen Bridge",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.34637, 47.41521]
+      },
+      "properties": {
+        "date": "",
+        "name": "Heitersberg",
+        "type": "To-do"
+      }
     }
   ]
 }];

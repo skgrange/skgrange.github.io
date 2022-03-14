@@ -26073,7 +26073,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-03-13",
-        "name": "Hasenberg",
+        "name": "Heitersberghöhe",
         "type": "Attraction"
       }
     },
@@ -26085,7 +26085,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-03-13",
-        "name": "Hasenberg",
+        "name": "Heitersberg",
         "type": "Peak"
       }
     },
