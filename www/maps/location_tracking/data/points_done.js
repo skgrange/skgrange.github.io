@@ -26105,6 +26105,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.6488, 47.62605]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Marthalen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6537, 47.65307]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Benken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67323, 47.64041]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Rudolfingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68144, 47.59707]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Holzbrücke Andelfingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6789, 47.59489]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Andelfingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67012, 47.57605]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Humlikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55452, 47.5517]
+      },
+      "properties": {
+        "date": "2022-03-19",
+        "name": "Tössegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
