@@ -1896,6 +1896,18 @@ var points_to_do = [{
         "name": "Heitersberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7028, 47.50109]
+      },
+      "properties": {
+        "date": "",
+        "name": "Brühlberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
