@@ -26189,6 +26189,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.6303, 47.507]
+      },
+      "properties": {
+        "date": "2022-03-20",
+        "name": "Tobelstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64358, 47.53085]
+      },
+      "properties": {
+        "date": "2022-03-20",
+        "name": "Huebstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60703, 47.5403]
+      },
+      "properties": {
+        "date": "2022-03-20",
+        "name": "Irchel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61997, 47.54805]
+      },
+      "properties": {
+        "date": "2022-03-20",
+        "name": "Buck am Irchel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

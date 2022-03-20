@@ -1853,30 +1853,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64358, 47.53085]
-      },
-      "properties": {
-        "date": "",
-        "name": "Huebstrasse",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.6087, 47.53855]
-      },
-      "properties": {
-        "date": "",
-        "name": "Irchel peaks",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.742937, 46.01628]
       },
       "properties": {
