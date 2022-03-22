@@ -26201,6 +26201,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.64608, 47.52587]
+      },
+      "properties": {
+        "date": "2022-03-20",
+        "name": "Schloss Wart",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.64358, 47.53085]
       },
       "properties": {
