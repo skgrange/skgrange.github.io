@@ -26249,6 +26249,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.64182, 47.49815]
+      },
+      "properties": {
+        "date": "2022-03-22",
+        "name": "Obermettmenstetten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
