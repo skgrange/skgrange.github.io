@@ -1908,6 +1908,18 @@ var points_to_do = [{
         "name": "Brühlberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.845814, 53.71587]
+      },
+      "properties": {
+        "date": "",
+        "name": "Trooper Lane",
+        "type": "To-do"
+      }
     }
   ]
 }];

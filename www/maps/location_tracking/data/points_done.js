@@ -6729,7 +6729,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2017-03-19",
-        "name": "Blakley Ridge",
+        "name": "Blakey Ridge",
         "type": "Other"
       }
     },
