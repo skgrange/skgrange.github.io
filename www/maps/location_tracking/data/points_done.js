@@ -26261,6 +26261,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.4662, 47.5282]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Stadel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45257, 47.52561]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Stig",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.44191, 47.52381]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Bachsolino",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4576, 47.53249]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Im Gibisnüt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45694, 47.53405]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Stadlerturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45092, 47.53886]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Stadlerberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43697, 47.53621]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Müliboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41349, 47.54226]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Hohflue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51967, 47.51513]
+      },
+      "properties": {
+        "date": "2022-03-26",
+        "name": "Im Jakobstal Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
