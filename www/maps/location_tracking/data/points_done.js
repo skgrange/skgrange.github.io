@@ -26369,6 +26369,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.60908, 47.67026]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Nohlbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60746, 47.66528]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Grenzstraße",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59929, 47.65773]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Altenburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49331, 47.61453]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Wittmerstraße",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48367, 47.62352]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Dettighofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65274, 47.6511]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Auto Bolli",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
@@ -26459,6 +26531,18 @@ var points_done = [{
         "date": "",
         "name": "Belmont Trig",
         "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61612, 47.66594]
+      },
+      "properties": {
+        "date": "",
+        "name": "Dachsen",
+        "type": "Attraction"
       }
     }
   ]
