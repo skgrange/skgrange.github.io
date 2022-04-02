@@ -25973,6 +25973,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.85369, 47.25996]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Rüti",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86445, 47.26095]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Neu Yorkstrasse",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87347, 47.26003]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Neu York",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87858, 47.26962]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Pilgersteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90203, 47.25989]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Mettlenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90229, 47.25888]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Mettlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8725, 47.25817]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Dachseggbächli-Wasserfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80077, 47.25686]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Wolfhausen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77034, 47.2526]
+      },
+      "properties": {
+        "date": "2022-03-02",
+        "name": "Hombrechtikon",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-1.07174, 53.93503]
       },
       "properties": {
