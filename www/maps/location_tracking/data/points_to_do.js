@@ -989,18 +989,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.27791, 47.03043]
-      },
-      "properties": {
-        "date": "",
-        "name": "Pilatusbahn",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-0.6461, 54.43246]
       },
       "properties": {
@@ -1918,6 +1906,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Trooper Lane",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.25562, 46.97947]
+      },
+      "properties": {
+        "date": "",
+        "name": "Pilatus",
         "type": "To-do"
       }
     }
