@@ -26129,6 +26129,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61406, 47.39945]
+      },
+      "properties": {
+        "date": "2022-03-04",
+        "name": "Velos Brugnoli",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.34017, 47.37023]
       },
       "properties": {
