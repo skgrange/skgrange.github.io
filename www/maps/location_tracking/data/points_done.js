@@ -26141,6 +26141,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.64302, 47.48952]
+      },
+      "properties": {
+        "date": "2022-03-08",
+        "name": "Ruine Wagenburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63606, 47.49987]
+      },
+      "properties": {
+        "date": "2022-03-08",
+        "name": "Althaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.34017, 47.37023]
       },
       "properties": {
