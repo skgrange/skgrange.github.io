@@ -26165,6 +26165,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.67183, 47.44191]
+      },
+      "properties": {
+        "date": "2022-03-12",
+        "name": "Lindau",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.34017, 47.37023]
       },
       "properties": {
