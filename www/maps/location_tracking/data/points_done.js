@@ -26261,6 +26261,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.51056, 47.31093]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Luftseilbahn Felsenegg",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49413, 47.3107]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Girstel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49471, 47.3139]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Gamlikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46257, 47.35341]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Landikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4773, 47.38043]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Sportzentrum Buchlern",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77551, 47.26837]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Adletshusen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76309, 47.28453]
+      },
+      "properties": {
+        "date": "2022-03-15",
+        "name": "Grüningen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.6488, 47.62605]
       },
       "properties": {
