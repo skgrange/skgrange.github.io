@@ -26345,6 +26345,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.74661, 47.46145]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Kyburgerbrugg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75915, 47.4674]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Sennhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.795, 47.47381]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Eidberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82041, 47.47905]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Waltenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82831, 47.46992]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Unterschlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8072, 47.4675]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Nussberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80341, 47.43623]
+      },
+      "properties": {
+        "date": "2022-03-17",
+        "name": "Wildbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.6488, 47.62605]
       },
       "properties": {
