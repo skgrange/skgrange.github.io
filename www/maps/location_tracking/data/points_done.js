@@ -26429,6 +26429,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.63981, 47.50271]
+      },
+      "properties": {
+        "date": "2022-03-18",
+        "name": "Grabibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62075, 47.49594]
+      },
+      "properties": {
+        "date": "2022-03-18",
+        "name": "Paradies",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6243, 47.4903]
+      },
+      "properties": {
+        "date": "2022-03-18",
+        "name": "Sonnenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.6488, 47.62605]
       },
       "properties": {
