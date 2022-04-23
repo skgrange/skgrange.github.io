@@ -26621,6 +26621,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.99986, 46.62385]
+      },
+      "properties": {
+        "date": "2022-03-23",
+        "name": "Waldrand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99529, 46.62451]
+      },
+      "properties": {
+        "date": "2022-03-23",
+        "name": "Blattenweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00571, 46.61892]
+      },
+      "properties": {
+        "date": "2022-03-23",
+        "name": "Aspen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.03001, 46.62158]
+      },
+      "properties": {
+        "date": "2022-03-23",
+        "name": "Glacer",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.76293, 46.71375]
+      },
+      "properties": {
+        "date": "2022-03-23",
+        "name": "Grönstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.4662, 47.5282]
       },
       "properties": {

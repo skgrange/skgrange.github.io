@@ -1337,18 +1337,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.76293, 46.71375]
-      },
-      "properties": {
-        "date": "",
-        "name": "Grönstrasse",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.63566, 46.6756]
       },
       "properties": {
