@@ -60,6 +60,18 @@ var points_to_do_shona = [{
         "name": "Laax",
         "type": "To-do for Shona"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.97548, 46.59037]
+      },
+      "properties": {
+        "date": "",
+        "name": "Via Alpina Leg 11",
+        "type": "To-do for Shona"
+      }
     }
   ]
 }];
