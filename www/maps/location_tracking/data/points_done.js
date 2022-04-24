@@ -26681,6 +26681,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.71952, 47.46901]
+      },
+      "properties": {
+        "date": "2022-03-24",
+        "name": "Brunibrugg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70889, 47.46977]
+      },
+      "properties": {
+        "date": "2022-03-24",
+        "name": "Rossbergweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70731, 47.47346]
+      },
+      "properties": {
+        "date": "2022-03-24",
+        "name": "Ritplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.4662, 47.5282]
       },
       "properties": {
