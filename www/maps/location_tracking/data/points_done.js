@@ -26897,6 +26897,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.50725, 47.14893]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Oberwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51653, 47.14194]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Mülibachbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.50044, 47.11453]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Lotenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52247, 47.0628]
+      },
+      "properties": {
+        "date": "2022-03-27",
+        "name": "Arth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
