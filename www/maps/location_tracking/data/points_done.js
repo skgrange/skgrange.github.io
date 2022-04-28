@@ -26945,6 +26945,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.69638, 46.65861]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Aschi bei Spiez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.71048, 46.65071]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Wachthubel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.73012, 46.65204]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Blase",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.70016, 46.66589]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Seeholzwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.68361, 46.67248]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Hondrich",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.70454, 46.67343]
+      },
+      "properties": {
+        "date": "2022-03-28",
+        "name": "Faulensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
