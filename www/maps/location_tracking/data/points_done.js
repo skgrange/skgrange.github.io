@@ -27017,6 +27017,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.51087, 47.00525]
+      },
+      "properties": {
+        "date": "2022-03-29",
+        "name": "Giessenpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.51009, 47.0105]
+      },
+      "properties": {
+        "date": "2022-03-29",
+        "name": "Fläscherweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.48272, 47.04378]
+      },
+      "properties": {
+        "date": "2022-03-29",
+        "name": "Unter Ellstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
