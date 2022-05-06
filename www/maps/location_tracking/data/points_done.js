@@ -25973,114 +25973,6 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85369, 47.25996]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Rüti",
-        "type": "Other"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.86445, 47.26095]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Neu Yorkstrasse",
-        "type": "Parking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.87347, 47.26003]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Neu York",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.87858, 47.26962]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Pilgersteg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.90203, 47.25989]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Mettlenbach",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.90229, 47.25888]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Mettlen",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.8725, 47.25817]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Dachseggbächli-Wasserfall",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.80077, 47.25686]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Wolfhausen",
-        "type": "Other"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.77034, 47.2526]
-      },
-      "properties": {
-        "date": "2022-03-02",
-        "name": "Hombrechtikon",
-        "type": "Other"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.07174, 53.93503]
       },
       "properties": {
@@ -26123,54 +26015,6 @@ var points_done = [{
         "date": "2022-03-04",
         "name": "Bamboo Thai",
         "type": "Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.61406, 47.39945]
-      },
-      "properties": {
-        "date": "2022-03-04",
-        "name": "Velos Brugnoli",
-        "type": "Shop"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.64302, 47.48952]
-      },
-      "properties": {
-        "date": "2022-03-08",
-        "name": "Ruine Wagenburg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.63606, 47.49987]
-      },
-      "properties": {
-        "date": "2022-03-08",
-        "name": "Althaus",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.67183, 47.44191]
-      },
-      "properties": {
-        "date": "2022-03-12",
-        "name": "Lindau",
-        "type": "Other"
       }
     },
     {
@@ -26254,210 +26098,6 @@ var points_done = [{
       "properties": {
         "date": "2022-03-13",
         "name": "Obertorplatz",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.51056, 47.31093]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Luftseilbahn Felsenegg",
-        "type": "Cable car"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.49413, 47.3107]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Girstel",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.49471, 47.3139]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Gamlikon",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.46257, 47.35341]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Landikon",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.4773, 47.38043]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Sportzentrum Buchlern",
-        "type": "Other"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.77551, 47.26837]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Adletshusen",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.76309, 47.28453]
-      },
-      "properties": {
-        "date": "2022-03-15",
-        "name": "Grüningen",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.74661, 47.46145]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Kyburgerbrugg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.75915, 47.4674]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Sennhof",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.795, 47.47381]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Eidberg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.82041, 47.47905]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Waltenstein",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.82831, 47.46992]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Unterschlatt",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.8072, 47.4675]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Nussberg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.80341, 47.43623]
-      },
-      "properties": {
-        "date": "2022-03-17",
-        "name": "Wildbergstrasse",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.63981, 47.50271]
-      },
-      "properties": {
-        "date": "2022-03-18",
-        "name": "Grabibach",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.62075, 47.49594]
-      },
-      "properties": {
-        "date": "2022-03-18",
-        "name": "Paradies",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.6243, 47.4903]
-      },
-      "properties": {
-        "date": "2022-03-18",
-        "name": "Sonnenberg",
         "type": "Attraction"
       }
     },
@@ -26614,102 +26254,6 @@ var points_done = [{
       "properties": {
         "date": "2022-03-22",
         "name": "Obermettmenstetten",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.99986, 46.62385]
-      },
-      "properties": {
-        "date": "2022-03-23",
-        "name": "Waldrand",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.99529, 46.62451]
-      },
-      "properties": {
-        "date": "2022-03-23",
-        "name": "Blattenweid",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.00571, 46.61892]
-      },
-      "properties": {
-        "date": "2022-03-23",
-        "name": "Aspen",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.03001, 46.62158]
-      },
-      "properties": {
-        "date": "2022-03-23",
-        "name": "Glacer",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.76293, 46.71375]
-      },
-      "properties": {
-        "date": "2022-03-23",
-        "name": "Grönstrasse",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.71952, 47.46901]
-      },
-      "properties": {
-        "date": "2022-03-24",
-        "name": "Brunibrugg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.70889, 47.46977]
-      },
-      "properties": {
-        "date": "2022-03-24",
-        "name": "Rossbergweg",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.70731, 47.47346]
-      },
-      "properties": {
-        "date": "2022-03-24",
-        "name": "Ritplatz",
         "type": "Attraction"
       }
     },
@@ -26897,10 +26441,466 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.85369, 47.25996]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Rüti",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86445, 47.26095]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Neu Yorkstrasse",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87347, 47.26003]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Neu York",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87858, 47.26962]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Pilgersteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90203, 47.25989]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Mettlenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90229, 47.25888]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Mettlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8725, 47.25817]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Dachseggbächli-Wasserfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80077, 47.25686]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Wolfhausen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77034, 47.2526]
+      },
+      "properties": {
+        "date": "2022-04-02",
+        "name": "Hombrechtikon",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61406, 47.39945]
+      },
+      "properties": {
+        "date": "2022-04-04",
+        "name": "Velos Brugnoli",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64302, 47.48952]
+      },
+      "properties": {
+        "date": "2022-04-08",
+        "name": "Ruine Wagenburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63606, 47.49987]
+      },
+      "properties": {
+        "date": "2022-04-08",
+        "name": "Althaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67183, 47.44191]
+      },
+      "properties": {
+        "date": "2022-04-12",
+        "name": "Lindau",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51056, 47.31093]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Luftseilbahn Felsenegg",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49413, 47.3107]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Girstel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49471, 47.3139]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Gamlikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46257, 47.35341]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Landikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4773, 47.38043]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Sportzentrum Buchlern",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77551, 47.26837]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Adletshusen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76309, 47.28453]
+      },
+      "properties": {
+        "date": "2022-04-15",
+        "name": "Grüningen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74661, 47.46145]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Kyburgerbrugg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75915, 47.4674]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Sennhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.795, 47.47381]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Eidberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82041, 47.47905]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Waltenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82831, 47.46992]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Unterschlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8072, 47.4675]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Nussberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80341, 47.43623]
+      },
+      "properties": {
+        "date": "2022-04-17",
+        "name": "Wildbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63981, 47.50271]
+      },
+      "properties": {
+        "date": "2022-04-18",
+        "name": "Grabibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62075, 47.49594]
+      },
+      "properties": {
+        "date": "2022-04-18",
+        "name": "Paradies",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6243, 47.4903]
+      },
+      "properties": {
+        "date": "2022-04-18",
+        "name": "Sonnenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99986, 46.62385]
+      },
+      "properties": {
+        "date": "2022-04-23",
+        "name": "Waldrand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99529, 46.62451]
+      },
+      "properties": {
+        "date": "2022-04-23",
+        "name": "Blattenweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00571, 46.61892]
+      },
+      "properties": {
+        "date": "2022-04-23",
+        "name": "Aspen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.03001, 46.62158]
+      },
+      "properties": {
+        "date": "2022-04-23",
+        "name": "Glacer",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.76293, 46.71375]
+      },
+      "properties": {
+        "date": "2022-04-23",
+        "name": "Grönstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71952, 47.46901]
+      },
+      "properties": {
+        "date": "2022-04-24",
+        "name": "Brunibrugg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70889, 47.46977]
+      },
+      "properties": {
+        "date": "2022-04-24",
+        "name": "Rossbergweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70731, 47.47346]
+      },
+      "properties": {
+        "date": "2022-04-24",
+        "name": "Ritplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.50725, 47.14893]
       },
       "properties": {
-        "date": "2022-03-27",
+        "date": "2022-04-27",
         "name": "Oberwil",
         "type": "Attraction"
       }
@@ -26912,7 +26912,7 @@ var points_done = [{
         "coordinates": [8.51653, 47.14194]
       },
       "properties": {
-        "date": "2022-03-27",
+        "date": "2022-04-27",
         "name": "Mülibachbrücke",
         "type": "Attraction"
       }
@@ -26924,7 +26924,7 @@ var points_done = [{
         "coordinates": [8.50044, 47.11453]
       },
       "properties": {
-        "date": "2022-03-27",
+        "date": "2022-04-27",
         "name": "Lotenbach",
         "type": "Attraction"
       }
@@ -26936,7 +26936,7 @@ var points_done = [{
         "coordinates": [8.52247, 47.0628]
       },
       "properties": {
-        "date": "2022-03-27",
+        "date": "2022-04-27",
         "name": "Arth",
         "type": "Attraction"
       }
@@ -26948,7 +26948,7 @@ var points_done = [{
         "coordinates": [7.69638, 46.65861]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Aschi bei Spiez",
         "type": "Attraction"
       }
@@ -26960,7 +26960,7 @@ var points_done = [{
         "coordinates": [7.71048, 46.65071]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Wachthubel",
         "type": "Attraction"
       }
@@ -26972,7 +26972,7 @@ var points_done = [{
         "coordinates": [7.73012, 46.65204]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Blase",
         "type": "Attraction"
       }
@@ -26984,7 +26984,7 @@ var points_done = [{
         "coordinates": [7.70016, 46.66589]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Seeholzwald",
         "type": "Attraction"
       }
@@ -26996,7 +26996,7 @@ var points_done = [{
         "coordinates": [7.68361, 46.67248]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Hondrich",
         "type": "Attraction"
       }
@@ -27008,7 +27008,7 @@ var points_done = [{
         "coordinates": [7.70454, 46.67343]
       },
       "properties": {
-        "date": "2022-03-28",
+        "date": "2022-04-28",
         "name": "Faulensee",
         "type": "Attraction"
       }
@@ -27020,7 +27020,7 @@ var points_done = [{
         "coordinates": [9.51087, 47.00525]
       },
       "properties": {
-        "date": "2022-03-29",
+        "date": "2022-04-29",
         "name": "Giessenpark",
         "type": "Attraction"
       }
@@ -27032,7 +27032,7 @@ var points_done = [{
         "coordinates": [9.51009, 47.0105]
       },
       "properties": {
-        "date": "2022-03-29",
+        "date": "2022-04-29",
         "name": "Fläscherweg",
         "type": "Attraction"
       }
@@ -27044,9 +27044,21 @@ var points_done = [{
         "coordinates": [9.48272, 47.04378]
       },
       "properties": {
-        "date": "2022-03-29",
+        "date": "2022-04-29",
         "name": "Unter Ellstein",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68451, 47.30639]
+      },
+      "properties": {
+        "date": "2022-05-05",
+        "name": "Hinteregg",
+        "type": "Other"
       }
     },
     {
