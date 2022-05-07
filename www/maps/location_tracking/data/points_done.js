@@ -27065,6 +27065,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61707, 47.42947]
+      },
+      "properties": {
+        "date": "2022-05-07",
+        "name": "Haldengutweg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
