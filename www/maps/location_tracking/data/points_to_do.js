@@ -1932,6 +1932,18 @@ var points_to_do = [{
         "name": "Mambach",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.788717, 47.52112]
+      },
+      "properties": {
+        "date": "",
+        "name": "Offebar",
+        "type": "To-do"
+      }
     }
   ]
 }];
