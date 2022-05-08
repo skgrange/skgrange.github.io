@@ -27077,6 +27077,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.62021, 46.89131]
+      },
+      "properties": {
+        "date": "2022-05-08",
+        "name": "Reussstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62056, 46.88459]
+      },
+      "properties": {
+        "date": "2022-05-08",
+        "name": "Seedorfer Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62277, 46.87734]
+      },
+      "properties": {
+        "date": "2022-05-08",
+        "name": "Palanggenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6326, 46.86367]
+      },
+      "properties": {
+        "date": "2022-05-08",
+        "name": "Attinghauserstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
