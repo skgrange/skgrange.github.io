@@ -1944,6 +1944,42 @@ var points_to_do = [{
         "name": "Offebar",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53774, 46.39431]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sonlerto",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.24908, 47.35168]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schwellbrunn",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58008, 46.935]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bauen",
+        "type": "To-do"
+      }
     }
   ]
 }];
