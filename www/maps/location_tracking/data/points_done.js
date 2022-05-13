@@ -27125,6 +27125,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-118.41043, 33.94328]
+      },
+      "properties": {
+        "date": "2022-05-12",
+        "name": "Los Angeles International Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.58732, -36.0942]
+      },
+      "properties": {
+        "date": "2022-05-13",
+        "name": "Brewed As.",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
