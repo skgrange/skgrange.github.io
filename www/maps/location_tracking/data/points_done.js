@@ -27149,6 +27149,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.91371, -35.03179]
+      },
+      "properties": {
+        "date": "2022-05-15",
+        "name": "Matauri Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9068, -35.03964]
+      },
+      "properties": {
+        "date": "2022-05-15",
+        "name": "Matauri Bay Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8925, -35.0352]
+      },
+      "properties": {
+        "date": "2022-05-15",
+        "name": "Lookout",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8676, -35.02147]
+      },
+      "properties": {
+        "date": "2022-05-15",
+        "name": "Te Ngaire",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
