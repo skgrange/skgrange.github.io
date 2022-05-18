@@ -27197,6 +27197,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.6657, -34.47178]
+      },
+      "properties": {
+        "date": "2022-05-17",
+        "name": "Herangi Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
