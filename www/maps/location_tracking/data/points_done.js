@@ -27209,6 +27209,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.7059, -34.9876]
+      },
+      "properties": {
+        "date": "2022-05-20",
+        "name": "Taupo Bay Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7097, -34.99167]
+      },
+      "properties": {
+        "date": "2022-05-20",
+        "name": "Taupo Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.78597, -35.00493]
+      },
+      "properties": {
+        "date": "2022-05-20",
+        "name": "Tauranga Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.84382, -34.99966]
+      },
+      "properties": {
+        "date": "2022-05-20",
+        "name": "Mahinepua Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
