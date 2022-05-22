@@ -27257,6 +27257,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.53455, -34.98882]
+      },
+      "properties": {
+        "date": "2022-05-22",
+        "name": "Mangonui Fish Shop & Takeaways",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
