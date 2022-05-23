@@ -1,6 +1,6 @@
 // Define basemap tiles
 var open_street_map = L.tileLayer(
- 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+ 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
 
@@ -10,13 +10,13 @@ var mapbox = L.tileLayer(
 );
 
 var toner = L.tileLayer(
- 'http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+ 'https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
   attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   maxZoom: 20
 });
 
 var toner_lite = L.tileLayer(
- 'http://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+ 'https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
   attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   ext: 'png',
 	maxZoom: 20
@@ -24,7 +24,7 @@ var toner_lite = L.tileLayer(
 
 // Images, unsure on usage conditions
 var esri_images = L.tileLayer(
- 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+ 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
   maxzoom: 20
 });
@@ -54,18 +54,18 @@ var thunderforest_transport_dark = L.tileLayer(
   maxZoom: 20
 });
 
-var open_topo_map = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+var open_topo_map = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
  attribution: 'Map data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
   maxZoom: 16
 });
 
-var carto_db_positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+var carto_db_positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
  subdomains: 'abcd',
  maxZoom: 19
 });
 
-var carto_db_dark_matter = L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', {
+var carto_db_dark_matter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', {
  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
  subdomains: 'abcd',
  maxZoom: 19
@@ -73,7 +73,7 @@ var carto_db_dark_matter = L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_al
 
 // Use as a basemap
 // https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
-var hill_shade = L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+var hill_shade = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
   layers: 'SRTM30-Colored-Hillshade',
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
 });
@@ -86,14 +86,14 @@ var hill_shade = L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
 
 // Using as a layer, not a basemap
 // https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
-var hill_shading = L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+var hill_shading = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
   layers: 'SRTM30-Hillshade',
   opacity: 0.28,
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
 });
 
 // Another layer
-var contour_lines = L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+var contour_lines = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
   layers: 'SRTM30-Contour',
   opacity: 0.28,
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
