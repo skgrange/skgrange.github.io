@@ -1980,6 +1980,18 @@ var points_to_do = [{
         "name": "Bauen",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62212, 47.28746]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schlattstrasse",
+        "type": "To-do"
+      }
     }
   ]
 }];
