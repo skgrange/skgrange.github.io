@@ -27281,6 +27281,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.7719, -35.36047]
+      },
+      "properties": {
+        "date": "2022-05-24",
+        "name": "Twin Coast Cycle Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
