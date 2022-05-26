@@ -27293,6 +27293,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.78062, -41.2931]
+      },
+      "properties": {
+        "date": "2022-05-25",
+        "name": "Dragonfly",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9508, -41.05088]
+      },
+      "properties": {
+        "date": "2022-05-26",
+        "name": "Transmission Gully Motorway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9222, -41.01406]
+      },
+      "properties": {
+        "date": "2022-05-26",
+        "name": "Paekakariki Escarpment Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
