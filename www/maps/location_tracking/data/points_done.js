@@ -10085,6 +10085,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.91609, -35.26268]
+      },
+      "properties": {
+        "date": "2018-01-12",
+        "name": "Bay of Islands Aero Club",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.963313, -35.20179]
       },
       "properties": {
@@ -27293,12 +27305,48 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.91262, -35.26346]
+      },
+      "properties": {
+        "date": "2022-05-25",
+        "name": "Bay of Islands Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [174.78062, -41.2931]
       },
       "properties": {
         "date": "2022-05-25",
         "name": "Dragonfly",
         "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.81916, -41.22038]
+      },
+      "properties": {
+        "date": "2022-05-26",
+        "name": "Rewa Rewa School",
+        "type": "School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.81807, -41.21357]
+      },
+      "properties": {
+        "date": "2022-05-26",
+        "name": "Paparārangi Kindergarten",
+        "type": "School"
       }
     },
     {
