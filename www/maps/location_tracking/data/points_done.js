@@ -27377,6 +27377,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.97906, -35.13765]
+      },
+      "properties": {
+        "date": "2022-05-29",
+        "name": "Hewitt Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.98056, -35.13257]
+      },
+      "properties": {
+        "date": "2022-05-29",
+        "name": "Taronui Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.97638, -35.1208]
+      },
+      "properties": {
+        "date": "2022-05-29",
+        "name": "Taronui Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
