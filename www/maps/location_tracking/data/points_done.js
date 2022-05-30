@@ -10097,6 +10097,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.04293, -35.19259]
+      },
+      "properties": {
+        "date": "2018-01-12",
+        "name": "Opito Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.04908, -35.19287]
+      },
+      "properties": {
+        "date": "2018-01-12",
+        "name": "Tareha Point",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.963313, -35.20179]
       },
       "properties": {
@@ -10162,6 +10186,54 @@ var points_done = [{
       "properties": {
         "date": "2018-01-28",
         "name": "Marsden Cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.09539, -35.16918]
+      },
+      "properties": {
+        "date": "2018-01-28",
+        "name": "Marsden Cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0914, -35.17012]
+      },
+      "properties": {
+        "date": "2018-01-28",
+        "name": "Rangihoua Pā",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.11935, -35.31536]
+      },
+      "properties": {
+        "date": "2018-01-29",
+        "name": "Opua",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.02024, -35.21661]
+      },
+      "properties": {
+        "date": "2018-02-02",
+        "name": "Edmunds Ruins",
         "type": "Attraction"
       }
     },
