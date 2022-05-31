@@ -10193,18 +10193,6 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.09539, -35.16918]
-      },
-      "properties": {
-        "date": "2018-01-28",
-        "name": "Marsden Cross",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [174.0914, -35.17012]
       },
       "properties": {
@@ -27478,6 +27466,30 @@ var points_done = [{
       "properties": {
         "date": "2022-05-29",
         "name": "Taronui Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.09291, -35.28155]
+      },
+      "properties": {
+        "date": "2022-05-31",
+        "name": "CBK Craft Beer and Kitchen",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.95603, -35.21506]
+      },
+      "properties": {
+        "date": "2022-05-31",
+        "name": "Southside Track",
         "type": "Attraction"
       }
     },
