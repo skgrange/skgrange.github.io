@@ -27497,6 +27497,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8482, -35.31105]
+      },
+      "properties": {
+        "date": "2022-06-01",
+        "name": "Waikuku Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.87629, -35.31638]
+      },
+      "properties": {
+        "date": "2022-06-01",
+        "name": "Te Waimate Mission",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.87504, -35.31639]
+      },
+      "properties": {
+        "date": "2022-06-01",
+        "name": "St. John the Baptist Church",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8713146, -35.30473]
+      },
+      "properties": {
+        "date": "2022-06-01",
+        "name": "Tauwhara Marae",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7987373, -35.41034]
+      },
+      "properties": {
+        "date": "2022-06-01",
+        "name": "Kaikohe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
