@@ -27645,7 +27645,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-06-04",
-        "name": "Lynn Mall",
+        "name": "LynnMall",
         "type": "Shop"
       }
     },
