@@ -27641,6 +27641,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.6855144, -36.90789]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Lynn Mall",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [174.60593, -36.94652]
       },
       "properties": {
