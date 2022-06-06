@@ -27557,6 +27557,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.60536, -36.93271]
+      },
+      "properties": {
+        "date": "2022-06-03",
+        "name": "Parker Road",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.46708, -36.95621]
+      },
+      "properties": {
+        "date": "2022-06-03",
+        "name": "Piha South Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.46665, -36.95172]
+      },
+      "properties": {
+        "date": "2022-06-03",
+        "name": "Piha North Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.46657, -36.95359]
+      },
+      "properties": {
+        "date": "2022-06-03",
+        "name": "Lion Rock track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.60555, -37.0121]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Cornwallis Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.61618, -36.9622]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Lower Nihotupu Dam",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.65736, -36.93756]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "iTi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.60593, -36.94652]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Lookout",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6027, -36.9508]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Slip Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.61601, -36.94828]
+      },
+      "properties": {
+        "date": "2022-06-04",
+        "name": "Beveridge Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.83644, -36.91378]
+      },
+      "properties": {
+        "date": "2022-06-05",
+        "name": "Longford Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8406, -36.91326]
+      },
+      "properties": {
+        "date": "2022-06-05",
+        "name": "Sylvia Park Mall",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.83815, -36.89024]
+      },
+      "properties": {
+        "date": "2022-06-05",
+        "name": "Stonefields",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.66061, -36.41006]
+      },
+      "properties": {
+        "date": "2022-06-06",
+        "name": "Fairweather Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
