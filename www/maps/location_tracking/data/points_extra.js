@@ -2261,6 +2261,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.08962, -37.06794]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hūnua Falls",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.736237, 47.43732]
       },
       "properties": {
