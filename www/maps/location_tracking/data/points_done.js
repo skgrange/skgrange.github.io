@@ -27737,6 +27737,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.978, -35.22111]
+      },
+      "properties": {
+        "date": "2022-06-07",
+        "name": "Roland's Wood",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
