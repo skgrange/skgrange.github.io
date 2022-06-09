@@ -1992,6 +1992,18 @@ var points_to_do = [{
         "name": "Schlattstrasse",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.71948, -35.02564]
+      },
+      "properties": {
+        "date": "",
+        "name": "Wairakau Stream Track",
+        "type": "To-do"
+      }
     }
   ]
 }];
