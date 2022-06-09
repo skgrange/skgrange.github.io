@@ -27749,6 +27749,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.71848, -34.44081]
+      },
+      "properties": {
+        "date": "2022-06-08",
+        "name": "Tapotupotu Stream",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.72214, -34.43897]
+      },
+      "properties": {
+        "date": "2022-06-08",
+        "name": "Cape Reinga Coastal Walkway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.73938, -34.44219]
+      },
+      "properties": {
+        "date": "2022-06-08",
+        "name": "Tirikawa",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.76229, -34.46644]
+      },
+      "properties": {
+        "date": "2022-06-08",
+        "name": "Te Paki Trig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7615, -34.4823]
+      },
+      "properties": {
+        "date": "2022-06-08",
+        "name": "Pandora Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.25747, -35.04592]
+      },
+      "properties": {
+        "date": "2022-06-09",
+        "name": "The Baker Man",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
