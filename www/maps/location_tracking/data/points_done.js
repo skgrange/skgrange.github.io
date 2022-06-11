@@ -27821,6 +27821,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8587, -34.99147]
+      },
+      "properties": {
+        "date": "2022-06-11",
+        "name": "Omiru Trig Path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
