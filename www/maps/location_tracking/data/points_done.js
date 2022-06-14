@@ -27833,6 +27833,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [103.98664, 1.35708]
+      },
+      "properties": {
+        "date": "2022-06-13",
+        "name": "Singapore Changi Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
