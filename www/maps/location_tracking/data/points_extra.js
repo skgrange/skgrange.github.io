@@ -341,11 +341,11 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.970114, -35.20601]
+        "coordinates": [173.96876, -35.20679]
       },
       "properties": {
         "date": "",
-        "name": "Riverview Kerikeri",
+        "name": "Riverview Road",
         "type": "Extra"
       }
     },
