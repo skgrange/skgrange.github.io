@@ -76,7 +76,8 @@ var carto_db_dark_matter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_a
 // https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
 var hill_shade = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
   layers: 'SRTM30-Colored-Hillshade',
-  attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
+  attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG',
+  maxZoom: 20
 });
 
 // A layer, not a basemap
