@@ -27845,6 +27845,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.18693, 47.11554]
+      },
+      "properties": {
+        "date": "2022-06-19",
+        "name": "Tiefenwinkel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.17274, 47.11712]
+      },
+      "properties": {
+        "date": "2022-06-19",
+        "name": "Mühlehorn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1574, 47.12041]
+      },
+      "properties": {
+        "date": "2022-06-19",
+        "name": "Mülital",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

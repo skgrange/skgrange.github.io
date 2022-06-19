@@ -2004,6 +2004,18 @@ var points_to_do = [{
         "name": "Wairakau Stream Track",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67096, 47.29231]
+      },
+      "properties": {
+        "date": "",
+        "name": "Pfannenstiel",
+        "type": "To-do"
+      }
     }
   ]
 }];
