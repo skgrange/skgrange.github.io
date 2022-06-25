@@ -27881,6 +27881,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.43935, 47.45822]
+      },
+      "properties": {
+        "date": "2022-06-25",
+        "name": "Bucks",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43, 47.46239]
+      },
+      "properties": {
+        "date": "2022-06-25",
+        "name": "Pfaffenbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.42414, 47.4702]
+      },
+      "properties": {
+        "date": "2022-06-25",
+        "name": "Mötschen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.39721, 47.4516]
+      },
+      "properties": {
+        "date": "2022-06-25",
+        "name": "Furtbachweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.40574, 47.44794]
+      },
+      "properties": {
+        "date": "2022-06-25",
+        "name": "Dänikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
