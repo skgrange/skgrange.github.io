@@ -27941,6 +27941,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [22.9763916, 40.52385]
+      },
+      "properties": {
+        "date": "2022-06-27",
+        "name": "Thessaloniki Macedonia Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9532424, 40.63063]
+      },
+      "properties": {
+        "date": "2022-06-27",
+        "name": "ABC Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9399584, 40.63395]
+      },
+      "properties": {
+        "date": "2022-06-27",
+        "name": "City Hotel Thessaloniki",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9410254, 40.63153]
+      },
+      "properties": {
+        "date": "2022-06-28",
+        "name": "Seaside boardwalk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9483787, 40.62608]
+      },
+      "properties": {
+        "date": "2022-06-28",
+        "name": "The White Tower Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9622, 40.62652]
+      },
+      "properties": {
+        "date": "2022-06-28",
+        "name": "Aristotle University Research Dissemination Center (KEDEA)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
