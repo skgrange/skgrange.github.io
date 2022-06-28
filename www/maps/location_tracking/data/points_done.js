@@ -27977,6 +27977,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [22.9371803, 40.63594]
+      },
+      "properties": {
+        "date": "2022-06-27",
+        "name": "Hot Hot Burger Bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [22.9410254, 40.63153]
       },
       "properties": {
