@@ -28025,6 +28025,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [22.9348092, 40.63145]
+      },
+      "properties": {
+        "date": "2022-06-29",
+        "name": "First Pier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.9488549, 40.6273]
+      },
+      "properties": {
+        "date": "2022-06-29",
+        "name": "Zithos in Dore",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
