@@ -28025,6 +28025,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [22.96062, 40.63257]
+      },
+      "properties": {
+        "date": "2022-06-28",
+        "name": "Teloglion Fine Arts Foundation",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [22.9348092, 40.63145]
       },
       "properties": {
@@ -28042,6 +28054,42 @@ var points_done = [{
       "properties": {
         "date": "2022-06-29",
         "name": "Zithos in Dore",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.94428, 40.63601]
+      },
+      "properties": {
+        "date": "2022-06-30",
+        "name": "Eleftheros Venizelos Statue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.91047, 40.74057]
+      },
+      "properties": {
+        "date": "2022-06-30",
+        "name": "Bon Chateau",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.94227, 40.63407]
+      },
+      "properties": {
+        "date": "2022-07-01",
+        "name": "Paradosiako",
         "type": "Food"
       }
     },
