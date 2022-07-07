@@ -28097,6 +28097,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.99701, 46.54976]
+      },
+      "properties": {
+        "date": "2022-07-06",
+        "name": "Jungfraujoch-Mönchsjochhütte piste",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00578, 46.55481]
+      },
+      "properties": {
+        "date": "2022-07-06",
+        "name": "Mönchsjochhütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
