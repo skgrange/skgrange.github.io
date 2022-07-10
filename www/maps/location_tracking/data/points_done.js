@@ -28121,6 +28121,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.98636, 47.02353]
+      },
+      "properties": {
+        "date": "2022-07-10",
+        "name": "Gessner-Denkmal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
