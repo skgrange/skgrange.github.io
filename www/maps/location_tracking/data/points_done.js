@@ -28145,6 +28145,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.72144, 47.25837]
+      },
+      "properties": {
+        "date": "2022-07-12",
+        "name": "Mülihölzli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
