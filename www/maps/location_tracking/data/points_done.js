@@ -28157,6 +28157,414 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66661, 46.51518]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "San Gottardo Sud",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02018, 46.25281]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Claro",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04174, 46.22323]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Castione-Arbedo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04012, 46.21769]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Arbedo Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02769, 46.20754]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Parco Greina",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03196, 46.20885]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Footbridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9073, 45.92726]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Arbostora Charme Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9071, 45.92685]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Swimming pontoon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9159103, 45.92249]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Ristorante della Posta",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9161697, 45.92276]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Gandalf Bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9268, 45.93059]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Steep stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92257, 45.93026]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Chiesa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92056, 45.92985]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Vico Morcote",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92104, 45.93217]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Sentée da Baús",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91412, 45.93475]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Alpe Vicania",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90794, 45.92788]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Crocetta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91892, 45.92388]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Caffé Vecchio Teatro",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9447424, 46.00586]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Kind Thai Take-away",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94741, 45.9969]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Dinner location",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92645, 45.93771]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Strada da Carona",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92913, 45.94328]
+      },
+      "properties": {
+        "date": "2022-07-15",
+        "name": "Viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91417, 45.92321]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Santa Maria del Sasso",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91394, 45.92389]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Sentée da l'Alp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91597, 45.92549]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Sentèe Alt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90974, 45.92635]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Sentée da la Vall da Tor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98259, 45.85033]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Coldrerio southbound",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03451, 45.83208]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Dogana Chiasso",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.07951, 45.81159]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Piazza Alessandro Volta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0771, 45.81308]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Passeggiata Amici di Como",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.07526, 45.81505]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Tempio Voltiano",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9568732, 46.00681]
+      },
+      "properties": {
+        "date": "2022-07-16",
+        "name": "Thai Orchard",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89981, 45.9346]
+      },
+      "properties": {
+        "date": "2022-07-17",
+        "name": "Sentee da Torell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91311, 45.94788]
+      },
+      "properties": {
+        "date": "2022-07-17",
+        "name": "Torello",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.5127, 46.84598]
+      },
+      "properties": {
+        "date": "2022-07-17",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
