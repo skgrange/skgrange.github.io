@@ -28169,6 +28169,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.8679, 46.4008]
+      },
+      "properties": {
+        "date": "2022-07-14",
+        "name": "Valle Leventina",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [9.02018, 46.25281]
       },
       "properties": {
