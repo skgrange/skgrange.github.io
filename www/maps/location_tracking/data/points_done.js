@@ -28377,7 +28377,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-07-15",
-        "name": "Kind Thai Take-away",
+        "name": "Kin-D Thai Take-away",
         "type": "Food"
       }
     },
