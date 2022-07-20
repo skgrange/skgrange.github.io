@@ -2016,6 +2016,18 @@ var points_to_do = [{
         "name": "Pfannenstiel",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.12551, 46.3726]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rossa",
+        "type": "To-do"
+      }
     }
   ]
 }];
