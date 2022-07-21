@@ -28577,6 +28577,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.51008, 47.38124]
+      },
+      "properties": {
+        "date": "2022-07-21",
+        "name": "Hardau II",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
