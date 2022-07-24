@@ -28589,6 +28589,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.91435, 46.60274]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Wengen’s rack railway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.92166, 46.60501]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Wengen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9268, 46.59934]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Kneu",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.93093, 46.59333]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Allmend",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.93931, 46.57561]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Wengernalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.96079, 46.585]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Bergrestaurant Kleine Scheidegg",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.92092, 46.60621]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Wengiboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9213, 46.6054]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Bäckerei Confiserie Vincenz",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04885, 46.74049]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Brunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3065055, 47.05284]
+      },
+      "properties": {
+        "date": "2022-07-24",
+        "name": "Phanat Thai Takeaway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
