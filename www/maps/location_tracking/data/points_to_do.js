@@ -1841,18 +1841,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.92168, 46.60489]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wengen",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.8024, 46.1013]
       },
       "properties": {

@@ -5,7 +5,7 @@ var points_to_do_shona = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.923252, 46.59409]
+        "coordinates": [7.94805, 46.59248]
       },
       "properties": {
         "date": "",
@@ -17,7 +17,7 @@ var points_to_do_shona = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [175.459528, -41.21856]
+        "coordinates": [175.45953, -41.21856]
       },
       "properties": {
         "date": "",
