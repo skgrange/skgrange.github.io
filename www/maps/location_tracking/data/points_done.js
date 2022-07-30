@@ -28709,6 +28709,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.05851, 47.08424]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "Vogelgut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02106, 47.14986]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "Bilten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85285, 47.19027]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "Lachen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77771, 47.20142]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "Pfäffikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67405, 47.22955]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "Wädenswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6601, 47.23817]
+      },
+      "properties": {
+        "date": "2022-07-30",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
