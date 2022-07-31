@@ -2016,6 +2016,18 @@ var points_to_do = [{
         "name": "Rossa",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70057, 47.47]
+      },
+      "properties": {
+        "date": "",
+        "name": "Steigstrasse",
+        "type": "To-do"
+      }
     }
   ]
 }];
