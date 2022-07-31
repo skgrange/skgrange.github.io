@@ -28781,6 +28781,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66604, 47.49984]
+      },
+      "properties": {
+        "date": "2022-07-31",
+        "name": "Weiertal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65671, 47.507]
+      },
+      "properties": {
+        "date": "2022-07-31",
+        "name": "Rumstal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
