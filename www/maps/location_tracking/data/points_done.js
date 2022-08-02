@@ -28889,6 +28889,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.71735, 47.41442]
+      },
+      "properties": {
+        "date": "2022-08-02",
+        "name": "Oberillnau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
