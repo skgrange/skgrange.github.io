@@ -8705,11 +8705,95 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.77906, 46.31873]
+      },
+      "properties": {
+        "date": "2017-08-01",
+        "name": "Koča pri Triglavskih jezerih",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.77953, 46.32025]
+      },
+      "properties": {
+        "date": "2017-08-01",
+        "name": "Močivec",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.79235, 46.35851]
+      },
+      "properties": {
+        "date": "2017-08-01",
+        "name": "Zasavska koča na Prehodavcih",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.8195, 46.36486]
+      },
+      "properties": {
+        "date": "2017-08-01",
+        "name": "Koča na Doliču",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [13.83652, 46.37832]
       },
       "properties": {
         "date": "2017-08-02",
         "name": "Triglav",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.84879, 46.37889]
+      },
+      "properties": {
+        "date": "2017-08-03",
+        "name": "Triglavski dom na Kredarici",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.86136, 46.35581]
+      },
+      "properties": {
+        "date": "2017-08-03",
+        "name": "Vodnikov dom na Velem polju",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.8287, 46.33853]
+      },
+      "properties": {
+        "date": "2017-08-03",
+        "name": "Lazovški preval",
         "type": "Attraction"
       }
     },
