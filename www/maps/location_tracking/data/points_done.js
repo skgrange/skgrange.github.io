@@ -28913,6 +28913,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.49905, 47.38627]
+      },
+      "properties": {
+        "date": "2022-08-04",
+        "name": "Letzipark",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45894, 47.4049]
+      },
+      "properties": {
+        "date": "2022-08-05",
+        "name": "Gasibrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43957, 47.40836]
+      },
+      "properties": {
+        "date": "2022-08-05",
+        "name": "Kloster Fahr",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
