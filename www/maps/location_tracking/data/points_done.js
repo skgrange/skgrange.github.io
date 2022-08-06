@@ -28949,6 +28949,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.78898, 47.5356]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Sulz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7961, 47.5519]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Rickenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82462, 47.56302]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Ellikon an der Thur",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.79921, 47.56691]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Oberherten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78355, 47.56718]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Binz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76828, 47.56531]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Sunnehof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.789, 47.56175]
+      },
+      "properties": {
+        "date": "2022-08-06",
+        "name": "Hungerbüel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
