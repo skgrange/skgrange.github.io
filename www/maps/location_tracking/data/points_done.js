@@ -29033,6 +29033,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.42922, 47.26366]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Obfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.42665, 47.26]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Wolsen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4436, 47.23611]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Hinter Uttenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4249, 47.2477]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Wolserholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41738, 47.25483]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Deponie Tambrig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41581, 47.26875]
+      },
+      "properties": {
+        "date": "2022-08-07",
+        "name": "Lindenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
