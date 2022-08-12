@@ -5,6 +5,30 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [169.09802, -46.6616]
+      },
+      "properties": {
+        "date": "2007-03-31",
+        "name": "Curio Bay",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.75924, -45.22702]
+      },
+      "properties": {
+        "date": "2007-04-22",
+        "name": "Camp Iona",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [13.318332, 52.51886]
       },
       "properties": {
@@ -2266,6 +2290,78 @@ var points_extra = [{
       "properties": {
         "date": "",
         "name": "Hūnua Falls",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.51479, -45.86246]
+      },
+      "properties": {
+        "date": "",
+        "name": "Selwyn College",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.51719, -45.86119]
+      },
+      "properties": {
+        "date": "",
+        "name": "Leith Street North",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.5189, -45.86421]
+      },
+      "properties": {
+        "date": "",
+        "name": "Forth Street",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.53506, -45.84982]
+      },
+      "properties": {
+        "date": "",
+        "name": "Baldwin Street",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.55222, -45.83211]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bethunes Gulley",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.55523, -45.8132]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mount Cargill",
         "type": "Extra"
       }
     },
