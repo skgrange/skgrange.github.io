@@ -29105,6 +29105,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.65273, 47.33685]
+      },
+      "properties": {
+        "date": "2022-08-13",
+        "name": "Sportanlage Looren",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
