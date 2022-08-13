@@ -2369,6 +2369,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [170.56671, -45.80806]
+      },
+      "properties": {
+        "date": "",
+        "name": "Organ Pipes",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.736237, 47.43732]
       },
       "properties": {

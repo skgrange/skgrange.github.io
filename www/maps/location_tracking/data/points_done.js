@@ -29220,6 +29220,102 @@ var points_done = [{
         "name": "Dachsen",
         "type": "Attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.46628, -45.83265]
+      },
+      "properties": {
+        "date": "",
+        "name": "Flagstaff",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.45687, -45.92065]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tunnel Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.61587, -45.89687]
+      },
+      "properties": {
+        "date": "",
+        "name": "Boulder Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.64293, -45.8958]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sandfly Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.72927, -45.77607]
+      },
+      "properties": {
+        "date": "",
+        "name": "Taiaroa Head",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.71166, -45.77621]
+      },
+      "properties": {
+        "date": "",
+        "name": "Aramoana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.44964, -45.36498]
+      },
+      "properties": {
+        "date": "",
+        "name": "Macraes Gold Mine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.73112, -45.49065]
+      },
+      "properties": {
+        "date": "",
+        "name": "Puketapu",
+        "type": "Peak"
+      }
     }
   ]
 }];
