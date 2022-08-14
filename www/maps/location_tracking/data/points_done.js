@@ -29117,6 +29117,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.50985, 47.25211]
+      },
+      "properties": {
+        "date": "2022-08-14",
+        "name": "Kurhaus Weissenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.46774, 47.26227]
+      },
+      "properties": {
+        "date": "2022-08-14",
+        "name": "Gänsbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.54314, 47.22048]
+      },
+      "properties": {
+        "date": "2022-08-14",
+        "name": "St. Niklaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5502, 47.20818]
+      },
+      "properties": {
+        "date": "2022-08-14",
+        "name": "Rote Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.57175, 47.20179]
+      },
+      "properties": {
+        "date": "2022-08-14",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
