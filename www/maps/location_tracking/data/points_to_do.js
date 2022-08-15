@@ -2028,6 +2028,18 @@ var points_to_do = [{
         "name": "Steigstrasse",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60028, 47.43611]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hardwaldturm",
+        "type": "To-do"
+      }
     }
   ]
 }];
