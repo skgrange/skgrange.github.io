@@ -29177,6 +29177,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.60028, 47.43611]
+      },
+      "properties": {
+        "date": "2022-08-16",
+        "name": "Hardwaldturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
