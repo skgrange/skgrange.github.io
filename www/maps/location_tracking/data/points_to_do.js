@@ -2040,6 +2040,18 @@ var points_to_do = [{
         "name": "Hardwaldturm",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45537, 47.36066]
+      },
+      "properties": {
+        "date": "",
+        "name": "WSL",
+        "type": "To-do"
+      }
     }
   ]
 }];
