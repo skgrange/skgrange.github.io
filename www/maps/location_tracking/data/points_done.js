@@ -29189,6 +29189,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.9645, 53.6829]
+      },
+      "properties": {
+        "date": "2022-08-20",
+        "name": "Lighthazles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9505, 53.6935]
+      },
+      "properties": {
+        "date": "2022-08-20",
+        "name": "Helm Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.94816, 53.6886]
+      },
+      "properties": {
+        "date": "2022-08-20",
+        "name": "Mill Bank",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9453, 53.6816]
+      },
+      "properties": {
+        "date": "2022-08-20",
+        "name": "Soyland Town",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93184, 54.26974]
+      },
+      "properties": {
+        "date": "2022-08-21",
+        "name": "The George & Dragon",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
