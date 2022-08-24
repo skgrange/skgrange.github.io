@@ -29249,6 +29249,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.06961, 53.94098]
+      },
+      "properties": {
+        "date": "2022-08-24",
+        "name": "52 Broadway Coffee Shop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
