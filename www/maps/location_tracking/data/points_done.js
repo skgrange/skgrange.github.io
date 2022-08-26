@@ -29261,6 +29261,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.88112, 54.01493]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Buttercrambe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.88073, 54.01687]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Buttercrambe Bridges",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.80124, 54.04563]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Kirk Balk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79592, 54.04563]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Thrussendale Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7708, 54.0603]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Crossroads",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.75795, 54.07067]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Birdsall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79187, 54.07442]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Burythorpe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79564, 54.07514]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "All Saints",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.80262, 54.05743]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "The Jolly Farmers Inn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.91122, 54.06043]
+      },
+      "properties": {
+        "date": "2022-08-25",
+        "name": "Barton le Willows",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
