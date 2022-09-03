@@ -29381,6 +29381,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.59691, 47.36388]
+      },
+      "properties": {
+        "date": "2022-09-03",
+        "name": "Sportanlage Witikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60161, 47.3632]
+      },
+      "properties": {
+        "date": "2022-09-03",
+        "name": "Finnenbahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

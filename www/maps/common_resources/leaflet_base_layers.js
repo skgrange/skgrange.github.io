@@ -74,7 +74,7 @@ var carto_db_dark_matter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_a
 
 // Use as a basemap
 // https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
-var hill_shade = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
+var hill_shade = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
   layers: 'SRTM30-Colored-Hillshade',
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG',
   maxZoom: 20
@@ -88,14 +88,14 @@ var hill_shade = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
 
 // Using as a layer, not a basemap
 // https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
-var hill_shading = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
+var hill_shading = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
   layers: 'SRTM30-Hillshade',
   opacity: 0.28,
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
 });
 
 // Another layer
-var contour_lines = L.tileLayer.wms('https://ows.mundialis.de/services/service?', {
+var contour_lines = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
   layers: 'SRTM30-Contour',
   opacity: 0.28,
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
