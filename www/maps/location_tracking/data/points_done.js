@@ -29405,6 +29405,210 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.1539, 47.6787]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Remetschwiel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.11926, 47.67817]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Albtal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0437, 47.7049]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Minor road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00264, 47.74038]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Todtmoos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99805, 47.74364]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Scheibenfelsen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.98466, 47.74868]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Lehen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.98092, 47.75962]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Hochkopf-Hütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.97722, 47.76275]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Weißenbachsattel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.98723, 47.76714]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Hochkopf & Hochkopfturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01158, 47.76494]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Rütte-Pavillon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01411, 47.76471]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Rüttebächle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01306, 47.76121]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Rütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00679, 47.75646]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Todtmooser Wasserfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00018, 47.75191]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Josefskapelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.94964, 47.67894]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Wehr George",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90457, 47.62991]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Wehr",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.94927, 47.54615]
+      },
+      "properties": {
+        "date": "2022-09-04",
+        "name": "Fridolinsbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
