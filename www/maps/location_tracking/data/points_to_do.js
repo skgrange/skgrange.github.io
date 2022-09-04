@@ -2040,6 +2040,18 @@ var points_to_do = [{
         "name": "WSL",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.07814, 47.91863]
+      },
+      "properties": {
+        "date": "",
+        "name": "Kreuzfelsencurve",
+        "type": "To-do"
+      }
     }
   ]
 }];
