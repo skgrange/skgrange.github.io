@@ -29609,6 +29609,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.60747, 47.52377]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Hinterer Kalkhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59537, 47.52691]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Grüt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59147, 47.53154]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Riberg reservoir",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59336, 47.53169]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Riberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58968, 47.53364]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Wohnschule Freienstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58711, 47.53386]
+      },
+      "properties": {
+        "date": "2022-09-10",
+        "name": "Ruine Freienstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
