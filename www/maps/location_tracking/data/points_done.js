@@ -29681,6 +29681,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.6108, 47.5206]
+      },
+      "properties": {
+        "date": "2022-09-11",
+        "name": "Ziegelhüttenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
