@@ -29693,6 +29693,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [4.76107, 52.30884]
+      },
+      "properties": {
+        "date": "2022-09-12",
+        "name": "Schiphol Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.12213, 52.07766]
+      },
+      "properties": {
+        "date": "2022-09-12",
+        "name": "Moxy Utrecht",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.12412, 52.08151]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "Tolsteegbrug",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.11354, 52.09101]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "Hoog Catharijne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.12093, 52.09715]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "Noorderbrug",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.11277, 52.09248]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "TivoliVredenburg",
+        "type": "Conference venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1172, 52.09176]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "Bakkerbrug",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.12402, 52.08198]
+      },
+      "properties": {
+        "date": "2022-09-13",
+        "name": "Meneer Smakers",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
