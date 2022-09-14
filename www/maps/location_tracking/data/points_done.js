@@ -29789,6 +29789,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [5.12365, 52.08311]
+      },
+      "properties": {
+        "date": "2022-09-14",
+        "name": "LemonGrass Thai",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
