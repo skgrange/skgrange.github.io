@@ -29801,6 +29801,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [5.1101, 52.09014]
+      },
+      "properties": {
+        "date": "2022-09-15",
+        "name": "Utrecht Centraal",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86661, 47.49014]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Elgg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8722, 47.5115]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Schneitberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8629, 47.516]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Mittelschneit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.836, 47.5172]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Zünikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8222, 47.5147]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Fulau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8259, 47.5108]
+      },
+      "properties": {
+        "date": "2022-09-17",
+        "name": "Fulauertobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
