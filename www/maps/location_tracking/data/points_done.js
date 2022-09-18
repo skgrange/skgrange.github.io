@@ -29885,6 +29885,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.67464, 47.47354]
+      },
+      "properties": {
+        "date": "2022-09-18",
+        "name": "Brütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6763, 47.48564]
+      },
+      "properties": {
+        "date": "2022-09-18",
+        "name": "Chomberg forest",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63017, 47.46824]
+      },
+      "properties": {
+        "date": "2022-09-18",
+        "name": "Breitenloo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63809, 47.46748]
+      },
+      "properties": {
+        "date": "2022-09-18",
+        "name": "Kleinhaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
