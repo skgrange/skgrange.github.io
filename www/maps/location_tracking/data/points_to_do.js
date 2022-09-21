@@ -2052,6 +2052,18 @@ var points_to_do = [{
         "name": "Kreuzfelsencurve",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.76186, 46.54764]
+      },
+      "properties": {
+        "date": "",
+        "name": "Griesalp",
+        "type": "To-do"
+      }
     }
   ]
 }];
