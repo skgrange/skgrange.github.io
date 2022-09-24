@@ -29933,6 +29933,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.71654, 47.57262]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Oberwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71535, 47.57902]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Buck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70923, 47.57633]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Wil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70628, 47.55492]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Steigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72763, 47.54625]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Heimenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73415, 47.55689]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Rutschwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7318, 47.5634]
+      },
+      "properties": {
+        "date": "2022-09-24",
+        "name": "Berg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
