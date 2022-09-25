@@ -2052,6 +2052,18 @@ var points_to_do = [{
         "name": "Griesalp",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86647, 47.46039]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schauenberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
