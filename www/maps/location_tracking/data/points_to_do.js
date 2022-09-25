@@ -2021,18 +2021,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70057, 47.47]
-      },
-      "properties": {
-        "date": "",
-        "name": "Steigstrasse",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.45537, 47.36066]
       },
       "properties": {

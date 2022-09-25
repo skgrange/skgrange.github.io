@@ -30017,6 +30017,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.69216, 47.45609]
+      },
+      "properties": {
+        "date": "2022-09-25",
+        "name": "Winterburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70054, 47.4656]
+      },
+      "properties": {
+        "date": "2022-09-25",
+        "name": "Bläsihofstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70057, 47.47]
+      },
+      "properties": {
+        "date": "2022-09-25",
+        "name": "Steigstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
