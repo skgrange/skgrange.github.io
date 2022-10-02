@@ -2064,6 +2064,18 @@ var points_to_do = [{
         "name": "Schauenberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.27469, 54.39281]
+      },
+      "properties": {
+        "date": "",
+        "name": "Scarth Nick",
+        "type": "To-do"
+      }
     }
   ]
 }];

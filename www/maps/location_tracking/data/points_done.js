@@ -30053,6 +30053,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.52022, 47.24368]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Rheinbrücke Ruggell",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.53182, 47.26675]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Bangserfeld",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.53192, 47.2696]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Bangserfeld Grenze",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.53471, 47.27385]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Rheinbrücke Bangs",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.52537, 47.24148]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Ruggell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.595162, 47.51673]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5963237, 47.51688]
+      },
+      "properties": {
+        "date": "2022-10-02",
+        "name": "Waschpark Embrach",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
