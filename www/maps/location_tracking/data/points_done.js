@@ -23093,6 +23093,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.63967, 47.46393]
+      },
+      "properties": {
+        "date": "2021-09-23",
+        "name": "Oberwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.58745, 46.53481]
       },
       "properties": {
@@ -30131,6 +30143,18 @@ var points_done = [{
         "date": "2022-10-02",
         "name": "Waschpark Embrach",
         "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64415, 47.47435]
+      },
+      "properties": {
+        "date": "2022-10-03",
+        "name": "Bühlhof",
+        "type": "Attraction"
       }
     },
     {
