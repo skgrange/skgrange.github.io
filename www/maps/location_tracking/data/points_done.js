@@ -30161,6 +30161,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5608, 47.36841]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Römerhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56327, 47.36993]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Dolderbahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56558, 47.37405]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Wolfbachtobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5565, 47.37678]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Grosse Kirche Fluntern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5506, 47.37785]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Sternwarte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53039, 47.37753]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Zürich-Kaserne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53382, 47.37613]
+      },
+      "properties": {
+        "date": "2022-10-05",
+        "name": "Cucina",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
