@@ -1997,18 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67096, 47.29231]
-      },
-      "properties": {
-        "date": "",
-        "name": "Pfannenstiel",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.12551, 46.3726]
       },
       "properties": {

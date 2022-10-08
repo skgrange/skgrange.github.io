@@ -30245,6 +30245,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.67588, 47.28985]
+      },
+      "properties": {
+        "date": "2022-10-08",
+        "name": "Hochwacht",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67095, 47.2923]
+      },
+      "properties": {
+        "date": "2022-10-08",
+        "name": "Pfannenstiel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66138, 47.30458]
+      },
+      "properties": {
+        "date": "2022-10-08",
+        "name": "Vorderguldenen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
