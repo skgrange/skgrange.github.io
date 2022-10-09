@@ -1865,18 +1865,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7028, 47.50109]
-      },
-      "properties": {
-        "date": "",
-        "name": "Brühlberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.845814, 53.71587]
       },
       "properties": {

@@ -30281,6 +30281,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.68425, 47.49856]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Hoh-Wülflingen",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6854, 47.5]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Totentäli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68807, 47.49985]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Alt-Wülflingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70462, 47.49718]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Tobelbächli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70395, 47.50033]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "J.C. Heer Stein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7028, 47.50109]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Brühlberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70248, 47.50193]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Brühlbergturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68225, 47.50507]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "Tössrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68184, 47.4927]
+      },
+      "properties": {
+        "date": "2022-10-09",
+        "name": "St. Pirminsbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
