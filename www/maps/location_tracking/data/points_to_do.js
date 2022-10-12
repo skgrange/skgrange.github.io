@@ -2009,18 +2009,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.07814, 47.91863]
-      },
-      "properties": {
-        "date": "",
-        "name": "Kreuzfelsencurve",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.76186, 46.54764]
       },
       "properties": {
@@ -2050,6 +2038,30 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Scarth Nick",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53402, 47.72102]
+      },
+      "properties": {
+        "date": "",
+        "name": "Siblinger Randenturm",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58115, 47.70519]
+      },
+      "properties": {
+        "date": "",
+        "name": "Beringer Randenturm",
         "type": "To-do"
       }
     }

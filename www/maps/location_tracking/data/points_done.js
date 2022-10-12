@@ -30389,6 +30389,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.47786, 47.61071]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Bergstrasse Wil",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2528, 47.776]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Grafenhausen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.17696, 47.81731]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Schluchsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.15174, 47.90123]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Titisee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.14022, 47.88696]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Sandbank",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.14783, 47.88588]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Rotkreuz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.16575, 47.89217]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Saiger Höhe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.15416, 47.90256]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Räuber Kaffee",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.07814, 47.91863]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Kreuzfelsencurve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04122, 47.9235]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Höllental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.33353, 47.81754]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Bonndorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45629, 47.74913]
+      },
+      "properties": {
+        "date": "2022-10-12",
+        "name": "Stühlingen",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
