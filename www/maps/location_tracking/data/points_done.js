@@ -30533,6 +30533,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.92739, 47.02011]
+      },
+      "properties": {
+        "date": "2022-10-14",
+        "name": "Rossmatter Chlü",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92427, 47.0103]
+      },
+      "properties": {
+        "date": "2022-10-14",
+        "name": "Chlüstalden/Klönstalden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92471, 47.00565]
+      },
+      "properties": {
+        "date": "2022-10-14",
+        "name": "Rossmatter Tal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94059, 46.9955]
+      },
+      "properties": {
+        "date": "2022-10-14",
+        "name": "Chäseren/Käsern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
