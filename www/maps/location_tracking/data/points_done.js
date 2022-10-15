@@ -30581,6 +30581,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.4183, 47.5682]
+      },
+      "properties": {
+        "date": "2022-10-15",
+        "name": "Kaiserstuhl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.39152, 47.57231]
+      },
+      "properties": {
+        "date": "2022-10-15",
+        "name": "Römische Warte Sandgraben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41908, 47.56996]
+      },
+      "properties": {
+        "date": "2022-10-15",
+        "name": "Rheinbrücke Kaiserstuhl-Hohentengen",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
