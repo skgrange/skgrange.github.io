@@ -30617,6 +30617,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.42824, 47.28552]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Wasserauen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.40099, 47.26996]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Seealpsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41008, 47.27844]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Unnamed trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41457, 47.28346]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Aescher-Wildkirchli",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41188, 47.28331]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Ebenalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41154, 47.28467]
+      },
+      "properties": {
+        "date": "2022-10-16",
+        "name": "Ebenalp cable car",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

@@ -1361,18 +1361,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.40063, 47.26855]
-      },
-      "properties": {
-        "date": "",
-        "name": "Seealpsee",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.956999, 47.09717]
       },
       "properties": {
