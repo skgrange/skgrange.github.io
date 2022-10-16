@@ -2052,6 +2052,30 @@ var points_to_do = [{
         "name": "Beringer Randenturm",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5685, 46.2007]
+      },
+      "properties": {
+        "date": "",
+        "name": "Spruga",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60226, 46.22664]
+      },
+      "properties": {
+        "date": "",
+        "name": "Vergeletto",
+        "type": "To-do"
+      }
     }
   ]
 }];
