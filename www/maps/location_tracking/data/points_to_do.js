@@ -2088,6 +2088,18 @@ var points_to_do = [{
         "name": "Munot",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96444, 47.30633]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tössstock",
+        "type": "To-do"
+      }
     }
   ]
 }];
