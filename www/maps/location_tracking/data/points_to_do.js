@@ -2076,6 +2076,18 @@ var points_to_do = [{
         "name": "Arosa",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63989, 47.69684]
+      },
+      "properties": {
+        "date": "",
+        "name": "Munot",
+        "type": "To-do"
+      }
     }
   ]
 }];
