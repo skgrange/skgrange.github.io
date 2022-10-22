@@ -2009,18 +2009,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86647, 47.46039]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schauenberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.27469, 54.39281]
       },
       "properties": {
@@ -2074,6 +2062,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Vergeletto",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.67955, 46.7836]
+      },
+      "properties": {
+        "date": "",
+        "name": "Arosa",
         "type": "To-do"
       }
     }

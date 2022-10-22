@@ -30689,6 +30689,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.84987, 47.44475]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Hutzikerbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85995, 47.44999]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Hutziker Tobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86892, 47.45703]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Tannenweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8664, 47.4601]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Schauenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85175, 47.45568]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Schwändi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84589, 47.45218]
+      },
+      "properties": {
+        "date": "2022-10-22",
+        "name": "Girenbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
