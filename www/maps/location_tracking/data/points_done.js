@@ -30761,6 +30761,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.52586, 46.99075]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Gersau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53648, 46.98913]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Rüteli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53614, 46.9907]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Sellen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52801, 47.00156]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Brand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52146, 46.99818]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Platten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.50313, 46.99212]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Förstli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60654, 46.99577]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Vietthai Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60538, 46.99345]
+      },
+      "properties": {
+        "date": "2022-10-23",
+        "name": "Brunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
