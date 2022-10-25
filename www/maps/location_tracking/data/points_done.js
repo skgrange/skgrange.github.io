@@ -30857,6 +30857,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.52955, 47.37433]
+      },
+      "properties": {
+        "date": "2022-10-25",
+        "name": "Sweet Basil",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
