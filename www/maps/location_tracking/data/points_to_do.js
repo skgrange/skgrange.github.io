@@ -2100,6 +2100,18 @@ var points_to_do = [{
         "name": "Tössstock",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.5606, 37.6309]
+      },
+      "properties": {
+        "date": "",
+        "name": "Panlong Ancient Road",
+        "type": "To-do"
+      }
     }
   ]
 }];
