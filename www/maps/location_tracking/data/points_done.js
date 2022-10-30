@@ -30869,6 +30869,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.56122, 47.62049]
+      },
+      "properties": {
+        "date": "2022-10-30",
+        "name": "Lottstetten/Rafz Zollhaus",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57349, 47.62757]
+      },
+      "properties": {
+        "date": "2022-10-30",
+        "name": "Lottstetten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57483, 47.59555]
+      },
+      "properties": {
+        "date": "2022-10-30",
+        "name": "Rüdlinger Straße/Nackerstrasse",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57781, 47.57604]
+      },
+      "properties": {
+        "date": "2022-10-30",
+        "name": "Rheinbrücke Rüdlingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5792, 47.52982]
+      },
+      "properties": {
+        "date": "2022-10-30",
+        "name": "Rorbas",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
