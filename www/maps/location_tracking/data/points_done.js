@@ -30929,6 +30929,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.4631, 47.2436]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Mettmenstetten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4971, 47.2416]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Rifferswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53386, 47.2438]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Hausen am Albis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5049, 47.2452]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Seleger Moor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.50169, 47.26396]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Hexengraben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.50514, 47.26551]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Türlersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51182, 47.2596]
+      },
+      "properties": {
+        "date": "2022-11-05",
+        "name": "Vollenweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
