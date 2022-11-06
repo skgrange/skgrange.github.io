@@ -31013,6 +31013,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.64535, 47.25129]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Wiedlisbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.64217, 47.26352]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Rumisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62272, 47.26667]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Farnern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.60978, 47.26898]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Gruebmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.59994, 47.27487]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Bättlerchuchi Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.60148, 47.27497]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Alte Bättlerchuchi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62031, 47.27663]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Schatteberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62381, 47.27695]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Farnernzähne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.63693, 47.27805]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Hinteregg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62861, 47.27301]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "Lucherenhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.80515, 47.32347]
+      },
+      "properties": {
+        "date": "2022-11-06",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
