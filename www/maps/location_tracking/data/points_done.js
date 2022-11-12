@@ -31145,6 +31145,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.81543, 47.25605]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Wynau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.81862, 47.25546]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Beciri Automobile",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7983, 47.25278]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Mettlengrabenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.78574, 47.25624]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "EW Wynau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.79708, 47.26601]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Far",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.80004, 47.26963]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Wolfwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.83184, 47.26735]
+      },
+      "properties": {
+        "date": "2022-11-12",
+        "name": "Brückenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
