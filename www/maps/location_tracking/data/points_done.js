@@ -31241,6 +31241,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.17155, 46.95975]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Matt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.18113, 46.95905]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Krauchtalstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19667, 46.96067]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Chrauchtal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19931, 46.96081]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Geissteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.21974, 46.96688]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Risetenbrüke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.22276, 46.97101]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Riseten Unter Stafel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.22308, 46.9738]
+      },
+      "properties": {
+        "date": "2022-11-19",
+        "name": "Riseter Schwamm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
