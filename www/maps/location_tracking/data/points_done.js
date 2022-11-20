@@ -31325,6 +31325,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5337944, 47.33681]
+      },
+      "properties": {
+        "date": "2022-11-20",
+        "name": "Widmerstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48312, 47.36865]
+      },
+      "properties": {
+        "date": "2022-11-20",
+        "name": "Birmensdorferstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43717, 47.35369]
+      },
+      "properties": {
+        "date": "2022-11-20",
+        "name": "Birmensdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43967, 47.33666]
+      },
+      "properties": {
+        "date": "2022-11-20",
+        "name": "Aesch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
