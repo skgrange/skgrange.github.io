@@ -31373,6 +31373,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5255, 47.3117]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Adliswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5212, 47.276]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Albis Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51011, 47.27487]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Chnübrechi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.50402, 47.278]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Habersaat",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.48713, 47.28413]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Aeugstertal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.47889, 47.28325]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Müliberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.47236, 47.28951]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Sennweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51287, 47.26727]
+      },
+      "properties": {
+        "date": "2022-11-26",
+        "name": "Türlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
