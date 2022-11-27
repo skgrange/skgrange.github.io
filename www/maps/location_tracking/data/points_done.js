@@ -31469,6 +31469,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.53221, 46.87672]
+      },
+      "properties": {
+        "date": "2022-11-27",
+        "name": "Haldenstein Rheinbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.555, 46.913]
+      },
+      "properties": {
+        "date": "2022-11-27",
+        "name": "Untervaz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.52632, 46.87922]
+      },
+      "properties": {
+        "date": "2022-11-27",
+        "name": "Haldenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.56266, 46.9192]
+      },
+      "properties": {
+        "date": "2022-11-27",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
