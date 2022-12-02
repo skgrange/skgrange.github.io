@@ -2136,6 +2136,18 @@ var points_to_do = [{
         "name": "Grosser Hebelstein",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97628, 47.53148]
+      },
+      "properties": {
+        "date": "",
+        "name": "Immenberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
