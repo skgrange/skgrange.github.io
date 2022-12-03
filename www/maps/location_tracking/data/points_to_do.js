@@ -2148,6 +2148,54 @@ var points_to_do = [{
         "name": "Immenberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90629, 47.46508]
+      },
+      "properties": {
+        "date": "",
+        "name": "Burstel",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88139, 47.44753]
+      },
+      "properties": {
+        "date": "",
+        "name": "Höchegg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93964, 47.3657]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hörnlihaus",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96634, 47.38567]
+      },
+      "properties": {
+        "date": "",
+        "name": "Grat",
+        "type": "To-do"
+      }
     }
   ]
 }];
