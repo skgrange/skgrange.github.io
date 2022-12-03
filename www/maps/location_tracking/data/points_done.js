@@ -31517,6 +31517,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.89127, 47.38615]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Widenwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89834, 47.38517]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Bauegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93335, 47.38206]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Gfell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94292, 47.37663]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Sternenberg Pass",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94972, 47.38406]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Alewinde",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93845, 47.3982]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Rotbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90307, 47.40211]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Steinen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88815, 47.40729]
+      },
+      "properties": {
+        "date": "2022-12-03",
+        "name": "Traube",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
