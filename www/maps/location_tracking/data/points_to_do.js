@@ -2184,6 +2184,18 @@ var points_to_do = [{
         "name": "Grat",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95347, 47.32057]
+      },
+      "properties": {
+        "date": "",
+        "name": "Beicher",
+        "type": "To-do"
+      }
     }
   ]
 }];
