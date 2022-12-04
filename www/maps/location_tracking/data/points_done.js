@@ -31613,6 +31613,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.95232, 47.30617]
+      },
+      "properties": {
+        "date": "2022-12-04",
+        "name": "Vordere Töss-Wasserfall I",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9565203, 47.30426]
+      },
+      "properties": {
+        "date": "2022-12-04",
+        "name": "Boundary stone",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96444, 47.30633]
+      },
+      "properties": {
+        "date": "2022-12-04",
+        "name": "Tössstock",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96356, 47.30863]
+      },
+      "properties": {
+        "date": "2022-12-04",
+        "name": "Tössstockweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

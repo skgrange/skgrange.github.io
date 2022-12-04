@@ -2093,18 +2093,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96444, 47.30633]
-      },
-      "properties": {
-        "date": "",
-        "name": "Tössstock",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [75.5606, 37.6309]
       },
       "properties": {
