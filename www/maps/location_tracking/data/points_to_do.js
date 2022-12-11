@@ -2232,6 +2232,18 @@ var points_to_do = [{
         "name": "La Brévine",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90336, 46.91924]
+      },
+      "properties": {
+        "date": "",
+        "name": "Glattalp",
+        "type": "To-do"
+      }
     }
   ]
 }];
