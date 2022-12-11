@@ -2220,6 +2220,18 @@ var points_to_do = [{
         "name": "Dägelsberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.607, 46.9802]
+      },
+      "properties": {
+        "date": "",
+        "name": "La Brévine",
+        "type": "To-do"
+      }
     }
   ]
 }];
