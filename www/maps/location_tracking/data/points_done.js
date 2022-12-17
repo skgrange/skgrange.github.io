@@ -31661,6 +31661,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.70018, 47.32595]
+      },
+      "properties": {
+        "date": "2022-12-16",
+        "name": "Aaspitz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.28366, 47.06647]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Emmen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.10147, 47.05589]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Werthenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0171, 46.95121]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Schüpfheim",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.93444, 46.91405]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Escholzmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9174, 46.9163]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Lombachtal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90688, 46.9168]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Bödili",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90408, 46.92723]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Niderilmiboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.91457, 46.93402]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Turner",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.84638, 46.92233]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "Trubschachen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.80072, 46.93806]
+      },
+      "properties": {
+        "date": "2022-12-17",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
