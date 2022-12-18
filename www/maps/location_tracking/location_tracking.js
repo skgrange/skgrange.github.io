@@ -13,13 +13,6 @@ layer_to_do = add_location_points(
   opacity = 0.75
 ).addTo(map);
 
-layer_to_do_shona = add_location_points(
-  points_to_do_shona,
-  colour = "#ff3030",
-  fill = "#ff3030",
-  opacity = 0.75
-).addTo(map);
-
 layer_extra = add_location_points(
   points_extra,
   colour = "#995399 ",
@@ -36,7 +29,6 @@ var overlay_maps = {
   "Contour lines?": contour_lines,
   "Display done?": layer_done,
   "Display to-do?": layer_to_do,
-  "Display Shona's to-do?": layer_to_do_shona,
   "Display extras?": layer_extra
 };
 

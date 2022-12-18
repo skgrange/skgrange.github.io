@@ -1577,6 +1577,18 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.35594, 46.92058]
+      },
+      "properties": {
+        "date": "",
+        "name": "St. Martin",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [77.60463, 34.27867]
       },
       "properties": {
