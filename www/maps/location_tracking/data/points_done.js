@@ -31793,6 +31793,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61135, 47.29144]
+      },
+      "properties": {
+        "date": "2022-12-23",
+        "name": "Bushardstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62214, 47.28749]
+      },
+      "properties": {
+        "date": "2022-12-23",
+        "name": "Schlattstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

@@ -1961,18 +1961,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62212, 47.28746]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schlattstrasse",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.71948, -35.02564]
       },
       "properties": {
