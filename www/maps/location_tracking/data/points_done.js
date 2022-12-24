@@ -31817,6 +31817,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57426, 47.5632]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Wandbuck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5795, 47.55775]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Hochwacht Irchel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57807, 47.55503]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Hörnli",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59005, 47.55685]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Kleiner Hebelstein",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59369, 47.556]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Grosser Hebelstein",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58189, 47.56935]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Ebersbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57896, 47.57196]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Ebersberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6284, 47.54389]
+      },
+      "properties": {
+        "date": "2022-12-24",
+        "name": "Huebholzstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

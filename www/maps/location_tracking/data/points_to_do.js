@@ -2105,30 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57807, 47.55503]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hörnli",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.59369, 47.556]
-      },
-      "properties": {
-        "date": "",
-        "name": "Grosser Hebelstein",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.97628, 47.53148]
       },
       "properties": {
