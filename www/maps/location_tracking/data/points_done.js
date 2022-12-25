@@ -31913,6 +31913,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.6275, 47.46357]
+      },
+      "properties": {
+        "date": "2022-12-25",
+        "name": "Obholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60525, 47.45934]
+      },
+      "properties": {
+        "date": "2022-12-25",
+        "name": "Rank",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
