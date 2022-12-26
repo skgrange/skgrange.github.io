@@ -31937,6 +31937,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.9217, 47.32617]
+      },
+      "properties": {
+        "date": "2022-12-26",
+        "name": "Freieck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9072, 47.36463]
+      },
+      "properties": {
+        "date": "2022-12-26",
+        "name": "Wellenau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89031, 47.39228]
+      },
+      "properties": {
+        "date": "2022-12-26",
+        "name": "Mattstutzstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
