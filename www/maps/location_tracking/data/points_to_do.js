@@ -1337,30 +1337,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.63566, 46.6756]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wimmis",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.4369, 46.655]
-      },
-      "properties": {
-        "date": "",
-        "name": "Simmental",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.956999, 47.09717]
       },
       "properties": {

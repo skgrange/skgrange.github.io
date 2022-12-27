@@ -31973,6 +31973,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.63566, 46.6756]
+      },
+      "properties": {
+        "date": "2022-12-27",
+        "name": "Wimmis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5535, 46.6607]
+      },
+      "properties": {
+        "date": "2022-12-27",
+        "name": "Erlenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3719, 46.5538]
+      },
+      "properties": {
+        "date": "2022-12-27",
+        "name": "Zweisimmen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2603, 46.491]
+      },
+      "properties": {
+        "date": "2022-12-27",
+        "name": "Saanen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1332, 46.4731]
+      },
+      "properties": {
+        "date": "2022-12-27",
+        "name": "Château-d'Oex",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
