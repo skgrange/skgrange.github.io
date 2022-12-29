@@ -32033,6 +32033,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.52005, 47.71427]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Siblinger",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53403, 47.72104]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Siblinger Randenturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53795, 47.73]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Siblinger Randenhaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54699, 47.7342]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Chrisling",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57021, 47.72653]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Hägliloo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57538, 47.72152]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Blashalde",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58099, 47.70516]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Beringer Randenturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56254, 47.70066]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Abendhalde",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53257, 47.70943]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "Fohrenhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.79216, 47.8564]
+      },
+      "properties": {
+        "date": "2022-12-29",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

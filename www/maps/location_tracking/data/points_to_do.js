@@ -1997,30 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53402, 47.72102]
-      },
-      "properties": {
-        "date": "",
-        "name": "Siblinger Randenturm",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.58115, 47.70519]
-      },
-      "properties": {
-        "date": "",
-        "name": "Beringer Randenturm",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.5685, 46.2007]
       },
       "properties": {
