@@ -32153,6 +32153,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.12857, 46.23765]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Roveredo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.122, 46.25691]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Val Calanca",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.11047, 46.26808]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Les",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.11516, 46.28099]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Car parking",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10744, 46.27276]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Buseno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10593, 46.26646]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Fontanol di Sora",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10994, 46.26777]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Laghetto di Buseno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92718, 45.97399]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Centro Lugano Sud",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97105, 45.90538]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Riva San Vitale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93736, 45.92887]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Brusino Arsizio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93746, 45.92779]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "Dolceresio Lugano Lake B&B",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

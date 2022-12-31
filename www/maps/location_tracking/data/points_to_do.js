@@ -2172,6 +2172,30 @@ var points_to_do = [{
         "name": "Glattalp",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.26493, 47.15741]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tubelochschlucht",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.37415, 46.87244]
+      },
+      "properties": {
+        "date": "",
+        "name": "Château de Joux",
+        "type": "To-do"
+      }
     }
   ]
 }];
