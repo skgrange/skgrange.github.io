@@ -32277,8 +32277,80 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-12-31",
-        "name": "Dolceresio Lugano Lake B&B",
+        "name": "Dolceresio B&B",
         "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93677, 45.98533]
+      },
+      "properties": {
+        "date": "2022-12-31",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91692, 45.91355]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "name": "Brusino Arsizio Confine",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90389, 45.90259]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "name": "Porto Ceresio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89071, 45.94776]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "name": "Brusimpiano",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85899, 45.96702]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "name": "Ponte sul Tresa",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89892, 45.96876]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "name": "Carabietta",
+        "type": "Attraction"
       }
     },
     {
