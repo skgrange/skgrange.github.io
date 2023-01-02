@@ -32357,6 +32357,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.95842, 46.00572]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Viale Carlo Cattaneo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97713, 46.00122]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Castagnola",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02246, 46.01688]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Gandria Dogana",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.12626, 46.03678]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Carrefour",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.11827, 46.03477]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Porlezza",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9255, 45.97057]
+      },
+      "properties": {
+        "date": "2023-01-02",
+        "name": "Grancia",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
