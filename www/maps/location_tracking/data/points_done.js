@@ -32453,6 +32453,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.89314, 47.45428]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Seelmatten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89555, 47.46278]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Rüetschbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90395, 47.48819]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Aadorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56779, 47.51972]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Eschenmosen Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
