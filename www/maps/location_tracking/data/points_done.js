@@ -32429,6 +32429,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57364, 47.49721]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Winkel Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55232, 47.49258]
+      },
+      "properties": {
+        "date": "2023-01-07",
+        "name": "Winkel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
