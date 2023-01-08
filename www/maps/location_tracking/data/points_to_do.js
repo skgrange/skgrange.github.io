@@ -2057,18 +2057,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97628, 47.53148]
-      },
-      "properties": {
-        "date": "",
-        "name": "Immenberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.90629, 47.46508]
       },
       "properties": {
@@ -2194,6 +2182,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Château de Joux",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73324, 47.01745]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ibergeregg Pass",
         "type": "To-do"
       }
     }

@@ -32501,6 +32501,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.93403, 47.5196]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Matzingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95496, 47.52431]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Stettfurt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95919, 47.52999]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Tobelweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96356, 47.528]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Sonnenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97631, 47.53151]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Immenberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95242, 47.53496]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Chöll",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75255, 47.49842]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "Winterthur Grüze",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74667, 47.49771]
+      },
+      "properties": {
+        "date": "2023-01-08",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
