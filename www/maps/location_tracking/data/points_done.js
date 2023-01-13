@@ -25749,7 +25749,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2022-02-05",
-        "name": "Swizerland-Germany boarder stone",
+        "name": "Swizerland-Germany border stone",
         "type": "Attraction"
       }
     },
@@ -32591,6 +32591,18 @@ var points_done = [{
         "date": "2023-01-08",
         "name": "McDonald’s",
         "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6308, 47.49635]
+      },
+      "properties": {
+        "date": "2023-01-13",
+        "name": "Rötelstein",
+        "type": "Attraction"
       }
     },
     {
