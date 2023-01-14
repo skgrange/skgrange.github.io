@@ -32609,6 +32609,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.04937, 47.04836]
+      },
+      "properties": {
+        "date": "2023-01-14",
+        "name": "Stein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04826, 47.0482]
+      },
+      "properties": {
+        "date": "2023-01-14",
+        "name": "Sitli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03381, 47.04674]
+      },
+      "properties": {
+        "date": "2023-01-14",
+        "name": "Kohlgrübli/Cholgrüebli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03753, 47.04747]
+      },
+      "properties": {
+        "date": "2023-01-14",
+        "name": "Staldengarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03056, 47.15443]
+      },
+      "properties": {
+        "date": "2023-01-14",
+        "name": "Autoland Reust",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
