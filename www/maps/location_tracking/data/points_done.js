@@ -31661,6 +31661,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.03049, 47.04913]
+      },
+      "properties": {
+        "date": "2022-12-10",
+        "name": "Löntschtobel Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.70018, 47.32595]
       },
       "properties": {
@@ -32663,6 +32675,42 @@ var points_done = [{
         "date": "2023-01-14",
         "name": "Autoland Reust",
         "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95147, 47.38319]
+      },
+      "properties": {
+        "date": "2023-01-15",
+        "name": "Alewindebööl",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95584, 47.38344]
+      },
+      "properties": {
+        "date": "2023-01-15",
+        "name": "Holenstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96636, 47.38556]
+      },
+      "properties": {
+        "date": "2023-01-15",
+        "name": "Grat/Groot",
+        "type": "Peak"
       }
     },
     {
