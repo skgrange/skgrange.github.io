@@ -32717,6 +32717,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.63916, 47.45545]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Sankt Margrethen Zoll",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.63956, 47.45712]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Zollamt Höchst",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6696, 47.47762]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Rhein-Stahlseilbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6597, 47.48503]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Sportanlage Müss",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.64349, 47.52482]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Ende Rheindamm links",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.65906, 47.50587]
+      },
+      "properties": {
+        "date": "2023-01-21",
+        "name": "Lagune",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
