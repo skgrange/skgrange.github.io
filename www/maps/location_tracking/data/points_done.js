@@ -32801,6 +32801,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.07757, 53.9564]
+      },
+      "properties": {
+        "date": "2023-01-23",
+        "name": "Hampton by Hilton York Piccadilly",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07936, 53.95796]
+      },
+      "properties": {
+        "date": "2023-01-23",
+        "name": "German Doner Kebab",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
