@@ -32825,6 +32825,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.08117, 53.95736]
+      },
+      "properties": {
+        "date": "2023-01-25",
+        "name": "Burgsy’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
