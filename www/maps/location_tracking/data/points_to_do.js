@@ -2184,6 +2184,18 @@ var points_to_do = [{
         "name": "Ibergeregg Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56075, 47.57288]
+      },
+      "properties": {
+        "date": "",
+        "name": "Buchberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
