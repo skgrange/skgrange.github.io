@@ -2196,6 +2196,18 @@ var points_to_do = [{
         "name": "Buchberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.43967, 40.25248]
+      },
+      "properties": {
+        "date": "",
+        "name": "Darvaza gas crater",
+        "type": "To-do"
+      }
     }
   ]
 }];
