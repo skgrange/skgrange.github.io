@@ -32861,6 +32861,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66716, 47.50118]
+      },
+      "properties": {
+        "date": "2023-02-10",
+        "name": "Stöcklirüti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.80806, 46.47399]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Chemin de Burignon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0589, 46.86281]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Le Chandon valley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.04445, 46.87996]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Car park",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.03108, 46.90283]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Chemin du Bey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.03362, 46.91631]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Salavaux Plage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.04064, 46.87999]
+      },
+      "properties": {
+        "date": "2023-02-11",
+        "name": "Avenches",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
