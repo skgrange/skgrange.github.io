@@ -32945,6 +32945,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5665, 47.57581]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Car park",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57161, 47.57676]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Rüdlingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55837, 47.55341]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Tössegg Fähre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55749, 47.55388]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Murkathof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55078, 47.56341]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Aichhaalde",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55392, 47.56669]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Fuchsbachtobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54757, 47.57196]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Rohrgrabe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56272, 47.57271]
+      },
+      "properties": {
+        "date": "2023-02-12",
+        "name": "Buchberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

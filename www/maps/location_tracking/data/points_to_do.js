@@ -2189,18 +2189,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56075, 47.57288]
-      },
-      "properties": {
-        "date": "",
-        "name": "Buchberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [58.43967, 40.25248]
       },
       "properties": {
