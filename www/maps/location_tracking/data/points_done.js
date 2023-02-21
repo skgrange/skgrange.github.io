@@ -33041,6 +33041,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [114.1579, 22.28766]
+      },
+      "properties": {
+        "date": "2023-02-18",
+        "name": "Hong Kong piers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.91456, -35.02831]
+      },
+      "properties": {
+        "date": "2023-02-21",
+        "name": "Matauri Bay Holiday Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.91756, -35.02688]
+      },
+      "properties": {
+        "date": "2023-02-21",
+        "name": "Rainbow Warrior Memorial",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.90868, -35.0346]
+      },
+      "properties": {
+        "date": "2023-02-21",
+        "name": "Samuel Marsden Memorial Church",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.90127, -35.04415]
+      },
+      "properties": {
+        "date": "2023-02-21",
+        "name": "Matauri Bay Top Shop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

@@ -2208,6 +2208,18 @@ var points_to_do = [{
         "name": "Ruine Kloster Berenberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54127, 47.55607]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rhinsberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
