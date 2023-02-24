@@ -33101,6 +33101,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.51003, -34.9918]
+      },
+      "properties": {
+        "date": "2023-02-22",
+        "name": "The Bakerman",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.65972, -36.40813]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "The Coffee Club",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7604, -36.8448]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "Lucy Lane",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.787, -36.85544]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "Gladestone Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76172, -36.84343]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "Sierra",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.64699, -36.40274]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "Mansel Drive",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.35723, -36.10935]
+      },
+      "properties": {
+        "date": "2023-02-24",
+        "name": "Maungaturoto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
