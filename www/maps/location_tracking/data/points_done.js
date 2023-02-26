@@ -33185,6 +33185,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.53637, -34.99101]
+      },
+      "properties": {
+        "date": "2023-02-26",
+        "name": "Jesse's on the Waterfront",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.52941, -34.98999]
+      },
+      "properties": {
+        "date": "2023-02-26",
+        "name": "Mill Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.52545, -34.98464]
+      },
+      "properties": {
+        "date": "2023-02-26",
+        "name": "Rangikapiti",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.52589, -34.98054]
+      },
+      "properties": {
+        "date": "2023-02-26",
+        "name": "Rangikapiti Head",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.51972, -34.9845]
+      },
+      "properties": {
+        "date": "2023-02-26",
+        "name": "Kohekohe Point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
