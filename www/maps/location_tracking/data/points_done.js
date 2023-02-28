@@ -33245,6 +33245,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.28252, -35.73955]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Tui Crescent",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.31681, -35.72546]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Cafler Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.32049, -35.7254]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Cameron Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.32474, -35.7229]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Canopy Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.33042, -35.72152]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Dundas Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.33348, -35.71764]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Ross Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.33673, -35.71283]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Mount Parihaka",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.32651, -35.72485]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Quayside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.32576, -35.72454]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Riverside Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.32485, -35.72575]
+      },
+      "properties": {
+        "date": "2023-02-28",
+        "name": "Pak'nSave",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
