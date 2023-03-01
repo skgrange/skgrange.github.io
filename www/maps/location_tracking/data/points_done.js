@@ -33365,6 +33365,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.744, -35.04868]
+      },
+      "properties": {
+        "date": "2023-03-01",
+        "name": "Whangaroa Harbour",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.74807, -35.04369]
+      },
+      "properties": {
+        "date": "2023-03-01",
+        "name": "Ratcliffe’s Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.74936, -35.0503]
+      },
+      "properties": {
+        "date": "2023-03-01",
+        "name": "Ohakiri / St. Paul's Rock",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.74494, -35.04995]
+      },
+      "properties": {
+        "date": "2023-03-01",
+        "name": "St. Paul’s",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
