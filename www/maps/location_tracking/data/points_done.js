@@ -33629,6 +33629,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.30939, -41.29334]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Tantragee Saddle",
+        "type": "Saddle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.31155, -41.30226]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Groom Creek Corner",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.32332, -41.30295]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Flat Corner",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.31675, -41.31062]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Fringed Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.31134, -41.31116]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Fringed Hill clearing",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.29866, -41.30553]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Bullock Spur",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.28334, -41.27372]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Pomeroy's Coffee and Tea Company",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
