@@ -33413,6 +33413,222 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.22576, -41.29999]
+      },
+      "properties": {
+        "date": "2023-03-02",
+        "name": "Nelson Car Rental",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.24841, -41.28337]
+      },
+      "properties": {
+        "date": "2023-03-02",
+        "name": "Subway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.25459, -41.29123]
+      },
+      "properties": {
+        "date": "2023-03-02",
+        "name": "Princess Drive Lookout",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.24005, -41.2853]
+      },
+      "properties": {
+        "date": "2023-03-02",
+        "name": "Arcadia Motel",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.26931, -41.26317]
+      },
+      "properties": {
+        "date": "2023-03-02",
+        "name": "Styx",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.2846, -41.27018]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Riverside Kitchen",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.86259, -41.03202]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Tākaka Hill Summit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.85462, -41.03462]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Rocky Angle Corner",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.96869, -40.83259]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Pigeon Saddle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.00383, -40.8224]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Tōtaranui",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.99895, -40.82]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Ngarata Homestead",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.00632, -40.81758]
+      },
+      "properties": {
+        "date": "2023-03-03",
+        "name": "Tōtaranui Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.00514, -40.82606]
+      },
+      "properties": {
+        "date": "2023-03-04",
+        "name": "Coastal Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.00966, -40.83154]
+      },
+      "properties": {
+        "date": "2023-03-04",
+        "name": "Skinner Point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.01043, -40.83553]
+      },
+      "properties": {
+        "date": "2023-03-04",
+        "name": "Goat Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.01457, -40.84738]
+      },
+      "properties": {
+        "date": "2023-03-04",
+        "name": "Waiharakeke Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.27937, -41.26288]
+      },
+      "properties": {
+        "date": "2023-03-05",
+        "name": "Harbourside Lodge",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.28404, -41.27484]
+      },
+      "properties": {
+        "date": "2023-03-05",
+        "name": "The Vic",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
