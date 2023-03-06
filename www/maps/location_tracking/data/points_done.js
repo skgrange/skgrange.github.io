@@ -33713,6 +33713,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.43924, -41.22085]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Whangamoa Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.5542, -41.19048]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Rai Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.58318, -41.22802]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Brick Oven",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.36224, -41.1852]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Glenduan",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.0785, -41.3023]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Redwood Valley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.03903, -41.29946]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Cut Hill",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.00632, -41.26943]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "Upper Moutere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
