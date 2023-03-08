@@ -33821,6 +33821,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.09198, -35.28063]
+      },
+      "properties": {
+        "date": "2023-03-09",
+        "name": "Zane Grey's Restaurant and Bar",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

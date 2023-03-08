@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -316,6 +309,11 @@ $(document).ready(function () {
 <h1 class="tabset tabset-fade">Publication lists</h1>
 <div id="journal-articles" class="section level2">
 <h2>Journal articles</h2>
+<p>Warburton, T., Grange, S. K., Hopkins, J. R., Andrews, S. J., Lewis,
+A. C., Owen, N., Jordan, C., Adamson, G., and Xia, B. (2023). <a
+href="http://dx.doi.org/10.1039/D2EM00444E">The impact of plug-in
+fragrance diffusers on residential indoor VOC concentrations</a>.
+<em>Environmental Science: Processes Impacts</em>.</p>
 <p>Shaw, J. T., Allen, G., Topping, D., Grange, S. K., Barker, P., Pitt,
 J., and Ward, R. S. (2022). <a
 href="https://www.sciencedirect.com/science/article/pii/S1309104222002446">A
