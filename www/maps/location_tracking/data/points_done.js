@@ -33797,6 +33797,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.28239, -41.27439]
+      },
+      "properties": {
+        "date": "2023-03-06",
+        "name": "The Spice Curry Kitchen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.09486, -35.2]
+      },
+      "properties": {
+        "date": "2023-03-08",
+        "name": "Fishing location",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
