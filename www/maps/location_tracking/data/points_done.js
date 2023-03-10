@@ -33833,6 +33833,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.52319, -36.29558]
+      },
+      "properties": {
+        "date": "2023-03-10",
+        "name": "Caffe Cozy",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76636, -36.85115]
+      },
+      "properties": {
+        "date": "2023-03-10",
+        "name": "Auckland Art Gallery Toi o Tāmaki",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76594, -36.79018]
+      },
+      "properties": {
+        "date": "2023-03-10",
+        "name": "Pupuke Manor Motel",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7552, -36.77563]
+      },
+      "properties": {
+        "date": "2023-03-10",
+        "name": "Nimon Thai Takeaway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
