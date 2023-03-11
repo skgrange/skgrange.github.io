@@ -33881,6 +33881,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.77009, -36.78782]
+      },
+      "properties": {
+        "date": "2023-03-11",
+        "name": "Shore City",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.74598, -36.77872]
+      },
+      "properties": {
+        "date": "2023-03-11",
+        "name": "Continental Cars BMW",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.75321, 36.73917]
+      },
+      "properties": {
+        "date": "2023-03-11",
+        "name": "Mairangi Bay Bakery",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
