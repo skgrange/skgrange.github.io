@@ -33917,6 +33917,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.78837, -36.99661]
+      },
+      "properties": {
+        "date": "2023-03-12",
+        "name": "Acorn Cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
