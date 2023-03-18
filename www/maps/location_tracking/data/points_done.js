@@ -34224,42 +34224,6 @@ var points_done = [{
         "name": "Puketapu",
         "type": "Peak"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.62427, -40.72941]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rockville",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.56343, -40.76527]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bainham",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.76797, -40.88365]
-      },
-      "properties": {
-        "date": "",
-        "name": "Anatoki Salmon",
-        "type": "Attraction"
-      }
     }
   ]
 }];

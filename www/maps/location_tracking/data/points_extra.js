@@ -2381,6 +2381,42 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.62427, -40.72941]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rockville",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.56343, -40.76527]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bainham",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.76797, -40.88365]
+      },
+      "properties": {
+        "date": "",
+        "name": "Anatoki Salmon",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.736237, 47.43732]
       },
       "properties": {
