@@ -33929,6 +33929,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.88724, 47.4626]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Rüetschbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87294, 47.46156]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Geretswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90631, 47.46511]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Burstel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90975, 47.46294]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Haselberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91351, 47.45632]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Höfli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8814, 47.44753]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Höchegg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87518, 47.45689]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Hüttstall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72539, 47.42416]
+      },
+      "properties": {
+        "date": "2023-03-18",
+        "name": "Luckhausen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
