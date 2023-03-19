@@ -2177,18 +2177,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66557, 47.50638]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ruine Kloster Berenberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.54127, 47.55607]
       },
       "properties": {

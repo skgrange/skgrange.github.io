@@ -34025,6 +34025,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66557, 47.50638]
+      },
+      "properties": {
+        "date": "2023-03-19",
+        "name": "Ruine Kloster Berenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64717, 47.51119]
+      },
+      "properties": {
+        "date": "2023-03-19",
+        "name": "Multberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66072, 47.49754]
+      },
+      "properties": {
+        "date": "2023-03-19",
+        "name": "Steigenrainbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
