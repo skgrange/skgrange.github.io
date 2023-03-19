@@ -2184,6 +2184,30 @@ var points_to_do = [{
         "name": "Rhinsberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6194, -41.0132]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lake Stanley",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.5799, -40.8908]
+      },
+      "properties": {
+        "date": "",
+        "name": "Boulder Lake",
+        "type": "To-do"
+      }
     }
   ]
 }];
