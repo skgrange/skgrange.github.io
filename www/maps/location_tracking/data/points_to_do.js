@@ -2208,6 +2208,30 @@ var points_to_do = [{
         "name": "Boulder Lake",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.15532, -42.80547]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lake Kaniere",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62047, 47.54058]
+      },
+      "properties": {
+        "date": "",
+        "name": "Aussichtsturm Irchel",
+        "type": "To-do"
+      }
     }
   ]
 }];
