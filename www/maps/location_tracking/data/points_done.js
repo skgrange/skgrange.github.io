@@ -34061,6 +34061,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61344, 46.88104]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Seedorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59538, 46.91753]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Isleten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57997, 46.93492]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Bauen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5862, 46.9246]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Tunnels",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59151, 46.91461]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Isenthalerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5912, 46.91646]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Chäppeli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56264, 46.91074]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Isenthal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57251, 46.9135]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Bärchi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58506, 46.91877]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Vorderbärchi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30781, 47.04853]
+      },
+      "properties": {
+        "date": "2023-03-25",
+        "name": "Vögeligärtli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
