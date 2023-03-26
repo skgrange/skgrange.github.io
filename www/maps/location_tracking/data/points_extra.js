@@ -5,6 +5,126 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.41924, -41.30402]
+      },
+      "properties": {
+        "date": "2002-03-16",
+        "name": "Mungatapu",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.43899, -41.31263]
+      },
+      "properties": {
+        "date": "2002-03-16",
+        "name": "Murderers’ Rock",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.76389, -41.08692]
+      },
+      "properties": {
+        "date": "2002-03-29",
+        "name": "Penzance",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.62427, -40.72941]
+      },
+      "properties": {
+        "date": "2004-04-17",
+        "name": "Rockville",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.56343, -40.76527]
+      },
+      "properties": {
+        "date": "2004-04-17",
+        "name": "Bainham",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.62385, -40.75089]
+      },
+      "properties": {
+        "date": "2004-04-17",
+        "name": "Aorere Goldfields",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.67137, -44.98712]
+      },
+      "properties": {
+        "date": "2005-05-12",
+        "name": "Shotover Jet",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.64935, -45.02652]
+      },
+      "properties": {
+        "date": "2005-05-13",
+        "name": "Queenstown Luge",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.89983, -45.00884]
+      },
+      "properties": {
+        "date": "2005-05-14",
+        "name": "Kawarau Bridge AJ Hacket Bungy Jump",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.16918, -43.42293]
+      },
+      "properties": {
+        "date": "2005-05-15",
+        "name": "Franz Josef Glacier",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [169.09802, -46.6616]
       },
       "properties": {
@@ -130,6 +250,18 @@ var points_extra = [{
       "properties": {
         "date": "2013-06-22",
         "name": "Lingnerterrassen",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.93711, -41.57262]
+      },
+      "properties": {
+        "date": "2023-08-24",
+        "name": "Inwood Lookout",
         "type": "Extra"
       }
     },
@@ -2381,59 +2513,11 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.62427, -40.72941]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rockville",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.56343, -40.76527]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bainham",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [172.76797, -40.88365]
       },
       "properties": {
         "date": "",
         "name": "Anatoki Salmon",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.62385, -40.75089]
-      },
-      "properties": {
-        "date": "",
-        "name": "Aorere Goldfields",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.93711, -41.57262]
-      },
-      "properties": {
-        "date": "",
-        "name": "Inwood Lookout",
         "type": "Extra"
       }
     },
