@@ -2220,6 +2220,54 @@ var points_to_do = [{
         "name": "Aussichtsturm Irchel",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1541, 47.36465]
+      },
+      "properties": {
+        "date": "",
+        "name": "Saint-Ursanne",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84106, 46.2357]
+      },
+      "properties": {
+        "date": "",
+        "name": "Corippo",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.57546, 46.17887]
+      },
+      "properties": {
+        "date": "",
+        "name": "Grimentz",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.74836, 46.49108]
+      },
+      "properties": {
+        "date": "",
+        "name": "Epesses",
+        "type": "To-do"
+      }
     }
   ]
 }];
