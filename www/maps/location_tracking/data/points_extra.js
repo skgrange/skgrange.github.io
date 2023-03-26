@@ -2417,6 +2417,30 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.62385, -40.75089]
+      },
+      "properties": {
+        "date": "",
+        "name": "Aorere Goldfields",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.93711, -41.57262]
+      },
+      "properties": {
+        "date": "",
+        "name": "Inwood Lookout",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.736237, 47.43732]
       },
       "properties": {
