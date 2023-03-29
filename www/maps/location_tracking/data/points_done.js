@@ -34181,6 +34181,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.63346, 47.34737]
+      },
+      "properties": {
+        "date": "2023-03-29",
+        "name": "Süessblätz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
