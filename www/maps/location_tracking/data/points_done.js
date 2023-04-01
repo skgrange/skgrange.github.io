@@ -34193,6 +34193,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.24983, 47.35255]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Schwellbrunn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26105, 47.36008]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Ädelswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26144, 47.34984]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Engishöhe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.23798, 47.34637]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Risi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1146, 47.32607]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Wasserfluh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.08737, 47.32311]
+      },
+      "properties": {
+        "date": "2023-04-01",
+        "name": "Lichtensteig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

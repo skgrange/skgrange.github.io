@@ -1913,18 +1913,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.24908, 47.35168]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schwellbrunn",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.71948, -35.02564]
       },
       "properties": {
