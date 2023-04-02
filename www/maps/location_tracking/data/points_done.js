@@ -34265,6 +34265,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57846, 47.60707]
+      },
+      "properties": {
+        "date": "2023-04-02",
+        "name": "Nack",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66825, 47.52852]
+      },
+      "properties": {
+        "date": "2023-04-02",
+        "name": "Neftenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
