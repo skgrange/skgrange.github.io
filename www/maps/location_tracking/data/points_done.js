@@ -34289,6 +34289,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.53161, 47.37947]
+      },
+      "properties": {
+        "date": "2023-04-04",
+        "name": "Bierwerk Züri",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
