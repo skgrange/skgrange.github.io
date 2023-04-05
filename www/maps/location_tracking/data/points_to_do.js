@@ -2256,6 +2256,18 @@ var points_to_do = [{
         "name": "Epesses",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.89293, -43.54786]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mount Sunday",
+        "type": "To-do"
+      }
     }
   ]
 }];
