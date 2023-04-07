@@ -34325,6 +34325,210 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.03514, 47.8699]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Feldsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04042, 47.87296]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Raimartihof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02371, 47.88523]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Rinken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01219, 47.88771]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Rehbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00772, 47.87965]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Zastler Hütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00468, 47.874]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Feldberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02235, 47.8645]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Feldbergturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02247, 47.86458]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Seebuck",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02579, 47.86574]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Bismarckdenkmal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.02917, 47.85632]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Feldbergpass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.94678, 47.83081]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Todtnau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.87103, 47.89302]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "K 4957",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.78309, 47.85467]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Münstertal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.72695, 47.92084]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Sprint Shop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.8516, 47.99757]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "City Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.84895, 47.99372]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Martinstor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.85259, 47.99524]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Münsterplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

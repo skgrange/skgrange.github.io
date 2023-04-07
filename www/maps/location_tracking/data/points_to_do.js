@@ -1865,18 +1865,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00468, 47.87398]
-      },
-      "properties": {
-        "date": "",
-        "name": "Feldberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.87806, 47.72785]
       },
       "properties": {
