@@ -34529,6 +34529,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.85228, 47.99784]
+      },
+      "properties": {
+        "date": "2023-04-07",
+        "name": "Hans im Glück",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.58169, 48.02258]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Pont du Rhin",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.54607, 48.01421]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Volgelsheim",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.53439, 48.01656]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Neuf-Brisach’s bastion fort",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.52893, 48.01743]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Neuf-Brisach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.55097, 47.73725]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Rast Bad Bellingen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.75834, 47.54838]
+      },
+      "properties": {
+        "date": "2023-04-08",
+        "name": "Rheinfelder Brücke",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
