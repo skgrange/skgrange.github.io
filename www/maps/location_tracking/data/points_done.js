@@ -34613,6 +34613,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.71772, 47.43561]
+      },
+      "properties": {
+        "date": "2023-04-09",
+        "name": "Ottikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72572, 47.43632]
+      },
+      "properties": {
+        "date": "2023-04-09",
+        "name": "Erli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
