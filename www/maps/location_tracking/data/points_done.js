@@ -34637,6 +34637,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.56707, 47.62589]
+      },
+      "properties": {
+        "date": "2023-04-10",
+        "name": "Lottstetten",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52873, 47.59453]
+      },
+      "properties": {
+        "date": "2023-04-10",
+        "name": "Tierligraben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54413, 47.53531]
+      },
+      "properties": {
+        "date": "2023-04-10",
+        "name": "Simeligrabenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

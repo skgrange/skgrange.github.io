@@ -2256,6 +2256,18 @@ var points_to_do = [{
         "name": "Mount Sunday",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49648, 47.55672]
+      },
+      "properties": {
+        "date": "",
+        "name": "Glattfelden",
+        "type": "To-do"
+      }
     }
   ]
 }];
