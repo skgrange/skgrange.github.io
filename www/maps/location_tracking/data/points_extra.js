@@ -2532,6 +2532,42 @@ var points_extra = [{
         "name": "First",
         "type": "Extra"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64546, 47.4111]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gasthof Sternen",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67524, 47.34552]
+      },
+      "properties": {
+        "date": "",
+        "name": "Badeanstalt Maurr",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67857, 47.34009]
+      },
+      "properties": {
+        "date": "",
+        "name": "Maur Schifflände",
+        "type": "Extra"
+      }
     }
   ]
 }];

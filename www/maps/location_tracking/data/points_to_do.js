@@ -1013,30 +1013,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67524, 47.34552]
-      },
-      "properties": {
-        "date": "",
-        "name": "Badeanstalt Maurr",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.67857, 47.34009]
-      },
-      "properties": {
-        "date": "",
-        "name": "Maur Schifflände",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.77017, 46.51107]
       },
       "properties": {
@@ -1090,18 +1066,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Paul Scherrer Institute",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.64546, 47.4111]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gasthof Sternen",
         "type": "To-do"
       }
     },
