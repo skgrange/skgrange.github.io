@@ -2220,6 +2220,42 @@ var points_to_do = [{
         "name": "Glattfelden",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51403, 47.56699]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hiltenberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54292, 47.62704]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rafzerstein",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53176, 47.64572]
+      },
+      "properties": {
+        "date": "",
+        "name": "Wangental Zollamt",
+        "type": "To-do"
+      }
     }
   ]
 }];
