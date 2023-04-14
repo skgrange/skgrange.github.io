@@ -2105,18 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54127, 47.55607]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rhinsberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [172.6194, -41.0132]
       },
       "properties": {

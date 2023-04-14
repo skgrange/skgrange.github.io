@@ -34673,6 +34673,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.54983, 47.54749]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Wagenbrechi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54158, 47.55586]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Rhinsberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53604, 47.55951]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Hochwacht Rhinsberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53669, 47.56471]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Eglisgrundstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54207, 47.56054]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Laubi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54331, 47.56575]
+      },
+      "properties": {
+        "date": "2023-04-14",
+        "name": "Tössriederen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
