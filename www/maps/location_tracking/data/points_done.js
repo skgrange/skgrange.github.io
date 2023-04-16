@@ -34745,6 +34745,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.68365, 47.28888]
+      },
+      "properties": {
+        "date": "2023-04-16",
+        "name": "Pfannenstielstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68115, 47.2863]
+      },
+      "properties": {
+        "date": "2023-04-16",
+        "name": "Vorderpfannenstiel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65333, 47.28818]
+      },
+      "properties": {
+        "date": "2023-04-16",
+        "name": "Toggwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63801, 47.29207]
+      },
+      "properties": {
+        "date": "2023-04-16",
+        "name": "Arbachstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63832, 47.30477]
+      },
+      "properties": {
+        "date": "2023-04-16",
+        "name": "Rütihof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

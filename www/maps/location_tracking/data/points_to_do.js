@@ -1505,18 +1505,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63801, 47.29207]
-      },
-      "properties": {
-        "date": "",
-        "name": "Arbachstrasse",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.35594, 46.92058]
       },
       "properties": {
