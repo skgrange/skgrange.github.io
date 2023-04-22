@@ -34805,6 +34805,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.48249, 47.00977]
+      },
+      "properties": {
+        "date": "2023-04-22",
+        "name": "Vitznau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52995, 47.37805]
+      },
+      "properties": {
+        "date": "2023-04-22",
+        "name": "Viet-Thai",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
