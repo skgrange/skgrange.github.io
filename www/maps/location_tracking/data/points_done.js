@@ -34829,6 +34829,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.56284, 48.12087]
+      },
+      "properties": {
+        "date": "2023-04-23",
+        "name": "Vienna Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39177, 48.21863]
+      },
+      "properties": {
+        "date": "2023-04-23",
+        "name": "Wien Praterstern",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39627, 48.21737]
+      },
+      "properties": {
+        "date": "2023-04-23",
+        "name": "Wurstelprater",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40395, 48.21589]
+      },
+      "properties": {
+        "date": "2023-04-23",
+        "name": "Hampton by Hilton Vienna Messe",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40131, 48.21612]
+      },
+      "properties": {
+        "date": "2023-04-23",
+        "name": "Gösser Eck",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
