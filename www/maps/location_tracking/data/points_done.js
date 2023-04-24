@@ -34889,6 +34889,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.4049, 48.21778]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Messe-Prater",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41602, 48.23261]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Kaisermühlen - VIC",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41444, 48.23523]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Austria Center Vienna",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4145, 48.21914]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Rechter Donaudamm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.43595, 48.2062]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Praterbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41981, 48.22259]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Kaisermühlenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40758, 48.22704]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Reichsbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40505, 48.21953]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Ilgplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4033, 48.21622]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Superbude",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
