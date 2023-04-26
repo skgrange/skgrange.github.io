@@ -34997,6 +34997,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.37413, 48.21026]
+      },
+      "properties": {
+        "date": "2023-04-24",
+        "name": "Le Burger Rotenturmstraße",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37874, 48.2052]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Parkring",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.36952, 48.20216]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Opernkreuzung",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.35981, 48.20787]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Parament",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.36194, 48.21385]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Schottentor",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37062, 48.20647]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Le Bol",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37156, 48.2081]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Stephansplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39099, 48.20221]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Landstraße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39326, 48.201]
+      },
+      "properties": {
+        "date": "2023-04-25",
+        "name": "Trattoria Pizzeria All'Italiana",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40831, 48.2024]
+      },
+      "properties": {
+        "date": "2023-04-26",
+        "name": "Rustenschacherallee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41838, 48.19848]
+      },
+      "properties": {
+        "date": "2023-04-26",
+        "name": "Wasserwiese",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41265, 48.2063]
+      },
+      "properties": {
+        "date": "2023-04-26",
+        "name": "Hauptalle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
