@@ -35141,6 +35141,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.37998, 48.20446]
+      },
+      "properties": {
+        "date": "2023-04-27",
+        "name": "Stadtpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4031, 48.21051]
+      },
+      "properties": {
+        "date": "2023-04-27",
+        "name": "Konstantinhügel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.38798, 48.21684]
+      },
+      "properties": {
+        "date": "2023-04-27",
+        "name": "Coconut Curry",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
