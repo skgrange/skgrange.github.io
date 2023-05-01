@@ -2232,18 +2232,6 @@ var points_to_do = [{
         "name": "Rafzerstein",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.53176, 47.64572]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wangental Zollamt",
-        "type": "To-do"
-      }
     }
   ]
 }];
