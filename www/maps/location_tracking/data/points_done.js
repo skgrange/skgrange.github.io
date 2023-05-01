@@ -35189,6 +35189,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.53174, 47.64572]
+      },
+      "properties": {
+        "date": "2023-05-01",
+        "name": "Wangental Zollamt",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46707, 47.66755]
+      },
+      "properties": {
+        "date": "2023-05-01",
+        "name": "Wilchingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43204, 47.6621]
+      },
+      "properties": {
+        "date": "2023-05-01",
+        "name": "Zollamt Erzingen",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
