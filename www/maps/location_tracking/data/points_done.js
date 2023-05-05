@@ -35225,6 +35225,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.49954, 47.5588]
+      },
+      "properties": {
+        "date": "2023-05-05",
+        "name": "Glattfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49671, 47.55708]
+      },
+      "properties": {
+        "date": "2023-05-05",
+        "name": "Hegstenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.47661, 47.57263]
+      },
+      "properties": {
+        "date": "2023-05-05",
+        "name": "Glatt Wanderweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4829, 47.54946]
+      },
+      "properties": {
+        "date": "2023-05-05",
+        "name": "Kiesstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
