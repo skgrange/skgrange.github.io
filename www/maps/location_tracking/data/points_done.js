@@ -35273,6 +35273,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.49331, 47.07239]
+      },
+      "properties": {
+        "date": "2023-05-07",
+        "name": "Sportanlage Rheinau",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.5008, 47.06553]
+      },
+      "properties": {
+        "date": "2023-05-07",
+        "name": "Burg Gutenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.48088, 47.06927]
+      },
+      "properties": {
+        "date": "2023-05-07",
+        "name": "Rheindamm Fahrradbrüke",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.47776, 47.07056]
+      },
+      "properties": {
+        "date": "2023-05-07",
+        "name": "Trübbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.43649, 47.03971]
+      },
+      "properties": {
+        "date": "2023-05-07",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
