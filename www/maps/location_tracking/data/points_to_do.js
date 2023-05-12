@@ -1781,18 +1781,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34637, 47.41521]
-      },
-      "properties": {
-        "date": "",
-        "name": "Heitersberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.845814, 53.71587]
       },
       "properties": {

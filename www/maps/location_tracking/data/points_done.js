@@ -35333,6 +35333,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.36649, 47.4163]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Spreitenbach",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.36653, 47.41195]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Egelseebach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.34641, 47.41524]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Heitersberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.33721, 47.41752]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Heitersberg Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.33595, 47.42112]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Hinterhau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3322, 47.42745]
+      },
+      "properties": {
+        "date": "2023-05-12",
+        "name": "Sennenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
