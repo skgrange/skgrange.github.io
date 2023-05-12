@@ -2232,6 +2232,18 @@ var points_to_do = [{
         "name": "Stammerberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.40808, 47.43627]
+      },
+      "properties": {
+        "date": "",
+        "name": "Altberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
