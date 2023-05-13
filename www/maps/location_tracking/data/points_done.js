@@ -35405,6 +35405,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.37534, 46.91327]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Calfeisentalstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.35755, 46.92061]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Sankt Martin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34158, 46.92465]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Hochegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3376, 46.93092]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Malanseralp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3383, 46.93312]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Ruins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.32222, 46.93055]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Obersäss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.30419, 46.9262]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Untersäss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.296, 46.92177]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Sardonaalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31663, 46.92507]
+      },
+      "properties": {
+        "date": "2023-05-13",
+        "name": "Gamserälplibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
