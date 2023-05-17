@@ -2177,18 +2177,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49648, 47.55672]
-      },
-      "properties": {
-        "date": "",
-        "name": "Glattfelden",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.51403, 47.56699]
       },
       "properties": {
@@ -2230,6 +2218,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Altberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.015043, 46.85196]
+      },
+      "properties": {
+        "date": "",
+        "name": "Muttenchopf",
         "type": "To-do"
       }
     }
