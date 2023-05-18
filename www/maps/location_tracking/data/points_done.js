@@ -35513,6 +35513,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57118, 47.57019]
+      },
+      "properties": {
+        "date": "2023-05-18",
+        "name": "Jöslirain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56591, 47.55948]
+      },
+      "properties": {
+        "date": "2023-05-18",
+        "name": "Lower trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56698, 47.55313]
+      },
+      "properties": {
+        "date": "2023-05-18",
+        "name": "Reititreppe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57265, 47.56081]
+      },
+      "properties": {
+        "date": "2023-05-18",
+        "name": "Tobelstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
