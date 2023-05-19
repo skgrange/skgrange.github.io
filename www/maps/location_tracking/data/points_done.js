@@ -35561,6 +35561,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66329, 47.69732]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Usserwiidle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66706, 47.69944]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Buchthalen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67105, 47.71587]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Quarry",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68784, 47.71232]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Gennersbrunn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70397, 47.69829]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Bergkirche St. Michael",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74487, 47.69649]
+      },
+      "properties": {
+        "date": "2023-05-19",
+        "name": "Edeka",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

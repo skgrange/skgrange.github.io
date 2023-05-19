@@ -2232,6 +2232,18 @@ var points_to_do = [{
         "name": "Muttenchopf",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58031, 47.73437]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hemmental",
+        "type": "To-do"
+      }
     }
   ]
 }];
