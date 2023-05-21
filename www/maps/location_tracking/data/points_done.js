@@ -35633,6 +35633,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.69006, 46.99203]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Selgis",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70652, 46.98483]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Blackerli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72758, 46.98093]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Vordere Brügg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75697, 46.97609]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Wil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76007, 46.97723]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Katholische Pfarrkirche St. Sigismund und Walpurga",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7369, 46.98018]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Tristel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66688, 47.01556]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Rickenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73326, 47.01746]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Ibergeregg Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78187, 47.03971]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Oberiberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80201, 47.05937]
+      },
+      "properties": {
+        "date": "2023-05-21",
+        "name": "Unteriberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

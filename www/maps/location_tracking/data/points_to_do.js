@@ -2045,18 +2045,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73324, 47.01745]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ibergeregg Pass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [58.43967, 40.25248]
       },
       "properties": {
