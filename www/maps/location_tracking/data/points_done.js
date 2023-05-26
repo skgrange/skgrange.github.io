@@ -35753,6 +35753,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.60534, 47.50276]
+      },
+      "properties": {
+        "date": "2023-05-26",
+        "name": "Bergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63489, 47.51021]
+      },
+      "properties": {
+        "date": "2023-05-26",
+        "name": "Eigelhartensteig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61745, 47.51463]
+      },
+      "properties": {
+        "date": "2023-05-26",
+        "name": "Tisch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60762, 47.51281]
+      },
+      "properties": {
+        "date": "2023-05-26",
+        "name": "Winkelwisen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61165, 47.50974]
+      },
+      "properties": {
+        "date": "2023-05-26",
+        "name": "Warpel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
