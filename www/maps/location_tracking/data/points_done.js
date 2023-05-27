@@ -35813,6 +35813,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.62366, 47.11383]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Naas",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.666, 47.17539]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Hütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63941, 47.17147]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Chneusstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59031, 47.17853]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Menzingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56325, 47.17048]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Kantonsstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5595, 47.16769]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Lorzentobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55998, 47.15764]
+      },
+      "properties": {
+        "date": "2023-05-27",
+        "name": "Temporäre Umleitung",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
