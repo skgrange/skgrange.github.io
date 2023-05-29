@@ -1997,18 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.607, 46.9802]
-      },
-      "properties": {
-        "date": "",
-        "name": "La Brévine",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.90336, 46.91924]
       },
       "properties": {

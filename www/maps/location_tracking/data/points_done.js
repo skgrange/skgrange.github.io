@@ -35897,6 +35897,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.94079, 46.81194]
+      },
+      "properties": {
+        "date": "2023-05-29",
+        "name": "Rue du Gymnase",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.61979, 46.78869]
+      },
+      "properties": {
+        "date": "2023-05-29",
+        "name": "Route de Sainte-Croix",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
@@ -35999,6 +36023,174 @@ var points_done = [{
         "date": "",
         "name": "Dachsen",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5495, 46.80732]
+      },
+      "properties": {
+        "date": "",
+        "name": "Vuitebœuf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.53249, 46.81781]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sainte-Croix, Le Château",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.50136, 46.82281]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sainte-Croix",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.49504, 46.82988]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col des Etroits",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.60713, 46.97989]
+      },
+      "properties": {
+        "date": "",
+        "name": "La Brévine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.57379, 46.96584]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lac des Taillères",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.55697, 46.96479]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bémont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.54847, 46.96944]
+      },
+      "properties": {
+        "date": "",
+        "name": "Barthélémys",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5418, 46.97326]
+      },
+      "properties": {
+        "date": "",
+        "name": "Le Pavillon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.53866, 46.97381]
+      },
+      "properties": {
+        "date": "",
+        "name": "French-Swiss border",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.56245, 46.97832]
+      },
+      "properties": {
+        "date": "",
+        "name": "l'Helvetia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.56098, 46.97951]
+      },
+      "properties": {
+        "date": "",
+        "name": "French-Swiss border",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.59163, 46.98307]
+      },
+      "properties": {
+        "date": "",
+        "name": "Les Cuches",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.79219, 46.98806]
+      },
+      "properties": {
+        "date": "",
+        "name": "La Tourne",
+        "type": "Pass"
       }
     },
     {
