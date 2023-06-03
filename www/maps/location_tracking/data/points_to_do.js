@@ -1949,18 +1949,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93964, 47.3657]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hörnlihaus",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.95347, 47.32057]
       },
       "properties": {
