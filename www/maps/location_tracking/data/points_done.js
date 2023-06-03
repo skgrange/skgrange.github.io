@@ -36125,6 +36125,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.93661, 47.35806]
+      },
+      "properties": {
+        "date": "2023-06-03",
+        "name": "Hörnlistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93981, 47.36452]
+      },
+      "properties": {
+        "date": "2023-06-03",
+        "name": "Tanzplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92872, 47.37554]
+      },
+      "properties": {
+        "date": "2023-06-03",
+        "name": "Heiletsegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92581, 47.37014]
+      },
+      "properties": {
+        "date": "2023-06-03",
+        "name": "Nideltobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91846, 47.36068]
+      },
+      "properties": {
+        "date": "2023-06-03",
+        "name": "Lipperschwendi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
