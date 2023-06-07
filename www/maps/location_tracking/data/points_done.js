@@ -17,7 +17,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.461389, 51.4775]
+        "coordinates": [-0.46138899999999999, 51.477499999999999]
       },
       "properties": {
         "date": "2015-02-14",
@@ -29,7 +29,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.705547, 51.54405]
+        "coordinates": [-0.70554700000000004, 51.544049999999999]
       },
       "properties": {
         "date": "2015-02-14",
@@ -41,7 +41,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.67659, 51.52237]
+        "coordinates": [-0.67659000000000002, 51.522370000000002]
       },
       "properties": {
         "date": "2015-02-14",
@@ -53,7 +53,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.108421, 51.55486]
+        "coordinates": [-0.108421, 51.554859999999998]
       },
       "properties": {
         "date": "2015-02-15",
@@ -65,7 +65,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.604403, 51.48387]
+        "coordinates": [-0.60440300000000002, 51.483870000000003]
       },
       "properties": {
         "date": "2015-02-19",
@@ -89,7 +89,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.6655, 51.4933]
+        "coordinates": [-0.66549999999999998, 51.493299999999998]
       },
       "properties": {
         "date": "2015-02-19",
@@ -101,7 +101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1331, 51.5284]
+        "coordinates": [-0.1331, 51.528399999999998]
       },
       "properties": {
         "date": "2015-02-22",
@@ -113,7 +113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.09834, 51.51376]
+        "coordinates": [-0.098339999999999997, 51.513759999999998]
       },
       "properties": {
         "date": "2015-02-22",
@@ -125,7 +125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.113112, 51.48221]
+        "coordinates": [-0.113112, 51.482210000000002]
       },
       "properties": {
         "date": "2015-02-22",
@@ -137,7 +137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.159756, 51.43553]
+        "coordinates": [-0.15975600000000001, 51.43553]
       },
       "properties": {
         "date": "2015-02-22",
@@ -149,7 +149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1774, 51.5173]
+        "coordinates": [-0.1774, 51.517299999999999]
       },
       "properties": {
         "date": "2015-02-22",
@@ -161,7 +161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.722629, 51.51858]
+        "coordinates": [-0.72262899999999997, 51.51858]
       },
       "properties": {
         "date": "2015-02-22",
@@ -173,7 +173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.68822, 51.55846]
+        "coordinates": [-0.68822000000000005, 51.558459999999997]
       },
       "properties": {
         "date": "2015-02-23",
@@ -185,7 +185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.53527, 50.46341]
+        "coordinates": [-3.5352700000000001, 50.463410000000003]
       },
       "properties": {
         "date": "2015-02-23",
@@ -197,7 +197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.735738, 50.43811]
+        "coordinates": [-3.735738, 50.438110000000002]
       },
       "properties": {
         "date": "2015-02-24",
@@ -209,7 +209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.464585, 50.68135]
+        "coordinates": [-3.464585, 50.681350000000002]
       },
       "properties": {
         "date": "2015-02-24",
@@ -221,7 +221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.060093, 51.0179]
+        "coordinates": [-3.0600930000000002, 51.017899999999997]
       },
       "properties": {
         "date": "2015-02-24",
@@ -233,7 +233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.914856, 51.21807]
+        "coordinates": [-2.9148559999999999, 51.218069999999997]
       },
       "properties": {
         "date": "2015-02-25",
@@ -245,7 +245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.535372, 52.28836]
+        "coordinates": [-1.535372, 52.288359999999997]
       },
       "properties": {
         "date": "2015-02-26",
@@ -257,7 +257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.449568, 52.21224]
+        "coordinates": [-1.449568, 52.212240000000001]
       },
       "properties": {
         "date": "2015-02-27",
@@ -269,7 +269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.130185, 51.51365]
+        "coordinates": [-0.130185, 51.513649999999998]
       },
       "properties": {
         "date": "2015-02-28",
@@ -281,7 +281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.530948, 51.50036]
+        "coordinates": [-0.53094799999999998, 51.500360000000001]
       },
       "properties": {
         "date": "2015-03-01",
@@ -293,7 +293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.661993, 52.7958]
+        "coordinates": [-1.6619930000000001, 52.7958]
       },
       "properties": {
         "date": "2015-03-02",
@@ -305,7 +305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.688645, 52.83735]
+        "coordinates": [-1.688645, 52.837350000000001]
       },
       "properties": {
         "date": "2015-03-03",
@@ -317,7 +317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.6455, 51.52069]
+        "coordinates": [-0.64549999999999996, 51.520690000000002]
       },
       "properties": {
         "date": "2015-03-03",
@@ -329,7 +329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.541787, 51.50798]
+        "coordinates": [-0.54178700000000002, 51.507980000000003]
       },
       "properties": {
         "date": "2015-03-04",
@@ -341,7 +341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.003111, 51.50296]
+        "coordinates": [0.0031110000000000001, 51.502960000000002]
       },
       "properties": {
         "date": "2015-03-04",
@@ -353,7 +353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.134053, 51.52414]
+        "coordinates": [-0.13405300000000001, 51.524140000000003]
       },
       "properties": {
         "date": "2015-03-04",
@@ -365,7 +365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.253989, 51.75341]
+        "coordinates": [-1.253989, 51.753410000000002]
       },
       "properties": {
         "date": "2015-03-06",
@@ -377,7 +377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.991011, 50.72515]
+        "coordinates": [-1.9910110000000001, 50.725149999999999]
       },
       "properties": {
         "date": "2015-03-08",
@@ -389,7 +389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.171587, 50.84102]
+        "coordinates": [-2.1715870000000002, 50.84102]
       },
       "properties": {
         "date": "2015-03-09",
@@ -401,7 +401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.242747, 51.61082]
+        "coordinates": [-1.242747, 51.610819999999997]
       },
       "properties": {
         "date": "2015-03-12",
@@ -425,7 +425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.289539, 51.60164]
+        "coordinates": [-1.289539, 51.601640000000003]
       },
       "properties": {
         "date": "2015-03-12",
@@ -437,7 +437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.540934, 51.5253]
+        "coordinates": [-0.54093400000000003, 51.525300000000001]
       },
       "properties": {
         "date": "2015-03-14",
@@ -449,7 +449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.541835, 51.54644]
+        "coordinates": [-0.54183499999999996, 51.546439999999997]
       },
       "properties": {
         "date": "2015-03-14",
@@ -461,7 +461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.176378, 51.49591]
+        "coordinates": [-0.17637800000000001, 51.495910000000002]
       },
       "properties": {
         "date": "2015-03-15",
@@ -473,7 +473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.971389, 51.45852]
+        "coordinates": [-0.97138899999999995, 51.45852]
       },
       "properties": {
         "date": "2015-03-16",
@@ -485,7 +485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.976255, 51.45465]
+        "coordinates": [-0.97625499999999998, 51.454650000000001]
       },
       "properties": {
         "date": "2015-03-16",
@@ -497,7 +497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.936971, 51.43892]
+        "coordinates": [-0.936971, 51.438920000000003]
       },
       "properties": {
         "date": "2015-03-16",
@@ -521,7 +521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.226313, 51.59306]
+        "coordinates": [-3.2263130000000002, 51.593060000000001]
       },
       "properties": {
         "date": "2015-03-17",
@@ -533,7 +533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.162812, 51.62508]
+        "coordinates": [-3.1628120000000002, 51.625079999999997]
       },
       "properties": {
         "date": "2015-03-18",
@@ -545,7 +545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.591359, 51.51172]
+        "coordinates": [-0.59135899999999997, 51.511719999999997]
       },
       "properties": {
         "date": "2015-03-20",
@@ -569,7 +569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.54761, 50.82682]
+        "coordinates": [-4.5476099999999997, 50.826819999999998]
       },
       "properties": {
         "date": "2015-03-22",
@@ -581,7 +581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.435222, 50.75089]
+        "coordinates": [-4.4352220000000004, 50.750889999999998]
       },
       "properties": {
         "date": "2015-03-23",
@@ -605,7 +605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.797278, 51.0649]
+        "coordinates": [-1.7972779999999999, 51.064900000000002]
       },
       "properties": {
         "date": "2015-03-24",
@@ -617,7 +617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.771417, 51.08979]
+        "coordinates": [-1.771417, 51.089790000000001]
       },
       "properties": {
         "date": "2015-03-24",
@@ -629,7 +629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.739103, 51.14446]
+        "coordinates": [-1.7391030000000001, 51.144460000000002]
       },
       "properties": {
         "date": "2015-03-25",
@@ -641,7 +641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.585003, 51.13986]
+        "coordinates": [-1.5850029999999999, 51.139859999999999]
       },
       "properties": {
         "date": "2015-03-25",
@@ -653,7 +653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.075184, 51.50539]
+        "coordinates": [-0.075184000000000001, 51.505389999999998]
       },
       "properties": {
         "date": "2015-03-27",
@@ -665,7 +665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.177373, 51.50088]
+        "coordinates": [-0.177373, 51.500880000000002]
       },
       "properties": {
         "date": "2015-03-27",
@@ -677,7 +677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.177778, 51.5025]
+        "coordinates": [-0.17777799999999999, 51.502499999999998]
       },
       "properties": {
         "date": "2015-03-27",
@@ -689,7 +689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.180278, 51.50722]
+        "coordinates": [-0.18027799999999999, 51.507219999999997]
       },
       "properties": {
         "date": "2015-03-27",
@@ -701,7 +701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.087417, 51.50216]
+        "coordinates": [-0.087416999999999995, 51.502160000000003]
       },
       "properties": {
         "date": "2015-03-27",
@@ -713,7 +713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.990327, 51.45405]
+        "coordinates": [-0.99032699999999996, 51.454050000000002]
       },
       "properties": {
         "date": "2015-03-31",
@@ -725,7 +725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.956064, 51.45178]
+        "coordinates": [-0.95606400000000002, 51.451779999999999]
       },
       "properties": {
         "date": "2015-03-31",
@@ -737,7 +737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.145992, 51.49527]
+        "coordinates": [-0.14599200000000001, 51.495269999999998]
       },
       "properties": {
         "date": "2015-04-04",
@@ -749,7 +749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.473029, 51.75315]
+        "coordinates": [-0.47302899999999998, 51.753149999999998]
       },
       "properties": {
         "date": "2015-04-04",
@@ -761,7 +761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.480448, 51.85744]
+        "coordinates": [-0.48044799999999999, 51.857439999999997]
       },
       "properties": {
         "date": "2015-04-04",
@@ -773,7 +773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.356588, 51.81557]
+        "coordinates": [-0.35658800000000002, 51.815570000000001]
       },
       "properties": {
         "date": "2015-04-04",
@@ -785,7 +785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.339292, 51.75157]
+        "coordinates": [-0.33929199999999998, 51.751570000000001]
       },
       "properties": {
         "date": "2015-04-04",
@@ -797,7 +797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.990486, 51.45514]
+        "coordinates": [-0.99048599999999998, 51.45514]
       },
       "properties": {
         "date": "2015-04-07",
@@ -809,7 +809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.009967, 51.45041]
+        "coordinates": [-1.0099670000000001, 51.450409999999998]
       },
       "properties": {
         "date": "2015-04-07",
@@ -833,7 +833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.99826, 51.45848]
+        "coordinates": [-0.99826000000000004, 51.458480000000002]
       },
       "properties": {
         "date": "2015-04-08",
@@ -845,7 +845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.941622, 51.46024]
+        "coordinates": [-0.94162199999999996, 51.460239999999999]
       },
       "properties": {
         "date": "2015-04-11",
@@ -869,7 +869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.318862, 51.62273]
+        "coordinates": [-1.318862, 51.622729999999997]
       },
       "properties": {
         "date": "2015-04-17",
@@ -881,7 +881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.081705, 51.49825]
+        "coordinates": [-0.081705, 51.498249999999999]
       },
       "properties": {
         "date": "2015-04-26",
@@ -905,7 +905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.132028, 51.5102]
+        "coordinates": [-0.13202800000000001, 51.510199999999998]
       },
       "properties": {
         "date": "2015-05-06",
@@ -917,7 +917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.116887, 51.5086]
+        "coordinates": [-0.116887, 51.508600000000001]
       },
       "properties": {
         "date": "2015-05-06",
@@ -929,7 +929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.989563, 51.47669]
+        "coordinates": [-0.98956299999999997, 51.476689999999998]
       },
       "properties": {
         "date": "2015-05-10",
@@ -941,7 +941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.153484, 51.49057]
+        "coordinates": [-0.15348400000000001, 51.490569999999998]
       },
       "properties": {
         "date": "2015-05-16",
@@ -953,7 +953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.149836, 51.48468]
+        "coordinates": [-0.149836, 51.484679999999997]
       },
       "properties": {
         "date": "2015-05-16",
@@ -965,7 +965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.144377, 51.48178]
+        "coordinates": [-0.14437700000000001, 51.481780000000001]
       },
       "properties": {
         "date": "2015-05-16",
@@ -977,7 +977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.099212, 51.5146]
+        "coordinates": [-0.099211999999999995, 51.514600000000002]
       },
       "properties": {
         "date": "2015-05-16",
@@ -989,7 +989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.15854, 51.52375]
+        "coordinates": [-0.15853999999999999, 51.52375]
       },
       "properties": {
         "date": "2015-05-16",
@@ -1001,7 +1001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.156568, 51.52096]
+        "coordinates": [-0.15656800000000001, 51.520960000000002]
       },
       "properties": {
         "date": "2015-05-16",
@@ -1013,7 +1013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.15467, 51.51836]
+        "coordinates": [-0.15467, 51.518360000000001]
       },
       "properties": {
         "date": "2015-05-16",
@@ -1025,7 +1025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.913889, 51.47569]
+        "coordinates": [-0.91388899999999995, 51.47569]
       },
       "properties": {
         "date": "2015-05-17",
@@ -1037,7 +1037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.91868, 51.47258]
+        "coordinates": [-0.91868000000000005, 51.472580000000001]
       },
       "properties": {
         "date": "2015-05-17",
@@ -1049,7 +1049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.235544, 51.61359]
+        "coordinates": [-1.235544, 51.613590000000002]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1061,7 +1061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.132963, 51.5215]
+        "coordinates": [-1.1329629999999999, 51.521500000000003]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1073,7 +1073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.138596, 51.52234]
+        "coordinates": [-1.1385959999999999, 51.52234]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1085,7 +1085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.148744, 51.52248]
+        "coordinates": [-1.148744, 51.522480000000002]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1097,7 +1097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.146529, 51.51469]
+        "coordinates": [-1.1465289999999999, 51.514690000000002]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1109,7 +1109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.121527, 51.4991]
+        "coordinates": [-1.1215269999999999, 51.499099999999999]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1121,7 +1121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.125798, 51.4908]
+        "coordinates": [-1.1257980000000001, 51.4908]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1133,7 +1133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090377, 51.48542]
+        "coordinates": [-1.0903769999999999, 51.485419999999998]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1145,7 +1145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.087919, 51.4858]
+        "coordinates": [-1.0879190000000001, 51.485799999999998]
       },
       "properties": {
         "date": "2015-05-24",
@@ -1157,7 +1157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.02976, 51.47127]
+        "coordinates": [-1.02976, 51.471269999999997]
       },
       "properties": {
         "date": "2015-05-26",
@@ -1169,7 +1169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.046228, 51.46088]
+        "coordinates": [-1.0462279999999999, 51.460880000000003]
       },
       "properties": {
         "date": "2015-05-26",
@@ -1181,7 +1181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.233933, 51.56628]
+        "coordinates": [-1.2339329999999999, 51.566279999999999]
       },
       "properties": {
         "date": "2015-05-30",
@@ -1193,7 +1193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.263259, 51.57701]
+        "coordinates": [-1.2632589999999999, 51.577010000000001]
       },
       "properties": {
         "date": "2015-05-30",
@@ -1205,7 +1205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.285957, 51.57523]
+        "coordinates": [-1.285957, 51.575229999999998]
       },
       "properties": {
         "date": "2015-05-30",
@@ -1217,7 +1217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.338002, 51.59431]
+        "coordinates": [-1.3380019999999999, 51.59431]
       },
       "properties": {
         "date": "2015-05-30",
@@ -1229,7 +1229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.426396, 51.58886]
+        "coordinates": [-1.426396, 51.588859999999997]
       },
       "properties": {
         "date": "2015-05-30",
@@ -1241,7 +1241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.985, 51.419]
+        "coordinates": [-0.98499999999999999, 51.418999999999997]
       },
       "properties": {
         "date": "2015-05-31",
@@ -1253,7 +1253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.740624, 51.53617]
+        "coordinates": [-0.74062399999999995, 51.536169999999998]
       },
       "properties": {
         "date": "2015-06-06",
@@ -1265,7 +1265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.775407, 51.57326]
+        "coordinates": [-0.77540699999999996, 51.573259999999998]
       },
       "properties": {
         "date": "2015-06-06",
@@ -1277,7 +1277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.900903, 51.53762]
+        "coordinates": [-0.90090300000000001, 51.537619999999997]
       },
       "properties": {
         "date": "2015-06-06",
@@ -1289,7 +1289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.046684, 51.45159]
+        "coordinates": [-1.0466839999999999, 51.451590000000003]
       },
       "properties": {
         "date": "2015-06-07",
@@ -1301,7 +1301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.035738, 51.46664]
+        "coordinates": [-1.035738, 51.466639999999998]
       },
       "properties": {
         "date": "2015-06-07",
@@ -1313,7 +1313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.104757, 51.52372]
+        "coordinates": [-0.104757, 51.523719999999997]
       },
       "properties": {
         "date": "2015-06-13",
@@ -1325,7 +1325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.123877, 51.601]
+        "coordinates": [-1.123877, 51.600999999999999]
       },
       "properties": {
         "date": "2015-06-15",
@@ -1337,7 +1337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.153242, 51.5752]
+        "coordinates": [-1.1532420000000001, 51.575200000000002]
       },
       "properties": {
         "date": "2015-06-15",
@@ -1349,7 +1349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.067252, 51.44829]
+        "coordinates": [-1.0672520000000001, 51.44829]
       },
       "properties": {
         "date": "2015-06-21",
@@ -1361,7 +1361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.079787, 51.43669]
+        "coordinates": [-1.0797870000000001, 51.436689999999999]
       },
       "properties": {
         "date": "2015-06-21",
@@ -1373,7 +1373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.140499, 51.48146]
+        "coordinates": [-1.1404989999999999, 51.481459999999998]
       },
       "properties": {
         "date": "2015-06-23",
@@ -1385,7 +1385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.250641, 51.51613]
+        "coordinates": [-1.2506409999999999, 51.516129999999997]
       },
       "properties": {
         "date": "2015-06-23",
@@ -1397,7 +1397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.290788, 51.52728]
+        "coordinates": [-1.290788, 51.527279999999998]
       },
       "properties": {
         "date": "2015-06-23",
@@ -1409,7 +1409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.040893, 51.47939]
+        "coordinates": [-1.0408930000000001, 51.479390000000002]
       },
       "properties": {
         "date": "2015-06-25",
@@ -1421,7 +1421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.040276, 51.48654]
+        "coordinates": [-1.040276, 51.486539999999998]
       },
       "properties": {
         "date": "2015-06-25",
@@ -1433,7 +1433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.036684, 51.48542]
+        "coordinates": [-1.0366839999999999, 51.485419999999998]
       },
       "properties": {
         "date": "2015-06-28",
@@ -1457,7 +1457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.126644, 51.51539]
+        "coordinates": [-0.12664400000000001, 51.515389999999996]
       },
       "properties": {
         "date": "2015-07-03",
@@ -1469,7 +1469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.210054, 51.49356]
+        "coordinates": [-0.21005399999999999, 51.493560000000002]
       },
       "properties": {
         "date": "2015-07-03",
@@ -1481,7 +1481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.226872, 51.50267]
+        "coordinates": [-0.22687199999999999, 51.502670000000002]
       },
       "properties": {
         "date": "2015-07-03",
@@ -1493,7 +1493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.088061, 51.263]
+        "coordinates": [-1.0880609999999999, 51.262999999999998]
       },
       "properties": {
         "date": "2015-07-05",
@@ -1505,7 +1505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.007498, 51.27321]
+        "coordinates": [-1.007498, 51.273209999999999]
       },
       "properties": {
         "date": "2015-07-05",
@@ -1517,7 +1517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.846145, 51.33915]
+        "coordinates": [-0.84614500000000004, 51.339149999999997]
       },
       "properties": {
         "date": "2015-07-05",
@@ -1529,7 +1529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.971359, 51.34886]
+        "coordinates": [-0.97135899999999997, 51.348860000000002]
       },
       "properties": {
         "date": "2015-07-05",
@@ -1541,7 +1541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.292105, 51.59846]
+        "coordinates": [-1.2921050000000001, 51.598460000000003]
       },
       "properties": {
         "date": "2015-07-06",
@@ -1553,7 +1553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.338602, 51.59772]
+        "coordinates": [-1.3386020000000001, 51.597720000000002]
       },
       "properties": {
         "date": "2015-07-09",
@@ -1565,7 +1565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.336898, 51.59715]
+        "coordinates": [-1.3368979999999999, 51.597149999999999]
       },
       "properties": {
         "date": "2015-07-09",
@@ -1577,7 +1577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.355946, 51.39449]
+        "coordinates": [-2.3559459999999999, 51.394489999999998]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1589,7 +1589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.358712, 51.38143]
+        "coordinates": [-2.3587120000000001, 51.381430000000002]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1601,7 +1601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.357848, 51.38303]
+        "coordinates": [-2.3578480000000002, 51.383029999999998]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1613,7 +1613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.364108, 51.38562]
+        "coordinates": [-2.3641079999999999, 51.385620000000003]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1625,7 +1625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.368168, 51.38723]
+        "coordinates": [-2.3681679999999998, 51.387230000000002]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1637,7 +1637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.36362, 51.39267]
+        "coordinates": [-2.3636200000000001, 51.392670000000003]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1649,7 +1649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.251954, 51.3455]
+        "coordinates": [-2.251954, 51.345500000000001]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1661,7 +1661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.207397, 51.31834]
+        "coordinates": [-2.2073969999999998, 51.318339999999999]
       },
       "properties": {
         "date": "2015-07-10",
@@ -1685,7 +1685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.087259, 51.4915]
+        "coordinates": [-1.087259, 51.491500000000002]
       },
       "properties": {
         "date": "2015-07-12",
@@ -1697,7 +1697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083156, 51.52043]
+        "coordinates": [-1.083156, 51.520429999999998]
       },
       "properties": {
         "date": "2015-07-12",
@@ -1709,7 +1709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.354755, 51.57671]
+        "coordinates": [-1.3547549999999999, 51.576709999999999]
       },
       "properties": {
         "date": "2015-07-16",
@@ -1721,7 +1721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.131591, 51.54642]
+        "coordinates": [-1.131591, 51.546419999999998]
       },
       "properties": {
         "date": "2015-07-16",
@@ -1733,7 +1733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.115712, 51.57286]
+        "coordinates": [-1.115712, 51.572859999999999]
       },
       "properties": {
         "date": "2015-07-16",
@@ -1745,7 +1745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.986014, 51.4345]
+        "coordinates": [-0.98601399999999995, 51.4345]
       },
       "properties": {
         "date": "2015-07-19",
@@ -1757,7 +1757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.038103, 51.4275]
+        "coordinates": [-1.038103, 51.427500000000002]
       },
       "properties": {
         "date": "2015-07-19",
@@ -1769,7 +1769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.360952, 51.58518]
+        "coordinates": [-1.3609519999999999, 51.585180000000001]
       },
       "properties": {
         "date": "2015-07-23",
@@ -1781,7 +1781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.378178, 51.58438]
+        "coordinates": [-1.3781779999999999, 51.584380000000003]
       },
       "properties": {
         "date": "2015-07-23",
@@ -1805,7 +1805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.086949, 51.46898]
+        "coordinates": [-1.0869489999999999, 51.468980000000002]
       },
       "properties": {
         "date": "2015-08-01",
@@ -1817,7 +1817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.773232, 51.56732]
+        "coordinates": [-0.77323200000000003, 51.567320000000002]
       },
       "properties": {
         "date": "2015-08-02",
@@ -1829,7 +1829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.77195, 51.56849]
+        "coordinates": [-0.77195000000000003, 51.568489999999997]
       },
       "properties": {
         "date": "2015-08-02",
@@ -1841,7 +1841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.776554, 51.56661]
+        "coordinates": [-0.77655399999999997, 51.566609999999997]
       },
       "properties": {
         "date": "2015-08-02",
@@ -1853,7 +1853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.26323, 51.57693]
+        "coordinates": [-1.2632300000000001, 51.576929999999997]
       },
       "properties": {
         "date": "2015-08-06",
@@ -1865,7 +1865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.201595, 51.57156]
+        "coordinates": [-1.201595, 51.571559999999998]
       },
       "properties": {
         "date": "2015-08-06",
@@ -1877,7 +1877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.148686, 51.54916]
+        "coordinates": [-1.1486860000000001, 51.549160000000001]
       },
       "properties": {
         "date": "2015-08-14",
@@ -1889,7 +1889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.176844, 51.5158]
+        "coordinates": [-0.176844, 51.515799999999999]
       },
       "properties": {
         "date": "2015-08-14",
@@ -1901,7 +1901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.103694, 51.52012]
+        "coordinates": [-0.10369399999999999, 51.520119999999999]
       },
       "properties": {
         "date": "2015-08-14",
@@ -1913,7 +1913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.100404, 51.51907]
+        "coordinates": [-0.10040399999999999, 51.519069999999999]
       },
       "properties": {
         "date": "2015-08-14",
@@ -1925,7 +1925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.099003, 51.51969]
+        "coordinates": [-0.099002999999999994, 51.519689999999997]
       },
       "properties": {
         "date": "2015-08-14",
@@ -1937,7 +1937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.831224, 51.41084]
+        "coordinates": [-0.83122399999999996, 51.41084]
       },
       "properties": {
         "date": "2015-08-16",
@@ -1949,7 +1949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.070508, 51.42969]
+        "coordinates": [-1.070508, 51.429690000000001]
       },
       "properties": {
         "date": "2015-08-22",
@@ -1961,7 +1961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.194793, 51.87165]
+        "coordinates": [0.19479299999999999, 51.871650000000002]
       },
       "properties": {
         "date": "2015-08-23",
@@ -1973,7 +1973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.125374, 52.19813]
+        "coordinates": [0.12537400000000001, 52.198129999999999]
       },
       "properties": {
         "date": "2015-08-23",
@@ -1985,7 +1985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.122467, 52.20417]
+        "coordinates": [0.12246700000000001, 52.204169999999998]
       },
       "properties": {
         "date": "2015-08-23",
@@ -1997,7 +1997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.119046, 52.20536]
+        "coordinates": [0.119046, 52.205359999999999]
       },
       "properties": {
         "date": "2015-08-23",
@@ -2021,7 +2021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.116523, 52.20983]
+        "coordinates": [0.116523, 52.209829999999997]
       },
       "properties": {
         "date": "2015-08-23",
@@ -2045,7 +2045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08938, 51.42325]
+        "coordinates": [-1.08938, 51.423250000000003]
       },
       "properties": {
         "date": "2015-08-30",
@@ -2057,7 +2057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.100648, 51.41847]
+        "coordinates": [-1.1006480000000001, 51.418469999999999]
       },
       "properties": {
         "date": "2015-08-30",
@@ -2069,7 +2069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.132245, 51.51137]
+        "coordinates": [-0.132245, 51.511369999999999]
       },
       "properties": {
         "date": "2015-09-03",
@@ -2081,7 +2081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.153243, 51.50426]
+        "coordinates": [-0.15324299999999999, 51.504260000000002]
       },
       "properties": {
         "date": "2015-09-03",
@@ -2093,7 +2093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.153296, 51.50772]
+        "coordinates": [-0.15329599999999999, 51.507719999999999]
       },
       "properties": {
         "date": "2015-09-03",
@@ -2105,7 +2105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.160959, 51.51387]
+        "coordinates": [-0.16095899999999999, 51.513869999999997]
       },
       "properties": {
         "date": "2015-09-03",
@@ -2117,7 +2117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.168104, 51.51413]
+        "coordinates": [-0.168104, 51.514130000000002]
       },
       "properties": {
         "date": "2015-09-03",
@@ -2129,7 +2129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.449061, 51.39937]
+        "coordinates": [-1.4490609999999999, 51.399369999999998]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2141,7 +2141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.484518, 51.37586]
+        "coordinates": [-1.484518, 51.375860000000003]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2153,7 +2153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.477394, 51.35788]
+        "coordinates": [-1.4773940000000001, 51.357880000000002]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2165,7 +2165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.463689, 51.35426]
+        "coordinates": [-1.463689, 51.354259999999996]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2177,7 +2177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.504897, 51.41037]
+        "coordinates": [-1.5048969999999999, 51.41037]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2189,7 +2189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.514418, 51.41659]
+        "coordinates": [-1.514418, 51.416589999999999]
       },
       "properties": {
         "date": "2015-09-06",
@@ -2201,7 +2201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.160984, 51.52264]
+        "coordinates": [-1.160984, 51.522640000000003]
       },
       "properties": {
         "date": "2015-09-10",
@@ -2213,7 +2213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.33641, 51.59632]
+        "coordinates": [-1.3364100000000001, 51.596319999999999]
       },
       "properties": {
         "date": "2015-09-15",
@@ -2225,7 +2225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.099332, 51.50756]
+        "coordinates": [-0.099332000000000004, 51.507559999999998]
       },
       "properties": {
         "date": "2015-09-20",
@@ -2237,7 +2237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.089966, 51.50601]
+        "coordinates": [-0.089966000000000004, 51.506010000000003]
       },
       "properties": {
         "date": "2015-09-20",
@@ -2249,7 +2249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.104333, 51.50537]
+        "coordinates": [-0.104333, 51.505369999999999]
       },
       "properties": {
         "date": "2015-09-20",
@@ -2261,7 +2261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.206637, 51.49075]
+        "coordinates": [-0.20663699999999999, 51.490749999999998]
       },
       "properties": {
         "date": "2015-09-20",
@@ -2273,7 +2273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.210343, 51.49433]
+        "coordinates": [-0.210343, 51.494329999999998]
       },
       "properties": {
         "date": "2015-09-20",
@@ -2285,7 +2285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.487912, 51.47166]
+        "coordinates": [-0.48791200000000001, 51.47166]
       },
       "properties": {
         "date": "2015-09-24",
@@ -2297,7 +2297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.535428, 48.14265]
+        "coordinates": [11.535428, 48.142650000000003]
       },
       "properties": {
         "date": "2015-09-24",
@@ -2309,7 +2309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.540255, 48.14673]
+        "coordinates": [11.540255, 48.146729999999998]
       },
       "properties": {
         "date": "2015-09-24",
@@ -2321,7 +2321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.543029, 48.14834]
+        "coordinates": [11.543029000000001, 48.148339999999997]
       },
       "properties": {
         "date": "2015-09-24",
@@ -2333,7 +2333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.536612, 48.14619]
+        "coordinates": [11.536612, 48.146189999999997]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2345,7 +2345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.573924, 48.13724]
+        "coordinates": [11.573924, 48.137239999999998]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2357,7 +2357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.566745, 48.13346]
+        "coordinates": [11.566744999999999, 48.133459999999999]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2369,7 +2369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.567733, 48.13403]
+        "coordinates": [11.567733, 48.134030000000003]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2381,7 +2381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.565447, 48.13094]
+        "coordinates": [11.565447000000001, 48.130940000000002]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2393,7 +2393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.476053, 48.01995]
+        "coordinates": [11.476053, 48.019950000000001]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2405,7 +2405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.443707, 48.25455]
+        "coordinates": [11.443707, 48.254550000000002]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2417,7 +2417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.466983, 48.26833]
+        "coordinates": [11.466983000000001, 48.268329999999999]
       },
       "properties": {
         "date": "2015-09-25",
@@ -2429,7 +2429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.444918, 47.99316]
+        "coordinates": [11.444917999999999, 47.993160000000003]
       },
       "properties": {
         "date": "2015-09-26",
@@ -2441,7 +2441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.546916, 48.13094]
+        "coordinates": [11.546916, 48.130940000000002]
       },
       "properties": {
         "date": "2015-09-26",
@@ -2453,7 +2453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.579285, 48.14626]
+        "coordinates": [11.579285, 48.146259999999998]
       },
       "properties": {
         "date": "2015-09-27",
@@ -2465,7 +2465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.855025, 48.08162]
+        "coordinates": [10.855024999999999, 48.081620000000001]
       },
       "properties": {
         "date": "2015-09-27",
@@ -2477,7 +2477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.808418, 48.07481]
+        "coordinates": [10.808418, 48.074809999999999]
       },
       "properties": {
         "date": "2015-09-27",
@@ -2489,7 +2489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.137752, 47.56048]
+        "coordinates": [10.137752000000001, 47.560479999999998]
       },
       "properties": {
         "date": "2015-09-27",
@@ -2501,7 +2501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.144906, 47.55388]
+        "coordinates": [10.144906000000001, 47.553879999999999]
       },
       "properties": {
         "date": "2015-09-27",
@@ -2513,7 +2513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.459686, 48.21079]
+        "coordinates": [11.459686, 48.210790000000003]
       },
       "properties": {
         "date": "2015-09-28",
@@ -2525,7 +2525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.081853, 47.49124]
+        "coordinates": [11.081853000000001, 47.491239999999998]
       },
       "properties": {
         "date": "2015-09-28",
@@ -2549,7 +2549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.137149, 47.55522]
+        "coordinates": [11.137149000000001, 47.555219999999998]
       },
       "properties": {
         "date": "2015-09-28",
@@ -2561,7 +2561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.549959, 48.1352]
+        "coordinates": [11.549958999999999, 48.135199999999998]
       },
       "properties": {
         "date": "2015-09-29",
@@ -2573,7 +2573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.205099, 51.46697]
+        "coordinates": [-1.2050989999999999, 51.466970000000003]
       },
       "properties": {
         "date": "2015-10-11",
@@ -2585,7 +2585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.240233, 51.48396]
+        "coordinates": [-1.2402329999999999, 51.483960000000003]
       },
       "properties": {
         "date": "2015-10-11",
@@ -2597,7 +2597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.566649, 51.57716]
+        "coordinates": [-1.566649, 51.577159999999999]
       },
       "properties": {
         "date": "2015-10-11",
@@ -2609,7 +2609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.567825, 51.57577]
+        "coordinates": [-1.567825, 51.575769999999999]
       },
       "properties": {
         "date": "2015-10-11",
@@ -2621,7 +2621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.44901, 51.4749]
+        "coordinates": [-1.4490099999999999, 51.474899999999998]
       },
       "properties": {
         "date": "2015-10-11",
@@ -2633,7 +2633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.166891, 51.48552]
+        "coordinates": [-3.1668910000000001, 51.485520000000001]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2645,7 +2645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.177989, 51.4787]
+        "coordinates": [-3.1779890000000002, 51.478700000000003]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2657,7 +2657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.176233, 51.47927]
+        "coordinates": [-3.1762329999999999, 51.47927]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2669,7 +2669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.180322, 51.4815]
+        "coordinates": [-3.1803219999999999, 51.481499999999997]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2681,7 +2681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.183302, 51.48257]
+        "coordinates": [-3.1833019999999999, 51.482570000000003]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2693,7 +2693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.182935, 51.48082]
+        "coordinates": [-3.1829350000000001, 51.480820000000001]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2705,7 +2705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.181843, 51.47773]
+        "coordinates": [-3.1818430000000002, 51.477730000000001]
       },
       "properties": {
         "date": "2015-10-17",
@@ -2717,7 +2717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.970731, 51.45353]
+        "coordinates": [-0.97073100000000001, 51.453530000000001]
       },
       "properties": {
         "date": "2015-10-18",
@@ -2729,7 +2729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.089413, 51.51516]
+        "coordinates": [-0.089413000000000006, 51.515160000000002]
       },
       "properties": {
         "date": "2015-10-24",
@@ -2741,7 +2741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.075075, 51.51931]
+        "coordinates": [-0.075075000000000003, 51.519309999999997]
       },
       "properties": {
         "date": "2015-10-24",
@@ -2753,7 +2753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.17841, 51.51649]
+        "coordinates": [-0.17841000000000001, 51.516489999999997]
       },
       "properties": {
         "date": "2015-10-28",
@@ -2765,7 +2765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.132317, 51.51541]
+        "coordinates": [-0.13231699999999999, 51.515410000000003]
       },
       "properties": {
         "date": "2015-10-31",
@@ -2777,7 +2777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.135266, 51.51492]
+        "coordinates": [-0.135266, 51.514919999999996]
       },
       "properties": {
         "date": "2015-10-31",
@@ -2789,7 +2789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.133711, 51.51319]
+        "coordinates": [-0.133711, 51.513190000000002]
       },
       "properties": {
         "date": "2015-10-31",
@@ -2801,7 +2801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.318996, 51.53986]
+        "coordinates": [-1.3189960000000001, 51.539859999999997]
       },
       "properties": {
         "date": "2015-11-07",
@@ -2813,7 +2813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.092936, 51.50735]
+        "coordinates": [-0.092936000000000005, 51.507350000000002]
       },
       "properties": {
         "date": "2015-12-06",
@@ -2825,7 +2825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.126293, 51.50338]
+        "coordinates": [-0.12629299999999999, 51.50338]
       },
       "properties": {
         "date": "2015-12-06",
@@ -2837,7 +2837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.128028, 51.50796]
+        "coordinates": [-0.128028, 51.507959999999997]
       },
       "properties": {
         "date": "2015-12-06",
@@ -2849,7 +2849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.131221, 51.50572]
+        "coordinates": [-0.131221, 51.505719999999997]
       },
       "properties": {
         "date": "2015-12-06",
@@ -2861,7 +2861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.14186, 51.5023]
+        "coordinates": [-0.14186000000000001, 51.502299999999998]
       },
       "properties": {
         "date": "2015-12-06",
@@ -2873,7 +2873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.29949, 51.62795]
+        "coordinates": [-1.29949, 51.627949999999998]
       },
       "properties": {
         "date": "2015-12-09",
@@ -2885,7 +2885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.449757, 51.46961]
+        "coordinates": [-0.44975700000000002, 51.469610000000003]
       },
       "properties": {
         "date": "2015-12-13",
@@ -2897,7 +2897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.650934, 55.61846]
+        "coordinates": [12.650933999999999, 55.618459999999999]
       },
       "properties": {
         "date": "2015-12-13",
@@ -2909,7 +2909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.56486, 55.67285]
+        "coordinates": [12.564859999999999, 55.672849999999997]
       },
       "properties": {
         "date": "2015-12-13",
@@ -2921,7 +2921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.089081, 55.63924]
+        "coordinates": [12.089081, 55.639240000000001]
       },
       "properties": {
         "date": "2015-12-13",
@@ -2933,7 +2933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.095464, 55.66575]
+        "coordinates": [12.095464, 55.665750000000003]
       },
       "properties": {
         "date": "2015-12-13",
@@ -2945,7 +2945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.106006, 55.69065]
+        "coordinates": [12.106006000000001, 55.690649999999998]
       },
       "properties": {
         "date": "2015-12-14",
@@ -2957,7 +2957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.078017, 55.64991]
+        "coordinates": [12.078016999999999, 55.649909999999998]
       },
       "properties": {
         "date": "2015-12-14",
@@ -2969,7 +2969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.081506, 55.64614]
+        "coordinates": [12.081505999999999, 55.646140000000003]
       },
       "properties": {
         "date": "2015-12-15",
@@ -2981,7 +2981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.023208, 51.55114]
+        "coordinates": [-1.0232079999999999, 51.551139999999997]
       },
       "properties": {
         "date": "2015-12-20",
@@ -2993,7 +2993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.989633, 51.57563]
+        "coordinates": [-0.98963299999999998, 51.575629999999997]
       },
       "properties": {
         "date": "2015-12-20",
@@ -3005,7 +3005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.109932, 46.23074]
+        "coordinates": [6.1099319999999997, 46.230739999999997]
       },
       "properties": {
         "date": "2015-12-22",
@@ -3017,7 +3017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.757561, 46.48492]
+        "coordinates": [6.7575609999999999, 46.484920000000002]
       },
       "properties": {
         "date": "2015-12-22",
@@ -3029,7 +3029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.843724, 46.46333]
+        "coordinates": [6.8437239999999999, 46.463329999999999]
       },
       "properties": {
         "date": "2015-12-22",
@@ -3041,7 +3041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.875552, 46.47265]
+        "coordinates": [6.8755519999999999, 46.472650000000002]
       },
       "properties": {
         "date": "2015-12-22",
@@ -3053,7 +3053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.89542, 46.46538]
+        "coordinates": [6.8954199999999997, 46.465380000000003]
       },
       "properties": {
         "date": "2015-12-22",
@@ -3065,7 +3065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.834625, 46.46561]
+        "coordinates": [6.834625, 46.465609999999998]
       },
       "properties": {
         "date": "2015-12-23",
@@ -3077,7 +3077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.846215, 46.45789]
+        "coordinates": [6.8462149999999999, 46.457889999999999]
       },
       "properties": {
         "date": "2015-12-23",
@@ -3089,7 +3089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.909262, 46.43212]
+        "coordinates": [6.909262, 46.432119999999998]
       },
       "properties": {
         "date": "2015-12-23",
@@ -3101,7 +3101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.778662, 46.48121]
+        "coordinates": [6.7786619999999997, 46.481209999999997]
       },
       "properties": {
         "date": "2015-12-24",
@@ -3125,7 +3125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.081716, 46.58392]
+        "coordinates": [7.0817160000000001, 46.583919999999999]
       },
       "properties": {
         "date": "2015-12-25",
@@ -3137,7 +3137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.915143, 46.42959]
+        "coordinates": [6.9151429999999996, 46.429589999999997]
       },
       "properties": {
         "date": "2015-12-25",
@@ -3149,7 +3149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.948319, 46.05138]
+        "coordinates": [6.9483189999999997, 46.051380000000002]
       },
       "properties": {
         "date": "2015-12-26",
@@ -3161,7 +3161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.868974, 45.9226]
+        "coordinates": [6.8689739999999997, 45.922600000000003]
       },
       "properties": {
         "date": "2015-12-26",
@@ -3173,7 +3173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.884839, 45.90158]
+        "coordinates": [6.8848390000000004, 45.901580000000003]
       },
       "properties": {
         "date": "2015-12-26",
@@ -3197,7 +3197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.62927, 46.51729]
+        "coordinates": [6.62927, 46.517290000000003]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3209,7 +3209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.627603, 46.50546]
+        "coordinates": [6.6276029999999997, 46.505459999999999]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3221,7 +3221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.626747, 46.52038]
+        "coordinates": [6.6267469999999999, 46.520380000000003]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3233,7 +3233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.634324, 46.52013]
+        "coordinates": [6.6343240000000003, 46.520130000000002]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3245,7 +3245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.634831, 46.52266]
+        "coordinates": [6.6348310000000001, 46.522660000000002]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3257,7 +3257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.976229, 46.31495]
+        "coordinates": [6.976229, 46.314950000000003]
       },
       "properties": {
         "date": "2015-12-28",
@@ -3269,7 +3269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.884022, 51.51122]
+        "coordinates": [-0.88402199999999997, 51.511220000000002]
       },
       "properties": {
         "date": "2016-01-01",
@@ -3281,7 +3281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.068545, 51.5338]
+        "coordinates": [-1.0685450000000001, 51.533799999999999]
       },
       "properties": {
         "date": "2016-01-10",
@@ -3293,7 +3293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.871439, 51.57156]
+        "coordinates": [-0.87143899999999996, 51.571559999999998]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3305,7 +3305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.894839, 51.61919]
+        "coordinates": [-0.89483900000000005, 51.619190000000003]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3317,7 +3317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.543362, 53.23275]
+        "coordinates": [-0.54336200000000001, 53.232750000000003]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3329,7 +3329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53755, 53.2344]
+        "coordinates": [-0.53754999999999997, 53.234400000000001]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3341,7 +3341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.449724, 53.70564]
+        "coordinates": [-0.44972400000000001, 53.705640000000002]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3353,7 +3353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090845, 53.95587]
+        "coordinates": [-1.0908450000000001, 53.955869999999997]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3365,7 +3365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.092253, 53.95505]
+        "coordinates": [-1.0922529999999999, 53.95505]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3377,7 +3377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083331, 53.96221]
+        "coordinates": [-1.083331, 53.962209999999999]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3389,7 +3389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.080521, 53.95564]
+        "coordinates": [-1.0805210000000001, 53.955640000000002]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3401,7 +3401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090252, 53.95644]
+        "coordinates": [-1.090252, 53.956440000000001]
       },
       "properties": {
         "date": "2016-01-20",
@@ -3413,7 +3413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.079937, 53.9592]
+        "coordinates": [-1.0799369999999999, 53.959200000000003]
       },
       "properties": {
         "date": "2016-01-21",
@@ -3437,7 +3437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.051806, 53.94863]
+        "coordinates": [-1.051806, 53.948630000000001]
       },
       "properties": {
         "date": "2016-01-21",
@@ -3449,7 +3449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.531075, 53.98608]
+        "coordinates": [-1.531075, 53.986080000000001]
       },
       "properties": {
         "date": "2016-01-21",
@@ -3461,7 +3461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.540087, 53.99321]
+        "coordinates": [-1.540087, 53.993209999999998]
       },
       "properties": {
         "date": "2016-01-21",
@@ -3473,7 +3473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.474783, 54.00937]
+        "coordinates": [-1.474783, 54.009369999999997]
       },
       "properties": {
         "date": "2016-01-21",
@@ -3485,7 +3485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.105271, 53.99088]
+        "coordinates": [-1.1052709999999999, 53.990879999999997]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3497,7 +3497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.046478, 53.94769]
+        "coordinates": [-1.046478, 53.947690000000001]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3509,7 +3509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.776217, 54.24447]
+        "coordinates": [-0.77621700000000005, 54.24447]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3521,7 +3521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.691232, 54.3267]
+        "coordinates": [-0.69123199999999996, 54.326700000000002]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3533,7 +3533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.665694, 54.45166]
+        "coordinates": [-0.66569400000000001, 54.451659999999997]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3545,7 +3545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.615928, 54.48507]
+        "coordinates": [-0.61592800000000003, 54.48507]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3557,7 +3557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.613003, 54.49305]
+        "coordinates": [-0.61300299999999996, 54.493049999999997]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3569,7 +3569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.056939, 54.61692]
+        "coordinates": [-1.0569390000000001, 54.61692]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3581,7 +3581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.063276, 54.61714]
+        "coordinates": [-1.0632760000000001, 54.617139999999999]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3593,7 +3593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.059579, 54.61634]
+        "coordinates": [-1.059579, 54.616340000000001]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3605,7 +3605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.055926, 54.61372]
+        "coordinates": [-1.0559259999999999, 54.613720000000001]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3617,7 +3617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.612111, 54.48727]
+        "coordinates": [-0.61211099999999996, 54.487270000000002]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3641,7 +3641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.608, 54.489]
+        "coordinates": [-0.60799999999999998, 54.488999999999997]
       },
       "properties": {
         "date": "2016-01-22",
@@ -3653,7 +3653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.576111, 54.77361]
+        "coordinates": [-1.576111, 54.773609999999998]
       },
       "properties": {
         "date": "2016-01-23",
@@ -3665,7 +3665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.575789, 54.77703]
+        "coordinates": [-1.5757890000000001, 54.777030000000003]
       },
       "properties": {
         "date": "2016-01-23",
@@ -3677,7 +3677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.20968, 54.68946]
+        "coordinates": [-1.2096800000000001, 54.689459999999997]
       },
       "properties": {
         "date": "2016-01-23",
@@ -3689,7 +3689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.047256, 54.53634]
+        "coordinates": [-1.047256, 54.536340000000003]
       },
       "properties": {
         "date": "2016-01-23",
@@ -3701,7 +3701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.640433, 52.6075]
+        "coordinates": [-1.640433, 52.607500000000002]
       },
       "properties": {
         "date": "2016-01-24",
@@ -3713,7 +3713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.879183, 51.44051]
+        "coordinates": [-0.87918300000000005, 51.440510000000003]
       },
       "properties": {
         "date": "2016-01-30",
@@ -3725,7 +3725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.249667, 51.59873]
+        "coordinates": [-0.249667, 51.598730000000003]
       },
       "properties": {
         "date": "2016-01-31",
@@ -3737,7 +3737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.167334, 51.55236]
+        "coordinates": [-0.16733400000000001, 51.55236]
       },
       "properties": {
         "date": "2016-01-31",
@@ -3749,7 +3749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.165857, 51.55967]
+        "coordinates": [-0.165857, 51.559669999999997]
       },
       "properties": {
         "date": "2016-01-31",
@@ -3761,7 +3761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.432708, 51.77847]
+        "coordinates": [-0.43270799999999998, 51.778469999999999]
       },
       "properties": {
         "date": "2016-02-06",
@@ -3773,7 +3773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.410171, 51.78805]
+        "coordinates": [-0.41017100000000001, 51.788049999999998]
       },
       "properties": {
         "date": "2016-02-06",
@@ -3785,7 +3785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.602712, 51.83371]
+        "coordinates": [-0.60271200000000003, 51.833710000000004]
       },
       "properties": {
         "date": "2016-02-06",
@@ -3797,7 +3797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.608369, 51.84209]
+        "coordinates": [-0.60836900000000005, 51.842089999999999]
       },
       "properties": {
         "date": "2016-02-06",
@@ -3809,7 +3809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.143829, 51.5231]
+        "coordinates": [-1.143829, 51.523099999999999]
       },
       "properties": {
         "date": "2016-02-13",
@@ -3821,7 +3821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.146218, 52.00842]
+        "coordinates": [-1.146218, 52.008420000000001]
       },
       "properties": {
         "date": "2016-02-19",
@@ -3833,7 +3833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.988015, 51.99983]
+        "coordinates": [-0.98801499999999998, 51.999830000000003]
       },
       "properties": {
         "date": "2016-02-19",
@@ -3845,7 +3845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.307908, 52.82214]
+        "coordinates": [-1.3079080000000001, 52.822139999999997]
       },
       "properties": {
         "date": "2016-02-19",
@@ -3857,7 +3857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.113795, 53.93285]
+        "coordinates": [-1.1137950000000001, 53.932850000000002]
       },
       "properties": {
         "date": "2016-02-19",
@@ -3869,7 +3869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.240475, 51.59118]
+        "coordinates": [-1.240475, 51.591180000000001]
       },
       "properties": {
         "date": "2016-02-26",
@@ -3881,7 +3881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.183666, 51.52725]
+        "coordinates": [-1.1836660000000001, 51.527250000000002]
       },
       "properties": {
         "date": "2016-02-28",
@@ -3893,7 +3893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.143668, 51.52358]
+        "coordinates": [-1.1436679999999999, 51.523580000000003]
       },
       "properties": {
         "date": "2016-03-12",
@@ -3917,7 +3917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.69717, 51.41221]
+        "coordinates": [-1.6971700000000001, 51.412210000000002]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3929,7 +3929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.67728, 51.39903]
+        "coordinates": [-1.6772800000000001, 51.399030000000003]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3941,7 +3941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.70081, 51.39807]
+        "coordinates": [-1.7008099999999999, 51.398069999999997]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3953,7 +3953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.67199, 51.36076]
+        "coordinates": [-1.6719900000000001, 51.360759999999999]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3965,7 +3965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.73197, 51.41993]
+        "coordinates": [-1.73197, 51.419930000000001]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3977,7 +3977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.830585, 51.41148]
+        "coordinates": [-1.8305849999999999, 51.411479999999997]
       },
       "properties": {
         "date": "2016-03-20",
@@ -3989,7 +3989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.8581, 51.41484]
+        "coordinates": [-1.8581000000000001, 51.414839999999998]
       },
       "properties": {
         "date": "2016-03-20",
@@ -4013,7 +4013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.00523, 51.43812]
+        "coordinates": [-2.0052300000000001, 51.438119999999998]
       },
       "properties": {
         "date": "2016-03-20",
@@ -4025,7 +4025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.12114, 51.45836]
+        "coordinates": [-2.12114, 51.458359999999999]
       },
       "properties": {
         "date": "2016-03-20",
@@ -4037,7 +4037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.311922, 51.06578]
+        "coordinates": [-1.311922, 51.065779999999997]
       },
       "properties": {
         "date": "2016-03-27",
@@ -4049,7 +4049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.314968, 51.06267]
+        "coordinates": [-1.3149679999999999, 51.062669999999997]
       },
       "properties": {
         "date": "2016-03-27",
@@ -4061,7 +4061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.314796, 51.06143]
+        "coordinates": [-1.3147960000000001, 51.061430000000001]
       },
       "properties": {
         "date": "2016-03-27",
@@ -4073,7 +4073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.313321, 51.06265]
+        "coordinates": [-1.313321, 51.062649999999998]
       },
       "properties": {
         "date": "2016-03-27",
@@ -4085,7 +4085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.976271, 51.45648]
+        "coordinates": [-0.976271, 51.456479999999999]
       },
       "properties": {
         "date": "2016-03-30",
@@ -4097,7 +4097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.504642, 52.2167]
+        "coordinates": [-1.504642, 52.216700000000003]
       },
       "properties": {
         "date": "2016-04-02",
@@ -4109,7 +4109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14906, 53.98275]
+        "coordinates": [-1.14906, 53.982750000000003]
       },
       "properties": {
         "date": "2016-04-02",
@@ -4121,7 +4121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.785536, 53.98557]
+        "coordinates": [-0.78553600000000001, 53.985570000000003]
       },
       "properties": {
         "date": "2016-04-05",
@@ -4133,7 +4133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.78557, 53.98533]
+        "coordinates": [-0.78556999999999999, 53.985329999999998]
       },
       "properties": {
         "date": "2016-04-05",
@@ -4145,7 +4145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.01958, 53.91672]
+        "coordinates": [-1.0195799999999999, 53.916719999999998]
       },
       "properties": {
         "date": "2016-04-06",
@@ -4157,7 +4157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.044646, 53.94472]
+        "coordinates": [-1.044646, 53.944719999999997]
       },
       "properties": {
         "date": "2016-04-06",
@@ -4169,7 +4169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.079081, 53.9577]
+        "coordinates": [-1.079081, 53.957700000000003]
       },
       "properties": {
         "date": "2016-04-08",
@@ -4181,7 +4181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.078864, 53.95869]
+        "coordinates": [-1.078864, 53.958689999999997]
       },
       "properties": {
         "date": "2016-04-08",
@@ -4193,7 +4193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083245, 53.96047]
+        "coordinates": [-1.083245, 53.960470000000001]
       },
       "properties": {
         "date": "2016-04-08",
@@ -4217,7 +4217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.4702, 54.00798]
+        "coordinates": [-1.4702, 54.007980000000003]
       },
       "properties": {
         "date": "2016-04-10",
@@ -4229,7 +4229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.47001, 54.00682]
+        "coordinates": [-1.47001, 54.006819999999998]
       },
       "properties": {
         "date": "2016-04-10",
@@ -4253,7 +4253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.52101, 54.13504]
+        "coordinates": [-1.52101, 54.135039999999996]
       },
       "properties": {
         "date": "2016-04-10",
@@ -4265,7 +4265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.52377, 54.13626]
+        "coordinates": [-1.5237700000000001, 54.13626]
       },
       "properties": {
         "date": "2016-04-10",
@@ -4277,7 +4277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.29235, 53.9932]
+        "coordinates": [-1.2923500000000001, 53.993200000000002]
       },
       "properties": {
         "date": "2016-04-10",
@@ -4289,7 +4289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.04705, 53.9858]
+        "coordinates": [-1.04705, 53.985799999999998]
       },
       "properties": {
         "date": "2016-04-15",
@@ -4301,7 +4301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.045, 54.20387]
+        "coordinates": [-1.0449999999999999, 54.203870000000002]
       },
       "properties": {
         "date": "2016-04-17",
@@ -4313,7 +4313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.061275, 54.24632]
+        "coordinates": [-1.061275, 54.246319999999997]
       },
       "properties": {
         "date": "2016-04-17",
@@ -4325,7 +4325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14081, 54.39044]
+        "coordinates": [-1.1408100000000001, 54.390439999999998]
       },
       "properties": {
         "date": "2016-04-17",
@@ -4337,7 +4337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08597, 54.40641]
+        "coordinates": [-1.0859700000000001, 54.406410000000001]
       },
       "properties": {
         "date": "2016-04-17",
@@ -4349,7 +4349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.12206, 54.40965]
+        "coordinates": [-1.1220600000000001, 54.409649999999999]
       },
       "properties": {
         "date": "2016-04-17",
@@ -4361,7 +4361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.045009, 53.94525]
+        "coordinates": [-1.0450090000000001, 53.945250000000001]
       },
       "properties": {
         "date": "2016-04-18",
@@ -4373,7 +4373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.043638, 53.94394]
+        "coordinates": [-1.0436380000000001, 53.943939999999998]
       },
       "properties": {
         "date": "2016-04-18",
@@ -4385,7 +4385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.724552, 54.43586]
+        "coordinates": [-0.72455199999999997, 54.435859999999998]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4397,7 +4397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.75504, 54.44731]
+        "coordinates": [-0.75504000000000004, 54.447310000000002]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4409,7 +4409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.792058, 54.43865]
+        "coordinates": [-0.79205800000000004, 54.438650000000003]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4421,7 +4421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.83788, 54.42684]
+        "coordinates": [-0.83787999999999996, 54.426839999999999]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4433,7 +4433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.80694, 54.43774]
+        "coordinates": [-0.80693999999999999, 54.437739999999998]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4445,7 +4445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.120587, 53.94403]
+        "coordinates": [-1.120587, 53.944029999999998]
       },
       "properties": {
         "date": "2016-04-23",
@@ -4457,7 +4457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.98904, 53.63517]
+        "coordinates": [-1.9890399999999999, 53.635170000000002]
       },
       "properties": {
         "date": "2016-04-27",
@@ -4469,7 +4469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.145622, 53.60854]
+        "coordinates": [-2.1456219999999999, 53.608539999999998]
       },
       "properties": {
         "date": "2016-04-27",
@@ -4481,7 +4481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.30704, 54.56929]
+        "coordinates": [-1.30704, 54.569290000000002]
       },
       "properties": {
         "date": "2016-04-30",
@@ -4493,7 +4493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.84097, 54.29102]
+        "coordinates": [-0.84097, 54.291020000000003]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4505,7 +4505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.88762, 54.35341]
+        "coordinates": [-0.88761999999999996, 54.353409999999997]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4517,7 +4517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.93401, 54.36268]
+        "coordinates": [-0.93401000000000001, 54.362679999999997]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4529,7 +4529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.904075, 54.36788]
+        "coordinates": [-0.90407499999999996, 54.36788]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4541,7 +4541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.89157, 54.34338]
+        "coordinates": [-0.89156999999999997, 54.343380000000003]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4553,7 +4553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7217, 54.23615]
+        "coordinates": [-0.72170000000000001, 54.236150000000002]
       },
       "properties": {
         "date": "2016-05-07",
@@ -4565,7 +4565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06045, 53.94749]
+        "coordinates": [-1.0604499999999999, 53.947490000000002]
       },
       "properties": {
         "date": "2016-05-11",
@@ -4577,7 +4577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.082097, 53.94485]
+        "coordinates": [-1.0820970000000001, 53.944850000000002]
       },
       "properties": {
         "date": "2016-05-13",
@@ -4589,7 +4589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.141064, 53.91479]
+        "coordinates": [-1.1410640000000001, 53.914790000000004]
       },
       "properties": {
         "date": "2016-05-15",
@@ -4601,7 +4601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.588983, 53.75877]
+        "coordinates": [-1.588983, 53.758769999999998]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4613,7 +4613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.548636, 53.80006]
+        "coordinates": [-1.5486359999999999, 53.800060000000002]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4637,7 +4637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.541284, 53.79819]
+        "coordinates": [-1.5412840000000001, 53.798189999999998]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4649,7 +4649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.537811, 53.79428]
+        "coordinates": [-1.537811, 53.794280000000001]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4661,7 +4661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.540172, 53.79591]
+        "coordinates": [-1.5401720000000001, 53.795909999999999]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4673,7 +4673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.542399, 53.79695]
+        "coordinates": [-1.5423990000000001, 53.796950000000002]
       },
       "properties": {
         "date": "2016-05-21",
@@ -4685,7 +4685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1079, 53.96838]
+        "coordinates": [-1.1079000000000001, 53.968380000000003]
       },
       "properties": {
         "date": "2016-05-22",
@@ -4697,7 +4697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53212, 54.40913]
+        "coordinates": [-0.53212000000000004, 54.409129999999998]
       },
       "properties": {
         "date": "2016-05-28",
@@ -4709,7 +4709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.56788, 54.39397]
+        "coordinates": [-0.56788000000000005, 54.393970000000003]
       },
       "properties": {
         "date": "2016-05-28",
@@ -4721,7 +4721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.55808, 54.42521]
+        "coordinates": [-0.55808000000000002, 54.42521]
       },
       "properties": {
         "date": "2016-05-28",
@@ -4733,7 +4733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53493, 54.43427]
+        "coordinates": [-0.53493000000000002, 54.434269999999998]
       },
       "properties": {
         "date": "2016-05-28",
@@ -4745,7 +4745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53227, 54.43029]
+        "coordinates": [-0.53227000000000002, 54.430289999999999]
       },
       "properties": {
         "date": "2016-05-28",
@@ -4757,7 +4757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14851, 53.97603]
+        "coordinates": [-1.1485099999999999, 53.976030000000002]
       },
       "properties": {
         "date": "2016-05-29",
@@ -4769,7 +4769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08062, 53.95928]
+        "coordinates": [-1.0806199999999999, 53.95928]
       },
       "properties": {
         "date": "2016-05-29",
@@ -4781,7 +4781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08827, 53.96202]
+        "coordinates": [-1.0882700000000001, 53.962020000000003]
       },
       "properties": {
         "date": "2016-05-29",
@@ -4793,7 +4793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.520762, 54.0213]
+        "coordinates": [-1.5207619999999999, 54.021299999999997]
       },
       "properties": {
         "date": "2016-06-05",
@@ -4805,7 +4805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.087376, 53.95748]
+        "coordinates": [-1.0873759999999999, 53.957479999999997]
       },
       "properties": {
         "date": "2016-06-10",
@@ -4817,7 +4817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.2206, 54.00621]
+        "coordinates": [-1.2205999999999999, 54.006210000000003]
       },
       "properties": {
         "date": "2016-06-12",
@@ -4829,7 +4829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10167, 53.99012]
+        "coordinates": [-1.1016699999999999, 53.990119999999997]
       },
       "properties": {
         "date": "2016-06-15",
@@ -4841,7 +4841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07555, 53.95331]
+        "coordinates": [-1.07555, 53.953310000000002]
       },
       "properties": {
         "date": "2016-06-24",
@@ -4853,7 +4853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084753, 53.95896]
+        "coordinates": [-1.0847530000000001, 53.958959999999998]
       },
       "properties": {
         "date": "2016-06-24",
@@ -4865,7 +4865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.006845, 54.08906]
+        "coordinates": [-1.006845, 54.089060000000003]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4877,7 +4877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.978983, 54.17144]
+        "coordinates": [-0.97898300000000005, 54.171439999999997]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4889,7 +4889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.15015, 54.41709]
+        "coordinates": [-1.15015, 54.417090000000002]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4901,7 +4901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1732, 54.41926]
+        "coordinates": [-1.1732, 54.419260000000001]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4913,7 +4913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.176908, 54.42265]
+        "coordinates": [-1.1769080000000001, 54.422649999999997]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4925,7 +4925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.210097, 54.2362]
+        "coordinates": [-1.210097, 54.236199999999997]
       },
       "properties": {
         "date": "2016-06-26",
@@ -4937,7 +4937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.89209, 53.97156]
+        "coordinates": [-1.89209, 53.971559999999997]
       },
       "properties": {
         "date": "2016-07-09",
@@ -4949,7 +4949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.1062, 53.9834]
+        "coordinates": [-2.1061999999999999, 53.983400000000003]
       },
       "properties": {
         "date": "2016-07-09",
@@ -4961,7 +4961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.25525, 54.0197]
+        "coordinates": [-2.2552500000000002, 54.0197]
       },
       "properties": {
         "date": "2016-07-09",
@@ -4973,7 +4973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.27759, 54.06741]
+        "coordinates": [-2.27759, 54.067410000000002]
       },
       "properties": {
         "date": "2016-07-09",
@@ -4985,7 +4985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.29271, 54.14431]
+        "coordinates": [-2.29271, 54.144309999999997]
       },
       "properties": {
         "date": "2016-07-09",
@@ -4997,7 +4997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.24883, 54.15605]
+        "coordinates": [-2.2488299999999999, 54.15605]
       },
       "properties": {
         "date": "2016-07-09",
@@ -5009,7 +5009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.36917, 54.20943]
+        "coordinates": [-2.36917, 54.209429999999998]
       },
       "properties": {
         "date": "2016-07-09",
@@ -5021,7 +5021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.078364, 53.95161]
+        "coordinates": [-1.0783640000000001, 53.951610000000002]
       },
       "properties": {
         "date": "2016-07-17",
@@ -5033,7 +5033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.077209, 53.92223]
+        "coordinates": [-1.0772090000000001, 53.922229999999999]
       },
       "properties": {
         "date": "2016-07-17",
@@ -5045,7 +5045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.029928, 53.94725]
+        "coordinates": [-1.029928, 53.947249999999997]
       },
       "properties": {
         "date": "2016-07-21",
@@ -5057,7 +5057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0675, 53.78403]
+        "coordinates": [-1.0674999999999999, 53.784030000000001]
       },
       "properties": {
         "date": "2016-07-31",
@@ -5081,7 +5081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.26252, 53.88481]
+        "coordinates": [-1.2625200000000001, 53.884810000000002]
       },
       "properties": {
         "date": "2016-07-31",
@@ -5093,7 +5093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.305795, 53.53451]
+        "coordinates": [-2.3057949999999998, 53.534509999999997]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5105,7 +5105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.313157, 53.53133]
+        "coordinates": [-2.3131569999999999, 53.531329999999997]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5117,7 +5117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.315195, 53.52849]
+        "coordinates": [-2.3151950000000001, 53.528489999999998]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5129,7 +5129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.348497, 53.53648]
+        "coordinates": [-2.3484970000000001, 53.536479999999997]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5141,7 +5141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.24224, 53.48269]
+        "coordinates": [-2.2422399999999998, 53.482689999999998]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5153,7 +5153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.244611, 53.47929]
+        "coordinates": [-2.2446109999999999, 53.479289999999999]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5165,7 +5165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.237209, 53.48078]
+        "coordinates": [-2.237209, 53.480780000000003]
       },
       "properties": {
         "date": "2016-08-06",
@@ -5177,7 +5177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.149198, 54.56627]
+        "coordinates": [-1.1491979999999999, 54.566270000000003]
       },
       "properties": {
         "date": "2016-08-07",
@@ -5189,7 +5189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.717757, 54.40022]
+        "coordinates": [-0.71775699999999998, 54.400219999999997]
       },
       "properties": {
         "date": "2016-08-21",
@@ -5201,7 +5201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.711037, 54.39923]
+        "coordinates": [-0.71103700000000003, 54.399230000000003]
       },
       "properties": {
         "date": "2016-08-21",
@@ -5213,7 +5213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.732029, 54.39772]
+        "coordinates": [-0.73202900000000004, 54.39772]
       },
       "properties": {
         "date": "2016-08-21",
@@ -5225,7 +5225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.757854, 54.37215]
+        "coordinates": [-0.75785400000000003, 54.372149999999998]
       },
       "properties": {
         "date": "2016-08-21",
@@ -5237,7 +5237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.485013, 54.99104]
+        "coordinates": [-1.4850129999999999, 54.991039999999998]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5249,7 +5249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.043116, 55.80671]
+        "coordinates": [-2.0431159999999999, 55.806710000000002]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5261,7 +5261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.188309, 55.95187]
+        "coordinates": [-3.1883089999999998, 55.95187]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5273,7 +5273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.181439, 55.95105]
+        "coordinates": [-3.1814390000000001, 55.951050000000002]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5285,7 +5285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.161736, 55.94413]
+        "coordinates": [-3.1617359999999999, 55.944130000000001]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5297,7 +5297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.403851, 56.00137]
+        "coordinates": [-3.403851, 56.001370000000001]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5309,7 +5309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.24856, 56.85964]
+        "coordinates": [-4.2485600000000003, 56.859639999999999]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5321,7 +5321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.148037, 57.04279]
+        "coordinates": [-4.1480370000000004, 57.042789999999997]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5333,7 +5333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.224855, 57.469]
+        "coordinates": [-4.2248549999999998, 57.469000000000001]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5345,7 +5345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.227638, 57.47691]
+        "coordinates": [-4.2276379999999998, 57.476909999999997]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5369,7 +5369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.22083, 57.47829]
+        "coordinates": [-4.2208300000000003, 57.478290000000001]
       },
       "properties": {
         "date": "2016-08-24",
@@ -5381,7 +5381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.975924, 57.97408]
+        "coordinates": [-3.975924, 57.974080000000001]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5393,7 +5393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.500603, 58.18471]
+        "coordinates": [-3.5006029999999999, 58.184710000000003]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5405,7 +5405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.093675, 58.44146]
+        "coordinates": [-3.0936750000000002, 58.441459999999999]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5417,7 +5417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.069551, 58.64416]
+        "coordinates": [-3.0695510000000001, 58.644159999999999]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5429,7 +5429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.025324, 58.64415]
+        "coordinates": [-3.0253239999999999, 58.644150000000003]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5441,7 +5441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.342743, 58.62241]
+        "coordinates": [-3.342743, 58.622410000000002]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5453,7 +5453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.383967, 58.59075]
+        "coordinates": [-3.3839670000000002, 58.59075]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5465,7 +5465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.262386, 57.49031]
+        "coordinates": [-4.2623860000000002, 57.490310000000001]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5477,7 +5477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.23444, 57.46154]
+        "coordinates": [-4.2344400000000002, 57.461539999999999]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5489,7 +5489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.641766, 57.1726]
+        "coordinates": [-4.6417659999999996, 57.172600000000003]
       },
       "properties": {
         "date": "2016-08-25",
@@ -5501,7 +5501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.10789, 56.82064]
+        "coordinates": [-5.1078900000000003, 56.820639999999997]
       },
       "properties": {
         "date": "2016-08-26",
@@ -5513,7 +5513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.40459, 56.49067]
+        "coordinates": [-5.4045899999999998, 56.490670000000001]
       },
       "properties": {
         "date": "2016-08-26",
@@ -5525,7 +5525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.47299, 56.41276]
+        "coordinates": [-5.4729900000000002, 56.412759999999999]
       },
       "properties": {
         "date": "2016-08-26",
@@ -5537,7 +5537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.135345, 56.80067]
+        "coordinates": [-5.135345, 56.800669999999997]
       },
       "properties": {
         "date": "2016-08-26",
@@ -5549,7 +5549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.0771, 56.81124]
+        "coordinates": [-5.0770999999999997, 56.811239999999998]
       },
       "properties": {
         "date": "2016-08-27",
@@ -5561,7 +5561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.00356, 56.79686]
+        "coordinates": [-5.0035600000000002, 56.796860000000002]
       },
       "properties": {
         "date": "2016-08-27",
@@ -5573,7 +5573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.09191, 56.84795]
+        "coordinates": [-5.0919100000000004, 56.847949999999997]
       },
       "properties": {
         "date": "2016-08-27",
@@ -5585,7 +5585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.43564, 56.87075]
+        "coordinates": [-5.4356400000000002, 56.870750000000001]
       },
       "properties": {
         "date": "2016-08-27",
@@ -5597,7 +5597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.934582, 56.6633]
+        "coordinates": [-4.9345819999999998, 56.6633]
       },
       "properties": {
         "date": "2016-08-28",
@@ -5609,7 +5609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.71071, 56.20302]
+        "coordinates": [-4.7107099999999997, 56.203020000000002]
       },
       "properties": {
         "date": "2016-08-28",
@@ -5621,7 +5621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.088215, 53.95679]
+        "coordinates": [-1.0882149999999999, 53.956789999999998]
       },
       "properties": {
         "date": "2016-09-05",
@@ -5645,7 +5645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08312, 53.96112]
+        "coordinates": [-1.0831200000000001, 53.961120000000001]
       },
       "properties": {
         "date": "2016-09-16",
@@ -5657,7 +5657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.136759, 54.48898]
+        "coordinates": [-1.1367590000000001, 54.488979999999998]
       },
       "properties": {
         "date": "2016-09-18",
@@ -5669,7 +5669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.107314, 54.50539]
+        "coordinates": [-1.1073139999999999, 54.505389999999998]
       },
       "properties": {
         "date": "2016-09-18",
@@ -5681,7 +5681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090802, 54.48302]
+        "coordinates": [-1.090802, 54.483020000000003]
       },
       "properties": {
         "date": "2016-09-18",
@@ -5693,7 +5693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.913, 54.11099]
+        "coordinates": [-0.91300000000000003, 54.110990000000001]
       },
       "properties": {
         "date": "2016-09-25",
@@ -5705,7 +5705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9059, 54.12122]
+        "coordinates": [-0.90590000000000004, 54.121220000000001]
       },
       "properties": {
         "date": "2016-09-25",
@@ -5717,7 +5717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.462009, 53.37821]
+        "coordinates": [-1.4620089999999999, 53.378210000000003]
       },
       "properties": {
         "date": "2016-10-02",
@@ -5729,7 +5729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.204777, 51.49199]
+        "coordinates": [-0.20477699999999999, 51.491990000000001]
       },
       "properties": {
         "date": "2016-10-02",
@@ -5753,7 +5753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.126904, 51.51933]
+        "coordinates": [-0.12690399999999999, 51.519329999999997]
       },
       "properties": {
         "date": "2016-10-03",
@@ -5765,7 +5765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.13694, 51.51104]
+        "coordinates": [-0.13694000000000001, 51.511040000000001]
       },
       "properties": {
         "date": "2016-10-03",
@@ -5777,7 +5777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.138412, 51.50836]
+        "coordinates": [-0.13841200000000001, 51.508360000000003]
       },
       "properties": {
         "date": "2016-10-03",
@@ -5789,7 +5789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.20951, 51.48938]
+        "coordinates": [-0.20951, 51.489379999999997]
       },
       "properties": {
         "date": "2016-10-03",
@@ -5801,7 +5801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.212979, 51.46688]
+        "coordinates": [-0.212979, 51.466880000000003]
       },
       "properties": {
         "date": "2016-10-04",
@@ -5813,7 +5813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.190905, 51.49366]
+        "coordinates": [-0.19090499999999999, 51.493659999999998]
       },
       "properties": {
         "date": "2016-10-04",
@@ -5825,7 +5825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.17454, 51.4978]
+        "coordinates": [-0.17454, 51.497799999999998]
       },
       "properties": {
         "date": "2016-10-04",
@@ -5837,7 +5837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.096294, 51.51818]
+        "coordinates": [-0.096294000000000005, 51.518180000000001]
       },
       "properties": {
         "date": "2016-10-05",
@@ -5849,7 +5849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.078916, 51.52715]
+        "coordinates": [-0.078916, 51.527149999999999]
       },
       "properties": {
         "date": "2016-10-06",
@@ -5861,7 +5861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.38597, 53.927]
+        "coordinates": [-1.3859699999999999, 53.927]
       },
       "properties": {
         "date": "2016-10-09",
@@ -5873,7 +5873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.44771, 53.95377]
+        "coordinates": [-1.4477100000000001, 53.953769999999999]
       },
       "properties": {
         "date": "2016-10-09",
@@ -5885,7 +5885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.087994, 53.95928]
+        "coordinates": [-1.0879939999999999, 53.95928]
       },
       "properties": {
         "date": "2016-10-13",
@@ -5897,7 +5897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084922, 53.96105]
+        "coordinates": [-1.0849219999999999, 53.96105]
       },
       "properties": {
         "date": "2016-10-13",
@@ -5909,7 +5909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.830094, 54.30969]
+        "coordinates": [-1.8300940000000001, 54.309690000000003]
       },
       "properties": {
         "date": "2016-10-15",
@@ -5921,7 +5921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.996804, 54.29158]
+        "coordinates": [-1.996804, 54.291580000000003]
       },
       "properties": {
         "date": "2016-10-15",
@@ -5933,7 +5933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.200033, 54.30424]
+        "coordinates": [-2.2000329999999999, 54.30424]
       },
       "properties": {
         "date": "2016-10-15",
@@ -5945,7 +5945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.402563, 54.22774]
+        "coordinates": [-2.4025629999999998, 54.227739999999997]
       },
       "properties": {
         "date": "2016-10-15",
@@ -5957,7 +5957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.916496, 54.29905]
+        "coordinates": [-0.91649599999999998, 54.299050000000001]
       },
       "properties": {
         "date": "2016-10-23",
@@ -5969,7 +5969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.941437, 54.35176]
+        "coordinates": [-0.94143699999999997, 54.351759999999999]
       },
       "properties": {
         "date": "2016-10-23",
@@ -5981,7 +5981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.939882, 54.46328]
+        "coordinates": [-0.939882, 54.463279999999997]
       },
       "properties": {
         "date": "2016-10-23",
@@ -5993,7 +5993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.945205, 54.46679]
+        "coordinates": [-0.94520499999999996, 54.466790000000003]
       },
       "properties": {
         "date": "2016-10-23",
@@ -6005,7 +6005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.463777, 53.38239]
+        "coordinates": [-1.4637770000000001, 53.382390000000001]
       },
       "properties": {
         "date": "2016-10-30",
@@ -6029,7 +6029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.468131, 53.37985]
+        "coordinates": [-1.4681310000000001, 53.379849999999998]
       },
       "properties": {
         "date": "2016-10-30",
@@ -6041,7 +6041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07057, 53.957]
+        "coordinates": [-1.07057, 53.957000000000001]
       },
       "properties": {
         "date": "2016-11-02",
@@ -6053,7 +6053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.12598, 53.9546]
+        "coordinates": [-1.12598, 53.954599999999999]
       },
       "properties": {
         "date": "2016-11-08",
@@ -6065,7 +6065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.886329, 54.35368]
+        "coordinates": [-0.88632900000000003, 54.353679999999997]
       },
       "properties": {
         "date": "2016-11-12",
@@ -6077,7 +6077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.19857, 51.94984]
+        "coordinates": [-1.1985699999999999, 51.949840000000002]
       },
       "properties": {
         "date": "2016-11-15",
@@ -6089,7 +6089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.335564, 51.60056]
+        "coordinates": [-1.335564, 51.600560000000002]
       },
       "properties": {
         "date": "2016-11-15",
@@ -6101,7 +6101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.328664, 53.13941]
+        "coordinates": [-1.3286640000000001, 53.139409999999998]
       },
       "properties": {
         "date": "2016-11-16",
@@ -6113,7 +6113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.544553, 53.99254]
+        "coordinates": [-1.5445530000000001, 53.992539999999998]
       },
       "properties": {
         "date": "2016-11-19",
@@ -6125,7 +6125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.516686, 53.973]
+        "coordinates": [-1.516686, 53.972999999999999]
       },
       "properties": {
         "date": "2016-11-19",
@@ -6137,7 +6137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.391496, 54.11783]
+        "coordinates": [-2.3914960000000001, 54.117829999999998]
       },
       "properties": {
         "date": "2016-11-24",
@@ -6149,7 +6149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.397769, 54.16656]
+        "coordinates": [-2.3977689999999998, 54.166559999999997]
       },
       "properties": {
         "date": "2016-11-24",
@@ -6161,7 +6161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.082281, 53.96028]
+        "coordinates": [-1.082281, 53.960279999999997]
       },
       "properties": {
         "date": "2016-12-02",
@@ -6173,7 +6173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.054581, 54.00771]
+        "coordinates": [-1.054581, 54.007710000000003]
       },
       "properties": {
         "date": "2016-12-04",
@@ -6185,7 +6185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.035443, 54.03989]
+        "coordinates": [-1.0354429999999999, 54.03989]
       },
       "properties": {
         "date": "2016-12-04",
@@ -6197,7 +6197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.15909, 22.28388]
+        "coordinates": [114.15909000000001, 22.28388]
       },
       "properties": {
         "date": "2017-01-26",
@@ -6209,7 +6209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.15638, 22.27756]
+        "coordinates": [114.15638, 22.277560000000001]
       },
       "properties": {
         "date": "2017-01-26",
@@ -6233,7 +6233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.15085, 22.27102]
+        "coordinates": [114.15085000000001, 22.27102]
       },
       "properties": {
         "date": "2017-01-26",
@@ -6245,7 +6245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.15821, 22.28563]
+        "coordinates": [114.15821, 22.285630000000001]
       },
       "properties": {
         "date": "2017-01-26",
@@ -6257,7 +6257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.18228, 54.18751]
+        "coordinates": [-1.18228, 54.187510000000003]
       },
       "properties": {
         "date": "2017-02-04",
@@ -6269,7 +6269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.21506, 54.21015]
+        "coordinates": [-1.21506, 54.210149999999999]
       },
       "properties": {
         "date": "2017-02-04",
@@ -6281,7 +6281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.21269, 54.22496]
+        "coordinates": [-1.21269, 54.224960000000003]
       },
       "properties": {
         "date": "2017-02-04",
@@ -6293,7 +6293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083828, 53.96059]
+        "coordinates": [-1.083828, 53.960590000000003]
       },
       "properties": {
         "date": "2017-02-10",
@@ -6305,7 +6305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.530886, 54.13687]
+        "coordinates": [-1.530886, 54.136870000000002]
       },
       "properties": {
         "date": "2017-02-12",
@@ -6317,7 +6317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.759871, 54.08615]
+        "coordinates": [-1.759871, 54.086150000000004]
       },
       "properties": {
         "date": "2017-02-12",
@@ -6329,7 +6329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.798284, 54.07614]
+        "coordinates": [-1.798284, 54.076140000000002]
       },
       "properties": {
         "date": "2017-02-12",
@@ -6341,7 +6341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.909342, 54.46842]
+        "coordinates": [-0.90934199999999998, 54.468420000000002]
       },
       "properties": {
         "date": "2017-02-18",
@@ -6353,7 +6353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.894462, 54.46525]
+        "coordinates": [-0.89446199999999998, 54.465249999999997]
       },
       "properties": {
         "date": "2017-02-18",
@@ -6365,7 +6365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.86566, 54.47351]
+        "coordinates": [-0.86565999999999999, 54.473509999999997]
       },
       "properties": {
         "date": "2017-02-18",
@@ -6377,7 +6377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.871526, 54.28055]
+        "coordinates": [-0.87152600000000002, 54.280549999999998]
       },
       "properties": {
         "date": "2017-02-18",
@@ -6389,7 +6389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.497759, 53.84497]
+        "coordinates": [-0.49775900000000001, 53.844970000000004]
       },
       "properties": {
         "date": "2017-02-19",
@@ -6401,7 +6401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.424496, 53.83927]
+        "coordinates": [-0.42449599999999998, 53.839269999999999]
       },
       "properties": {
         "date": "2017-02-19",
@@ -6413,7 +6413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.431698, 53.84246]
+        "coordinates": [-0.43169800000000003, 53.842460000000003]
       },
       "properties": {
         "date": "2017-02-19",
@@ -6425,7 +6425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.435943, 53.84497]
+        "coordinates": [-0.43594300000000002, 53.844970000000004]
       },
       "properties": {
         "date": "2017-02-19",
@@ -6437,7 +6437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.432336, 53.84302]
+        "coordinates": [-0.432336, 53.843020000000003]
       },
       "properties": {
         "date": "2017-02-19",
@@ -6449,7 +6449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.547542, 53.79453]
+        "coordinates": [-1.547542, 53.794530000000002]
       },
       "properties": {
         "date": "2017-02-24",
@@ -6461,7 +6461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.533915, 53.79669]
+        "coordinates": [-1.5339149999999999, 53.796689999999998]
       },
       "properties": {
         "date": "2017-02-24",
@@ -6473,7 +6473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.139762, 51.52083]
+        "coordinates": [-1.1397619999999999, 51.520829999999997]
       },
       "properties": {
         "date": "2017-02-25",
@@ -6485,7 +6485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.137031, 51.52144]
+        "coordinates": [-1.1370309999999999, 51.521439999999998]
       },
       "properties": {
         "date": "2017-02-25",
@@ -6497,7 +6497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.136687, 51.52251]
+        "coordinates": [-1.136687, 51.522509999999997]
       },
       "properties": {
         "date": "2017-02-26",
@@ -6509,7 +6509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.136202, 51.52262]
+        "coordinates": [-1.1362019999999999, 51.522620000000003]
       },
       "properties": {
         "date": "2017-02-26",
@@ -6521,7 +6521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.006487, 54.08785]
+        "coordinates": [-1.0064869999999999, 54.087850000000003]
       },
       "properties": {
         "date": "2017-03-05",
@@ -6533,7 +6533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.978916, 54.17374]
+        "coordinates": [-0.97891600000000001, 54.173740000000002]
       },
       "properties": {
         "date": "2017-03-05",
@@ -6545,7 +6545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.098883, 54.14473]
+        "coordinates": [-1.0988830000000001, 54.144730000000003]
       },
       "properties": {
         "date": "2017-03-05",
@@ -6557,7 +6557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.108233, 54.10287]
+        "coordinates": [-1.108233, 54.102870000000003]
       },
       "properties": {
         "date": "2017-03-05",
@@ -6569,7 +6569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.108275, 54.07464]
+        "coordinates": [-1.1082749999999999, 54.074640000000002]
       },
       "properties": {
         "date": "2017-03-05",
@@ -6581,7 +6581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090395, 53.9564]
+        "coordinates": [-1.090395, 53.956400000000002]
       },
       "properties": {
         "date": "2017-03-08",
@@ -6593,7 +6593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090045, 53.95663]
+        "coordinates": [-1.0900449999999999, 53.956629999999997]
       },
       "properties": {
         "date": "2017-03-08",
@@ -6605,7 +6605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.752638, 54.53389]
+        "coordinates": [-0.75263800000000003, 54.53389]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6617,7 +6617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.773264, 54.53783]
+        "coordinates": [-0.77326399999999995, 54.53783]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6629,7 +6629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.799774, 54.55027]
+        "coordinates": [-0.79977399999999998, 54.550269999999998]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6641,7 +6641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.790144, 54.55879]
+        "coordinates": [-0.79014399999999996, 54.558790000000002]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6653,7 +6653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.775644, 54.55654]
+        "coordinates": [-0.775644, 54.556539999999998]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6665,7 +6665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.750606, 54.53272]
+        "coordinates": [-0.750606, 54.532719999999998]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6677,7 +6677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.767157, 54.51997]
+        "coordinates": [-0.76715699999999998, 54.519970000000001]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6689,7 +6689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.670371, 54.50072]
+        "coordinates": [-0.67037100000000005, 54.500720000000001]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6701,7 +6701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.664839, 54.4551]
+        "coordinates": [-0.66483899999999996, 54.455100000000002]
       },
       "properties": {
         "date": "2017-03-11",
@@ -6713,7 +6713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.154453, 53.97906]
+        "coordinates": [-1.154453, 53.979059999999997]
       },
       "properties": {
         "date": "2017-03-14",
@@ -6725,7 +6725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.955884, 54.38828]
+        "coordinates": [-0.95588399999999996, 54.388280000000002]
       },
       "properties": {
         "date": "2017-03-19",
@@ -6737,7 +6737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.27357, 53.36165]
+        "coordinates": [-2.2735699999999999, 53.361649999999997]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6749,7 +6749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.249953, 41.79496]
+        "coordinates": [12.249953, 41.794960000000003]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6761,7 +6761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.502177, 41.90085]
+        "coordinates": [12.502177, 41.900849999999998]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6773,7 +6773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.497778, 41.90102]
+        "coordinates": [12.497778, 41.901020000000003]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6785,7 +6785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.491299, 41.89094]
+        "coordinates": [12.491299, 41.890940000000001]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6797,7 +6797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.482715, 41.8954]
+        "coordinates": [12.482715000000001, 41.895400000000002]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6809,7 +6809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.470821, 41.89239]
+        "coordinates": [12.470821000000001, 41.892389999999999]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6821,7 +6821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.491127, 41.89936]
+        "coordinates": [12.491127000000001, 41.899360000000001]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6833,7 +6833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.48719, 41.89693]
+        "coordinates": [12.48719, 41.896929999999998]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6845,7 +6845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.496833, 41.90079]
+        "coordinates": [12.496833000000001, 41.900790000000001]
       },
       "properties": {
         "date": "2017-03-23",
@@ -6857,7 +6857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.476803, 41.89895]
+        "coordinates": [12.476803, 41.898949999999999]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6869,7 +6869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.48253, 41.90591]
+        "coordinates": [12.482530000000001, 41.905909999999999]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6881,7 +6881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.458152, 41.9093]
+        "coordinates": [12.458152, 41.909300000000002]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6893,7 +6893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.453792, 41.90656]
+        "coordinates": [12.453792, 41.906559999999999]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6905,7 +6905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.454571, 41.90295]
+        "coordinates": [12.454571, 41.902949999999997]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6917,7 +6917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.453752, 41.90216]
+        "coordinates": [12.453752, 41.902160000000002]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6929,7 +6929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.456475, 41.90217]
+        "coordinates": [12.456474999999999, 41.902169999999998]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6941,7 +6941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.466377, 41.90247]
+        "coordinates": [12.466377, 41.902470000000001]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6953,7 +6953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.483328, 41.90085]
+        "coordinates": [12.483328, 41.900849999999998]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6965,7 +6965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.495121, 41.89943]
+        "coordinates": [12.495120999999999, 41.899430000000002]
       },
       "properties": {
         "date": "2017-03-24",
@@ -6977,7 +6977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.471077, 41.9031]
+        "coordinates": [12.471076999999999, 41.903100000000002]
       },
       "properties": {
         "date": "2017-03-25",
@@ -7001,7 +7001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.881769, 54.30442]
+        "coordinates": [-0.88176900000000002, 54.30442]
       },
       "properties": {
         "date": "2017-04-01",
@@ -7013,7 +7013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.887233, 54.33558]
+        "coordinates": [-0.88723300000000005, 54.33558]
       },
       "properties": {
         "date": "2017-04-01",
@@ -7025,7 +7025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.090641, 53.95591]
+        "coordinates": [-1.090641, 53.955910000000003]
       },
       "properties": {
         "date": "2017-04-01",
@@ -7037,7 +7037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.089769, 53.95743]
+        "coordinates": [-1.089769, 53.957430000000002]
       },
       "properties": {
         "date": "2017-04-02",
@@ -7049,7 +7049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.353087, 51.59249]
+        "coordinates": [-1.3530869999999999, 51.592489999999998]
       },
       "properties": {
         "date": "2017-04-05",
@@ -7061,7 +7061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.272369, 52.13544]
+        "coordinates": [-1.2723690000000001, 52.135440000000003]
       },
       "properties": {
         "date": "2017-04-05",
@@ -7073,7 +7073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.97962, 54.17103]
+        "coordinates": [-0.97962000000000005, 54.171030000000002]
       },
       "properties": {
         "date": "2017-04-08",
@@ -7085,7 +7085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9704207, 54.19536]
+        "coordinates": [-0.97042070000000002, 54.195360000000001]
       },
       "properties": {
         "date": "2017-04-08",
@@ -7097,7 +7097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07145, 54.01621]
+        "coordinates": [-1.07145, 54.016210000000001]
       },
       "properties": {
         "date": "2017-04-08",
@@ -7109,7 +7109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.18813, 53.94356]
+        "coordinates": [-1.1881299999999999, 53.943559999999998]
       },
       "properties": {
         "date": "2017-04-09",
@@ -7121,7 +7121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.600165, 54.20047]
+        "coordinates": [-2.6001650000000001, 54.200470000000003]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7133,7 +7133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.233905, 54.33167]
+        "coordinates": [-3.233905, 54.331670000000003]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7145,7 +7145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.321005, 54.38889]
+        "coordinates": [-3.321005, 54.388890000000004]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7157,7 +7157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.306351, 54.4394]
+        "coordinates": [-3.3063509999999998, 54.439399999999999]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7169,7 +7169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.262559, 54.456]
+        "coordinates": [-3.262559, 54.456000000000003]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7181,7 +7181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.251085, 54.44754]
+        "coordinates": [-3.2510849999999998, 54.447539999999996]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7193,7 +7193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.225, 54.448]
+        "coordinates": [-3.2250000000000001, 54.448]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7205,7 +7205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.25636, 54.46734]
+        "coordinates": [-3.2563599999999999, 54.46734]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7217,7 +7217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.352134, 54.42416]
+        "coordinates": [-3.3521339999999999, 54.424160000000001]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7229,7 +7229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.349699, 54.42463]
+        "coordinates": [-3.3496990000000002, 54.424630000000001]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7241,7 +7241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.137708, 54.60103]
+        "coordinates": [-3.1377079999999999, 54.601030000000002]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7253,7 +7253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.147633, 54.51896]
+        "coordinates": [-3.1476329999999999, 54.51896]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7265,7 +7265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.199097, 54.51136]
+        "coordinates": [-3.1990970000000001, 54.511360000000003]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7277,7 +7277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.276632, 54.54136]
+        "coordinates": [-3.2766320000000002, 54.541359999999997]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7289,7 +7289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.249382, 54.54734]
+        "coordinates": [-3.2493820000000002, 54.547339999999998]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7301,7 +7301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.96238, 54.43134]
+        "coordinates": [-2.96238, 54.431339999999999]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7313,7 +7313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.746486, 54.32844]
+        "coordinates": [-2.746486, 54.328440000000001]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7325,7 +7325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.798555, 54.29844]
+        "coordinates": [-2.7985549999999999, 54.298439999999999]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7337,7 +7337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.800327, 54.30021]
+        "coordinates": [-2.8003269999999998, 54.30021]
       },
       "properties": {
         "date": "2017-04-15",
@@ -7349,7 +7349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.788727, 54.30953]
+        "coordinates": [-2.7887270000000002, 54.309530000000002]
       },
       "properties": {
         "date": "2017-04-16",
@@ -7361,7 +7361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.133815, 54.48841]
+        "coordinates": [-1.133815, 54.488410000000002]
       },
       "properties": {
         "date": "2017-04-17",
@@ -7373,7 +7373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.16562, 53.9283]
+        "coordinates": [-1.1656200000000001, 53.9283]
       },
       "properties": {
         "date": "2017-04-22",
@@ -7385,7 +7385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.236235, 53.95291]
+        "coordinates": [-1.236235, 53.952910000000003]
       },
       "properties": {
         "date": "2017-04-22",
@@ -7397,7 +7397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.060338, 54.6179]
+        "coordinates": [-1.060338, 54.617899999999999]
       },
       "properties": {
         "date": "2017-04-23",
@@ -7409,7 +7409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.254482, 55.86453]
+        "coordinates": [-4.2544820000000003, 55.864530000000002]
       },
       "properties": {
         "date": "2017-04-24",
@@ -7421,7 +7421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.266223, 55.86546]
+        "coordinates": [-4.2662230000000001, 55.865459999999999]
       },
       "properties": {
         "date": "2017-04-24",
@@ -7433,7 +7433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.26343, 55.86301]
+        "coordinates": [-4.2634299999999996, 55.863010000000003]
       },
       "properties": {
         "date": "2017-04-25",
@@ -7445,7 +7445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.263969, 55.86463]
+        "coordinates": [-4.2639690000000003, 55.864629999999998]
       },
       "properties": {
         "date": "2017-04-25",
@@ -7457,7 +7457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.931119, 54.26952]
+        "coordinates": [-0.93111900000000003, 54.26952]
       },
       "properties": {
         "date": "2017-04-30",
@@ -7469,7 +7469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.541068, 53.99202]
+        "coordinates": [-1.5410680000000001, 53.992019999999997]
       },
       "properties": {
         "date": "2017-05-01",
@@ -7481,7 +7481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.870889, 32.00086]
+        "coordinates": [34.870888999999998, 32.000860000000003]
       },
       "properties": {
         "date": "2017-05-04",
@@ -7493,7 +7493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.76944, 32.06898]
+        "coordinates": [34.769440000000003, 32.068980000000003]
       },
       "properties": {
         "date": "2017-05-04",
@@ -7505,7 +7505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.76994, 32.0695]
+        "coordinates": [34.769939999999998, 32.069499999999998]
       },
       "properties": {
         "date": "2017-05-04",
@@ -7517,7 +7517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.77011, 32.06979]
+        "coordinates": [34.770110000000003, 32.069789999999998]
       },
       "properties": {
         "date": "2017-05-04",
@@ -7529,7 +7529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.773613, 32.0925]
+        "coordinates": [34.773612999999997, 32.092500000000001]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7541,7 +7541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.40268, 31.80256]
+        "coordinates": [35.402679999999997, 31.80256]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7553,7 +7553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.546148, 31.83709]
+        "coordinates": [35.546148000000002, 31.83709]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7565,7 +7565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.50242, 31.75855]
+        "coordinates": [35.502420000000001, 31.75855]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7577,7 +7577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.23092, 31.77654]
+        "coordinates": [35.230919999999998, 31.776540000000001]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7589,7 +7589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.229775, 31.7784]
+        "coordinates": [35.229774999999997, 31.778400000000001]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7601,7 +7601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.233843, 31.77662]
+        "coordinates": [35.233843, 31.776620000000001]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7613,7 +7613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.20497, 31.72358]
+        "coordinates": [35.204970000000003, 31.723579999999998]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7625,7 +7625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.206263, 31.70479]
+        "coordinates": [35.206263, 31.704789999999999]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7637,7 +7637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.207477, 31.7043]
+        "coordinates": [35.207476999999997, 31.7043]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7649,7 +7649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.75717, 32.05776]
+        "coordinates": [34.757170000000002, 32.057760000000002]
       },
       "properties": {
         "date": "2017-05-05",
@@ -7661,7 +7661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.78274, 32.09598]
+        "coordinates": [34.782739999999997, 32.095979999999997]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7673,7 +7673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.77376, 32.07221]
+        "coordinates": [34.773760000000003, 32.072209999999998]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7685,7 +7685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.775254, 32.07529]
+        "coordinates": [34.775253999999997, 32.075290000000003]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7697,7 +7697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.774608, 32.07686]
+        "coordinates": [34.774608000000001, 32.076860000000003]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7709,7 +7709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.78525, 32.07318]
+        "coordinates": [34.785249999999998, 32.073180000000001]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7721,7 +7721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.770036, 32.07051]
+        "coordinates": [34.770035999999998, 32.070509999999999]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7733,7 +7733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.756268, 32.053]
+        "coordinates": [34.756267999999999, 32.052999999999997]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7745,7 +7745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.753151, 32.0542]
+        "coordinates": [34.753151000000003, 32.054200000000002]
       },
       "properties": {
         "date": "2017-05-06",
@@ -7757,7 +7757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.118594, 54.25743]
+        "coordinates": [-1.1185940000000001, 54.257429999999999]
       },
       "properties": {
         "date": "2017-05-14",
@@ -7769,7 +7769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08372, 53.96932]
+        "coordinates": [-1.08372, 53.969320000000003]
       },
       "properties": {
         "date": "2017-05-14",
@@ -7793,7 +7793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.360581, 51.38381]
+        "coordinates": [-2.3605809999999998, 51.383809999999997]
       },
       "properties": {
         "date": "2017-05-17",
@@ -7805,7 +7805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.361455, 51.38047]
+        "coordinates": [-2.3614549999999999, 51.380470000000003]
       },
       "properties": {
         "date": "2017-05-18",
@@ -7817,7 +7817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0830899, 53.95714]
+        "coordinates": [-1.0830899, 53.957140000000003]
       },
       "properties": {
         "date": "2017-06-02",
@@ -7829,7 +7829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.562478, 47.45075]
+        "coordinates": [8.5624780000000005, 47.450749999999999]
       },
       "properties": {
         "date": "2017-06-06",
@@ -7841,7 +7841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.607924, 47.4023]
+        "coordinates": [8.6079240000000006, 47.402299999999997]
       },
       "properties": {
         "date": "2017-06-06",
@@ -7853,7 +7853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.611938, 47.40236]
+        "coordinates": [8.6119380000000003, 47.402360000000002]
       },
       "properties": {
         "date": "2017-06-06",
@@ -7865,7 +7865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6074112, 47.40502]
+        "coordinates": [8.6074111999999996, 47.40502]
       },
       "properties": {
         "date": "2017-06-06",
@@ -7877,7 +7877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5961649, 47.40869]
+        "coordinates": [8.5961648999999998, 47.40869]
       },
       "properties": {
         "date": "2017-06-06",
@@ -7889,7 +7889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.599031, 47.38239]
+        "coordinates": [8.5990310000000001, 47.382390000000001]
       },
       "properties": {
         "date": "2017-06-07",
@@ -7901,7 +7901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59614, 47.39713]
+        "coordinates": [8.5961400000000001, 47.397129999999997]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7913,7 +7913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53991, 47.37794]
+        "coordinates": [8.5399100000000008, 47.377940000000002]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7925,7 +7925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53828, 47.37257]
+        "coordinates": [8.5382800000000003, 47.372570000000003]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7937,7 +7937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54296, 47.36696]
+        "coordinates": [8.5429600000000008, 47.366959999999999]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7949,7 +7949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54136, 47.36818]
+        "coordinates": [8.5413599999999992, 47.368180000000002]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7961,7 +7961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5436, 47.37013]
+        "coordinates": [8.5435999999999996, 47.370130000000003]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7973,7 +7973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54158, 47.36992]
+        "coordinates": [8.5415799999999997, 47.36992]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7985,7 +7985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5353, 47.38509]
+        "coordinates": [8.5352999999999994, 47.385089999999998]
       },
       "properties": {
         "date": "2017-06-10",
@@ -7997,7 +7997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5668775, 47.38568]
+        "coordinates": [8.5668775000000004, 47.385680000000001]
       },
       "properties": {
         "date": "2017-06-12",
@@ -8009,7 +8009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5442217, 47.41099]
+        "coordinates": [8.5442216999999996, 47.410989999999998]
       },
       "properties": {
         "date": "2017-06-14",
@@ -8021,7 +8021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5989, 47.36978]
+        "coordinates": [8.5989000000000004, 47.369779999999999]
       },
       "properties": {
         "date": "2017-06-18",
@@ -8033,7 +8033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59188, 47.37066]
+        "coordinates": [8.5918799999999997, 47.370660000000001]
       },
       "properties": {
         "date": "2017-06-18",
@@ -8045,7 +8045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.547029, 47.40319]
+        "coordinates": [8.5470290000000002, 47.403190000000002]
       },
       "properties": {
         "date": "2017-06-19",
@@ -8057,7 +8057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.546558, 47.40368]
+        "coordinates": [8.5465579999999992, 47.403680000000001]
       },
       "properties": {
         "date": "2017-06-19",
@@ -8069,7 +8069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.548017, 47.37642]
+        "coordinates": [8.5480169999999998, 47.376420000000003]
       },
       "properties": {
         "date": "2017-06-20",
@@ -8081,7 +8081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.546538, 47.37593]
+        "coordinates": [8.546538, 47.375929999999997]
       },
       "properties": {
         "date": "2017-06-22",
@@ -8093,7 +8093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54629, 47.37682]
+        "coordinates": [8.5462900000000008, 47.376820000000002]
       },
       "properties": {
         "date": "2017-06-22",
@@ -8105,7 +8105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.534509, 47.37224]
+        "coordinates": [8.5345089999999999, 47.372239999999998]
       },
       "properties": {
         "date": "2017-06-24",
@@ -8117,7 +8117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.526141, 47.38037]
+        "coordinates": [8.5261410000000009, 47.380369999999999]
       },
       "properties": {
         "date": "2017-06-29",
@@ -8129,7 +8129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.660304, 47.37346]
+        "coordinates": [8.660304, 47.373460000000001]
       },
       "properties": {
         "date": "2017-07-02",
@@ -8141,7 +8141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.531192, 47.36428]
+        "coordinates": [8.5311920000000008, 47.364280000000001]
       },
       "properties": {
         "date": "2017-07-02",
@@ -8153,7 +8153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.812873, 47.22708]
+        "coordinates": [8.8128729999999997, 47.227080000000001]
       },
       "properties": {
         "date": "2017-07-02",
@@ -8165,7 +8165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.815536, 47.22612]
+        "coordinates": [8.8155359999999998, 47.226120000000002]
       },
       "properties": {
         "date": "2017-07-02",
@@ -8177,7 +8177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.524389, 47.35225]
+        "coordinates": [8.5243889999999993, 47.352249999999998]
       },
       "properties": {
         "date": "2017-07-02",
@@ -8189,7 +8189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57915, 47.40252]
+        "coordinates": [8.5791500000000003, 47.402520000000003]
       },
       "properties": {
         "date": "2017-07-07",
@@ -8201,7 +8201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.13055, 47.14262]
+        "coordinates": [8.1305499999999995, 47.142620000000001]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8213,7 +8213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.13853, 47.13246]
+        "coordinates": [8.1385299999999994, 47.132460000000002]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8225,7 +8225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30597, 47.05216]
+        "coordinates": [8.3059700000000003, 47.052160000000001]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8237,7 +8237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30711, 47.05132]
+        "coordinates": [8.3071099999999998, 47.051319999999997]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8249,7 +8249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.303611, 47.05413]
+        "coordinates": [8.3036110000000001, 47.054130000000001]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8261,7 +8261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.302132, 47.05385]
+        "coordinates": [8.3021320000000003, 47.053849999999997]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8273,7 +8273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.303218, 47.05186]
+        "coordinates": [8.3032179999999993, 47.051859999999998]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8285,7 +8285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.301808, 47.05197]
+        "coordinates": [8.3018079999999994, 47.051969999999997]
       },
       "properties": {
         "date": "2017-07-09",
@@ -8297,7 +8297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.77932, 46.65663]
+        "coordinates": [7.7793200000000002, 46.65663]
       },
       "properties": {
         "date": "2017-07-14",
@@ -8309,7 +8309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.68244, 46.49718]
+        "coordinates": [7.6824399999999997, 46.49718]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8321,7 +8321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.71392, 46.49727]
+        "coordinates": [7.7139199999999999, 46.49727]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8333,7 +8333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.73509, 46.50893]
+        "coordinates": [7.7350899999999996, 46.508929999999999]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8345,7 +8345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.69028, 46.62424]
+        "coordinates": [7.6902799999999996, 46.62424]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8357,7 +8357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.857476, 46.68394]
+        "coordinates": [7.8574760000000001, 46.68394]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8369,7 +8369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9076, 46.59277]
+        "coordinates": [7.9076000000000004, 46.592770000000002]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8381,7 +8381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90562, 46.5896]
+        "coordinates": [7.9056199999999999, 46.589599999999997]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8393,7 +8393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.856734, 46.68558]
+        "coordinates": [7.8567340000000003, 46.685580000000002]
       },
       "properties": {
         "date": "2017-07-15",
@@ -8405,7 +8405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.04603, 46.61319]
+        "coordinates": [8.04603, 46.613190000000003]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8417,7 +8417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02339, 46.59987]
+        "coordinates": [8.0233899999999991, 46.599870000000003]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8429,7 +8429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.023575, 46.6222]
+        "coordinates": [8.0235749999999992, 46.622199999999999]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8441,7 +8441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.44295, 46.94673]
+        "coordinates": [7.4429499999999997, 46.946730000000002]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8453,7 +8453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.44359, 46.94783]
+        "coordinates": [7.4435900000000004, 46.947830000000003]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8465,7 +8465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.447975, 46.94797]
+        "coordinates": [7.4479749999999996, 46.947969999999998]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8477,7 +8477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.45074, 46.94717]
+        "coordinates": [7.4507399999999997, 46.94717]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8489,7 +8489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.443432, 46.94834]
+        "coordinates": [7.4434319999999996, 46.948340000000002]
       },
       "properties": {
         "date": "2017-07-16",
@@ -8501,7 +8501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.732431, 52.45303]
+        "coordinates": [-1.7324310000000001, 52.453029999999998]
       },
       "properties": {
         "date": "2017-07-18",
@@ -8513,7 +8513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.646258, 47.4093]
+        "coordinates": [8.6462579999999996, 47.409300000000002]
       },
       "properties": {
         "date": "2017-07-23",
@@ -8525,7 +8525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.572715, 47.39958]
+        "coordinates": [8.5727150000000005, 47.39958]
       },
       "properties": {
         "date": "2017-07-25",
@@ -8537,7 +8537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.567071, 47.38239]
+        "coordinates": [8.5670710000000003, 47.382390000000001]
       },
       "properties": {
         "date": "2017-07-27",
@@ -8549,7 +8549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.537218, 47.38091]
+        "coordinates": [8.5372179999999993, 47.38091]
       },
       "properties": {
         "date": "2017-07-29",
@@ -8561,7 +8561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.549938, 48.14241]
+        "coordinates": [11.549937999999999, 48.142409999999998]
       },
       "properties": {
         "date": "2017-07-29",
@@ -8585,7 +8585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.7525, 46.52194]
+        "coordinates": [13.7525, 46.521940000000001]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8597,7 +8597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.78262, 46.47492]
+        "coordinates": [13.78262, 46.474919999999997]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8609,7 +8609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.784585, 46.4842]
+        "coordinates": [13.784585, 46.484200000000001]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8621,7 +8621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.740004, 46.40366]
+        "coordinates": [13.740004000000001, 46.403660000000002]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8633,7 +8633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.551996, 46.33779]
+        "coordinates": [13.551996000000001, 46.337789999999998]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8645,7 +8645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.57215, 46.32978]
+        "coordinates": [13.572150000000001, 46.32978]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8657,7 +8657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.4875, 46.31889]
+        "coordinates": [13.487500000000001, 46.318890000000003]
       },
       "properties": {
         "date": "2017-07-30",
@@ -8669,7 +8669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.94934, 46.27568]
+        "coordinates": [13.949339999999999, 46.275680000000001]
       },
       "properties": {
         "date": "2017-07-31",
@@ -8681,7 +8681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.88069, 46.28207]
+        "coordinates": [13.88069, 46.282069999999997]
       },
       "properties": {
         "date": "2017-07-31",
@@ -8693,7 +8693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.8502778, 46.30861]
+        "coordinates": [13.850277800000001, 46.308610000000002]
       },
       "properties": {
         "date": "2017-08-01",
@@ -8705,7 +8705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.77906, 46.31873]
+        "coordinates": [13.779059999999999, 46.318730000000002]
       },
       "properties": {
         "date": "2017-08-01",
@@ -8717,7 +8717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.77953, 46.32025]
+        "coordinates": [13.779529999999999, 46.320250000000001]
       },
       "properties": {
         "date": "2017-08-01",
@@ -8729,7 +8729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.79235, 46.35851]
+        "coordinates": [13.792350000000001, 46.358510000000003]
       },
       "properties": {
         "date": "2017-08-01",
@@ -8753,7 +8753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.83652, 46.37832]
+        "coordinates": [13.83652, 46.378320000000002]
       },
       "properties": {
         "date": "2017-08-02",
@@ -8765,7 +8765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.84879, 46.37889]
+        "coordinates": [13.848789999999999, 46.378889999999998]
       },
       "properties": {
         "date": "2017-08-03",
@@ -8777,7 +8777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.86136, 46.35581]
+        "coordinates": [13.861359999999999, 46.355809999999998]
       },
       "properties": {
         "date": "2017-08-03",
@@ -8789,7 +8789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.8287, 46.33853]
+        "coordinates": [13.8287, 46.338529999999999]
       },
       "properties": {
         "date": "2017-08-03",
@@ -8801,7 +8801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.099612, 46.36043]
+        "coordinates": [14.099612, 46.360430000000001]
       },
       "properties": {
         "date": "2017-08-03",
@@ -8813,7 +8813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.506293, 46.05114]
+        "coordinates": [14.506292999999999, 46.051139999999997]
       },
       "properties": {
         "date": "2017-08-03",
@@ -8825,7 +8825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.509654, 46.0512]
+        "coordinates": [14.509653999999999, 46.051200000000001]
       },
       "properties": {
         "date": "2017-08-04",
@@ -8837,7 +8837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.50865, 46.04927]
+        "coordinates": [14.508649999999999, 46.04927]
       },
       "properties": {
         "date": "2017-08-04",
@@ -8849,7 +8849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.5248, 46.03741]
+        "coordinates": [14.524800000000001, 46.037410000000001]
       },
       "properties": {
         "date": "2017-08-04",
@@ -8861,7 +8861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.98905, 47.58832]
+        "coordinates": [12.989050000000001, 47.588320000000003]
       },
       "properties": {
         "date": "2017-08-05",
@@ -8873,7 +8873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.99772, 47.58314]
+        "coordinates": [12.997719999999999, 47.58314]
       },
       "properties": {
         "date": "2017-08-05",
@@ -8885,7 +8885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.545118, 47.36778]
+        "coordinates": [8.5451180000000004, 47.367780000000003]
       },
       "properties": {
         "date": "2017-08-09",
@@ -8897,7 +8897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.005258, 53.63217]
+        "coordinates": [10.005258, 53.632170000000002]
       },
       "properties": {
         "date": "2017-08-11",
@@ -8909,7 +8909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.961948, 53.6021]
+        "coordinates": [9.9619479999999996, 53.6021]
       },
       "properties": {
         "date": "2017-08-11",
@@ -8921,7 +8921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.967773, 53.59891]
+        "coordinates": [9.9677729999999993, 53.598909999999997]
       },
       "properties": {
         "date": "2017-08-11",
@@ -8933,7 +8933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.987483, 53.59436]
+        "coordinates": [9.9874829999999992, 53.594360000000002]
       },
       "properties": {
         "date": "2017-08-11",
@@ -8945,7 +8945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.918299, 53.55414]
+        "coordinates": [10.918298999999999, 53.554139999999997]
       },
       "properties": {
         "date": "2017-08-12",
@@ -8957,7 +8957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.724499, 53.63258]
+        "coordinates": [10.724499, 53.632579999999997]
       },
       "properties": {
         "date": "2017-08-12",
@@ -8969,7 +8969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.995854, 53.55158]
+        "coordinates": [9.9958539999999996, 53.551580000000001]
       },
       "properties": {
         "date": "2017-08-13",
@@ -8981,7 +8981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.700674, 53.63014]
+        "coordinates": [10.700673999999999, 53.630139999999997]
       },
       "properties": {
         "date": "2017-08-13",
@@ -8993,7 +8993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.958727, 53.57218]
+        "coordinates": [9.9587269999999997, 53.572180000000003]
       },
       "properties": {
         "date": "2017-08-13",
@@ -9005,7 +9005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.957104, 53.56689]
+        "coordinates": [9.9571039999999993, 53.566890000000001]
       },
       "properties": {
         "date": "2017-08-13",
@@ -9017,7 +9017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.85494, 48.08145]
+        "coordinates": [10.854939999999999, 48.081449999999997]
       },
       "properties": {
         "date": "2017-08-18",
@@ -9029,7 +9029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.875972, 48.0476]
+        "coordinates": [10.875972000000001, 48.047600000000003]
       },
       "properties": {
         "date": "2017-08-18",
@@ -9041,7 +9041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.95384, 47.95698]
+        "coordinates": [10.95384, 47.956980000000001]
       },
       "properties": {
         "date": "2017-08-18",
@@ -9053,7 +9053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.972563, 47.95269]
+        "coordinates": [10.972562999999999, 47.952689999999997]
       },
       "properties": {
         "date": "2017-08-19",
@@ -9065,7 +9065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.262984, 48.62869]
+        "coordinates": [10.262983999999999, 48.628689999999999]
       },
       "properties": {
         "date": "2017-08-19",
@@ -9077,7 +9077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.229964, 48.61981]
+        "coordinates": [10.229964000000001, 48.619810000000001]
       },
       "properties": {
         "date": "2017-08-19",
@@ -9089,7 +9089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.291565, 48.55422]
+        "coordinates": [10.291565, 48.554220000000001]
       },
       "properties": {
         "date": "2017-08-19",
@@ -9101,7 +9101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.299859, 48.42447]
+        "coordinates": [10.299859, 48.424469999999999]
       },
       "properties": {
         "date": "2017-08-19",
@@ -9113,7 +9113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.876037, 48.0392]
+        "coordinates": [10.876037, 48.039200000000001]
       },
       "properties": {
         "date": "2017-08-20",
@@ -9125,7 +9125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.885644, 48.02351]
+        "coordinates": [10.885643999999999, 48.023510000000002]
       },
       "properties": {
         "date": "2017-08-20",
@@ -9137,7 +9137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.452857, 51.58859]
+        "coordinates": [-1.4528570000000001, 51.588590000000003]
       },
       "properties": {
         "date": "2017-08-22",
@@ -9149,7 +9149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.424856, 51.58848]
+        "coordinates": [-1.4248559999999999, 51.588479999999997]
       },
       "properties": {
         "date": "2017-08-22",
@@ -9161,7 +9161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.548793, 47.39732]
+        "coordinates": [8.5487929999999999, 47.397320000000001]
       },
       "properties": {
         "date": "2017-08-28",
@@ -9173,7 +9173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.542232, 47.37175]
+        "coordinates": [8.5422320000000003, 47.371749999999999]
       },
       "properties": {
         "date": "2017-08-28",
@@ -9185,7 +9185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.544184, 47.36735]
+        "coordinates": [8.5441839999999996, 47.367350000000002]
       },
       "properties": {
         "date": "2017-08-28",
@@ -9197,7 +9197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.508324, 47.35221]
+        "coordinates": [8.508324, 47.352209999999999]
       },
       "properties": {
         "date": "2017-08-31",
@@ -9209,7 +9209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.534932, 47.37301]
+        "coordinates": [8.5349319999999995, 47.373010000000001]
       },
       "properties": {
         "date": "2017-09-01",
@@ -9221,7 +9221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.492068, 47.34952]
+        "coordinates": [8.4920679999999997, 47.349519999999998]
       },
       "properties": {
         "date": "2017-09-02",
@@ -9233,7 +9233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.490263, 47.35127]
+        "coordinates": [8.4902630000000006, 47.35127]
       },
       "properties": {
         "date": "2017-09-02",
@@ -9245,7 +9245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.530468, 47.33857]
+        "coordinates": [8.5304680000000008, 47.338569999999997]
       },
       "properties": {
         "date": "2017-09-05",
@@ -9257,7 +9257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.623075, 47.4002]
+        "coordinates": [8.623075, 47.400199999999998]
       },
       "properties": {
         "date": "2017-09-09",
@@ -9269,7 +9269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.718629, 47.35034]
+        "coordinates": [8.718629, 47.350340000000003]
       },
       "properties": {
         "date": "2017-09-09",
@@ -9281,7 +9281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.669336, 47.34089]
+        "coordinates": [8.6693359999999995, 47.340890000000002]
       },
       "properties": {
         "date": "2017-09-09",
@@ -9293,7 +9293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.6296604, 46.75492]
+        "coordinates": [7.6296603999999997, 46.754919999999998]
       },
       "properties": {
         "date": "2017-09-14",
@@ -9305,7 +9305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.714674, 46.71565]
+        "coordinates": [7.7146739999999996, 46.715649999999997]
       },
       "properties": {
         "date": "2017-09-14",
@@ -9317,7 +9317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7823068, 46.68467]
+        "coordinates": [7.7823067999999997, 46.684669999999997]
       },
       "properties": {
         "date": "2017-09-14",
@@ -9329,7 +9329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7899345, 46.68495]
+        "coordinates": [7.7899345000000002, 46.684950000000001]
       },
       "properties": {
         "date": "2017-09-14",
@@ -9341,7 +9341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5039921, 47.39428]
+        "coordinates": [8.5039920999999996, 47.394280000000002]
       },
       "properties": {
         "date": "2017-09-17",
@@ -9353,7 +9353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.533856, 47.37844]
+        "coordinates": [8.5338560000000001, 47.378439999999998]
       },
       "properties": {
         "date": "2017-09-29",
@@ -9365,7 +9365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.610667, 47.40718]
+        "coordinates": [8.6106669999999994, 47.407179999999997]
       },
       "properties": {
         "date": "2017-10-08",
@@ -9377,7 +9377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.524261, 47.31189]
+        "coordinates": [8.5242609999999992, 47.311889999999998]
       },
       "properties": {
         "date": "2017-10-14",
@@ -9389,7 +9389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.509608, 47.30873]
+        "coordinates": [8.5096080000000001, 47.308729999999997]
       },
       "properties": {
         "date": "2017-10-14",
@@ -9401,7 +9401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.500471, 47.32464]
+        "coordinates": [8.5004709999999992, 47.324640000000002]
       },
       "properties": {
         "date": "2017-10-14",
@@ -9413,7 +9413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.529765, 47.37347]
+        "coordinates": [8.5297649999999994, 47.373469999999998]
       },
       "properties": {
         "date": "2017-10-14",
@@ -9425,7 +9425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.571622, 47.38182]
+        "coordinates": [8.5716219999999996, 47.381819999999998]
       },
       "properties": {
         "date": "2017-10-14",
@@ -9437,7 +9437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.675238, 47.22931]
+        "coordinates": [8.6752380000000002, 47.229309999999998]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9449,7 +9449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.744946, 47.12734]
+        "coordinates": [8.7449460000000006, 47.127339999999997]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9461,7 +9461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.751241, 47.12665]
+        "coordinates": [8.7512410000000003, 47.126649999999998]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9473,7 +9473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.703112, 47.04161]
+        "coordinates": [8.7031120000000008, 47.041609999999999]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9485,7 +9485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6885334, 47.02988]
+        "coordinates": [8.6885334000000007, 47.029879999999999]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9497,7 +9497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.653402, 47.02102]
+        "coordinates": [8.6534019999999998, 47.02102]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9509,7 +9509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.631993, 47.02635]
+        "coordinates": [8.6319929999999996, 47.026350000000001]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9521,7 +9521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.515104, 47.17314]
+        "coordinates": [8.5151039999999991, 47.173139999999997]
       },
       "properties": {
         "date": "2017-10-21",
@@ -9533,7 +9533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.310328, 47.05004]
+        "coordinates": [8.3103280000000002, 47.050040000000003]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9545,7 +9545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43325, 47.08319]
+        "coordinates": [8.4332499999999992, 47.083190000000002]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9557,7 +9557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.441458, 47.08144]
+        "coordinates": [8.4414580000000008, 47.081440000000001]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9569,7 +9569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.466707, 47.06882]
+        "coordinates": [8.4667069999999995, 47.068820000000002]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9581,7 +9581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46341, 47.06733]
+        "coordinates": [8.4634099999999997, 47.067329999999998]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9593,7 +9593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.474263, 47.05358]
+        "coordinates": [8.4742630000000005, 47.053579999999997]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9605,7 +9605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48536, 47.0567]
+        "coordinates": [8.48536, 47.056699999999999]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9617,7 +9617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.458397, 47.04607]
+        "coordinates": [8.4583969999999997, 47.04607]
       },
       "properties": {
         "date": "2017-10-28",
@@ -9629,7 +9629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.621482, 47.41401]
+        "coordinates": [8.6214820000000003, 47.414009999999998]
       },
       "properties": {
         "date": "2017-10-29",
@@ -9641,7 +9641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9827094, 46.5475]
+        "coordinates": [7.9827094000000001, 46.547499999999999]
       },
       "properties": {
         "date": "2017-11-01",
@@ -9653,7 +9653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.97138, 46.5455]
+        "coordinates": [7.9713799999999999, 46.545499999999997]
       },
       "properties": {
         "date": "2017-11-01",
@@ -9665,7 +9665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98483, 46.54751]
+        "coordinates": [7.9848299999999997, 46.547510000000003]
       },
       "properties": {
         "date": "2017-11-01",
@@ -9677,7 +9677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5349, 47.37371]
+        "coordinates": [8.5349000000000004, 47.373710000000003]
       },
       "properties": {
         "date": "2017-11-01",
@@ -9689,7 +9689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.630729, 46.75799]
+        "coordinates": [7.6307289999999997, 46.757989999999999]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9701,7 +9701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.703465, 46.67593]
+        "coordinates": [7.7034649999999996, 46.675930000000001]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9713,7 +9713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.686764, 46.68708]
+        "coordinates": [7.6867640000000002, 46.687080000000002]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9725,7 +9725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.435788, 46.95051]
+        "coordinates": [7.4357879999999996, 46.950510000000001]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9737,7 +9737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.589666, 47.54754]
+        "coordinates": [7.5896660000000002, 47.547539999999998]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9749,7 +9749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.587963, 47.55813]
+        "coordinates": [7.5879630000000002, 47.558129999999998]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9761,7 +9761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.589765, 47.55848]
+        "coordinates": [7.5897649999999999, 47.558480000000003]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9773,7 +9773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.307883, 47.47321]
+        "coordinates": [8.3078830000000004, 47.473210000000002]
       },
       "properties": {
         "date": "2017-11-04",
@@ -9785,7 +9785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.604556, 47.39599]
+        "coordinates": [8.6045560000000005, 47.395989999999998]
       },
       "properties": {
         "date": "2017-11-14",
@@ -9797,7 +9797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53978, 47.3777]
+        "coordinates": [8.5397800000000004, 47.377699999999997]
       },
       "properties": {
         "date": "2017-11-14",
@@ -9809,7 +9809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54758, 47.37634]
+        "coordinates": [8.54758, 47.376339999999999]
       },
       "properties": {
         "date": "2017-11-15",
@@ -9821,7 +9821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.148752, 53.98033]
+        "coordinates": [-1.148752, 53.980330000000002]
       },
       "properties": {
         "date": "2017-11-17",
@@ -9833,7 +9833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.002455, 53.99507]
+        "coordinates": [-1.0024550000000001, 53.995069999999998]
       },
       "properties": {
         "date": "2017-11-18",
@@ -9845,7 +9845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.152746, 53.98033]
+        "coordinates": [-1.152746, 53.980330000000002]
       },
       "properties": {
         "date": "2017-11-30",
@@ -9857,7 +9857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.108398, 53.98932]
+        "coordinates": [-1.108398, 53.989319999999999]
       },
       "properties": {
         "date": "2017-12-01",
@@ -9869,7 +9869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.110358, 53.98652]
+        "coordinates": [-1.110358, 53.986519999999999]
       },
       "properties": {
         "date": "2017-12-01",
@@ -9881,7 +9881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.107448, 53.98346]
+        "coordinates": [-1.107448, 53.983460000000001]
       },
       "properties": {
         "date": "2017-12-01",
@@ -9893,7 +9893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083203, 53.96112]
+        "coordinates": [-1.0832029999999999, 53.961120000000001]
       },
       "properties": {
         "date": "2017-12-01",
@@ -9905,7 +9905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085006, 53.95994]
+        "coordinates": [-1.0850059999999999, 53.959940000000003]
       },
       "properties": {
         "date": "2017-12-01",
@@ -9917,7 +9917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.943894, 54.46777]
+        "coordinates": [-0.94389400000000001, 54.467770000000002]
       },
       "properties": {
         "date": "2017-12-03",
@@ -9929,7 +9929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.946783, 54.46721]
+        "coordinates": [-0.94678300000000004, 54.467210000000001]
       },
       "properties": {
         "date": "2017-12-03",
@@ -9941,7 +9941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.427061, 51.58839]
+        "coordinates": [-1.4270609999999999, 51.588389999999997]
       },
       "properties": {
         "date": "2017-12-05",
@@ -9953,7 +9953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7490972, 54.00229]
+        "coordinates": [-0.74909720000000002, 54.002290000000002]
       },
       "properties": {
         "date": "2017-12-17",
@@ -9965,7 +9965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.735136, 53.95529]
+        "coordinates": [-0.73513600000000001, 53.955289999999998]
       },
       "properties": {
         "date": "2017-12-17",
@@ -9977,7 +9977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.778838, 53.93035]
+        "coordinates": [-0.77883800000000003, 53.930349999999997]
       },
       "properties": {
         "date": "2017-12-17",
@@ -9989,7 +9989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.891895, 53.94886]
+        "coordinates": [-0.89189499999999999, 53.948860000000003]
       },
       "properties": {
         "date": "2017-12-17",
@@ -10001,7 +10001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.57969, 51.21915]
+        "coordinates": [-1.57969, 51.219149999999999]
       },
       "properties": {
         "date": "2017-12-20",
@@ -10013,7 +10013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.522868, 51.26476]
+        "coordinates": [-1.5228680000000001, 51.264760000000003]
       },
       "properties": {
         "date": "2017-12-20",
@@ -10025,7 +10025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.902309, 51.53759]
+        "coordinates": [-0.90230900000000003, 51.537590000000002]
       },
       "properties": {
         "date": "2017-12-21",
@@ -10037,7 +10037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.097313, 53.96988]
+        "coordinates": [-1.097313, 53.969880000000003]
       },
       "properties": {
         "date": "2017-12-23",
@@ -10049,7 +10049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.609978, 52.80332]
+        "coordinates": [-0.60997800000000002, 52.803319999999999]
       },
       "properties": {
         "date": "2017-12-25",
@@ -10061,7 +10061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.071446, 51.56365]
+        "coordinates": [-0.071445999999999996, 51.563650000000003]
       },
       "properties": {
         "date": "2017-12-25",
@@ -10073,7 +10073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.221211, 51.51739]
+        "coordinates": [-0.22121099999999999, 51.517389999999999]
       },
       "properties": {
         "date": "2017-12-25",
@@ -10097,7 +10097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.216725, 51.57542]
+        "coordinates": [-0.216725, 51.575420000000001]
       },
       "properties": {
         "date": "2017-12-26",
@@ -10109,7 +10109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.049084, 53.98334]
+        "coordinates": [-1.0490839999999999, 53.983339999999998]
       },
       "properties": {
         "date": "2017-12-28",
@@ -10121,7 +10121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.995017, 54.19213]
+        "coordinates": [-0.99501700000000004, 54.192129999999999]
       },
       "properties": {
         "date": "2018-01-01",
@@ -10145,7 +10145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [121.01381, 14.50933]
+        "coordinates": [121.01381000000001, 14.50933]
       },
       "properties": {
         "date": "2018-01-07",
@@ -10157,7 +10157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.102379, -35.20288]
+        "coordinates": [174.10237900000001, -35.20288]
       },
       "properties": {
         "date": "2018-01-10",
@@ -10169,7 +10169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.91609, -35.26268]
+        "coordinates": [173.91609, -35.262680000000003]
       },
       "properties": {
         "date": "2018-01-12",
@@ -10181,7 +10181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.04293, -35.19259]
+        "coordinates": [174.04293000000001, -35.192590000000003]
       },
       "properties": {
         "date": "2018-01-12",
@@ -10193,7 +10193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.04908, -35.19287]
+        "coordinates": [174.04908, -35.192869999999999]
       },
       "properties": {
         "date": "2018-01-12",
@@ -10205,7 +10205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.963313, -35.20179]
+        "coordinates": [173.963313, -35.201790000000003]
       },
       "properties": {
         "date": "2018-01-17",
@@ -10217,7 +10217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.79946, -35.19876]
+        "coordinates": [173.79946000000001, -35.19876]
       },
       "properties": {
         "date": "2018-01-17",
@@ -10229,7 +10229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.7743, -41.29727]
+        "coordinates": [174.77430000000001, -41.297269999999997]
       },
       "properties": {
         "date": "2018-01-22",
@@ -10241,7 +10241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.781149, -41.29369]
+        "coordinates": [174.781149, -41.293689999999998]
       },
       "properties": {
         "date": "2018-01-22",
@@ -10253,7 +10253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.777084, -41.28206]
+        "coordinates": [174.777084, -41.282060000000001]
       },
       "properties": {
         "date": "2018-01-25",
@@ -10265,7 +10265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.095421, -35.16883]
+        "coordinates": [174.09542099999999, -35.16883]
       },
       "properties": {
         "date": "2018-01-28",
@@ -10277,7 +10277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.0914, -35.17012]
+        "coordinates": [174.09139999999999, -35.170119999999997]
       },
       "properties": {
         "date": "2018-01-28",
@@ -10289,7 +10289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.11935, -35.31536]
+        "coordinates": [174.11935, -35.315359999999998]
       },
       "properties": {
         "date": "2018-01-29",
@@ -10301,7 +10301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.02024, -35.21661]
+        "coordinates": [174.02024, -35.216610000000003]
       },
       "properties": {
         "date": "2018-02-02",
@@ -10313,7 +10313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.140527, 53.99707]
+        "coordinates": [-1.1405270000000001, 53.997070000000001]
       },
       "properties": {
         "date": "2018-02-17",
@@ -10325,7 +10325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.869023, 54.41255]
+        "coordinates": [-0.86902299999999999, 54.412550000000003]
       },
       "properties": {
         "date": "2018-02-18",
@@ -10337,7 +10337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.887087, 54.3535]
+        "coordinates": [-0.88708699999999996, 54.353499999999997]
       },
       "properties": {
         "date": "2018-02-18",
@@ -10349,7 +10349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7237624, 54.37158]
+        "coordinates": [-0.72376240000000003, 54.371580000000002]
       },
       "properties": {
         "date": "2018-02-25",
@@ -10361,7 +10361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.768134, 54.38173]
+        "coordinates": [-0.76813399999999998, 54.381729999999997]
       },
       "properties": {
         "date": "2018-02-25",
@@ -10373,7 +10373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.777755, 54.32187]
+        "coordinates": [-0.77775499999999997, 54.321869999999997]
       },
       "properties": {
         "date": "2018-02-25",
@@ -10385,7 +10385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.753261, 54.30387]
+        "coordinates": [-0.75326099999999996, 54.303870000000003]
       },
       "properties": {
         "date": "2018-02-25",
@@ -10397,7 +10397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.768965, 54.2579]
+        "coordinates": [-0.76896500000000001, 54.257899999999999]
       },
       "properties": {
         "date": "2018-02-25",
@@ -10409,7 +10409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.151744, 51.57097]
+        "coordinates": [-1.1517440000000001, 51.570970000000003]
       },
       "properties": {
         "date": "2018-03-03",
@@ -10421,7 +10421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.150975, 51.57712]
+        "coordinates": [-1.1509750000000001, 51.577120000000001]
       },
       "properties": {
         "date": "2018-03-03",
@@ -10433,7 +10433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.361006, 51.84142]
+        "coordinates": [-1.3610059999999999, 51.841419999999999]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10445,7 +10445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.367395, 51.84746]
+        "coordinates": [-1.3673949999999999, 51.847459999999998]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10457,7 +10457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.369661, 51.8499]
+        "coordinates": [-1.369661, 51.849899999999998]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10469,7 +10469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.706373, 52.19276]
+        "coordinates": [-1.7063729999999999, 52.19276]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10481,7 +10481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.708011, 52.19388]
+        "coordinates": [-1.7080109999999999, 52.19388]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10493,7 +10493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.702969, 51.99126]
+        "coordinates": [-1.702969, 51.991259999999997]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10505,7 +10505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.723003, 51.93051]
+        "coordinates": [-1.7230030000000001, 51.930509999999998]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10517,7 +10517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.636759, 51.80752]
+        "coordinates": [-1.6367590000000001, 51.807519999999997]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10529,7 +10529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.152227, 51.5763]
+        "coordinates": [-1.1522269999999999, 51.576300000000003]
       },
       "properties": {
         "date": "2018-03-04",
@@ -10541,7 +10541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.205704, 52.61914]
+        "coordinates": [-1.2057040000000001, 52.619140000000002]
       },
       "properties": {
         "date": "2018-03-06",
@@ -10553,7 +10553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.907939, 53.97511]
+        "coordinates": [-0.90793900000000005, 53.975110000000001]
       },
       "properties": {
         "date": "2018-03-15",
@@ -10565,7 +10565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085484, 53.96111]
+        "coordinates": [-1.0854839999999999, 53.961109999999998]
       },
       "properties": {
         "date": "2018-03-17",
@@ -10577,7 +10577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10783, 54.20107]
+        "coordinates": [-1.1078300000000001, 54.201070000000001]
       },
       "properties": {
         "date": "2018-03-19",
@@ -10589,7 +10589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.058224, 53.94594]
+        "coordinates": [-1.0582240000000001, 53.94594]
       },
       "properties": {
         "date": "2018-03-23",
@@ -10601,7 +10601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.049741, 53.39615]
+        "coordinates": [-3.049741, 53.396149999999999]
       },
       "properties": {
         "date": "2018-03-25",
@@ -10613,7 +10613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084591, 53.96028]
+        "coordinates": [-1.0845910000000001, 53.960279999999997]
       },
       "properties": {
         "date": "2018-03-27",
@@ -10625,7 +10625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.082931, 53.96126]
+        "coordinates": [-1.0829310000000001, 53.961260000000003]
       },
       "properties": {
         "date": "2018-03-27",
@@ -10637,7 +10637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7131, 53.9658]
+        "coordinates": [-0.71309999999999996, 53.965800000000002]
       },
       "properties": {
         "date": "2018-03-31",
@@ -10649,7 +10649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.715, 53.9729]
+        "coordinates": [-0.71499999999999997, 53.972900000000003]
       },
       "properties": {
         "date": "2018-03-31",
@@ -10661,7 +10661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.65674, 53.98575]
+        "coordinates": [-0.65673999999999999, 53.985750000000003]
       },
       "properties": {
         "date": "2018-03-31",
@@ -10673,7 +10673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.54542, 53.79658]
+        "coordinates": [-1.54542, 53.796579999999999]
       },
       "properties": {
         "date": "2018-04-01",
@@ -10685,7 +10685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.54612, 53.82991]
+        "coordinates": [-1.5461199999999999, 53.829909999999998]
       },
       "properties": {
         "date": "2018-04-01",
@@ -10697,7 +10697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.51183, 53.90066]
+        "coordinates": [-1.51183, 53.900660000000002]
       },
       "properties": {
         "date": "2018-04-01",
@@ -10709,7 +10709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.266347, 53.69794]
+        "coordinates": [-1.2663469999999999, 53.697940000000003]
       },
       "properties": {
         "date": "2018-04-07",
@@ -10721,7 +10721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.42637, 51.60832]
+        "coordinates": [-1.4263699999999999, 51.608319999999999]
       },
       "properties": {
         "date": "2018-04-07",
@@ -10733,7 +10733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.45025, 51.62459]
+        "coordinates": [-1.45025, 51.624589999999998]
       },
       "properties": {
         "date": "2018-04-07",
@@ -10745,7 +10745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.45276, 51.64925]
+        "coordinates": [-1.4527600000000001, 51.649250000000002]
       },
       "properties": {
         "date": "2018-04-07",
@@ -10757,7 +10757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.38788, 51.5858]
+        "coordinates": [-1.38788, 51.585799999999999]
       },
       "properties": {
         "date": "2018-04-08",
@@ -10769,7 +10769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.37855, 51.59237]
+        "coordinates": [-1.3785499999999999, 51.592370000000003]
       },
       "properties": {
         "date": "2018-04-08",
@@ -10781,7 +10781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.37789, 51.59217]
+        "coordinates": [-1.3778900000000001, 51.592170000000003]
       },
       "properties": {
         "date": "2018-04-08",
@@ -10793,7 +10793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.333621, 53.24391]
+        "coordinates": [-1.3336209999999999, 53.24391]
       },
       "properties": {
         "date": "2018-04-09",
@@ -10805,7 +10805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.836024, 52.56407]
+        "coordinates": [-1.8360240000000001, 52.564070000000001]
       },
       "properties": {
         "date": "2018-04-14",
@@ -10817,7 +10817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.220001, 54.52272]
+        "coordinates": [-1.2200009999999999, 54.52272]
       },
       "properties": {
         "date": "2018-04-15",
@@ -10829,7 +10829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.99656, 54.19244]
+        "coordinates": [-0.99656, 54.192439999999998]
       },
       "properties": {
         "date": "2018-04-22",
@@ -10841,7 +10841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9767, 54.20601]
+        "coordinates": [-0.97670000000000001, 54.206009999999999]
       },
       "properties": {
         "date": "2018-04-22",
@@ -10853,7 +10853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.200439, 53.90031]
+        "coordinates": [-1.200439, 53.900309999999998]
       },
       "properties": {
         "date": "2018-04-28",
@@ -10865,7 +10865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.95434, 54.37875]
+        "coordinates": [-0.95433999999999997, 54.378749999999997]
       },
       "properties": {
         "date": "2018-04-29",
@@ -10877,7 +10877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.97086, 54.36872]
+        "coordinates": [-0.97085999999999995, 54.368720000000003]
       },
       "properties": {
         "date": "2018-04-29",
@@ -10889,7 +10889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.96654, 54.34748]
+        "coordinates": [-0.96653999999999995, 54.347479999999997]
       },
       "properties": {
         "date": "2018-04-29",
@@ -10901,7 +10901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.01778, 54.34284]
+        "coordinates": [-1.0177799999999999, 54.342840000000002]
       },
       "properties": {
         "date": "2018-04-29",
@@ -10913,7 +10913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0467, 54.37767]
+        "coordinates": [-1.0467, 54.377670000000002]
       },
       "properties": {
         "date": "2018-04-29",
@@ -10925,7 +10925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.01125, 53.96652]
+        "coordinates": [-1.01125, 53.966520000000003]
       },
       "properties": {
         "date": "2018-05-04",
@@ -10937,7 +10937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.17288, 54.18206]
+        "coordinates": [-1.1728799999999999, 54.18206]
       },
       "properties": {
         "date": "2018-05-05",
@@ -10949,7 +10949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14282, 54.12767]
+        "coordinates": [-1.1428199999999999, 54.127670000000002]
       },
       "properties": {
         "date": "2018-05-05",
@@ -10961,7 +10961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9328, 54.1624]
+        "coordinates": [-0.93279999999999996, 54.162399999999998]
       },
       "properties": {
         "date": "2018-05-06",
@@ -10973,7 +10973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.93208, 54.09997]
+        "coordinates": [-0.93208000000000002, 54.099969999999999]
       },
       "properties": {
         "date": "2018-05-06",
@@ -10985,7 +10985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.306598, 53.87682]
+        "coordinates": [-1.3065979999999999, 53.876820000000002]
       },
       "properties": {
         "date": "2018-05-08",
@@ -10997,7 +10997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.262453, 53.88333]
+        "coordinates": [-1.262453, 53.883330000000001]
       },
       "properties": {
         "date": "2018-05-08",
@@ -11021,7 +11021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.546027, 48.1493]
+        "coordinates": [11.546027, 48.149299999999997]
       },
       "properties": {
         "date": "2018-05-11",
@@ -11033,7 +11033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.218191, 47.634]
+        "coordinates": [11.218190999999999, 47.634]
       },
       "properties": {
         "date": "2018-05-12",
@@ -11045,7 +11045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.280658, 47.61272]
+        "coordinates": [11.280658000000001, 47.612720000000003]
       },
       "properties": {
         "date": "2018-05-12",
@@ -11069,7 +11069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.23073, 47.63448]
+        "coordinates": [11.230729999999999, 47.634480000000003]
       },
       "properties": {
         "date": "2018-05-12",
@@ -11081,7 +11081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.536452, 48.15076]
+        "coordinates": [11.536452000000001, 48.150759999999998]
       },
       "properties": {
         "date": "2018-05-12",
@@ -11093,7 +11093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.61668, 48.18079]
+        "coordinates": [11.616680000000001, 48.180790000000002]
       },
       "properties": {
         "date": "2018-05-13",
@@ -11105,7 +11105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.95045, 54.5447]
+        "coordinates": [-2.95045, 54.544699999999999]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11117,7 +11117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.00976, 54.52566]
+        "coordinates": [-3.00976, 54.525660000000002]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11129,7 +11129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.017604, 54.52699]
+        "coordinates": [-3.017604, 54.526989999999998]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11141,7 +11141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.01794, 54.52923]
+        "coordinates": [-3.0179399999999998, 54.529229999999998]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11153,7 +11153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.0088402, 54.53354]
+        "coordinates": [-3.0088401999999999, 54.533540000000002]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11165,7 +11165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.9478, 54.54183]
+        "coordinates": [-2.9478, 54.541829999999997]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11177,7 +11177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.49126, 54.57742]
+        "coordinates": [-2.49126, 54.577419999999996]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11189,7 +11189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.34901, 54.47391]
+        "coordinates": [-2.3490099999999998, 54.473909999999997]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11201,7 +11201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.28845, 54.27346]
+        "coordinates": [-2.2884500000000001, 54.27346]
       },
       "properties": {
         "date": "2018-05-16",
@@ -11213,7 +11213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.851454, 53.68976]
+        "coordinates": [-1.8514539999999999, 53.68976]
       },
       "properties": {
         "date": "2018-05-20",
@@ -11225,7 +11225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.940254, 53.67439]
+        "coordinates": [-1.9402539999999999, 53.674390000000002]
       },
       "properties": {
         "date": "2018-05-20",
@@ -11237,7 +11237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.002143, 53.70541]
+        "coordinates": [-2.0021429999999998, 53.705410000000001]
       },
       "properties": {
         "date": "2018-05-20",
@@ -11249,7 +11249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.192015, 54.12146]
+        "coordinates": [-1.192015, 54.121459999999999]
       },
       "properties": {
         "date": "2018-05-22",
@@ -11261,7 +11261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.120883, 52.30759]
+        "coordinates": [-1.1208830000000001, 52.307589999999998]
       },
       "properties": {
         "date": "2018-05-23",
@@ -11273,7 +11273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.34567, 51.39595]
+        "coordinates": [-2.3456700000000001, 51.395949999999999]
       },
       "properties": {
         "date": "2018-05-24",
@@ -11285,7 +11285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.76419, 53.9742]
+        "coordinates": [-0.76419000000000004, 53.974200000000003]
       },
       "properties": {
         "date": "2018-05-28",
@@ -11297,7 +11297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.79956, 53.95865]
+        "coordinates": [-0.79956000000000005, 53.958649999999999]
       },
       "properties": {
         "date": "2018-05-28",
@@ -11309,7 +11309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.127293, 51.52847]
+        "coordinates": [-0.12729299999999999, 51.528469999999999]
       },
       "properties": {
         "date": "2018-05-29",
@@ -11321,7 +11321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.18088, 51.51429]
+        "coordinates": [-0.18088000000000001, 51.514290000000003]
       },
       "properties": {
         "date": "2018-05-29",
@@ -11333,7 +11333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.177181, 51.49252]
+        "coordinates": [-0.17718100000000001, 51.492519999999999]
       },
       "properties": {
         "date": "2018-05-30",
@@ -11345,7 +11345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.175058, 51.49402]
+        "coordinates": [-0.17505799999999999, 51.494019999999999]
       },
       "properties": {
         "date": "2018-05-31",
@@ -11357,7 +11357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.173627, 51.49497]
+        "coordinates": [-0.173627, 51.494970000000002]
       },
       "properties": {
         "date": "2018-05-31",
@@ -11369,7 +11369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.161372, 51.43496]
+        "coordinates": [-0.16137199999999999, 51.434959999999997]
       },
       "properties": {
         "date": "2018-06-01",
@@ -11381,7 +11381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.166163, 51.42895]
+        "coordinates": [-0.16616300000000001, 51.42895]
       },
       "properties": {
         "date": "2018-06-01",
@@ -11393,7 +11393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.076067, 51.50803]
+        "coordinates": [-0.076066999999999996, 51.508029999999998]
       },
       "properties": {
         "date": "2018-06-02",
@@ -11405,7 +11405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.001209, 51.47789]
+        "coordinates": [-0.001209, 51.477890000000002]
       },
       "properties": {
         "date": "2018-06-02",
@@ -11429,7 +11429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.00618, 51.48397]
+        "coordinates": [-0.0061799999999999997, 51.483969999999999]
       },
       "properties": {
         "date": "2018-06-02",
@@ -11441,7 +11441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.093159, 53.94557]
+        "coordinates": [-1.093159, 53.945569999999996]
       },
       "properties": {
         "date": "2018-06-05",
@@ -11453,7 +11453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.91361, 54.36082]
+        "coordinates": [-0.91361000000000003, 54.360819999999997]
       },
       "properties": {
         "date": "2018-06-09",
@@ -11477,7 +11477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06726, 54.37544]
+        "coordinates": [-1.0672600000000001, 54.375439999999998]
       },
       "properties": {
         "date": "2018-06-16",
@@ -11489,7 +11489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06787, 54.34438]
+        "coordinates": [-1.0678700000000001, 54.344380000000001]
       },
       "properties": {
         "date": "2018-06-16",
@@ -11501,7 +11501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.04362, 54.34221]
+        "coordinates": [-1.04362, 54.342210000000001]
       },
       "properties": {
         "date": "2018-06-16",
@@ -11513,7 +11513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.04395, 54.35864]
+        "coordinates": [-1.0439499999999999, 54.358640000000001]
       },
       "properties": {
         "date": "2018-06-16",
@@ -11525,7 +11525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9188, 54.30157]
+        "coordinates": [-0.91879999999999995, 54.301569999999998]
       },
       "properties": {
         "date": "2018-06-16",
@@ -11537,7 +11537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1257, 54.34426]
+        "coordinates": [-1.1256999999999999, 54.344259999999998]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11549,7 +11549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14962, 54.35832]
+        "coordinates": [-1.1496200000000001, 54.358319999999999]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11573,7 +11573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.16607, 54.37785]
+        "coordinates": [-1.1660699999999999, 54.377850000000002]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11585,7 +11585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1721, 54.38183]
+        "coordinates": [-1.1720999999999999, 54.381830000000001]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11597,7 +11597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.13609, 54.30906]
+        "coordinates": [-1.13609, 54.309060000000002]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11609,7 +11609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.16728, 54.30109]
+        "coordinates": [-1.1672800000000001, 54.301090000000002]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11621,7 +11621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.24829, 54.273]
+        "coordinates": [-1.2482899999999999, 54.273000000000003]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11633,7 +11633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.28366, 54.25554]
+        "coordinates": [-1.28366, 54.255540000000003]
       },
       "properties": {
         "date": "2018-06-23",
@@ -11645,7 +11645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.8015, 54.0574]
+        "coordinates": [-0.80149999999999999, 54.057400000000001]
       },
       "properties": {
         "date": "2018-06-24",
@@ -11657,7 +11657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7404, 54.0429]
+        "coordinates": [-0.74039999999999995, 54.042900000000003]
       },
       "properties": {
         "date": "2018-06-24",
@@ -11669,7 +11669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.71525, 54.03902]
+        "coordinates": [-0.71525000000000005, 54.039020000000001]
       },
       "properties": {
         "date": "2018-06-24",
@@ -11681,7 +11681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7101, 54.0215]
+        "coordinates": [-0.71009999999999995, 54.021500000000003]
       },
       "properties": {
         "date": "2018-06-24",
@@ -11693,7 +11693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.71143, 54.01954]
+        "coordinates": [-0.71143000000000001, 54.019539999999999]
       },
       "properties": {
         "date": "2018-06-24",
@@ -11705,7 +11705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.01913, 54.63319]
+        "coordinates": [-3.0191300000000001, 54.633189999999999]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11717,7 +11717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.04025, 54.64373]
+        "coordinates": [-3.0402499999999999, 54.643729999999998]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11729,7 +11729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.04508, 54.64559]
+        "coordinates": [-3.04508, 54.645589999999999]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11741,7 +11741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.04977, 54.63997]
+        "coordinates": [-3.0497700000000001, 54.639969999999998]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11753,7 +11753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.04704, 54.63704]
+        "coordinates": [-3.04704, 54.637039999999999]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11765,7 +11765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.75808, 54.66246]
+        "coordinates": [-2.7580800000000001, 54.662460000000003]
       },
       "properties": {
         "date": "2018-06-26",
@@ -11777,7 +11777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.13076, 53.99919]
+        "coordinates": [-1.13076, 53.999189999999999]
       },
       "properties": {
         "date": "2018-06-30",
@@ -11789,7 +11789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.28805, 54.20939]
+        "coordinates": [-0.28804999999999997, 54.209389999999999]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11801,7 +11801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.28351, 54.21614]
+        "coordinates": [-0.28350999999999998, 54.216140000000003]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11813,7 +11813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.26013, 54.21598]
+        "coordinates": [-0.26012999999999997, 54.215980000000002]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11825,7 +11825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.31538, 54.23168]
+        "coordinates": [-0.31537999999999999, 54.231679999999997]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11837,7 +11837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.27948, 54.21486]
+        "coordinates": [-0.27948000000000001, 54.214860000000002]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11849,7 +11849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.28319, 54.21126]
+        "coordinates": [-0.28319, 54.211260000000003]
       },
       "properties": {
         "date": "2018-07-01",
@@ -11861,7 +11861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.45138, 51.57606]
+        "coordinates": [-1.4513799999999999, 51.576059999999998]
       },
       "properties": {
         "date": "2018-07-04",
@@ -11873,7 +11873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.71663, 53.97898]
+        "coordinates": [-1.7166300000000001, 53.97898]
       },
       "properties": {
         "date": "2018-07-13",
@@ -11885,7 +11885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.99425, 54.39794]
+        "coordinates": [-0.99424999999999997, 54.397939999999998]
       },
       "properties": {
         "date": "2018-07-15",
@@ -11909,7 +11909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.05273, 54.40518]
+        "coordinates": [-1.0527299999999999, 54.405180000000001]
       },
       "properties": {
         "date": "2018-07-15",
@@ -11921,7 +11921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.03709, 54.39137]
+        "coordinates": [-1.0370900000000001, 54.391370000000002]
       },
       "properties": {
         "date": "2018-07-15",
@@ -11933,7 +11933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9952, 54.3654]
+        "coordinates": [-0.99519999999999997, 54.365400000000001]
       },
       "properties": {
         "date": "2018-07-15",
@@ -11945,7 +11945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.96649, 54.3693]
+        "coordinates": [-0.96648999999999996, 54.369300000000003]
       },
       "properties": {
         "date": "2018-07-15",
@@ -11957,7 +11957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10022, 53.92111]
+        "coordinates": [-1.10022, 53.921109999999999]
       },
       "properties": {
         "date": "2018-07-17",
@@ -11969,7 +11969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10891, 53.92279]
+        "coordinates": [-1.1089100000000001, 53.922789999999999]
       },
       "properties": {
         "date": "2018-07-17",
@@ -11981,7 +11981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.09126, 53.91104]
+        "coordinates": [-1.0912599999999999, 53.91104]
       },
       "properties": {
         "date": "2018-07-17",
@@ -11993,7 +11993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.18198, 54.49886]
+        "coordinates": [-3.1819799999999998, 54.498860000000001]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12005,7 +12005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.18297, 54.48768]
+        "coordinates": [-3.1829700000000001, 54.487679999999997]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12017,7 +12017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.18987, 54.46856]
+        "coordinates": [-3.18987, 54.468559999999997]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12029,7 +12029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.18531, 54.46256]
+        "coordinates": [-3.1853099999999999, 54.462560000000003]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12041,7 +12041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.21156, 54.45424]
+        "coordinates": [-3.21156, 54.454239999999999]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12053,7 +12053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.19603, 54.46498]
+        "coordinates": [-3.1960299999999999, 54.464979999999997]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12065,7 +12065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.19929, 54.51125]
+        "coordinates": [-3.19929, 54.511249999999997]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12077,7 +12077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.15639, 54.54704]
+        "coordinates": [-3.15639, 54.547040000000003]
       },
       "properties": {
         "date": "2018-07-19",
@@ -12089,7 +12089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.35436, 51.5912]
+        "coordinates": [-1.35436, 51.591200000000001]
       },
       "properties": {
         "date": "2018-07-31",
@@ -12101,7 +12101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.092458, 53.94699]
+        "coordinates": [-1.0924579999999999, 53.94699]
       },
       "properties": {
         "date": "2018-08-03",
@@ -12113,7 +12113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.12822, 54.42579]
+        "coordinates": [-1.12822, 54.425789999999999]
       },
       "properties": {
         "date": "2018-08-04",
@@ -12125,7 +12125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14047, 54.42449]
+        "coordinates": [-1.1404700000000001, 54.424489999999999]
       },
       "properties": {
         "date": "2018-08-04",
@@ -12137,7 +12137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.19271, 54.42178]
+        "coordinates": [-1.1927099999999999, 54.421779999999998]
       },
       "properties": {
         "date": "2018-08-04",
@@ -12161,7 +12161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.21819, 54.43256]
+        "coordinates": [-1.2181900000000001, 54.432560000000002]
       },
       "properties": {
         "date": "2018-08-04",
@@ -12173,7 +12173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9363, 54.0774]
+        "coordinates": [-0.93630000000000002, 54.077399999999997]
       },
       "properties": {
         "date": "2018-08-11",
@@ -12185,7 +12185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.95441, 54.07711]
+        "coordinates": [-0.95440999999999998, 54.077109999999998]
       },
       "properties": {
         "date": "2018-08-11",
@@ -12197,7 +12197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.96347, 54.05229]
+        "coordinates": [-0.96347000000000005, 54.052289999999999]
       },
       "properties": {
         "date": "2018-08-11",
@@ -12209,7 +12209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.112294, 53.98891]
+        "coordinates": [-1.1122939999999999, 53.988909999999997]
       },
       "properties": {
         "date": "2018-08-25",
@@ -12233,7 +12233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07849, 53.9583]
+        "coordinates": [-1.0784899999999999, 53.958300000000001]
       },
       "properties": {
         "date": "2018-09-08",
@@ -12245,7 +12245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.796934, 54.1326]
+        "coordinates": [-0.79693400000000003, 54.132599999999996]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12257,7 +12257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.80634, 54.20468]
+        "coordinates": [-0.80633999999999995, 54.204680000000003]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12269,7 +12269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7184, 54.2459]
+        "coordinates": [-0.71840000000000004, 54.245899999999999]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12281,7 +12281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.628876, 54.4701]
+        "coordinates": [-0.62887599999999999, 54.470100000000002]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12293,7 +12293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.61343, 54.48824]
+        "coordinates": [-0.61343000000000003, 54.488239999999998]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12305,7 +12305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.615, 54.48908]
+        "coordinates": [-0.61499999999999999, 54.489080000000001]
       },
       "properties": {
         "date": "2018-09-14",
@@ -12317,7 +12317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.537348, 53.99271]
+        "coordinates": [-1.5373479999999999, 53.992710000000002]
       },
       "properties": {
         "date": "2018-09-15",
@@ -12329,7 +12329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.54259, 53.9928]
+        "coordinates": [-1.5425899999999999, 53.992800000000003]
       },
       "properties": {
         "date": "2018-09-15",
@@ -12341,7 +12341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.261773, 53.8839]
+        "coordinates": [-1.261773, 53.883899999999997]
       },
       "properties": {
         "date": "2018-09-16",
@@ -12353,7 +12353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.080465, 53.96042]
+        "coordinates": [-1.080465, 53.960419999999999]
       },
       "properties": {
         "date": "2018-09-16",
@@ -12365,7 +12365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06466, 54.2717]
+        "coordinates": [-1.0646599999999999, 54.271700000000003]
       },
       "properties": {
         "date": "2018-09-27",
@@ -12377,7 +12377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06295, 54.29371]
+        "coordinates": [-1.0629500000000001, 54.293709999999997]
       },
       "properties": {
         "date": "2018-09-27",
@@ -12389,7 +12389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9918, 54.3012]
+        "coordinates": [-0.99180000000000001, 54.301200000000001]
       },
       "properties": {
         "date": "2018-09-27",
@@ -12401,7 +12401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.91774, 54.30122]
+        "coordinates": [-0.91774, 54.301220000000001]
       },
       "properties": {
         "date": "2018-09-27",
@@ -12413,7 +12413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.97607, 54.44376]
+        "coordinates": [-0.97606999999999999, 54.443759999999997]
       },
       "properties": {
         "date": "2018-09-29",
@@ -12425,7 +12425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9145, 54.4624]
+        "coordinates": [-0.91449999999999998, 54.462400000000002]
       },
       "properties": {
         "date": "2018-09-29",
@@ -12437,7 +12437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9052, 54.43989]
+        "coordinates": [-0.9052, 54.439889999999998]
       },
       "properties": {
         "date": "2018-09-29",
@@ -12449,7 +12449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.86116, 54.4314]
+        "coordinates": [-0.86116000000000004, 54.431399999999996]
       },
       "properties": {
         "date": "2018-09-29",
@@ -12461,7 +12461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.86235, 54.352]
+        "coordinates": [-0.86234999999999995, 54.351999999999997]
       },
       "properties": {
         "date": "2018-09-29",
@@ -12473,7 +12473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.70755, 54.2984]
+        "coordinates": [-0.70755000000000001, 54.298400000000001]
       },
       "properties": {
         "date": "2018-09-30",
@@ -12485,7 +12485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72115, 54.30412]
+        "coordinates": [-0.72114999999999996, 54.304119999999998]
       },
       "properties": {
         "date": "2018-09-30",
@@ -12497,7 +12497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.26527, 53.88516]
+        "coordinates": [-1.2652699999999999, 53.885159999999999]
       },
       "properties": {
         "date": "2018-10-04",
@@ -12521,7 +12521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.93356, 54.43133]
+        "coordinates": [-0.93355999999999995, 54.431330000000003]
       },
       "properties": {
         "date": "2018-10-07",
@@ -12533,7 +12533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.92855, 54.42794]
+        "coordinates": [-0.92854999999999999, 54.42794]
       },
       "properties": {
         "date": "2018-10-07",
@@ -12545,7 +12545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.940966, 54.46332]
+        "coordinates": [-0.94096599999999997, 54.463320000000003]
       },
       "properties": {
         "date": "2018-10-07",
@@ -12557,7 +12557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.230927, 51.84815]
+        "coordinates": [-1.2309270000000001, 51.848149999999997]
       },
       "properties": {
         "date": "2018-10-09",
@@ -12581,7 +12581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.26348, 54.35641]
+        "coordinates": [-1.2634799999999999, 54.356409999999997]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12593,7 +12593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.21545, 54.34272]
+        "coordinates": [-1.2154499999999999, 54.34272]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12605,7 +12605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1856, 54.30703]
+        "coordinates": [-1.1856, 54.307029999999997]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12617,7 +12617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.20318, 54.30739]
+        "coordinates": [-1.2031799999999999, 54.307389999999998]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12629,7 +12629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.15695, 54.26567]
+        "coordinates": [-1.1569499999999999, 54.26567]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12653,7 +12653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.34298, 54.23265]
+        "coordinates": [-1.3429800000000001, 54.23265]
       },
       "properties": {
         "date": "2018-10-14",
@@ -12665,7 +12665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.156225, 54.01012]
+        "coordinates": [-1.1562250000000001, 54.010120000000001]
       },
       "properties": {
         "date": "2018-10-17",
@@ -12677,7 +12677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.211285, 51.87928]
+        "coordinates": [0.211285, 51.879280000000001]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12689,7 +12689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.253315, 51.88142]
+        "coordinates": [0.25331500000000001, 51.881419999999999]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12701,7 +12701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.899993, 37.42321]
+        "coordinates": [-5.8999930000000003, 37.423209999999997]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12713,7 +12713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-6.00355, 37.39138]
+        "coordinates": [-6.0035499999999997, 37.391379999999998]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12725,7 +12725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.993013, 37.3979]
+        "coordinates": [-5.9930130000000004, 37.3979]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12737,7 +12737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.994013, 37.39714]
+        "coordinates": [-5.9940129999999998, 37.39714]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12749,7 +12749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.995243, 37.39269]
+        "coordinates": [-5.9952430000000003, 37.392690000000002]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12761,7 +12761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.993461, 37.39791]
+        "coordinates": [-5.9934609999999999, 37.397910000000003]
       },
       "properties": {
         "date": "2018-10-26",
@@ -12773,7 +12773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-6.002427, 37.38629]
+        "coordinates": [-6.002427, 37.386290000000002]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12785,7 +12785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.996417, 37.38273]
+        "coordinates": [-5.9964170000000001, 37.382730000000002]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12797,7 +12797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.990905, 37.38081]
+        "coordinates": [-5.9909049999999997, 37.380809999999997]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12809,7 +12809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.987078, 37.37712]
+        "coordinates": [-5.9870780000000003, 37.377119999999998]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12821,7 +12821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.993076, 37.38511]
+        "coordinates": [-5.9930760000000003, 37.385109999999997]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12833,7 +12833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.999059, 37.38728]
+        "coordinates": [-5.9990589999999999, 37.387279999999997]
       },
       "properties": {
         "date": "2018-10-27",
@@ -12845,7 +12845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.974892, 37.39235]
+        "coordinates": [-5.9748919999999996, 37.39235]
       },
       "properties": {
         "date": "2018-10-28",
@@ -12857,7 +12857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.991788, 37.39332]
+        "coordinates": [-5.9917879999999997, 37.393320000000003]
       },
       "properties": {
         "date": "2018-10-28",
@@ -12869,7 +12869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.788807, 37.8888]
+        "coordinates": [-4.7888070000000003, 37.888800000000003]
       },
       "properties": {
         "date": "2018-10-29",
@@ -12881,7 +12881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.778505, 37.87709]
+        "coordinates": [-4.778505, 37.877090000000003]
       },
       "properties": {
         "date": "2018-10-29",
@@ -12893,7 +12893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.78031, 37.88006]
+        "coordinates": [-4.7803100000000001, 37.88006]
       },
       "properties": {
         "date": "2018-10-29",
@@ -12905,7 +12905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.604916, 36.01067]
+        "coordinates": [-5.6049160000000002, 36.010669999999998]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12917,7 +12917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.44031, 36.1292]
+        "coordinates": [-5.4403100000000002, 36.129199999999997]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12929,7 +12929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.320802, 35.89364]
+        "coordinates": [-5.3208019999999996, 35.893639999999998]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12941,7 +12941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.344802, 35.86948]
+        "coordinates": [-5.3448019999999996, 35.869480000000003]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12953,7 +12953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.364847, 35.56801]
+        "coordinates": [-5.3648470000000001, 35.568010000000001]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12965,7 +12965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-5.366122, 35.56948]
+        "coordinates": [-5.3661219999999998, 35.569479999999999]
       },
       "properties": {
         "date": "2018-10-30",
@@ -12977,7 +12977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-6.004007, 37.3845]
+        "coordinates": [-6.0040069999999996, 37.384500000000003]
       },
       "properties": {
         "date": "2018-10-31",
@@ -12989,7 +12989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.320608, 52.53165]
+        "coordinates": [-0.320608, 52.531649999999999]
       },
       "properties": {
         "date": "2018-10-31",
@@ -13001,7 +13001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084402, 53.95999]
+        "coordinates": [-1.0844020000000001, 53.959989999999998]
       },
       "properties": {
         "date": "2018-11-01",
@@ -13013,7 +13013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.93269, 54.09983]
+        "coordinates": [-0.93269000000000002, 54.099829999999997]
       },
       "properties": {
         "date": "2018-11-03",
@@ -13025,7 +13025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9479, 54.12455]
+        "coordinates": [-0.94789999999999996, 54.124549999999999]
       },
       "properties": {
         "date": "2018-11-03",
@@ -13037,7 +13037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9756, 54.12763]
+        "coordinates": [-0.97560000000000002, 54.127630000000003]
       },
       "properties": {
         "date": "2018-11-03",
@@ -13061,7 +13061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.48067, 54.43999]
+        "coordinates": [-3.4806699999999999, 54.439990000000002]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13073,7 +13073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.4362, 54.4188]
+        "coordinates": [-3.4361999999999999, 54.418799999999997]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13085,7 +13085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.25605, 54.46584]
+        "coordinates": [-3.2560500000000001, 54.46584]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13097,7 +13097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.24412, 54.48319]
+        "coordinates": [-3.2441200000000001, 54.48319]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13109,7 +13109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.22834, 54.48509]
+        "coordinates": [-3.2283400000000002, 54.48509]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13121,7 +13121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.21921, 54.48208]
+        "coordinates": [-3.2192099999999999, 54.482080000000003]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13133,7 +13133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.20676, 54.47495]
+        "coordinates": [-3.2067600000000001, 54.47495]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13145,7 +13145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.25348, 54.46706]
+        "coordinates": [-3.2534800000000001, 54.467059999999996]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13157,7 +13157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.1857, 54.4029]
+        "coordinates": [-3.1857000000000002, 54.402900000000002]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13169,7 +13169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.1215, 54.414]
+        "coordinates": [-3.1215000000000002, 54.414000000000001]
       },
       "properties": {
         "date": "2018-11-13",
@@ -13181,7 +13181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.075893, 53.95697]
+        "coordinates": [-1.075893, 53.956969999999998]
       },
       "properties": {
         "date": "2018-11-16",
@@ -13193,7 +13193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.79529, 53.92079]
+        "coordinates": [-0.79529000000000005, 53.920789999999997]
       },
       "properties": {
         "date": "2018-11-18",
@@ -13205,7 +13205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.94869, 54.54335]
+        "coordinates": [-2.94869, 54.543349999999997]
       },
       "properties": {
         "date": "2018-11-24",
@@ -13217,7 +13217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.218647, 55.94548]
+        "coordinates": [-3.2186469999999998, 55.945480000000003]
       },
       "properties": {
         "date": "2018-11-26",
@@ -13229,7 +13229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.265702, 55.86503]
+        "coordinates": [-4.2657020000000001, 55.865029999999997]
       },
       "properties": {
         "date": "2018-11-26",
@@ -13241,7 +13241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.255875, 55.86124]
+        "coordinates": [-4.2558749999999996, 55.861240000000002]
       },
       "properties": {
         "date": "2018-11-27",
@@ -13253,7 +13253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.261522, 55.86113]
+        "coordinates": [-4.2615220000000003, 55.861130000000003]
       },
       "properties": {
         "date": "2018-11-28",
@@ -13265,7 +13265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.259731, 55.86359]
+        "coordinates": [-4.2597310000000004, 55.863590000000002]
       },
       "properties": {
         "date": "2018-11-29",
@@ -13277,7 +13277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.444087, 53.99994]
+        "coordinates": [-1.4440869999999999, 53.999940000000002]
       },
       "properties": {
         "date": "2018-12-02",
@@ -13289,7 +13289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.548355, 53.80152]
+        "coordinates": [-1.5483549999999999, 53.801519999999996]
       },
       "properties": {
         "date": "2018-12-08",
@@ -13301,7 +13301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.547582, 53.79852]
+        "coordinates": [-1.547582, 53.798520000000003]
       },
       "properties": {
         "date": "2018-12-08",
@@ -13313,7 +13313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.548034, 53.79526]
+        "coordinates": [-1.5480339999999999, 53.795259999999999]
       },
       "properties": {
         "date": "2018-12-08",
@@ -13325,7 +13325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08314, 53.95533]
+        "coordinates": [-1.08314, 53.955329999999996]
       },
       "properties": {
         "date": "2018-12-08",
@@ -13337,7 +13337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.402, 54.28167]
+        "coordinates": [-0.40200000000000002, 54.281669999999998]
       },
       "properties": {
         "date": "2018-12-09",
@@ -13349,7 +13349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.398386, 54.2801]
+        "coordinates": [-0.39838600000000002, 54.280099999999997]
       },
       "properties": {
         "date": "2018-12-09",
@@ -13361,7 +13361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.397148, 54.28006]
+        "coordinates": [-0.397148, 54.280059999999999]
       },
       "properties": {
         "date": "2018-12-09",
@@ -13373,7 +13373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.392419, 54.28346]
+        "coordinates": [-0.39241900000000002, 54.283459999999998]
       },
       "properties": {
         "date": "2018-12-09",
@@ -13385,7 +13385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.390637, 54.28727]
+        "coordinates": [-0.39063700000000001, 54.287269999999999]
       },
       "properties": {
         "date": "2018-12-09",
@@ -13397,7 +13397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.204972, 51.49219]
+        "coordinates": [-0.20497199999999999, 51.492190000000001]
       },
       "properties": {
         "date": "2018-12-12",
@@ -13409,7 +13409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.206038, 51.48914]
+        "coordinates": [-0.206038, 51.489139999999999]
       },
       "properties": {
         "date": "2018-12-12",
@@ -13421,7 +13421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.207121, 51.492]
+        "coordinates": [-0.207121, 51.491999999999997]
       },
       "properties": {
         "date": "2018-12-13",
@@ -13433,7 +13433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.921517, 53.25554]
+        "coordinates": [-0.92151700000000003, 53.255540000000003]
       },
       "properties": {
         "date": "2018-12-13",
@@ -13445,7 +13445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.964029, 54.44462]
+        "coordinates": [-0.96402900000000002, 54.44462]
       },
       "properties": {
         "date": "2018-12-16",
@@ -13457,7 +13457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.976349, 54.44327]
+        "coordinates": [-0.97634900000000002, 54.443269999999998]
       },
       "properties": {
         "date": "2018-12-16",
@@ -13469,7 +13469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72746, 54.28451]
+        "coordinates": [-0.72746, 54.284509999999997]
       },
       "properties": {
         "date": "2018-12-22",
@@ -13481,7 +13481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7384, 54.31555]
+        "coordinates": [-0.73839999999999995, 54.315550000000002]
       },
       "properties": {
         "date": "2018-12-22",
@@ -13493,7 +13493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72798, 54.31563]
+        "coordinates": [-0.72797999999999996, 54.315629999999999]
       },
       "properties": {
         "date": "2018-12-22",
@@ -13505,7 +13505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.74449, 54.30855]
+        "coordinates": [-0.74448999999999999, 54.308549999999997]
       },
       "properties": {
         "date": "2018-12-22",
@@ -13517,7 +13517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.15451, 54.06001]
+        "coordinates": [-2.1545100000000001, 54.060009999999998]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13529,7 +13529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.13631, 54.0658]
+        "coordinates": [-2.1363099999999999, 54.065800000000003]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13541,7 +13541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.13053, 54.07271]
+        "coordinates": [-2.1305299999999998, 54.072710000000001]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13553,7 +13553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.1567, 54.0978]
+        "coordinates": [-2.1566999999999998, 54.097799999999999]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13565,7 +13565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.16293, 54.07727]
+        "coordinates": [-2.1629299999999998, 54.077269999999999]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13577,7 +13577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.15993, 54.07296]
+        "coordinates": [-2.1599300000000001, 54.072960000000002]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13589,7 +13589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.15853, 54.07166]
+        "coordinates": [-2.1585299999999998, 54.071660000000001]
       },
       "properties": {
         "date": "2018-12-27",
@@ -13601,7 +13601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.69035, 54.33158]
+        "coordinates": [-0.69035000000000002, 54.331580000000002]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13613,7 +13613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.704225, 54.32692]
+        "coordinates": [-0.70422499999999999, 54.326920000000001]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13625,7 +13625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.740629, 54.32484]
+        "coordinates": [-0.74062899999999998, 54.324840000000002]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13637,7 +13637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72715, 54.39569]
+        "coordinates": [-0.72714999999999996, 54.395690000000002]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13649,7 +13649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.82122, 54.1989]
+        "coordinates": [-0.82121999999999995, 54.198900000000002]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13661,7 +13661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7851, 54.1704]
+        "coordinates": [-0.78510000000000002, 54.170400000000001]
       },
       "properties": {
         "date": "2018-12-29",
@@ -13673,7 +13673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.24962, 54.49166]
+        "coordinates": [-3.2496200000000002, 54.491660000000003]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13685,7 +13685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.25775, 54.49497]
+        "coordinates": [-3.2577500000000001, 54.494970000000002]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13697,7 +13697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.26612, 54.49647]
+        "coordinates": [-3.2661199999999999, 54.496470000000002]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13709,7 +13709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.27855, 54.49932]
+        "coordinates": [-3.2785500000000001, 54.499319999999997]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13721,7 +13721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.28119, 54.49744]
+        "coordinates": [-3.2811900000000001, 54.497439999999997]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13733,7 +13733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.4043, 54.3567]
+        "coordinates": [-3.4043000000000001, 54.356699999999996]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13745,7 +13745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.583905, 54.54454]
+        "coordinates": [-3.5839050000000001, 54.544539999999998]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13757,7 +13757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.589003, 54.54837]
+        "coordinates": [-3.5890029999999999, 54.548369999999998]
       },
       "properties": {
         "date": "2018-12-30",
@@ -13769,7 +13769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.331816, 54.30163]
+        "coordinates": [-3.3318159999999999, 54.301630000000003]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13781,7 +13781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.076416, 54.36854]
+        "coordinates": [-3.076416, 54.368540000000003]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13793,7 +13793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.075531, 54.36913]
+        "coordinates": [-3.0755309999999998, 54.369129999999998]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13805,7 +13805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.270335, 54.20964]
+        "coordinates": [-3.2703350000000002, 54.20964]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13817,7 +13817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.410544, 54.35531]
+        "coordinates": [-3.4105439999999998, 54.355310000000003]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13829,7 +13829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.409015, 54.3556]
+        "coordinates": [-3.4090150000000001, 54.355600000000003]
       },
       "properties": {
         "date": "2018-12-31",
@@ -13841,7 +13841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.03778, 54.43408]
+        "coordinates": [-3.0377800000000001, 54.434080000000002]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13853,7 +13853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.0953, 54.4457]
+        "coordinates": [-3.0952999999999999, 54.445700000000002]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13865,7 +13865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.1168, 54.44137]
+        "coordinates": [-3.1168, 54.441369999999999]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13877,7 +13877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.12654, 54.43719]
+        "coordinates": [-3.1265399999999999, 54.437190000000001]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13889,7 +13889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.1588, 54.432]
+        "coordinates": [-3.1587999999999998, 54.432000000000002]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13901,7 +13901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.16582, 54.44737]
+        "coordinates": [-3.1658200000000001, 54.447369999999999]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13913,7 +13913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.1374, 54.4424]
+        "coordinates": [-3.1374, 54.442399999999999]
       },
       "properties": {
         "date": "2019-01-01",
@@ -13925,7 +13925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.935413, 53.92043]
+        "coordinates": [-0.93541300000000005, 53.920430000000003]
       },
       "properties": {
         "date": "2019-01-06",
@@ -13937,7 +13937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.18819, 54.21317]
+        "coordinates": [-1.1881900000000001, 54.213169999999998]
       },
       "properties": {
         "date": "2019-01-12",
@@ -13949,7 +13949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.16032, 54.20363]
+        "coordinates": [-1.16032, 54.203629999999997]
       },
       "properties": {
         "date": "2019-01-12",
@@ -13961,7 +13961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.15095, 54.20645]
+        "coordinates": [-1.1509499999999999, 54.206449999999997]
       },
       "properties": {
         "date": "2019-01-12",
@@ -13973,7 +13973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.2128, 54.3074]
+        "coordinates": [-1.2128000000000001, 54.307400000000001]
       },
       "properties": {
         "date": "2019-01-12",
@@ -13985,7 +13985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.17661, 54.31132]
+        "coordinates": [-1.1766099999999999, 54.311320000000002]
       },
       "properties": {
         "date": "2019-01-12",
@@ -13997,7 +13997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.87823, 54.23794]
+        "coordinates": [-0.87822999999999996, 54.237940000000002]
       },
       "properties": {
         "date": "2019-01-12",
@@ -14009,7 +14009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.85289, 54.2015]
+        "coordinates": [-0.85289000000000004, 54.201500000000003]
       },
       "properties": {
         "date": "2019-01-12",
@@ -14021,7 +14021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10465, 53.89812]
+        "coordinates": [-1.1046499999999999, 53.898119999999999]
       },
       "properties": {
         "date": "2019-01-13",
@@ -14033,7 +14033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.09522, 53.95322]
+        "coordinates": [-1.0952200000000001, 53.953220000000002]
       },
       "properties": {
         "date": "2019-01-13",
@@ -14045,7 +14045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08414, 53.96054]
+        "coordinates": [-1.0841400000000001, 53.960540000000002]
       },
       "properties": {
         "date": "2019-01-13",
@@ -14057,7 +14057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08452, 53.95723]
+        "coordinates": [-1.0845199999999999, 53.957230000000003]
       },
       "properties": {
         "date": "2019-01-13",
@@ -14069,7 +14069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.077248, 53.95457]
+        "coordinates": [-1.077248, 53.954569999999997]
       },
       "properties": {
         "date": "2019-01-15",
@@ -14081,7 +14081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083381, 53.96077]
+        "coordinates": [-1.0833809999999999, 53.960769999999997]
       },
       "properties": {
         "date": "2019-01-16",
@@ -14093,7 +14093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083375, 53.96059]
+        "coordinates": [-1.083375, 53.960590000000003]
       },
       "properties": {
         "date": "2019-01-16",
@@ -14105,7 +14105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.514348, 54.29681]
+        "coordinates": [-0.51434800000000003, 54.296810000000001]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14117,7 +14117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.5132, 54.30589]
+        "coordinates": [-0.51319999999999999, 54.305889999999998]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14129,7 +14129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.52328, 54.32867]
+        "coordinates": [-0.52327999999999997, 54.328670000000002]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14141,7 +14141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.5174, 54.33623]
+        "coordinates": [-0.51739999999999997, 54.33623]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14153,7 +14153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.51808, 54.31544]
+        "coordinates": [-0.51807999999999998, 54.315440000000002]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14165,7 +14165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.55877, 54.30859]
+        "coordinates": [-0.55876999999999999, 54.308590000000002]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14177,7 +14177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53437, 54.43386]
+        "coordinates": [-0.53437000000000001, 54.433860000000003]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14189,7 +14189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.61619, 54.49048]
+        "coordinates": [-0.61619000000000002, 54.490479999999998]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14201,7 +14201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.62034, 54.49035]
+        "coordinates": [-0.62034, 54.490349999999999]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14213,7 +14213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.61369, 54.486]
+        "coordinates": [-0.61368999999999996, 54.485999999999997]
       },
       "properties": {
         "date": "2019-01-22",
@@ -14225,7 +14225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.48979, 54.40027]
+        "coordinates": [-0.48979, 54.400269999999999]
       },
       "properties": {
         "date": "2019-01-23",
@@ -14237,7 +14237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.49256, 54.40693]
+        "coordinates": [-0.49256, 54.406930000000003]
       },
       "properties": {
         "date": "2019-01-23",
@@ -14249,7 +14249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.53028, 54.42285]
+        "coordinates": [-0.53027999999999997, 54.422849999999997]
       },
       "properties": {
         "date": "2019-01-23",
@@ -14261,7 +14261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.67331, 54.50391]
+        "coordinates": [-0.67330999999999996, 54.503909999999998]
       },
       "properties": {
         "date": "2019-01-23",
@@ -14273,7 +14273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84281, 46.46491]
+        "coordinates": [6.8428100000000001, 46.464910000000003]
       },
       "properties": {
         "date": "2019-01-25",
@@ -14285,7 +14285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.8451, 46.46394]
+        "coordinates": [6.8451000000000004, 46.463940000000001]
       },
       "properties": {
         "date": "2019-01-25",
@@ -14297,7 +14297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.85677, 46.23711]
+        "coordinates": [6.85677, 46.237110000000001]
       },
       "properties": {
         "date": "2019-01-26",
@@ -14309,7 +14309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84098, 46.26708]
+        "coordinates": [6.8409800000000001, 46.26708]
       },
       "properties": {
         "date": "2019-01-26",
@@ -14321,7 +14321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.78956, 46.23252]
+        "coordinates": [6.7895599999999998, 46.232520000000001]
       },
       "properties": {
         "date": "2019-01-26",
@@ -14333,7 +14333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.78026, 46.23163]
+        "coordinates": [6.7802600000000002, 46.231630000000003]
       },
       "properties": {
         "date": "2019-01-26",
@@ -14345,7 +14345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84252, 46.46236]
+        "coordinates": [6.8425200000000004, 46.462359999999997]
       },
       "properties": {
         "date": "2019-01-27",
@@ -14357,7 +14357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.142516, 46.21062]
+        "coordinates": [6.1425159999999996, 46.210619999999999]
       },
       "properties": {
         "date": "2019-01-28",
@@ -14369,7 +14369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.1441, 46.20902]
+        "coordinates": [6.1440999999999999, 46.209020000000002]
       },
       "properties": {
         "date": "2019-01-28",
@@ -14381,7 +14381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.14878, 46.20602]
+        "coordinates": [6.1487800000000004, 46.206020000000002]
       },
       "properties": {
         "date": "2019-01-28",
@@ -14393,7 +14393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.968, 54.3242]
+        "coordinates": [-0.96799999999999997, 54.324199999999998]
       },
       "properties": {
         "date": "2019-02-03",
@@ -14405,7 +14405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08482, 53.95697]
+        "coordinates": [-1.0848199999999999, 53.956969999999998]
       },
       "properties": {
         "date": "2019-02-14",
@@ -14453,7 +14453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08183, 53.96084]
+        "coordinates": [-1.0818300000000001, 53.960839999999997]
       },
       "properties": {
         "date": "2019-02-22",
@@ -14465,7 +14465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.082993, 53.95657]
+        "coordinates": [-1.0829930000000001, 53.956569999999999]
       },
       "properties": {
         "date": "2019-02-27",
@@ -14477,7 +14477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084208, 53.95951]
+        "coordinates": [-1.0842080000000001, 53.959510000000002]
       },
       "properties": {
         "date": "2019-02-27",
@@ -14489,7 +14489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.357044, 51.38501]
+        "coordinates": [-2.3570440000000001, 51.385010000000001]
       },
       "properties": {
         "date": "2019-02-28",
@@ -14501,7 +14501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.362982, 51.38144]
+        "coordinates": [-2.3629820000000001, 51.381439999999998]
       },
       "properties": {
         "date": "2019-02-28",
@@ -14513,7 +14513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.357285, 51.3805]
+        "coordinates": [-2.3572850000000001, 51.380499999999998]
       },
       "properties": {
         "date": "2019-02-28",
@@ -14525,7 +14525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.361823, 51.38278]
+        "coordinates": [-2.3618229999999998, 51.382779999999997]
       },
       "properties": {
         "date": "2019-02-28",
@@ -14537,7 +14537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.360144, 51.38276]
+        "coordinates": [-2.360144, 51.382759999999998]
       },
       "properties": {
         "date": "2019-03-01",
@@ -14549,7 +14549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.357556, 51.38328]
+        "coordinates": [-2.3575560000000002, 51.383279999999999]
       },
       "properties": {
         "date": "2019-03-01",
@@ -14561,7 +14561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.779344, 52.41274]
+        "coordinates": [-1.779344, 52.412739999999999]
       },
       "properties": {
         "date": "2019-03-01",
@@ -14573,7 +14573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.77869, 52.41335]
+        "coordinates": [-1.7786900000000001, 52.413350000000001]
       },
       "properties": {
         "date": "2019-03-01",
@@ -14585,7 +14585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.127703, 53.9753]
+        "coordinates": [-1.1277029999999999, 53.975299999999997]
       },
       "properties": {
         "date": "2019-03-02",
@@ -14597,7 +14597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083451, 53.96065]
+        "coordinates": [-1.0834509999999999, 53.960650000000001]
       },
       "properties": {
         "date": "2019-03-03",
@@ -14609,7 +14609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085067, 53.95491]
+        "coordinates": [-1.085067, 53.954909999999998]
       },
       "properties": {
         "date": "2019-03-03",
@@ -14621,7 +14621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07887, 53.95847]
+        "coordinates": [-1.07887, 53.958469999999998]
       },
       "properties": {
         "date": "2019-03-07",
@@ -14633,7 +14633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085634, 53.95815]
+        "coordinates": [-1.085634, 53.958150000000003]
       },
       "properties": {
         "date": "2019-03-08",
@@ -14645,7 +14645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.048326, 53.98508]
+        "coordinates": [-1.0483260000000001, 53.985080000000004]
       },
       "properties": {
         "date": "2019-03-11",
@@ -14657,7 +14657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085541, 53.96044]
+        "coordinates": [-1.0855410000000001, 53.960439999999998]
       },
       "properties": {
         "date": "2019-03-16",
@@ -14669,7 +14669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.611845, 54.48765]
+        "coordinates": [-0.61184499999999997, 54.487650000000002]
       },
       "properties": {
         "date": "2019-03-23",
@@ -14681,7 +14681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.615038, 54.49077]
+        "coordinates": [-0.61503799999999997, 54.490769999999998]
       },
       "properties": {
         "date": "2019-03-23",
@@ -14693,7 +14693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.621269, 54.49048]
+        "coordinates": [-0.62126899999999996, 54.490479999999998]
       },
       "properties": {
         "date": "2019-03-23",
@@ -14705,7 +14705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.076351, 53.95768]
+        "coordinates": [-1.0763510000000001, 53.957680000000003]
       },
       "properties": {
         "date": "2019-03-23",
@@ -14717,7 +14717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.0388, 53.39532]
+        "coordinates": [-3.0388000000000002, 53.395319999999998]
       },
       "properties": {
         "date": "2019-03-24",
@@ -14729,7 +14729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07924, 53.95886]
+        "coordinates": [-1.07924, 53.958860000000001]
       },
       "properties": {
         "date": "2019-03-30",
@@ -14741,7 +14741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.453639, 54.00695]
+        "coordinates": [-1.4536389999999999, 54.006950000000003]
       },
       "properties": {
         "date": "2019-03-31",
@@ -14753,7 +14753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.35464, 51.59951]
+        "coordinates": [-1.3546400000000001, 51.599510000000002]
       },
       "properties": {
         "date": "2019-04-03",
@@ -14765,7 +14765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.778678, 53.93026]
+        "coordinates": [-0.77867799999999998, 53.930259999999997]
       },
       "properties": {
         "date": "2019-04-07",
@@ -14777,7 +14777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.753883, 54.66504]
+        "coordinates": [-2.7538830000000001, 54.665039999999998]
       },
       "properties": {
         "date": "2019-04-13",
@@ -14789,7 +14789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.665566, 53.55182]
+        "coordinates": [-2.6655660000000001, 53.551819999999999]
       },
       "properties": {
         "date": "2019-04-18",
@@ -14801,7 +14801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.63414, 53.50602]
+        "coordinates": [-2.6341399999999999, 53.506019999999999]
       },
       "properties": {
         "date": "2019-04-18",
@@ -14813,7 +14813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.811988, 53.68347]
+        "coordinates": [-1.8119879999999999, 53.68347]
       },
       "properties": {
         "date": "2019-04-18",
@@ -14825,7 +14825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.929201, 53.67611]
+        "coordinates": [-1.9292009999999999, 53.676110000000001]
       },
       "properties": {
         "date": "2019-04-18",
@@ -14837,7 +14837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084257, 53.95213]
+        "coordinates": [-1.084257, 53.952129999999997]
       },
       "properties": {
         "date": "2019-04-18",
@@ -14849,7 +14849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.474402, 54.00954]
+        "coordinates": [-1.474402, 54.009540000000001]
       },
       "properties": {
         "date": "2019-04-21",
@@ -14861,7 +14861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.065915, 53.95864]
+        "coordinates": [-1.0659149999999999, 53.958640000000003]
       },
       "properties": {
         "date": "2019-04-24",
@@ -14873,7 +14873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.723925, 51.52261]
+        "coordinates": [-0.72392500000000004, 51.52261]
       },
       "properties": {
         "date": "2019-04-27",
@@ -14885,7 +14885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.405802, 51.30439]
+        "coordinates": [-0.405802, 51.304389999999998]
       },
       "properties": {
         "date": "2019-04-28",
@@ -14897,7 +14897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.130029, 51.09039]
+        "coordinates": [1.130029, 51.090389999999999]
       },
       "properties": {
         "date": "2019-04-28",
@@ -14909,7 +14909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.156879, 51.09419]
+        "coordinates": [1.156879, 51.094189999999998]
       },
       "properties": {
         "date": "2019-04-28",
@@ -14921,7 +14921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.11765, 51.09292]
+        "coordinates": [1.11765, 51.092919999999999]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14933,7 +14933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.121703, 51.0956]
+        "coordinates": [1.1217029999999999, 51.095599999999997]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14945,7 +14945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.81355, 50.9357]
+        "coordinates": [1.81355, 50.935699999999997]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14957,7 +14957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.389834, 48.27974]
+        "coordinates": [7.3898339999999996, 48.279739999999997]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14969,7 +14969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.148338, 48.27256]
+        "coordinates": [7.1483379999999999, 48.272559999999999]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14981,7 +14981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.563052, 47.57531]
+        "coordinates": [7.5630519999999999, 47.575310000000002]
       },
       "properties": {
         "date": "2019-04-29",
@@ -14993,7 +14993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60655, 47.40492]
+        "coordinates": [8.6065500000000004, 47.404919999999997]
       },
       "properties": {
         "date": "2019-04-29",
@@ -15005,7 +15005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60258, 47.4051]
+        "coordinates": [8.6025799999999997, 47.405099999999997]
       },
       "properties": {
         "date": "2019-04-30",
@@ -15017,7 +15017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61894, 47.41247]
+        "coordinates": [8.6189400000000003, 47.412469999999999]
       },
       "properties": {
         "date": "2019-05-04",
@@ -15029,7 +15029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61875, 47.41329]
+        "coordinates": [8.6187500000000004, 47.413290000000003]
       },
       "properties": {
         "date": "2019-05-04",
@@ -15041,7 +15041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.723839, 47.50024]
+        "coordinates": [8.7238389999999999, 47.500239999999998]
       },
       "properties": {
         "date": "2019-05-05",
@@ -15053,7 +15053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.783483, 47.36667]
+        "coordinates": [8.7834830000000004, 47.366669999999999]
       },
       "properties": {
         "date": "2019-05-05",
@@ -15065,7 +15065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.639644, 47.35207]
+        "coordinates": [8.6396440000000005, 47.352069999999998]
       },
       "properties": {
         "date": "2019-05-05",
@@ -15077,7 +15077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.619085, 47.4011]
+        "coordinates": [8.6190850000000001, 47.4011]
       },
       "properties": {
         "date": "2019-05-07",
@@ -15089,7 +15089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.179782, 47.65253]
+        "coordinates": [9.1797819999999994, 47.652529999999999]
       },
       "properties": {
         "date": "2019-05-11",
@@ -15101,7 +15101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17831, 47.65497]
+        "coordinates": [9.1783099999999997, 47.654969999999999]
       },
       "properties": {
         "date": "2019-05-11",
@@ -15113,7 +15113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.176089, 47.6569]
+        "coordinates": [9.1760889999999993, 47.6569]
       },
       "properties": {
         "date": "2019-05-11",
@@ -15125,7 +15125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.177073, 47.65867]
+        "coordinates": [9.177073, 47.658670000000001]
       },
       "properties": {
         "date": "2019-05-11",
@@ -15137,7 +15137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.175826, 47.66031]
+        "coordinates": [9.1758260000000007, 47.660310000000003]
       },
       "properties": {
         "date": "2019-05-11",
@@ -15149,7 +15149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.878478, 47.36794]
+        "coordinates": [8.8784779999999994, 47.367939999999997]
       },
       "properties": {
         "date": "2019-05-12",
@@ -15173,7 +15173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71905, 47.74049]
+        "coordinates": [8.7190499999999993, 47.740490000000001]
       },
       "properties": {
         "date": "2019-05-18",
@@ -15185,7 +15185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.765979, 47.75085]
+        "coordinates": [8.7659789999999997, 47.75085]
       },
       "properties": {
         "date": "2019-05-18",
@@ -15197,7 +15197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.01402, 47.84976]
+        "coordinates": [9.0140200000000004, 47.849760000000003]
       },
       "properties": {
         "date": "2019-05-18",
@@ -15209,7 +15209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.010158, 47.85163]
+        "coordinates": [9.0101580000000006, 47.85163]
       },
       "properties": {
         "date": "2019-05-18",
@@ -15221,7 +15221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.538497, 47.3728]
+        "coordinates": [8.5384969999999996, 47.372799999999998]
       },
       "properties": {
         "date": "2019-05-23",
@@ -15233,7 +15233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.541361, 47.36892]
+        "coordinates": [8.5413610000000002, 47.368920000000003]
       },
       "properties": {
         "date": "2019-05-23",
@@ -15245,7 +15245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.546514, 47.36543]
+        "coordinates": [8.5465140000000002, 47.365430000000003]
       },
       "properties": {
         "date": "2019-05-23",
@@ -15257,7 +15257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9345, 47.34385]
+        "coordinates": [8.9344999999999999, 47.343850000000003]
       },
       "properties": {
         "date": "2019-05-26",
@@ -15269,7 +15269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96086, 47.331]
+        "coordinates": [8.9608600000000003, 47.331000000000003]
       },
       "properties": {
         "date": "2019-05-26",
@@ -15281,7 +15281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97486, 47.32353]
+        "coordinates": [8.9748599999999996, 47.323529999999998]
       },
       "properties": {
         "date": "2019-05-26",
@@ -15293,7 +15293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97958, 47.32565]
+        "coordinates": [8.9795800000000003, 47.325650000000003]
       },
       "properties": {
         "date": "2019-05-26",
@@ -15305,7 +15305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9731646, 47.33988]
+        "coordinates": [8.9731646000000005, 47.339880000000001]
       },
       "properties": {
         "date": "2019-05-26",
@@ -15317,7 +15317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [4.96452, 48.62631]
+        "coordinates": [4.9645200000000003, 48.626309999999997]
       },
       "properties": {
         "date": "2019-05-31",
@@ -15341,7 +15341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.81527, 50.93782]
+        "coordinates": [1.8152699999999999, 50.937820000000002]
       },
       "properties": {
         "date": "2019-05-31",
@@ -15353,7 +15353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1.81463, 50.93423]
+        "coordinates": [1.81463, 50.934229999999999]
       },
       "properties": {
         "date": "2019-05-31",
@@ -15365,7 +15365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.25779, 51.46511]
+        "coordinates": [0.25779000000000002, 51.465110000000003]
       },
       "properties": {
         "date": "2019-06-01",
@@ -15377,7 +15377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.060968, 53.38743]
+        "coordinates": [-1.0609679999999999, 53.387430000000002]
       },
       "properties": {
         "date": "2019-06-01",
@@ -15389,7 +15389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.133825, 53.96187]
+        "coordinates": [-1.1338250000000001, 53.961869999999998]
       },
       "properties": {
         "date": "2019-06-01",
@@ -15401,7 +15401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08587, 53.9609]
+        "coordinates": [-1.0858699999999999, 53.960900000000002]
       },
       "properties": {
         "date": "2019-06-02",
@@ -15413,7 +15413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.080985, 53.95929]
+        "coordinates": [-1.0809850000000001, 53.959290000000003]
       },
       "properties": {
         "date": "2019-06-02",
@@ -15437,7 +15437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54781, 47.35299]
+        "coordinates": [8.5478100000000001, 47.352989999999998]
       },
       "properties": {
         "date": "2019-06-10",
@@ -15449,7 +15449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.617838, 47.39599]
+        "coordinates": [8.6178380000000008, 47.395989999999998]
       },
       "properties": {
         "date": "2019-06-21",
@@ -15461,7 +15461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.622552, 47.41356]
+        "coordinates": [8.6225520000000007, 47.413559999999997]
       },
       "properties": {
         "date": "2019-06-22",
@@ -15473,7 +15473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.308982, 47.04979]
+        "coordinates": [8.3089820000000003, 47.049790000000002]
       },
       "properties": {
         "date": "2019-06-23",
@@ -15485,7 +15485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.310583, 47.05829]
+        "coordinates": [8.3105829999999994, 47.05829]
       },
       "properties": {
         "date": "2019-06-23",
@@ -15497,7 +15497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30716, 47.05205]
+        "coordinates": [8.3071599999999997, 47.052050000000001]
       },
       "properties": {
         "date": "2019-06-23",
@@ -15509,7 +15509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.078541, 53.95842]
+        "coordinates": [-1.078541, 53.958419999999997]
       },
       "properties": {
         "date": "2019-07-01",
@@ -15521,7 +15521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.899122, 52.47774]
+        "coordinates": [-1.899122, 52.477739999999997]
       },
       "properties": {
         "date": "2019-07-03",
@@ -15533,7 +15533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.936907, 52.45099]
+        "coordinates": [-1.9369069999999999, 52.450989999999997]
       },
       "properties": {
         "date": "2019-07-03",
@@ -15545,7 +15545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.930826, 52.44901]
+        "coordinates": [-1.9308259999999999, 52.449010000000001]
       },
       "properties": {
         "date": "2019-07-03",
@@ -15557,7 +15557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.070163, 53.95616]
+        "coordinates": [-1.070163, 53.956159999999997]
       },
       "properties": {
         "date": "2019-07-13",
@@ -15569,7 +15569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.087271, 53.96053]
+        "coordinates": [-1.0872710000000001, 53.960529999999999]
       },
       "properties": {
         "date": "2019-07-13",
@@ -15581,7 +15581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.613648, 47.41248]
+        "coordinates": [8.6136479999999995, 47.412480000000002]
       },
       "properties": {
         "date": "2019-07-23",
@@ -15593,7 +15593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.40483, 47.40589]
+        "coordinates": [8.4048300000000005, 47.405889999999999]
       },
       "properties": {
         "date": "2019-07-27",
@@ -15605,7 +15605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.387913, 47.4141]
+        "coordinates": [8.3879129999999993, 47.414099999999998]
       },
       "properties": {
         "date": "2019-07-27",
@@ -15617,7 +15617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.37395, 47.41838]
+        "coordinates": [8.3739500000000007, 47.418379999999999]
       },
       "properties": {
         "date": "2019-07-27",
@@ -15629,7 +15629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52032, 47.38845]
+        "coordinates": [8.5203199999999999, 47.388449999999999]
       },
       "properties": {
         "date": "2019-08-01",
@@ -15641,7 +15641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.674966, 47.38004]
+        "coordinates": [8.6749659999999995, 47.380040000000001]
       },
       "properties": {
         "date": "2019-08-02",
@@ -15653,7 +15653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.022178, 47.32352]
+        "coordinates": [8.0221780000000003, 47.323520000000002]
       },
       "properties": {
         "date": "2019-08-04",
@@ -15665,7 +15665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68167, 47.37347]
+        "coordinates": [8.6816700000000004, 47.373469999999998]
       },
       "properties": {
         "date": "2019-08-07",
@@ -15677,7 +15677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94178, 47.37091]
+        "coordinates": [8.9417799999999996, 47.370910000000002]
       },
       "properties": {
         "date": "2019-08-11",
@@ -15689,7 +15689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94066, 47.37461]
+        "coordinates": [8.9406599999999994, 47.374609999999997]
       },
       "properties": {
         "date": "2019-08-11",
@@ -15701,7 +15701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96715, 47.36293]
+        "coordinates": [8.9671500000000002, 47.362929999999999]
       },
       "properties": {
         "date": "2019-08-11",
@@ -15713,7 +15713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08493, 53.95172]
+        "coordinates": [-1.0849299999999999, 53.951720000000002]
       },
       "properties": {
         "date": "2019-08-15",
@@ -15725,7 +15725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.081911, 53.95765]
+        "coordinates": [-1.0819110000000001, 53.957650000000001]
       },
       "properties": {
         "date": "2019-08-16",
@@ -15749,7 +15749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.541066, 53.80081]
+        "coordinates": [-1.541066, 53.800809999999998]
       },
       "properties": {
         "date": "2019-08-17",
@@ -15761,7 +15761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08249, 53.96035]
+        "coordinates": [-1.08249, 53.960349999999998]
       },
       "properties": {
         "date": "2019-08-18",
@@ -15773,7 +15773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.635745, 47.38314]
+        "coordinates": [8.635745, 47.383139999999997]
       },
       "properties": {
         "date": "2019-08-27",
@@ -15785,7 +15785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.546673, 47.36638]
+        "coordinates": [8.5466730000000002, 47.366379999999999]
       },
       "properties": {
         "date": "2019-08-30",
@@ -15809,7 +15809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.54188, 46.87772]
+        "coordinates": [7.5418799999999999, 46.877719999999997]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15821,7 +15821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9122, 46.5732]
+        "coordinates": [7.9122000000000003, 46.5732]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15833,7 +15833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90731, 46.59511]
+        "coordinates": [7.9073099999999998, 46.595109999999998]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15845,7 +15845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.68519, 46.68869]
+        "coordinates": [7.6851900000000004, 46.688690000000001]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15857,7 +15857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.702645, 46.67509]
+        "coordinates": [7.7026450000000004, 46.675089999999997]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15869,7 +15869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.676043, 46.68944]
+        "coordinates": [7.6760429999999999, 46.689439999999998]
       },
       "properties": {
         "date": "2019-09-02",
@@ -15881,7 +15881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.714705, 46.49777]
+        "coordinates": [7.7147050000000004, 46.497770000000003]
       },
       "properties": {
         "date": "2019-09-03",
@@ -15893,7 +15893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.709298, 46.67155]
+        "coordinates": [7.7092980000000004, 46.671550000000003]
       },
       "properties": {
         "date": "2019-09-03",
@@ -15905,7 +15905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.707125, 46.63163]
+        "coordinates": [7.7071249999999996, 46.631630000000001]
       },
       "properties": {
         "date": "2019-09-04",
@@ -15917,7 +15917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.698054, 46.615]
+        "coordinates": [7.698054, 46.615000000000002]
       },
       "properties": {
         "date": "2019-09-04",
@@ -15929,7 +15929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.667686, 46.73044]
+        "coordinates": [7.6676859999999998, 46.730440000000002]
       },
       "properties": {
         "date": "2019-09-04",
@@ -15941,7 +15941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.539541, 47.3684]
+        "coordinates": [8.5395409999999998, 47.368400000000001]
       },
       "properties": {
         "date": "2019-09-05",
@@ -15953,7 +15953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.540013, 47.37632]
+        "coordinates": [8.5400130000000001, 47.37632]
       },
       "properties": {
         "date": "2019-09-05",
@@ -15965,7 +15965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.529732, 47.3788]
+        "coordinates": [8.5297319999999992, 47.378799999999998]
       },
       "properties": {
         "date": "2019-09-05",
@@ -15977,7 +15977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.541901, 47.37115]
+        "coordinates": [8.5419009999999993, 47.37115]
       },
       "properties": {
         "date": "2019-09-05",
@@ -15989,7 +15989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.006595, 47.85086]
+        "coordinates": [9.0065950000000008, 47.850859999999997]
       },
       "properties": {
         "date": "2019-09-06",
@@ -16001,7 +16001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.544076, 47.37635]
+        "coordinates": [8.5440760000000004, 47.376350000000002]
       },
       "properties": {
         "date": "2019-09-07",
@@ -16013,7 +16013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.544154, 47.3766]
+        "coordinates": [8.5441540000000007, 47.376600000000003]
       },
       "properties": {
         "date": "2019-09-08",
@@ -16025,7 +16025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67856, 47.37439]
+        "coordinates": [8.6785599999999992, 47.374389999999998]
       },
       "properties": {
         "date": "2019-09-11",
@@ -16037,7 +16037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69037, 47.3433]
+        "coordinates": [8.6903699999999997, 47.343299999999999]
       },
       "properties": {
         "date": "2019-09-15",
@@ -16049,7 +16049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68106, 47.36062]
+        "coordinates": [8.6810600000000004, 47.360619999999997]
       },
       "properties": {
         "date": "2019-09-15",
@@ -16061,7 +16061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41985, 47.02955]
+        "coordinates": [8.4198500000000003, 47.02955]
       },
       "properties": {
         "date": "2019-09-18",
@@ -16073,7 +16073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43328, 47.03173]
+        "coordinates": [8.4332799999999999, 47.031730000000003]
       },
       "properties": {
         "date": "2019-09-18",
@@ -16085,7 +16085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46535, 47.04393]
+        "coordinates": [8.4653500000000008, 47.043930000000003]
       },
       "properties": {
         "date": "2019-09-19",
@@ -16097,7 +16097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46837, 47.04817]
+        "coordinates": [8.4683700000000002, 47.048169999999999]
       },
       "properties": {
         "date": "2019-09-19",
@@ -16109,7 +16109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49237, 47.05113]
+        "coordinates": [8.4923699999999993, 47.051130000000001]
       },
       "properties": {
         "date": "2019-09-19",
@@ -16121,7 +16121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48266, 47.00944]
+        "coordinates": [8.4826599999999992, 47.009439999999998]
       },
       "properties": {
         "date": "2019-09-19",
@@ -16133,7 +16133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67187, 47.38157]
+        "coordinates": [8.6718700000000002, 47.381570000000004]
       },
       "properties": {
         "date": "2019-09-22",
@@ -16145,7 +16145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56656, 47.42377]
+        "coordinates": [8.5665600000000008, 47.423769999999998]
       },
       "properties": {
         "date": "2019-09-24",
@@ -16157,7 +16157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55113, 47.44308]
+        "coordinates": [8.5511300000000006, 47.443080000000002]
       },
       "properties": {
         "date": "2019-09-25",
@@ -16169,7 +16169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.762394, 45.19393]
+        "coordinates": [5.7623939999999996, 45.193930000000002]
       },
       "properties": {
         "date": "2019-09-26",
@@ -16181,7 +16181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.72723, 45.19037]
+        "coordinates": [5.7272299999999996, 45.190370000000001]
       },
       "properties": {
         "date": "2019-09-26",
@@ -16193,7 +16193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728504, 45.19288]
+        "coordinates": [5.728504, 45.192880000000002]
       },
       "properties": {
         "date": "2019-09-26",
@@ -16205,7 +16205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.730576, 45.19026]
+        "coordinates": [5.7305760000000001, 45.190260000000002]
       },
       "properties": {
         "date": "2019-09-27",
@@ -16217,7 +16217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.72436, 45.19866]
+        "coordinates": [5.7243599999999999, 45.198659999999997]
       },
       "properties": {
         "date": "2019-09-27",
@@ -16229,7 +16229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.7252, 45.19866]
+        "coordinates": [5.7252000000000001, 45.198659999999997]
       },
       "properties": {
         "date": "2019-09-27",
@@ -16241,7 +16241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.72607, 45.19296]
+        "coordinates": [5.72607, 45.192959999999999]
       },
       "properties": {
         "date": "2019-09-27",
@@ -16253,7 +16253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.71436, 45.19135]
+        "coordinates": [5.7143600000000001, 45.19135]
       },
       "properties": {
         "date": "2019-09-27",
@@ -16265,7 +16265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.083156, 53.96168]
+        "coordinates": [-1.083156, 53.961680000000001]
       },
       "properties": {
         "date": "2019-09-29",
@@ -16277,7 +16277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.617063, 54.96863]
+        "coordinates": [-1.6170629999999999, 54.968629999999997]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16289,7 +16289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.616849, 54.96947]
+        "coordinates": [-1.616849, 54.969470000000001]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16301,7 +16301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.613155, 54.97383]
+        "coordinates": [-1.6131549999999999, 54.97383]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16313,7 +16313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.428437, 55.01731]
+        "coordinates": [-1.428437, 55.017310000000002]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16325,7 +16325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.42052, 55.01863]
+        "coordinates": [-1.42052, 55.018630000000002]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16337,7 +16337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.423081, 55.02335]
+        "coordinates": [-1.423081, 55.023350000000001]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16349,7 +16349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.599478, 54.97051]
+        "coordinates": [-1.599478, 54.970509999999997]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16361,7 +16361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.60437, 54.96926]
+        "coordinates": [-1.6043700000000001, 54.969259999999998]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16373,7 +16373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.611173, 54.97244]
+        "coordinates": [-1.611173, 54.972439999999999]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16385,7 +16385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.616687, 54.96963]
+        "coordinates": [-1.616687, 54.969630000000002]
       },
       "properties": {
         "date": "2019-10-05",
@@ -16397,7 +16397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.563059, 47.39295]
+        "coordinates": [8.5630590000000009, 47.392949999999999]
       },
       "properties": {
         "date": "2019-10-07",
@@ -16409,7 +16409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.564805, 47.45398]
+        "coordinates": [8.5648049999999998, 47.453980000000001]
       },
       "properties": {
         "date": "2019-10-10",
@@ -16421,7 +16421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98492, 47.3194]
+        "coordinates": [8.9849200000000007, 47.319400000000002]
       },
       "properties": {
         "date": "2019-10-13",
@@ -16433,7 +16433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96891, 47.30942]
+        "coordinates": [8.9689099999999993, 47.309420000000003]
       },
       "properties": {
         "date": "2019-10-13",
@@ -16445,7 +16445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95763, 47.3176]
+        "coordinates": [8.95763, 47.317599999999999]
       },
       "properties": {
         "date": "2019-10-13",
@@ -16457,7 +16457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93457, 47.34945]
+        "coordinates": [8.9345700000000008, 47.349449999999997]
       },
       "properties": {
         "date": "2019-10-13",
@@ -16469,7 +16469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56217, 47.3896]
+        "coordinates": [8.5621700000000001, 47.389600000000002]
       },
       "properties": {
         "date": "2019-10-19",
@@ -16481,7 +16481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.99513, 47.28467]
+        "coordinates": [8.9951299999999996, 47.284669999999998]
       },
       "properties": {
         "date": "2019-10-20",
@@ -16493,7 +16493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.00769, 47.27841]
+        "coordinates": [9.0076900000000002, 47.278410000000001]
       },
       "properties": {
         "date": "2019-10-20",
@@ -16505,7 +16505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02034, 47.2981]
+        "coordinates": [9.0203399999999991, 47.298099999999998]
       },
       "properties": {
         "date": "2019-10-20",
@@ -16517,7 +16517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.01477, 47.29843]
+        "coordinates": [9.0147700000000004, 47.298430000000003]
       },
       "properties": {
         "date": "2019-10-20",
@@ -16529,7 +16529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.01077, 47.29919]
+        "coordinates": [9.0107700000000008, 47.299190000000003]
       },
       "properties": {
         "date": "2019-10-20",
@@ -16541,7 +16541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54325, 47.37996]
+        "coordinates": [8.5432500000000005, 47.379959999999997]
       },
       "properties": {
         "date": "2019-10-23",
@@ -16553,7 +16553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.081889, 53.96009]
+        "coordinates": [-1.0818890000000001, 53.960090000000001]
       },
       "properties": {
         "date": "2019-10-26",
@@ -16565,7 +16565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.077128, 53.95485]
+        "coordinates": [-1.0771280000000001, 53.95485]
       },
       "properties": {
         "date": "2019-10-26",
@@ -16577,7 +16577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.077524, 53.95681]
+        "coordinates": [-1.0775239999999999, 53.956809999999997]
       },
       "properties": {
         "date": "2019-10-27",
@@ -16589,7 +16589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.067174, 53.95689]
+        "coordinates": [-1.0671740000000001, 53.956890000000001]
       },
       "properties": {
         "date": "2019-10-28",
@@ -16601,7 +16601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.085043, 53.95165]
+        "coordinates": [-1.085043, 53.951650000000001]
       },
       "properties": {
         "date": "2019-10-28",
@@ -16613,7 +16613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9176, 54.418]
+        "coordinates": [-0.91759999999999997, 54.417999999999999]
       },
       "properties": {
         "date": "2019-11-01",
@@ -16625,7 +16625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0703, 54.2416]
+        "coordinates": [-1.0703, 54.241599999999998]
       },
       "properties": {
         "date": "2019-11-01",
@@ -16637,7 +16637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54789, 47.37998]
+        "coordinates": [8.5478900000000007, 47.379980000000003]
       },
       "properties": {
         "date": "2019-11-05",
@@ -16649,7 +16649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.43749, 46.94702]
+        "coordinates": [7.4374900000000004, 46.947020000000002]
       },
       "properties": {
         "date": "2019-11-06",
@@ -16661,7 +16661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.43244, 46.94684]
+        "coordinates": [7.4324399999999997, 46.946840000000002]
       },
       "properties": {
         "date": "2019-11-06",
@@ -16673,7 +16673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.47999, 46.97358]
+        "coordinates": [7.4799899999999999, 46.973579999999998]
       },
       "properties": {
         "date": "2019-11-08",
@@ -16685,7 +16685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.606984, 47.40333]
+        "coordinates": [8.6069840000000006, 47.403329999999997]
       },
       "properties": {
         "date": "2019-11-11",
@@ -16697,7 +16697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53367, 47.38478]
+        "coordinates": [8.5336700000000008, 47.384779999999999]
       },
       "properties": {
         "date": "2019-11-24",
@@ -16709,7 +16709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.506852, 47.40868]
+        "coordinates": [8.5068520000000003, 47.408679999999997]
       },
       "properties": {
         "date": "2019-11-27",
@@ -16721,7 +16721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58409, 47.38544]
+        "coordinates": [8.5840899999999998, 47.385440000000003]
       },
       "properties": {
         "date": "2019-11-28",
@@ -16733,7 +16733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.039969, 47.36265]
+        "coordinates": [9.0399689999999993, 47.362650000000002]
       },
       "properties": {
         "date": "2019-12-01",
@@ -16745,7 +16745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.619753, 47.39807]
+        "coordinates": [8.6197529999999993, 47.398069999999997]
       },
       "properties": {
         "date": "2019-12-03",
@@ -16757,7 +16757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.539902, 47.37009]
+        "coordinates": [8.5399019999999997, 47.370089999999998]
       },
       "properties": {
         "date": "2019-12-04",
@@ -16769,7 +16769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.175152, 47.65852]
+        "coordinates": [9.1751520000000006, 47.658520000000003]
       },
       "properties": {
         "date": "2019-12-05",
@@ -16781,7 +16781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39093, 37.61617]
+        "coordinates": [-122.39093, 37.616169999999997]
       },
       "properties": {
         "date": "2019-12-07",
@@ -16793,7 +16793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39671, 37.79295]
+        "coordinates": [-122.39671, 37.792949999999998]
       },
       "properties": {
         "date": "2019-12-07",
@@ -16829,7 +16829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.395095, 37.7968]
+        "coordinates": [-122.395095, 37.796799999999998]
       },
       "properties": {
         "date": "2019-12-08",
@@ -16841,7 +16841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.424913, 37.81072]
+        "coordinates": [-122.424913, 37.810720000000003]
       },
       "properties": {
         "date": "2019-12-08",
@@ -16853,7 +16853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.407445, 37.78749]
+        "coordinates": [-122.407445, 37.787489999999998]
       },
       "properties": {
         "date": "2019-12-08",
@@ -16865,7 +16865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.403834, 37.78327]
+        "coordinates": [-122.403834, 37.783270000000002]
       },
       "properties": {
         "date": "2019-12-08",
@@ -16877,7 +16877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.406252, 37.79777]
+        "coordinates": [-122.40625199999999, 37.79777]
       },
       "properties": {
         "date": "2019-12-08",
@@ -16889,7 +16889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.41894, 37.80208]
+        "coordinates": [-122.41894000000001, 37.802079999999997]
       },
       "properties": {
         "date": "2019-12-09",
@@ -16901,7 +16901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.40569, 37.80212]
+        "coordinates": [-122.40569000000001, 37.802120000000002]
       },
       "properties": {
         "date": "2019-12-09",
@@ -16913,7 +16913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.40407, 37.80205]
+        "coordinates": [-122.40407, 37.802050000000001]
       },
       "properties": {
         "date": "2019-12-09",
@@ -16925,7 +16925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.398827, 37.78352]
+        "coordinates": [-122.398827, 37.783520000000003]
       },
       "properties": {
         "date": "2019-12-09",
@@ -16937,7 +16937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.395607, 37.79481]
+        "coordinates": [-122.395607, 37.794809999999998]
       },
       "properties": {
         "date": "2019-12-09",
@@ -16949,7 +16949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4112, 37.8108]
+        "coordinates": [-122.41119999999999, 37.8108]
       },
       "properties": {
         "date": "2019-12-10",
@@ -16961,7 +16961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.405956, 37.79624]
+        "coordinates": [-122.405956, 37.796239999999997]
       },
       "properties": {
         "date": "2019-12-10",
@@ -16973,7 +16973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.38548, 37.77847]
+        "coordinates": [-122.38548, 37.778469999999999]
       },
       "properties": {
         "date": "2019-12-11",
@@ -16985,7 +16985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.41525, 37.80411]
+        "coordinates": [-122.41525, 37.804110000000001]
       },
       "properties": {
         "date": "2019-12-11",
@@ -16997,7 +16997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39925, 37.7935]
+        "coordinates": [-122.39924999999999, 37.793500000000002]
       },
       "properties": {
         "date": "2019-12-12",
@@ -17009,7 +17009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.432805, 37.77625]
+        "coordinates": [-122.432805, 37.776249999999997]
       },
       "properties": {
         "date": "2019-12-13",
@@ -17021,7 +17021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.418637, 37.77936]
+        "coordinates": [-122.418637, 37.779359999999997]
       },
       "properties": {
         "date": "2019-12-13",
@@ -17033,7 +17033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.408004, 37.79901]
+        "coordinates": [-122.40800400000001, 37.799010000000003]
       },
       "properties": {
         "date": "2019-12-13",
@@ -17045,7 +17045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.47472, 37.80768]
+        "coordinates": [-122.47472, 37.807679999999998]
       },
       "properties": {
         "date": "2019-12-14",
@@ -17057,7 +17057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4785, 37.8183]
+        "coordinates": [-122.4785, 37.818300000000001]
       },
       "properties": {
         "date": "2019-12-14",
@@ -17081,7 +17081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.48172, 37.82773]
+        "coordinates": [-122.48172, 37.827730000000003]
       },
       "properties": {
         "date": "2019-12-14",
@@ -17093,7 +17093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.47993, 37.85667]
+        "coordinates": [-122.47993, 37.856670000000001]
       },
       "properties": {
         "date": "2019-12-14",
@@ -17117,7 +17117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.454265, 37.80627]
+        "coordinates": [-122.45426500000001, 37.806269999999998]
       },
       "properties": {
         "date": "2019-12-15",
@@ -17129,7 +17129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.429677, 37.80678]
+        "coordinates": [-122.429677, 37.806780000000003]
       },
       "properties": {
         "date": "2019-12-15",
@@ -17141,7 +17141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39388, 37.79634]
+        "coordinates": [-122.39388, 37.796340000000001]
       },
       "properties": {
         "date": "2019-12-15",
@@ -17153,7 +17153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.40423, 37.80293]
+        "coordinates": [-122.40423, 37.802930000000003]
       },
       "properties": {
         "date": "2019-12-16",
@@ -17165,7 +17165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85335, 47.31105]
+        "coordinates": [8.8533500000000007, 47.311050000000002]
       },
       "properties": {
         "date": "2020-01-12",
@@ -17177,7 +17177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.88572, 47.29419]
+        "coordinates": [8.8857199999999992, 47.29419]
       },
       "properties": {
         "date": "2020-01-12",
@@ -17189,7 +17189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86711, 47.30883]
+        "coordinates": [8.8671100000000003, 47.30883]
       },
       "properties": {
         "date": "2020-01-12",
@@ -17201,7 +17201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85658, 47.30839]
+        "coordinates": [8.8565799999999992, 47.308390000000003]
       },
       "properties": {
         "date": "2020-01-12",
@@ -17213,7 +17213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.818427, 47.22699]
+        "coordinates": [8.8184269999999998, 47.226990000000001]
       },
       "properties": {
         "date": "2020-01-19",
@@ -17225,7 +17225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46613, 47.04372]
+        "coordinates": [8.4661299999999997, 47.04372]
       },
       "properties": {
         "date": "2020-01-22",
@@ -17237,7 +17237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.295822, 47.05265]
+        "coordinates": [8.2958219999999994, 47.05265]
       },
       "properties": {
         "date": "2020-01-22",
@@ -17249,7 +17249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.298239, 47.05139]
+        "coordinates": [8.2982390000000006, 47.051389999999998]
       },
       "properties": {
         "date": "2020-01-22",
@@ -17261,7 +17261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.300726, 47.05289]
+        "coordinates": [8.3007259999999992, 47.052889999999998]
       },
       "properties": {
         "date": "2020-01-22",
@@ -17273,7 +17273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.653, 47.36009]
+        "coordinates": [8.6530000000000005, 47.36009]
       },
       "properties": {
         "date": "2020-01-25",
@@ -17285,7 +17285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6434606, 47.36578]
+        "coordinates": [8.6434605999999992, 47.365780000000001]
       },
       "properties": {
         "date": "2020-01-25",
@@ -17297,7 +17297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6181, 47.33678]
+        "coordinates": [8.6181000000000001, 47.336779999999997]
       },
       "properties": {
         "date": "2020-01-25",
@@ -17309,7 +17309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52442, 47.38787]
+        "coordinates": [8.5244199999999992, 47.387869999999999]
       },
       "properties": {
         "date": "2020-01-25",
@@ -17321,7 +17321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.534737, 47.373]
+        "coordinates": [8.5347369999999998, 47.372999999999998]
       },
       "properties": {
         "date": "2020-01-30",
@@ -17333,7 +17333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55312, 47.38808]
+        "coordinates": [8.5531199999999998, 47.388080000000002]
       },
       "properties": {
         "date": "2020-02-09",
@@ -17345,7 +17345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55956, 47.38453]
+        "coordinates": [8.5595599999999994, 47.384529999999998]
       },
       "properties": {
         "date": "2020-02-09",
@@ -17357,7 +17357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.533221, 47.37732]
+        "coordinates": [8.5332209999999993, 47.377319999999997]
       },
       "properties": {
         "date": "2020-02-14",
@@ -17369,7 +17369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.28337, 47.31731]
+        "coordinates": [9.2833699999999997, 47.317309999999999]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17381,7 +17381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.308141, 47.2558]
+        "coordinates": [9.3081410000000009, 47.255800000000001]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17393,7 +17393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.31841, 47.2562]
+        "coordinates": [9.3184100000000001, 47.2562]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17405,7 +17405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.31757, 47.25647]
+        "coordinates": [9.3175699999999999, 47.25647]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17417,7 +17417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.343223, 47.24936]
+        "coordinates": [9.3432230000000001, 47.249360000000003]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17429,7 +17429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.40799, 47.3318]
+        "coordinates": [9.4079899999999999, 47.331800000000001]
       },
       "properties": {
         "date": "2020-02-16",
@@ -17441,7 +17441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.539257, 47.3777]
+        "coordinates": [8.5392569999999992, 47.377699999999997]
       },
       "properties": {
         "date": "2020-02-17",
@@ -17453,7 +17453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.23075, 53.47743]
+        "coordinates": [-2.23075, 53.477429999999998]
       },
       "properties": {
         "date": "2020-02-23",
@@ -17465,7 +17465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084829, 53.96273]
+        "coordinates": [-1.084829, 53.962730000000001]
       },
       "properties": {
         "date": "2020-02-23",
@@ -17477,7 +17477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.084014, 53.95494]
+        "coordinates": [-1.084014, 53.954940000000001]
       },
       "properties": {
         "date": "2020-02-23",
@@ -17489,7 +17489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.679573, 47.36781]
+        "coordinates": [8.6795729999999995, 47.367809999999999]
       },
       "properties": {
         "date": "2020-03-07",
@@ -17501,7 +17501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95347, 47.39742]
+        "coordinates": [8.9534699999999994, 47.397419999999997]
       },
       "properties": {
         "date": "2020-03-08",
@@ -17513,7 +17513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.908805, 47.56411]
+        "coordinates": [8.9088049999999992, 47.564109999999999]
       },
       "properties": {
         "date": "2020-03-10",
@@ -17525,7 +17525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.967252, 47.41185]
+        "coordinates": [8.9672520000000002, 47.411850000000001]
       },
       "properties": {
         "date": "2020-03-15",
@@ -17537,7 +17537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.180938, 47.46267]
+        "coordinates": [8.1809379999999994, 47.462670000000003]
       },
       "properties": {
         "date": "2020-03-22",
@@ -17549,7 +17549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.211384, 47.48577]
+        "coordinates": [8.2113840000000007, 47.485770000000002]
       },
       "properties": {
         "date": "2020-03-22",
@@ -17561,7 +17561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.214744, 47.52629]
+        "coordinates": [8.2147439999999996, 47.526290000000003]
       },
       "properties": {
         "date": "2020-03-22",
@@ -17585,7 +17585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63812, 47.41649]
+        "coordinates": [8.6381200000000007, 47.416490000000003]
       },
       "properties": {
         "date": "2020-04-10",
@@ -17597,7 +17597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65004, 47.41274]
+        "coordinates": [8.6500400000000006, 47.412739999999999]
       },
       "properties": {
         "date": "2020-04-10",
@@ -17609,7 +17609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6712, 47.4055]
+        "coordinates": [8.6712000000000007, 47.405500000000004]
       },
       "properties": {
         "date": "2020-04-11",
@@ -17621,7 +17621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65497, 47.4127]
+        "coordinates": [8.6549700000000005, 47.412700000000001]
       },
       "properties": {
         "date": "2020-04-11",
@@ -17633,7 +17633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94554, 47.32816]
+        "coordinates": [8.9455399999999994, 47.328159999999997]
       },
       "properties": {
         "date": "2020-05-03",
@@ -17645,7 +17645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9363, 47.32757]
+        "coordinates": [8.9362999999999992, 47.327570000000001]
       },
       "properties": {
         "date": "2020-05-03",
@@ -17657,7 +17657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94874, 47.31311]
+        "coordinates": [8.9487400000000008, 47.313110000000002]
       },
       "properties": {
         "date": "2020-05-03",
@@ -17669,7 +17669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.440401, 46.95012]
+        "coordinates": [7.4404009999999996, 46.950119999999998]
       },
       "properties": {
         "date": "2020-05-07",
@@ -17681,7 +17681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.44432, 46.94958]
+        "coordinates": [7.4443200000000003, 46.949579999999997]
       },
       "properties": {
         "date": "2020-05-07",
@@ -17693,7 +17693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.541373, 47.20969]
+        "coordinates": [7.5413730000000001, 47.209690000000002]
       },
       "properties": {
         "date": "2020-05-07",
@@ -17705,7 +17705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.671418, 47.38099]
+        "coordinates": [8.6714179999999992, 47.380989999999997]
       },
       "properties": {
         "date": "2020-05-07",
@@ -17717,7 +17717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96516, 47.3195]
+        "coordinates": [8.9651599999999991, 47.319499999999998]
       },
       "properties": {
         "date": "2020-05-10",
@@ -17729,7 +17729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70331, 47.4507]
+        "coordinates": [8.7033100000000001, 47.450699999999998]
       },
       "properties": {
         "date": "2020-05-17",
@@ -17741,7 +17741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74362, 47.45671]
+        "coordinates": [8.7436199999999999, 47.456710000000001]
       },
       "properties": {
         "date": "2020-05-17",
@@ -17753,7 +17753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71498, 47.44972]
+        "coordinates": [8.7149800000000006, 47.449719999999999]
       },
       "properties": {
         "date": "2020-05-22",
@@ -17765,7 +17765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73197, 47.45767]
+        "coordinates": [8.7319700000000005, 47.45767]
       },
       "properties": {
         "date": "2020-05-22",
@@ -17777,7 +17777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74397, 47.45813]
+        "coordinates": [8.7439699999999991, 47.458129999999997]
       },
       "properties": {
         "date": "2020-05-22",
@@ -17789,7 +17789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.538587, 47.20814]
+        "coordinates": [7.5385869999999997, 47.20814]
       },
       "properties": {
         "date": "2020-06-01",
@@ -17801,7 +17801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.539324, 47.20631]
+        "coordinates": [7.5393239999999997, 47.206310000000002]
       },
       "properties": {
         "date": "2020-06-01",
@@ -17813,7 +17813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.535953, 47.20603]
+        "coordinates": [7.5359530000000001, 47.206029999999998]
       },
       "properties": {
         "date": "2020-06-01",
@@ -17825,7 +17825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.492578, 47.23667]
+        "coordinates": [7.492578, 47.236669999999997]
       },
       "properties": {
         "date": "2020-06-01",
@@ -17837,7 +17837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.558847, 47.25083]
+        "coordinates": [7.5588470000000001, 47.250830000000001]
       },
       "properties": {
         "date": "2020-06-01",
@@ -17849,7 +17849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75981, 47.142]
+        "coordinates": [8.7598099999999999, 47.142000000000003]
       },
       "properties": {
         "date": "2020-06-21",
@@ -17861,7 +17861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76724, 47.16744]
+        "coordinates": [8.7672399999999993, 47.167439999999999]
       },
       "properties": {
         "date": "2020-06-21",
@@ -17873,7 +17873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77227, 47.17349]
+        "coordinates": [8.7722700000000007, 47.173490000000001]
       },
       "properties": {
         "date": "2020-06-21",
@@ -17885,7 +17885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76738, 47.17758]
+        "coordinates": [8.7673799999999993, 47.177579999999999]
       },
       "properties": {
         "date": "2020-06-21",
@@ -17897,7 +17897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77927, 47.13045]
+        "coordinates": [8.7792700000000004, 47.130450000000003]
       },
       "properties": {
         "date": "2020-06-21",
@@ -17909,7 +17909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.491176, 47.38187]
+        "coordinates": [8.4911759999999994, 47.381869999999999]
       },
       "properties": {
         "date": "2020-06-27",
@@ -17921,7 +17921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62655, 47.39076]
+        "coordinates": [8.6265499999999999, 47.39076]
       },
       "properties": {
         "date": "2020-07-12",
@@ -17933,7 +17933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62716, 47.38961]
+        "coordinates": [8.6271599999999999, 47.389609999999998]
       },
       "properties": {
         "date": "2020-07-12",
@@ -17945,7 +17945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62372, 47.39399]
+        "coordinates": [8.6237200000000005, 47.393990000000002]
       },
       "properties": {
         "date": "2020-07-12",
@@ -17957,7 +17957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.573956, 47.38427]
+        "coordinates": [8.5739560000000008, 47.384270000000001]
       },
       "properties": {
         "date": "2020-07-13",
@@ -17969,7 +17969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30612, 47.04971]
+        "coordinates": [8.3061199999999999, 47.049709999999997]
       },
       "properties": {
         "date": "2020-07-19",
@@ -17981,7 +17981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.3074, 47.05217]
+        "coordinates": [8.3073999999999995, 47.052169999999997]
       },
       "properties": {
         "date": "2020-07-19",
@@ -17993,7 +17993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63489, 47.38138]
+        "coordinates": [8.6348900000000004, 47.38138]
       },
       "properties": {
         "date": "2020-07-25",
@@ -18005,7 +18005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.81606, 47.22561]
+        "coordinates": [8.8160600000000002, 47.225610000000003]
       },
       "properties": {
         "date": "2020-08-01",
@@ -18017,7 +18017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53123, 46.85223]
+        "coordinates": [9.5312300000000008, 46.852229999999999]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18029,7 +18029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.85388, 46.83299]
+        "coordinates": [9.8538800000000002, 46.832990000000002]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18041,7 +18041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.85521, 46.82452]
+        "coordinates": [9.8552099999999996, 46.82452]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18053,7 +18053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.85422, 46.82448]
+        "coordinates": [9.8542199999999998, 46.824480000000001]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18065,7 +18065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.8358, 46.80168]
+        "coordinates": [9.8358000000000008, 46.801679999999998]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18077,7 +18077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.83428, 46.80143]
+        "coordinates": [9.8342799999999997, 46.801430000000003]
       },
       "properties": {
         "date": "2020-08-06",
@@ -18089,7 +18089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.82253, 46.8026]
+        "coordinates": [9.8225300000000004, 46.802599999999998]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18101,7 +18101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.81776, 46.8042]
+        "coordinates": [9.8177599999999998, 46.804200000000002]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18113,7 +18113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.81237, 46.80719]
+        "coordinates": [9.8123699999999996, 46.807189999999999]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18125,7 +18125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.94758, 46.75012]
+        "coordinates": [9.9475800000000003, 46.750120000000003]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18137,7 +18137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.07883, 46.72837]
+        "coordinates": [10.07883, 46.728369999999998]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18149,7 +18149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.8389, 46.48887]
+        "coordinates": [9.8389000000000006, 46.488869999999999]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18161,7 +18161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.83912, 46.48881]
+        "coordinates": [9.8391199999999994, 46.488810000000001]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18173,7 +18173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.02157, 46.41087]
+        "coordinates": [10.021570000000001, 46.410870000000003]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18185,7 +18185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.02234, 46.40924]
+        "coordinates": [10.02234, 46.409239999999997]
       },
       "properties": {
         "date": "2020-08-07",
@@ -18197,7 +18197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.522, 47.13981]
+        "coordinates": [9.5220000000000002, 47.139809999999997]
       },
       "properties": {
         "date": "2020-08-08",
@@ -18209,7 +18209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.52239, 47.14066]
+        "coordinates": [9.5223899999999997, 47.140659999999997]
       },
       "properties": {
         "date": "2020-08-08",
@@ -18221,7 +18221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.06994, 47.03945]
+        "coordinates": [9.0699400000000008, 47.039450000000002]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18233,7 +18233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.99908, 46.91967]
+        "coordinates": [8.9990799999999993, 46.919670000000004]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18245,7 +18245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90078, 46.88995]
+        "coordinates": [8.9007799999999992, 46.889949999999999]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18257,7 +18257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85544, 46.86819]
+        "coordinates": [8.8554399999999998, 46.868189999999998]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18269,7 +18269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.83685, 46.87229]
+        "coordinates": [8.8368500000000001, 46.87229]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18281,7 +18281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6439, 46.88166]
+        "coordinates": [8.6439000000000004, 46.881659999999997]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18293,7 +18293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62566, 46.90208]
+        "coordinates": [8.6256599999999999, 46.902079999999998]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18305,7 +18305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63394, 46.90637]
+        "coordinates": [8.6339400000000008, 46.906370000000003]
       },
       "properties": {
         "date": "2020-08-16",
@@ -18317,7 +18317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.32793, 47.1885]
+        "coordinates": [9.3279300000000003, 47.188499999999998]
       },
       "properties": {
         "date": "2020-08-23",
@@ -18329,7 +18329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.31181, 47.18482]
+        "coordinates": [9.3118099999999995, 47.184820000000002]
       },
       "properties": {
         "date": "2020-08-23",
@@ -18341,7 +18341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.29643, 47.1826]
+        "coordinates": [9.2964300000000009, 47.182600000000001]
       },
       "properties": {
         "date": "2020-08-23",
@@ -18353,7 +18353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.30209, 47.17062]
+        "coordinates": [9.3020899999999997, 47.17062]
       },
       "properties": {
         "date": "2020-08-23",
@@ -18365,7 +18365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.37152, 47.42282]
+        "coordinates": [9.3715200000000003, 47.422820000000002]
       },
       "properties": {
         "date": "2020-08-30",
@@ -18377,7 +18377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.379619, 47.41944]
+        "coordinates": [9.3796189999999999, 47.419440000000002]
       },
       "properties": {
         "date": "2020-08-30",
@@ -18389,7 +18389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.34372, 47.37263]
+        "coordinates": [9.3437199999999994, 47.372630000000001]
       },
       "properties": {
         "date": "2020-08-30",
@@ -18401,7 +18401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.23198, 47.24283]
+        "coordinates": [9.2319800000000001, 47.242829999999998]
       },
       "properties": {
         "date": "2020-08-30",
@@ -18413,7 +18413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.521803, 47.57525]
+        "coordinates": [8.5218030000000002, 47.575249999999997]
       },
       "properties": {
         "date": "2020-09-01",
@@ -18425,7 +18425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.570884, 47.61396]
+        "coordinates": [8.5708839999999995, 47.613959999999999]
       },
       "properties": {
         "date": "2020-09-01",
@@ -18437,7 +18437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.565178, 47.64765]
+        "coordinates": [8.5651779999999995, 47.647649999999999]
       },
       "properties": {
         "date": "2020-09-01",
@@ -18449,7 +18449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.574636, 47.65424]
+        "coordinates": [8.5746359999999999, 47.654240000000001]
       },
       "properties": {
         "date": "2020-09-01",
@@ -18461,7 +18461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.13698, 46.75687]
+        "coordinates": [8.1369799999999994, 46.756869999999999]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18473,7 +18473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90877, 46.59819]
+        "coordinates": [7.9087699999999996, 46.598190000000002]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18485,7 +18485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90351, 46.58905]
+        "coordinates": [7.9035099999999998, 46.58905]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18497,7 +18497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.89609, 46.58204]
+        "coordinates": [7.8960900000000001, 46.582039999999999]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18509,7 +18509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.89393, 46.55977]
+        "coordinates": [7.8939300000000001, 46.55977]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18521,7 +18521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.89199, 46.54642]
+        "coordinates": [7.8919899999999998, 46.546419999999998]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18533,7 +18533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90181, 46.55514]
+        "coordinates": [7.9018100000000002, 46.555140000000002]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18545,7 +18545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.447519, 46.72951]
+        "coordinates": [8.4475189999999998, 46.729509999999998]
       },
       "properties": {
         "date": "2020-09-05",
@@ -18557,7 +18557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5932, 46.6365]
+        "coordinates": [8.5931999999999995, 46.636499999999998]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18569,7 +18569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5671, 46.55581]
+        "coordinates": [8.5670999999999999, 46.555810000000001]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18581,7 +18581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.38781, 46.47715]
+        "coordinates": [8.38781, 46.477150000000002]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18593,7 +18593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30629, 46.50721]
+        "coordinates": [8.3062900000000006, 46.507210000000001]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18605,7 +18605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36137, 46.56215]
+        "coordinates": [8.3613700000000009, 46.562150000000003]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18617,7 +18617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.33738, 46.56133]
+        "coordinates": [8.3373799999999996, 46.561329999999998]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18629,7 +18629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41511, 46.5727]
+        "coordinates": [8.4151100000000003, 46.572699999999998]
       },
       "properties": {
         "date": "2020-09-12",
@@ -18641,7 +18641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.39006, 47.46243]
+        "coordinates": [8.3900600000000001, 47.462429999999998]
       },
       "properties": {
         "date": "2020-09-13",
@@ -18653,7 +18653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.160847, 46.67828]
+        "coordinates": [10.160847, 46.678280000000001]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18665,7 +18665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.29246, 46.63967]
+        "coordinates": [10.29246, 46.639670000000002]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18677,7 +18677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.42429, 46.60159]
+        "coordinates": [10.424289999999999, 46.601590000000002]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18689,7 +18689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.458535, 46.63529]
+        "coordinates": [10.458534999999999, 46.635289999999998]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18713,7 +18713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.43318, 46.54168]
+        "coordinates": [10.43318, 46.541679999999999]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18737,7 +18737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.296552, 46.79476]
+        "coordinates": [10.296552, 46.794759999999997]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18761,7 +18761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.203164, 46.77516]
+        "coordinates": [10.203163999999999, 46.77516]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18773,7 +18773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.836461, 46.80309]
+        "coordinates": [9.8364609999999999, 46.803089999999997]
       },
       "properties": {
         "date": "2020-09-19",
@@ -18785,7 +18785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.86066, 46.84979]
+        "coordinates": [9.8606599999999993, 46.849789999999999]
       },
       "properties": {
         "date": "2020-09-20",
@@ -18797,7 +18797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.84632, 46.8584]
+        "coordinates": [9.8463200000000004, 46.858400000000003]
       },
       "properties": {
         "date": "2020-09-20",
@@ -18809,7 +18809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.09838, 47.13528]
+        "coordinates": [9.0983800000000006, 47.135280000000002]
       },
       "properties": {
         "date": "2020-09-27",
@@ -18821,7 +18821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.14156, 47.14911]
+        "coordinates": [9.1415600000000001, 47.14911]
       },
       "properties": {
         "date": "2020-09-27",
@@ -18833,7 +18833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17395, 47.14725]
+        "coordinates": [9.1739499999999996, 47.14725]
       },
       "properties": {
         "date": "2020-09-27",
@@ -18845,7 +18845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.19579, 47.15075]
+        "coordinates": [9.1957900000000006, 47.150750000000002]
       },
       "properties": {
         "date": "2020-09-27",
@@ -18857,7 +18857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.52463, 47.13916]
+        "coordinates": [9.5246300000000002, 47.139159999999997]
       },
       "properties": {
         "date": "2020-09-27",
@@ -18869,7 +18869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.15112, 46.80315]
+        "coordinates": [7.1511199999999997, 46.803150000000002]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18881,7 +18881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.14826, 46.79677]
+        "coordinates": [7.1482599999999996, 46.796770000000002]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18893,7 +18893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.151787, 46.80016]
+        "coordinates": [7.1517869999999997, 46.800159999999998]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18905,7 +18905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16331, 46.80259]
+        "coordinates": [7.1633100000000001, 46.802590000000002]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18917,7 +18917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16736, 46.80261]
+        "coordinates": [7.1673600000000004, 46.802610000000001]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18929,7 +18929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.1651, 46.80499]
+        "coordinates": [7.1650999999999998, 46.804989999999997]
       },
       "properties": {
         "date": "2020-10-09",
@@ -18941,7 +18941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78179, 46.86423]
+        "coordinates": [8.7817900000000009, 46.864229999999999]
       },
       "properties": {
         "date": "2020-10-18",
@@ -18953,7 +18953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.81532, 46.86525]
+        "coordinates": [8.8153199999999998, 46.865250000000003]
       },
       "properties": {
         "date": "2020-10-18",
@@ -18965,7 +18965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82676, 46.86641]
+        "coordinates": [8.8267600000000002, 46.866410000000002]
       },
       "properties": {
         "date": "2020-10-18",
@@ -18977,7 +18977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.00445, 47.03614]
+        "coordinates": [9.0044500000000003, 47.036140000000003]
       },
       "properties": {
         "date": "2020-10-25",
@@ -18989,7 +18989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98844, 47.04284]
+        "coordinates": [8.9884400000000007, 47.042839999999998]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19001,7 +19001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0037, 47.03095]
+        "coordinates": [9.0037000000000003, 47.030949999999997]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19013,7 +19013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0198, 47.03103]
+        "coordinates": [9.0198, 47.031030000000001]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19025,7 +19025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.01307, 47.0343]
+        "coordinates": [9.0130700000000008, 47.034300000000002]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19037,7 +19037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.071166, 47.03946]
+        "coordinates": [9.0711659999999998, 47.039459999999998]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19049,7 +19049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62679, 46.89575]
+        "coordinates": [8.6267899999999997, 46.89575]
       },
       "properties": {
         "date": "2020-10-25",
@@ -19061,7 +19061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.15924, 47.52836]
+        "coordinates": [8.1592400000000005, 47.528359999999999]
       },
       "properties": {
         "date": "2020-10-31",
@@ -19073,7 +19073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.11157, 47.56908]
+        "coordinates": [8.1115700000000004, 47.56908]
       },
       "properties": {
         "date": "2020-10-31",
@@ -19085,7 +19085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.12389, 47.5181]
+        "coordinates": [8.1238899999999994, 47.518099999999997]
       },
       "properties": {
         "date": "2020-10-31",
@@ -19097,7 +19097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.209313, 47.15247]
+        "coordinates": [9.2093129999999999, 47.152470000000001]
       },
       "properties": {
         "date": "2020-11-01",
@@ -19109,7 +19109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.21342, 47.14605]
+        "coordinates": [9.2134199999999993, 47.146050000000002]
       },
       "properties": {
         "date": "2020-11-01",
@@ -19121,7 +19121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.477532, 47.50961]
+        "coordinates": [8.4775320000000001, 47.509610000000002]
       },
       "properties": {
         "date": "2020-11-02",
@@ -19133,7 +19133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47785, 47.51176]
+        "coordinates": [8.4778500000000001, 47.511760000000002]
       },
       "properties": {
         "date": "2020-11-04",
@@ -19145,7 +19145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.31407, 47.12303]
+        "coordinates": [9.3140699999999992, 47.12303]
       },
       "properties": {
         "date": "2020-11-07",
@@ -19157,7 +19157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.30214, 47.12793]
+        "coordinates": [9.3021399999999996, 47.127929999999999]
       },
       "properties": {
         "date": "2020-11-07",
@@ -19169,7 +19169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.28158, 47.13413]
+        "coordinates": [9.2815799999999999, 47.134129999999999]
       },
       "properties": {
         "date": "2020-11-07",
@@ -19181,7 +19181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.28522, 47.14073]
+        "coordinates": [9.2852200000000007, 47.140729999999998]
       },
       "properties": {
         "date": "2020-11-07",
@@ -19193,7 +19193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59174, 47.40602]
+        "coordinates": [8.5917399999999997, 47.406019999999998]
       },
       "properties": {
         "date": "2020-11-07",
@@ -19205,7 +19205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49334, 47.51058]
+        "coordinates": [8.4933399999999999, 47.510579999999997]
       },
       "properties": {
         "date": "2020-11-08",
@@ -19217,7 +19217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78581, 47.34209]
+        "coordinates": [8.7858099999999997, 47.342089999999999]
       },
       "properties": {
         "date": "2020-11-14",
@@ -19229,7 +19229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.2337227, 47.11056]
+        "coordinates": [8.2337226999999995, 47.11056]
       },
       "properties": {
         "date": "2020-11-21",
@@ -19241,7 +19241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5560417, 46.94218]
+        "coordinates": [8.5560416999999998, 46.94218]
       },
       "properties": {
         "date": "2020-11-21",
@@ -19253,7 +19253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7714413, 46.86367]
+        "coordinates": [8.7714412999999993, 46.863669999999999]
       },
       "properties": {
         "date": "2020-11-21",
@@ -19265,7 +19265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7925653, 46.87246]
+        "coordinates": [8.7925652999999997, 46.872459999999997]
       },
       "properties": {
         "date": "2020-11-21",
@@ -19277,7 +19277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.05871, 47.05078]
+        "coordinates": [9.0587099999999996, 47.050780000000003]
       },
       "properties": {
         "date": "2020-11-22",
@@ -19289,7 +19289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02887, 46.62909]
+        "coordinates": [8.0288699999999995, 46.629089999999998]
       },
       "properties": {
         "date": "2020-11-28",
@@ -19301,7 +19301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02461, 46.64583]
+        "coordinates": [8.0246099999999991, 46.645829999999997]
       },
       "properties": {
         "date": "2020-11-28",
@@ -19313,7 +19313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.66812, 46.68504]
+        "coordinates": [7.66812, 46.685040000000001]
       },
       "properties": {
         "date": "2020-11-28",
@@ -19325,7 +19325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1175634, 46.99822]
+        "coordinates": [9.1175633999999999, 46.998220000000003]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19337,7 +19337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1703868, 46.91943]
+        "coordinates": [9.1703867999999993, 46.919429999999998]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19349,7 +19349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1434236, 46.90625]
+        "coordinates": [9.1434236000000002, 46.90625]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19361,7 +19361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1459331, 46.98359]
+        "coordinates": [9.1459331000000006, 46.98359]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19373,7 +19373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.13473, 47.13823]
+        "coordinates": [9.1347299999999994, 47.13823]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19385,7 +19385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.14597, 47.13444]
+        "coordinates": [9.1459700000000002, 47.134439999999998]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19397,7 +19397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.14733, 47.13506]
+        "coordinates": [9.1473300000000002, 47.135060000000003]
       },
       "properties": {
         "date": "2020-12-12",
@@ -19409,7 +19409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6157, 47.3791]
+        "coordinates": [8.6157000000000004, 47.379100000000001]
       },
       "properties": {
         "date": "2020-12-13",
@@ -19421,7 +19421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6235, 47.3723]
+        "coordinates": [8.6234999999999999, 47.372300000000003]
       },
       "properties": {
         "date": "2020-12-13",
@@ -19433,7 +19433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.17798, 46.82064]
+        "coordinates": [8.1779799999999998, 46.820639999999997]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19445,7 +19445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.81847, 46.68807]
+        "coordinates": [7.8184699999999996, 46.688070000000003]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19457,7 +19457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.80953, 46.70346]
+        "coordinates": [7.8095299999999996, 46.70346]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19469,7 +19469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.78342, 46.69129]
+        "coordinates": [7.7834199999999996, 46.691290000000002]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19481,7 +19481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.75477, 46.69338]
+        "coordinates": [7.7547699999999997, 46.693379999999998]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19493,7 +19493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.75218, 46.69542]
+        "coordinates": [7.7521800000000001, 46.695419999999999]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19505,7 +19505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85382, 46.68453]
+        "coordinates": [7.8538199999999998, 46.684530000000002]
       },
       "properties": {
         "date": "2020-12-19",
@@ -19517,7 +19517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.16427, 47.13809]
+        "coordinates": [9.1642700000000001, 47.138089999999998]
       },
       "properties": {
         "date": "2020-12-24",
@@ -19529,7 +19529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48749, 47.35183]
+        "coordinates": [8.4874899999999993, 47.35183]
       },
       "properties": {
         "date": "2020-12-27",
@@ -19541,7 +19541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47294, 47.57499]
+        "coordinates": [8.4729399999999995, 47.57499]
       },
       "properties": {
         "date": "2020-12-27",
@@ -19553,7 +19553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53394, 47.57372]
+        "coordinates": [8.5339399999999994, 47.573720000000002]
       },
       "properties": {
         "date": "2020-12-27",
@@ -19565,7 +19565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91947, 47.10522]
+        "coordinates": [8.9194700000000005, 47.105220000000003]
       },
       "properties": {
         "date": "2020-12-29",
@@ -19577,7 +19577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91164, 47.065]
+        "coordinates": [8.9116400000000002, 47.064999999999998]
       },
       "properties": {
         "date": "2020-12-29",
@@ -19589,7 +19589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75212, 47.1963]
+        "coordinates": [8.7521199999999997, 47.196300000000001]
       },
       "properties": {
         "date": "2020-12-29",
@@ -19601,7 +19601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5479492, 47.4041]
+        "coordinates": [8.5479491999999997, 47.4041]
       },
       "properties": {
         "date": "2020-12-29",
@@ -19613,7 +19613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7811, 47.36415]
+        "coordinates": [8.7811000000000003, 47.364150000000002]
       },
       "properties": {
         "date": "2020-12-31",
@@ -19625,7 +19625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7938957, 47.36037]
+        "coordinates": [8.7938957000000002, 47.360370000000003]
       },
       "properties": {
         "date": "2020-12-31",
@@ -19637,7 +19637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85768, 46.56188]
+        "coordinates": [7.8576800000000002, 46.561880000000002]
       },
       "properties": {
         "date": "2021-01-01",
@@ -19649,7 +19649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.83507, 46.55726]
+        "coordinates": [7.83507, 46.557259999999999]
       },
       "properties": {
         "date": "2021-01-01",
@@ -19661,7 +19661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85801, 46.56169]
+        "coordinates": [7.8580100000000002, 46.561689999999999]
       },
       "properties": {
         "date": "2021-01-01",
@@ -19673,7 +19673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93845, 47.02312]
+        "coordinates": [8.9384499999999996, 47.023119999999999]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19685,7 +19685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94623, 47.0263]
+        "coordinates": [8.9462299999999999, 47.026299999999999]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19697,7 +19697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91172, 47.02279]
+        "coordinates": [8.9117200000000008, 47.022790000000001]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19709,7 +19709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.48941, 47.16909]
+        "coordinates": [9.4894099999999995, 47.169089999999997]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19721,7 +19721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.47416, 47.16623]
+        "coordinates": [9.4741599999999995, 47.166229999999999]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19733,7 +19733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.41, 47.19643]
+        "coordinates": [9.4100000000000001, 47.196429999999999]
       },
       "properties": {
         "date": "2021-01-04",
@@ -19745,7 +19745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7213, 47.31003]
+        "coordinates": [8.7212999999999994, 47.310029999999998]
       },
       "properties": {
         "date": "2021-01-05",
@@ -19757,7 +19757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49002, 47.58127]
+        "coordinates": [8.4900199999999995, 47.581270000000004]
       },
       "properties": {
         "date": "2021-01-06",
@@ -19769,7 +19769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.69697, 46.50204]
+        "coordinates": [7.6969700000000003, 46.502040000000001]
       },
       "properties": {
         "date": "2021-01-08",
@@ -19781,7 +19781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.71386, 46.50076]
+        "coordinates": [7.7138600000000004, 46.50076]
       },
       "properties": {
         "date": "2021-01-08",
@@ -19793,7 +19793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.6746154, 46.68999]
+        "coordinates": [7.6746154000000004, 46.689990000000002]
       },
       "properties": {
         "date": "2021-01-08",
@@ -19805,7 +19805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94251, 47.02555]
+        "coordinates": [8.9425100000000004, 47.025550000000003]
       },
       "properties": {
         "date": "2021-01-22",
@@ -19817,7 +19817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.51166, 47.13245]
+        "coordinates": [9.5116599999999991, 47.132449999999999]
       },
       "properties": {
         "date": "2021-01-22",
@@ -19829,7 +19829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.58902, 47.46732]
+        "coordinates": [9.5890199999999997, 47.467320000000001]
       },
       "properties": {
         "date": "2021-01-29",
@@ -19841,7 +19841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.59399, 47.46462]
+        "coordinates": [9.5939899999999998, 47.464619999999996]
       },
       "properties": {
         "date": "2021-01-29",
@@ -19853,7 +19853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.57789, 47.48802]
+        "coordinates": [9.57789, 47.488019999999999]
       },
       "properties": {
         "date": "2021-01-29",
@@ -19865,7 +19865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.56677, 47.50105]
+        "coordinates": [9.56677, 47.501049999999999]
       },
       "properties": {
         "date": "2021-01-29",
@@ -19877,7 +19877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58459, 47.13735]
+        "coordinates": [8.5845900000000004, 47.137349999999998]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19889,7 +19889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61378, 47.13472]
+        "coordinates": [8.6137800000000002, 47.134720000000002]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19901,7 +19901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63067, 47.12908]
+        "coordinates": [8.6306700000000003, 47.129080000000002]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19913,7 +19913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6278, 47.10541]
+        "coordinates": [8.6278000000000006, 47.105409999999999]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19925,7 +19925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64253, 47.10696]
+        "coordinates": [8.6425300000000007, 47.106960000000001]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19937,7 +19937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43799, 47.2716]
+        "coordinates": [8.4379899999999992, 47.271599999999999]
       },
       "properties": {
         "date": "2021-01-31",
@@ -19949,7 +19949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77858, 47.6224]
+        "coordinates": [8.7785799999999998, 47.622399999999999]
       },
       "properties": {
         "date": "2021-02-05",
@@ -19961,7 +19961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8672, 47.655]
+        "coordinates": [8.8672000000000004, 47.655000000000001]
       },
       "properties": {
         "date": "2021-02-05",
@@ -19973,7 +19973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85909, 47.6597]
+        "coordinates": [8.8590900000000001, 47.659700000000001]
       },
       "properties": {
         "date": "2021-02-05",
@@ -19985,7 +19985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85823, 47.66674]
+        "coordinates": [8.8582300000000007, 47.666739999999997]
       },
       "properties": {
         "date": "2021-02-05",
@@ -19997,7 +19997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87095, 47.67177]
+        "coordinates": [8.8709500000000006, 47.671770000000002]
       },
       "properties": {
         "date": "2021-02-05",
@@ -20009,7 +20009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87386, 47.67088]
+        "coordinates": [8.8738600000000005, 47.670879999999997]
       },
       "properties": {
         "date": "2021-02-05",
@@ -20021,7 +20021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.49932, 47.42309]
+        "coordinates": [7.49932, 47.423090000000002]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20033,7 +20033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.41793, 47.4253]
+        "coordinates": [7.4179300000000001, 47.4253]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20045,7 +20045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.41471, 47.41355]
+        "coordinates": [7.4147100000000004, 47.413550000000001]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20057,7 +20057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.38078, 47.42146]
+        "coordinates": [7.3807799999999997, 47.421460000000003]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20069,7 +20069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.38153, 47.43243]
+        "coordinates": [7.3815299999999997, 47.432429999999997]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20081,7 +20081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.34, 47.44]
+        "coordinates": [7.3399999999999999, 47.439999999999998]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20093,7 +20093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.33568, 47.42622]
+        "coordinates": [7.33568, 47.426220000000001]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20105,7 +20105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.36067, 47.36267]
+        "coordinates": [7.3606699999999998, 47.362670000000001]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20117,7 +20117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.5567, 47.2834]
+        "coordinates": [7.5567000000000002, 47.2834]
       },
       "properties": {
         "date": "2021-02-06",
@@ -20129,7 +20129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.33771, 47.46759]
+        "coordinates": [8.3377099999999995, 47.467590000000001]
       },
       "properties": {
         "date": "2021-02-07",
@@ -20141,7 +20141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.35373, 47.47912]
+        "coordinates": [8.3537300000000005, 47.479120000000002]
       },
       "properties": {
         "date": "2021-02-07",
@@ -20153,7 +20153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.35521, 47.47999]
+        "coordinates": [8.3552099999999996, 47.479990000000001]
       },
       "properties": {
         "date": "2021-02-07",
@@ -20165,7 +20165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34118, 47.47851]
+        "coordinates": [8.3411799999999996, 47.47851]
       },
       "properties": {
         "date": "2021-02-07",
@@ -20177,7 +20177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.27069, 46.9398]
+        "coordinates": [8.2706900000000001, 46.939799999999998]
       },
       "properties": {
         "date": "2021-02-13",
@@ -20189,7 +20189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.29325, 46.9418]
+        "coordinates": [8.2932500000000005, 46.941800000000001]
       },
       "properties": {
         "date": "2021-02-13",
@@ -20201,7 +20201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30021, 46.94092]
+        "coordinates": [8.3002099999999999, 46.940919999999998]
       },
       "properties": {
         "date": "2021-02-13",
@@ -20213,7 +20213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.28343, 46.94143]
+        "coordinates": [8.2834299999999992, 46.941429999999997]
       },
       "properties": {
         "date": "2021-02-13",
@@ -20225,7 +20225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.36236, 47.3611]
+        "coordinates": [9.3623600000000007, 47.3611]
       },
       "properties": {
         "date": "2021-02-14",
@@ -20237,7 +20237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.36697, 47.36916]
+        "coordinates": [9.3669700000000002, 47.369160000000001]
       },
       "properties": {
         "date": "2021-02-14",
@@ -20249,7 +20249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.3662, 47.38458]
+        "coordinates": [9.3661999999999992, 47.38458]
       },
       "properties": {
         "date": "2021-02-14",
@@ -20261,7 +20261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.36275, 47.38676]
+        "coordinates": [9.3627500000000001, 47.386760000000002]
       },
       "properties": {
         "date": "2021-02-14",
@@ -20273,7 +20273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.34798, 47.38781]
+        "coordinates": [9.3479799999999997, 47.387810000000002]
       },
       "properties": {
         "date": "2021-02-14",
@@ -20285,7 +20285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.01942, 46.62437]
+        "coordinates": [8.0194200000000002, 46.624369999999999]
       },
       "properties": {
         "date": "2021-02-17",
@@ -20297,7 +20297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.86105, 46.66313]
+        "coordinates": [7.8610499999999996, 46.663130000000002]
       },
       "properties": {
         "date": "2021-02-17",
@@ -20309,7 +20309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5691, 46.5809]
+        "coordinates": [8.5691000000000006, 46.5809]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20321,7 +20321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61232, 46.52852]
+        "coordinates": [8.6123200000000004, 46.52852]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20333,7 +20333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62381, 46.52928]
+        "coordinates": [8.6238100000000006, 46.52928]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20345,7 +20345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63458, 46.53469]
+        "coordinates": [8.6345799999999997, 46.534689999999998]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20357,7 +20357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62859, 46.52674]
+        "coordinates": [8.6285900000000009, 46.526739999999997]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20369,7 +20369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6539, 46.52291]
+        "coordinates": [8.6539000000000001, 46.522910000000003]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20381,7 +20381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62825, 47.0325]
+        "coordinates": [8.6282499999999995, 47.032499999999999]
       },
       "properties": {
         "date": "2021-02-21",
@@ -20393,7 +20393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61484, 47.67608]
+        "coordinates": [8.6148399999999992, 47.676079999999999]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20405,7 +20405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61382, 47.67683]
+        "coordinates": [8.6138200000000005, 47.676830000000002]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20417,7 +20417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61146, 47.67832]
+        "coordinates": [8.6114599999999992, 47.678319999999999]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20429,7 +20429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6904, 47.697]
+        "coordinates": [8.6904000000000003, 47.697000000000003]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20441,7 +20441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74614, 47.69707]
+        "coordinates": [8.7461400000000005, 47.697069999999997]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20453,7 +20453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75092, 47.69078]
+        "coordinates": [8.7509200000000007, 47.690779999999997]
       },
       "properties": {
         "date": "2021-02-26",
@@ -20477,7 +20477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.103, 47.2235]
+        "coordinates": [7.1029999999999998, 47.223500000000001]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20489,7 +20489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.90478, 47.17628]
+        "coordinates": [6.9047799999999997, 47.176279999999998]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20501,7 +20501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.85963, 47.16603]
+        "coordinates": [6.8596300000000001, 47.166029999999999]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20513,7 +20513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84449, 47.155]
+        "coordinates": [6.8444900000000004, 47.155000000000001]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20525,7 +20525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.85728, 47.16457]
+        "coordinates": [6.8572800000000003, 47.164569999999998]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20537,7 +20537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.86818, 47.18375]
+        "coordinates": [6.8681799999999997, 47.183750000000003]
       },
       "properties": {
         "date": "2021-02-27",
@@ -20549,7 +20549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6365, 47.39202]
+        "coordinates": [8.6364999999999998, 47.392020000000002]
       },
       "properties": {
         "date": "2021-02-28",
@@ -20561,7 +20561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16628, 46.80108]
+        "coordinates": [7.1662800000000004, 46.801079999999999]
       },
       "properties": {
         "date": "2021-03-06",
@@ -20573,7 +20573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16314, 46.79197]
+        "coordinates": [7.1631400000000003, 46.791969999999999]
       },
       "properties": {
         "date": "2021-03-06",
@@ -20585,7 +20585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16599, 46.79903]
+        "coordinates": [7.1659899999999999, 46.799030000000002]
       },
       "properties": {
         "date": "2021-03-06",
@@ -20597,7 +20597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.16727, 46.80394]
+        "coordinates": [7.1672700000000003, 46.803939999999997]
       },
       "properties": {
         "date": "2021-03-06",
@@ -20609,7 +20609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.6047, 47.57391]
+        "coordinates": [7.6047000000000002, 47.573909999999998]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20621,7 +20621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.63674, 47.58592]
+        "coordinates": [7.6367399999999996, 47.585920000000002]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20633,7 +20633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.6501, 47.59594]
+        "coordinates": [7.6501000000000001, 47.595939999999999]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20645,7 +20645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.62767, 47.58181]
+        "coordinates": [7.6276700000000002, 47.581809999999997]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20657,7 +20657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.5943, 47.57959]
+        "coordinates": [7.5942999999999996, 47.579590000000003]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20669,7 +20669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34707, 47.43795]
+        "coordinates": [8.3470700000000004, 47.437950000000001]
       },
       "properties": {
         "date": "2021-03-07",
@@ -20681,7 +20681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90106, 47.02029]
+        "coordinates": [8.9010599999999993, 47.020290000000003]
       },
       "properties": {
         "date": "2021-03-13",
@@ -20693,7 +20693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65459, 47.6766]
+        "coordinates": [8.6545900000000007, 47.676600000000001]
       },
       "properties": {
         "date": "2021-03-14",
@@ -20705,7 +20705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66813, 47.67762]
+        "coordinates": [8.6681299999999997, 47.677619999999997]
       },
       "properties": {
         "date": "2021-03-14",
@@ -20717,7 +20717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69701, 47.63744]
+        "coordinates": [8.6970100000000006, 47.637439999999998]
       },
       "properties": {
         "date": "2021-03-14",
@@ -20729,7 +20729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.10443, 46.19902]
+        "coordinates": [6.1044299999999998, 46.199019999999997]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20741,7 +20741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.12129, 46.20176]
+        "coordinates": [6.1212900000000001, 46.20176]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20753,7 +20753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.121, 46.20108]
+        "coordinates": [6.1210000000000004, 46.201079999999997]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20765,7 +20765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.12543, 46.19843]
+        "coordinates": [6.1254299999999997, 46.198430000000002]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20777,7 +20777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.11581, 46.19847]
+        "coordinates": [6.1158099999999997, 46.19847]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20801,7 +20801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.09188, 46.20513]
+        "coordinates": [6.0918799999999997, 46.205129999999997]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20813,7 +20813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84411, 46.45996]
+        "coordinates": [6.8441099999999997, 46.459960000000002]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20825,7 +20825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.84474, 46.45889]
+        "coordinates": [6.8447399999999998, 46.458889999999997]
       },
       "properties": {
         "date": "2021-03-20",
@@ -20837,7 +20837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57086, 47.55915]
+        "coordinates": [8.5708599999999997, 47.559150000000002]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20849,7 +20849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60663, 47.59397]
+        "coordinates": [8.6066299999999991, 47.593969999999999]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20861,7 +20861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60104, 47.64324]
+        "coordinates": [8.6010399999999994, 47.643239999999999]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20873,7 +20873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6029, 47.64766]
+        "coordinates": [8.6029, 47.647660000000002]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20885,7 +20885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60745, 47.64236]
+        "coordinates": [8.60745, 47.642359999999996]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20897,7 +20897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75788, 47.6867]
+        "coordinates": [8.7578800000000001, 47.686700000000002]
       },
       "properties": {
         "date": "2021-03-21",
@@ -20909,7 +20909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.85773, 46.38537]
+        "coordinates": [6.8577300000000001, 46.385370000000002]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20921,7 +20921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.85197, 46.38616]
+        "coordinates": [6.8519699999999997, 46.386159999999997]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20933,7 +20933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.80451, 46.39233]
+        "coordinates": [6.8045099999999996, 46.392330000000001]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20945,7 +20945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.80334, 46.3928]
+        "coordinates": [6.8033400000000004, 46.392800000000001]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20957,7 +20957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.80226, 46.3936]
+        "coordinates": [6.8022600000000004, 46.393599999999999]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20969,7 +20969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.86162, 46.39066]
+        "coordinates": [6.8616200000000003, 46.390659999999997]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20981,7 +20981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.47785, 46.98975]
+        "coordinates": [7.4778500000000001, 46.989750000000001]
       },
       "properties": {
         "date": "2021-03-25",
@@ -20993,7 +20993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56667, 47.43431]
+        "coordinates": [8.5666700000000002, 47.434310000000004]
       },
       "properties": {
         "date": "2021-03-27",
@@ -21005,7 +21005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53302, 47.46192]
+        "coordinates": [8.5330200000000005, 47.461919999999999]
       },
       "properties": {
         "date": "2021-03-27",
@@ -21017,7 +21017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84676, 47.12733]
+        "coordinates": [8.8467599999999997, 47.127330000000001]
       },
       "properties": {
         "date": "2021-03-28",
@@ -21029,7 +21029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.2852, 47.14134]
+        "coordinates": [9.2851999999999997, 47.14134]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21041,7 +21041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.26503, 47.14139]
+        "coordinates": [9.2650299999999994, 47.141390000000001]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21053,7 +21053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.27027, 47.14209]
+        "coordinates": [9.27027, 47.142090000000003]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21065,7 +21065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.14006, 47.12104]
+        "coordinates": [9.1400600000000001, 47.121040000000001]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21077,7 +21077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.12859, 47.12058]
+        "coordinates": [9.1285900000000009, 47.120579999999997]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21089,7 +21089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.11778, 47.12128]
+        "coordinates": [9.1177799999999998, 47.121279999999999]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21101,7 +21101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.06773, 47.09053]
+        "coordinates": [9.0677299999999992, 47.090530000000001]
       },
       "properties": {
         "date": "2021-04-02",
@@ -21113,7 +21113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90023, 47.45592]
+        "coordinates": [8.9002300000000005, 47.455919999999999]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21125,7 +21125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.99632, 47.40275]
+        "coordinates": [8.9963200000000008, 47.402749999999997]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21137,7 +21137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.00149, 47.3981]
+        "coordinates": [9.0014900000000004, 47.398099999999999]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21149,7 +21149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97916, 47.3882]
+        "coordinates": [8.9791600000000003, 47.388199999999998]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21161,7 +21161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98125, 47.38733]
+        "coordinates": [8.9812499999999993, 47.387329999999999]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21173,7 +21173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.99763, 47.38637]
+        "coordinates": [8.9976299999999991, 47.386369999999999]
       },
       "properties": {
         "date": "2021-04-04",
@@ -21185,7 +21185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0227, 47.32883]
+        "coordinates": [9.0227000000000004, 47.328830000000004]
       },
       "properties": {
         "date": "2021-04-05",
@@ -21197,7 +21197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.05124, 47.32592]
+        "coordinates": [9.05124, 47.325920000000004]
       },
       "properties": {
         "date": "2021-04-05",
@@ -21209,7 +21209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.04981, 47.31735]
+        "coordinates": [9.0498100000000008, 47.317349999999998]
       },
       "properties": {
         "date": "2021-04-05",
@@ -21221,7 +21221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62195, 47.61573]
+        "coordinates": [8.62195, 47.615729999999999]
       },
       "properties": {
         "date": "2021-04-11",
@@ -21233,7 +21233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60296, 47.6392]
+        "coordinates": [8.6029599999999995, 47.639200000000002]
       },
       "properties": {
         "date": "2021-04-11",
@@ -21245,7 +21245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6089, 47.6409]
+        "coordinates": [8.6089000000000002, 47.640900000000002]
       },
       "properties": {
         "date": "2021-04-11",
@@ -21257,7 +21257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.26622, 47.11243]
+        "coordinates": [9.2662200000000006, 47.112430000000003]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21269,7 +21269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.48975, 47.07277]
+        "coordinates": [9.4897500000000008, 47.072769999999998]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21281,7 +21281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53008, 47.10675]
+        "coordinates": [9.5300799999999999, 47.106749999999998]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21293,7 +21293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.54335, 47.11829]
+        "coordinates": [9.5433500000000002, 47.118290000000002]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21305,7 +21305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53888, 47.1272]
+        "coordinates": [9.5388800000000007, 47.127200000000002]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21317,7 +21317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53905, 47.10923]
+        "coordinates": [9.5390499999999996, 47.109229999999997]
       },
       "properties": {
         "date": "2021-04-17",
@@ -21329,7 +21329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60284, 47.4038]
+        "coordinates": [8.6028400000000005, 47.403799999999997]
       },
       "properties": {
         "date": "2021-04-22",
@@ -21341,7 +21341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.7255374, 48.68547]
+        "coordinates": [5.7255374000000003, 48.685470000000002]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21353,7 +21353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.0778679, 50.81865]
+        "coordinates": [2.0778679000000002, 50.818649999999998]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21365,7 +21365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.0981066, 50.82262]
+        "coordinates": [2.0981065999999999, 50.822620000000001]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21377,7 +21377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.87043, 51.16209]
+        "coordinates": [0.87043000000000004, 51.162089999999999]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21389,7 +21389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.71798, 51.23702]
+        "coordinates": [0.71797999999999995, 51.237020000000001]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21401,7 +21401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.70466, 51.22576]
+        "coordinates": [0.70465999999999995, 51.225760000000001]
       },
       "properties": {
         "date": "2021-04-25",
@@ -21413,7 +21413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.67983, 51.20902]
+        "coordinates": [0.67983000000000005, 51.209020000000002]
       },
       "properties": {
         "date": "2021-04-27",
@@ -21425,7 +21425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.69288, 51.21408]
+        "coordinates": [0.69288000000000005, 51.214080000000003]
       },
       "properties": {
         "date": "2021-04-27",
@@ -21437,7 +21437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.73371, 51.23279]
+        "coordinates": [0.73370999999999997, 51.232790000000001]
       },
       "properties": {
         "date": "2021-04-30",
@@ -21449,7 +21449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.70861, 51.21186]
+        "coordinates": [0.70860999999999996, 51.211860000000001]
       },
       "properties": {
         "date": "2021-04-30",
@@ -21461,7 +21461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.69904, 51.22793]
+        "coordinates": [0.69903999999999999, 51.227930000000001]
       },
       "properties": {
         "date": "2021-04-30",
@@ -21473,7 +21473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.09059, 53.95638]
+        "coordinates": [-1.0905899999999999, 53.956380000000003]
       },
       "properties": {
         "date": "2021-05-02",
@@ -21485,7 +21485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.81835, 53.93275]
+        "coordinates": [-0.81835000000000002, 53.932749999999999]
       },
       "properties": {
         "date": "2021-05-14",
@@ -21497,7 +21497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.61453, 54.49032]
+        "coordinates": [-0.61453000000000002, 54.490319999999997]
       },
       "properties": {
         "date": "2021-05-15",
@@ -21509,7 +21509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.61224, 54.49406]
+        "coordinates": [-0.61224000000000001, 54.494059999999998]
       },
       "properties": {
         "date": "2021-05-15",
@@ -21521,7 +21521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.93271, 53.68722]
+        "coordinates": [-1.9327099999999999, 53.687220000000003]
       },
       "properties": {
         "date": "2021-05-16",
@@ -21533,7 +21533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.90719, 53.70954]
+        "coordinates": [-1.9071899999999999, 53.709539999999997]
       },
       "properties": {
         "date": "2021-05-16",
@@ -21545,7 +21545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.91864, 53.69253]
+        "coordinates": [-1.9186399999999999, 53.692529999999998]
       },
       "properties": {
         "date": "2021-05-16",
@@ -21557,7 +21557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08966, 53.95662]
+        "coordinates": [-1.0896600000000001, 53.956620000000001]
       },
       "properties": {
         "date": "2021-05-22",
@@ -21569,7 +21569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.10465, 54.16223]
+        "coordinates": [-1.1046499999999999, 54.162230000000001]
       },
       "properties": {
         "date": "2021-05-23",
@@ -21581,7 +21581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.05542, 53.94803]
+        "coordinates": [-1.05542, 53.948030000000003]
       },
       "properties": {
         "date": "2021-05-24",
@@ -21593,7 +21593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.54378, 53.99691]
+        "coordinates": [-1.5437799999999999, 53.99691]
       },
       "properties": {
         "date": "2021-05-25",
@@ -21605,7 +21605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06891, 53.95836]
+        "coordinates": [-1.06891, 53.958359999999999]
       },
       "properties": {
         "date": "2021-05-28",
@@ -21617,7 +21617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.25916, 51.46506]
+        "coordinates": [0.25916, 51.465060000000001]
       },
       "properties": {
         "date": "2021-05-30",
@@ -21629,7 +21629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [4.51756, 48.83454]
+        "coordinates": [4.5175599999999996, 48.834539999999997]
       },
       "properties": {
         "date": "2021-05-30",
@@ -21641,7 +21641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.20684, 48.25434]
+        "coordinates": [7.2068399999999997, 48.254339999999999]
       },
       "properties": {
         "date": "2021-05-31",
@@ -21653,7 +21653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.50074, 47.00349]
+        "coordinates": [9.5007400000000004, 47.003489999999999]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21665,7 +21665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.49987, 46.98852]
+        "coordinates": [9.4998699999999996, 46.988520000000001]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21677,7 +21677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.44024, 46.90936]
+        "coordinates": [9.4402399999999993, 46.90936]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21689,7 +21689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.41158, 46.8562]
+        "coordinates": [9.4115800000000007, 46.856200000000001]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21701,7 +21701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.40108, 46.91343]
+        "coordinates": [9.4010800000000003, 46.913429999999998]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21713,7 +21713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.39142, 46.91204]
+        "coordinates": [9.3914200000000001, 46.912039999999998]
       },
       "properties": {
         "date": "2021-06-13",
@@ -21725,7 +21725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17841, 47.65896]
+        "coordinates": [9.1784099999999995, 47.65896]
       },
       "properties": {
         "date": "2021-06-17",
@@ -21737,7 +21737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17882, 47.66623]
+        "coordinates": [9.17882, 47.666229999999999]
       },
       "properties": {
         "date": "2021-06-17",
@@ -21749,7 +21749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.20271, 47.66433]
+        "coordinates": [9.2027099999999997, 47.66433]
       },
       "properties": {
         "date": "2021-06-17",
@@ -21761,7 +21761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.23915, 47.1498]
+        "coordinates": [7.2391500000000004, 47.149799999999999]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21773,7 +21773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.08133, 47.11308]
+        "coordinates": [7.0813300000000003, 47.113079999999997]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21785,7 +21785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.03229, 47.11939]
+        "coordinates": [7.0322899999999997, 47.119390000000003]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21797,7 +21797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0458, 47.12718]
+        "coordinates": [7.0457999999999998, 47.127180000000003]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21809,7 +21809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0603, 47.13298]
+        "coordinates": [7.0602999999999998, 47.132980000000003]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21821,7 +21821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.07206, 47.13854]
+        "coordinates": [7.0720599999999996, 47.138539999999999]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21833,7 +21833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.9967, 47.13255]
+        "coordinates": [6.9966999999999997, 47.132550000000002]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21845,7 +21845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.00083, 47.15188]
+        "coordinates": [7.0008299999999997, 47.151879999999998]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21857,7 +21857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.5083, 47.25516]
+        "coordinates": [7.5083000000000002, 47.255159999999997]
       },
       "properties": {
         "date": "2021-06-19",
@@ -21869,7 +21869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43497, 47.42111]
+        "coordinates": [8.4349699999999999, 47.421109999999999]
       },
       "properties": {
         "date": "2021-06-26",
@@ -21881,7 +21881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4215, 47.42443]
+        "coordinates": [8.4215, 47.424430000000001]
       },
       "properties": {
         "date": "2021-06-26",
@@ -21893,7 +21893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.45933, 47.42241]
+        "coordinates": [8.4593299999999996, 47.422409999999999]
       },
       "properties": {
         "date": "2021-06-26",
@@ -21905,7 +21905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71478, 47.74056]
+        "coordinates": [8.7147799999999993, 47.740560000000002]
       },
       "properties": {
         "date": "2021-06-26",
@@ -21917,7 +21917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93417, 46.90079]
+        "coordinates": [8.9341699999999999, 46.900790000000001]
       },
       "properties": {
         "date": "2021-06-27",
@@ -21929,7 +21929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90723, 46.88884]
+        "coordinates": [8.9072300000000002, 46.888840000000002]
       },
       "properties": {
         "date": "2021-06-27",
@@ -21941,7 +21941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90243, 46.88942]
+        "coordinates": [8.9024300000000007, 46.889420000000001]
       },
       "properties": {
         "date": "2021-06-27",
@@ -21953,7 +21953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62439, 47.39766]
+        "coordinates": [8.62439, 47.397660000000002]
       },
       "properties": {
         "date": "2021-06-28",
@@ -21965,7 +21965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52461, 47.4776]
+        "coordinates": [8.5246099999999991, 47.477600000000002]
       },
       "properties": {
         "date": "2021-07-02",
@@ -21977,7 +21977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50615, 47.49224]
+        "coordinates": [8.5061499999999999, 47.492240000000002]
       },
       "properties": {
         "date": "2021-07-02",
@@ -21989,7 +21989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69449, 47.37004]
+        "coordinates": [8.6944900000000001, 47.370040000000003]
       },
       "properties": {
         "date": "2021-07-02",
@@ -22001,7 +22001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8668, 46.99466]
+        "coordinates": [8.8667999999999996, 46.994660000000003]
       },
       "properties": {
         "date": "2021-07-03",
@@ -22013,7 +22013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.07094, 47.04043]
+        "coordinates": [9.0709400000000002, 47.040430000000001]
       },
       "properties": {
         "date": "2021-07-03",
@@ -22025,7 +22025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59702, 47.3968]
+        "coordinates": [8.5970200000000006, 47.396799999999999]
       },
       "properties": {
         "date": "2021-07-09",
@@ -22037,7 +22037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.05253, 47.09823]
+        "coordinates": [9.0525300000000009, 47.098230000000001]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22049,7 +22049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02018, 47.08738]
+        "coordinates": [9.0201799999999999, 47.087380000000003]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22061,7 +22061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7836, 46.9771]
+        "coordinates": [8.7835999999999999, 46.9771]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22073,7 +22073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7558, 46.975]
+        "coordinates": [8.7558000000000007, 46.975000000000001]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22085,7 +22085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6355, 47.08193]
+        "coordinates": [8.6355000000000004, 47.08193]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22097,7 +22097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69653, 47.13134]
+        "coordinates": [8.6965299999999992, 47.131340000000002]
       },
       "properties": {
         "date": "2021-07-16",
@@ -22109,7 +22109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90404, 47.41502]
+        "coordinates": [8.9040400000000002, 47.415019999999998]
       },
       "properties": {
         "date": "2021-07-17",
@@ -22121,7 +22121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91173, 47.42424]
+        "coordinates": [8.9117300000000004, 47.424239999999998]
       },
       "properties": {
         "date": "2021-07-17",
@@ -22133,7 +22133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86022, 47.4272]
+        "coordinates": [8.86022, 47.427199999999999]
       },
       "properties": {
         "date": "2021-07-17",
@@ -22145,7 +22145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8908, 46.5965]
+        "coordinates": [7.8907999999999996, 46.596499999999999]
       },
       "properties": {
         "date": "2021-07-18",
@@ -22157,7 +22157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17879, 47.65948]
+        "coordinates": [9.1787899999999993, 47.659480000000002]
       },
       "properties": {
         "date": "2021-07-23",
@@ -22169,7 +22169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17608, 47.66016]
+        "coordinates": [9.1760800000000007, 47.660159999999998]
       },
       "properties": {
         "date": "2021-07-23",
@@ -22181,7 +22181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.21475, 47.1135]
+        "coordinates": [9.2147500000000004, 47.113500000000002]
       },
       "properties": {
         "date": "2021-07-25",
@@ -22193,7 +22193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.25022, 47.11371]
+        "coordinates": [9.2502200000000006, 47.113709999999998]
       },
       "properties": {
         "date": "2021-07-25",
@@ -22205,7 +22205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.21613, 47.1157]
+        "coordinates": [9.2161299999999997, 47.115699999999997]
       },
       "properties": {
         "date": "2021-07-25",
@@ -22217,7 +22217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77468, 47.34571]
+        "coordinates": [8.77468, 47.345709999999997]
       },
       "properties": {
         "date": "2021-07-29",
@@ -22229,7 +22229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.57662, 47.25758]
+        "coordinates": [7.5766200000000001, 47.257579999999997]
       },
       "properties": {
         "date": "2021-07-31",
@@ -22241,7 +22241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.53956, 47.26615]
+        "coordinates": [7.5395599999999998, 47.266150000000003]
       },
       "properties": {
         "date": "2021-07-31",
@@ -22253,7 +22253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.52725, 47.28037]
+        "coordinates": [7.5272500000000004, 47.280369999999998]
       },
       "properties": {
         "date": "2021-07-31",
@@ -22265,7 +22265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.59054, 47.22956]
+        "coordinates": [7.5905399999999998, 47.229559999999999]
       },
       "properties": {
         "date": "2021-07-31",
@@ -22277,7 +22277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60472, 47.43751]
+        "coordinates": [8.6047200000000004, 47.437510000000003]
       },
       "properties": {
         "date": "2021-08-02",
@@ -22289,7 +22289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5251366, 47.3647]
+        "coordinates": [8.5251365999999997, 47.364699999999999]
       },
       "properties": {
         "date": "2021-08-06",
@@ -22301,7 +22301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60144, 47.12125]
+        "coordinates": [8.6014400000000002, 47.121250000000003]
       },
       "properties": {
         "date": "2021-08-07",
@@ -22313,7 +22313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6633, 47.14178]
+        "coordinates": [8.6632999999999996, 47.141779999999997]
       },
       "properties": {
         "date": "2021-08-07",
@@ -22325,7 +22325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53467, 47.37477]
+        "coordinates": [8.5346700000000002, 47.374769999999998]
       },
       "properties": {
         "date": "2021-08-15",
@@ -22337,7 +22337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.19925, 46.53077]
+        "coordinates": [9.1992499999999993, 46.530769999999997]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22349,7 +22349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1706, 46.49587]
+        "coordinates": [9.1706000000000003, 46.495869999999996]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22361,7 +22361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.2322, 46.41]
+        "coordinates": [9.2322000000000006, 46.409999999999997]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22373,7 +22373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90706, 46.13914]
+        "coordinates": [8.9070599999999995, 46.139139999999998]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22385,7 +22385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80138, 46.17203]
+        "coordinates": [8.80138, 46.172029999999999]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22397,7 +22397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79919, 46.15446]
+        "coordinates": [8.7991899999999994, 46.15446]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22409,7 +22409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80222, 46.16133]
+        "coordinates": [8.8022200000000002, 46.16133]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22421,7 +22421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79485, 46.1705]
+        "coordinates": [8.7948500000000003, 46.170499999999997]
       },
       "properties": {
         "date": "2021-08-16",
@@ -22433,7 +22433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85644, 46.22376]
+        "coordinates": [8.8564399999999992, 46.223759999999999]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22445,7 +22445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.83892, 46.25828]
+        "coordinates": [8.8389199999999999, 46.258279999999999]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22457,7 +22457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.83096, 46.26235]
+        "coordinates": [8.8309599999999993, 46.262349999999998]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22469,7 +22469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.83599, 46.26006]
+        "coordinates": [8.8359900000000007, 46.260060000000003]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22481,7 +22481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80773, 46.27612]
+        "coordinates": [8.8077299999999994, 46.276119999999999]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22493,7 +22493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80018, 46.28207]
+        "coordinates": [8.8001799999999992, 46.282069999999997]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22505,7 +22505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78862, 46.35052]
+        "coordinates": [8.7886199999999999, 46.350520000000003]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22517,7 +22517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78646, 46.35022]
+        "coordinates": [8.7864599999999999, 46.35022]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22529,7 +22529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84873, 46.19664]
+        "coordinates": [8.8487299999999998, 46.196640000000002]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22541,7 +22541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80212, 46.1715]
+        "coordinates": [8.8021200000000004, 46.171500000000002]
       },
       "properties": {
         "date": "2021-08-17",
@@ -22553,7 +22553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93415, 46.15919]
+        "coordinates": [8.9341500000000007, 46.159190000000002]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22565,7 +22565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91989, 45.92524]
+        "coordinates": [8.9198900000000005, 45.925240000000002]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22577,7 +22577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91749, 45.92303]
+        "coordinates": [8.9174900000000008, 45.923029999999997]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22589,7 +22589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9043, 45.9481]
+        "coordinates": [8.9042999999999992, 45.948099999999997]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22601,7 +22601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9200423, 45.92478]
+        "coordinates": [8.9200423000000004, 45.924779999999998]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22613,7 +22613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94361, 45.99124]
+        "coordinates": [8.9436099999999996, 45.991239999999998]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22625,7 +22625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94766, 45.9922]
+        "coordinates": [8.9476600000000008, 45.992199999999997]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22637,7 +22637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8033676, 46.16229]
+        "coordinates": [8.8033675999999996, 46.162289999999999]
       },
       "properties": {
         "date": "2021-08-18",
@@ -22649,7 +22649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79586, 46.16565]
+        "coordinates": [8.7958599999999993, 46.165649999999999]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22661,7 +22661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96467, 45.94984]
+        "coordinates": [8.9646699999999999, 45.949840000000002]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22673,7 +22673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.972, 45.9582]
+        "coordinates": [8.9719999999999995, 45.958199999999998]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22685,7 +22685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97547, 45.96166]
+        "coordinates": [8.9754699999999996, 45.961660000000002]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22697,7 +22697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97056, 45.96882]
+        "coordinates": [8.9705600000000008, 45.968820000000001]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22709,7 +22709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96433, 45.94971]
+        "coordinates": [8.9643300000000004, 45.949710000000003]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22721,7 +22721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80369, 46.1553]
+        "coordinates": [8.8036899999999996, 46.155299999999997]
       },
       "properties": {
         "date": "2021-08-19",
@@ -22733,7 +22733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1811, 46.4892]
+        "coordinates": [9.1811000000000007, 46.489199999999997]
       },
       "properties": {
         "date": "2021-08-20",
@@ -22745,7 +22745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.56295, 46.67149]
+        "coordinates": [9.5629500000000007, 46.671489999999999]
       },
       "properties": {
         "date": "2021-08-20",
@@ -22757,7 +22757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.71395, 46.70344]
+        "coordinates": [9.7139500000000005, 46.703440000000001]
       },
       "properties": {
         "date": "2021-08-20",
@@ -22769,7 +22769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.83399, 46.80326]
+        "coordinates": [9.83399, 46.803260000000002]
       },
       "properties": {
         "date": "2021-08-20",
@@ -22781,7 +22781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5374207, 47.37631]
+        "coordinates": [8.5374207000000002, 47.376309999999997]
       },
       "properties": {
         "date": "2021-08-28",
@@ -22793,7 +22793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54605, 47.45255]
+        "coordinates": [8.5460499999999993, 47.452550000000002]
       },
       "properties": {
         "date": "2021-08-30",
@@ -22805,7 +22805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97815, 47.02233]
+        "coordinates": [8.9781499999999994, 47.022329999999997]
       },
       "properties": {
         "date": "2021-09-04",
@@ -22817,7 +22817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.956397, 46.60712]
+        "coordinates": [6.9563969999999999, 46.607120000000002]
       },
       "properties": {
         "date": "2021-09-05",
@@ -22829,7 +22829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.906342, 46.43733]
+        "coordinates": [6.9063420000000004, 46.437330000000003]
       },
       "properties": {
         "date": "2021-09-05",
@@ -22841,7 +22841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.90912, 46.43203]
+        "coordinates": [6.9091199999999997, 46.432029999999997]
       },
       "properties": {
         "date": "2021-09-05",
@@ -22853,7 +22853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.8389348, 46.47099]
+        "coordinates": [6.8389347999999996, 46.47099]
       },
       "properties": {
         "date": "2021-09-05",
@@ -22865,7 +22865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64959, 47.35682]
+        "coordinates": [8.6495899999999999, 47.356819999999999]
       },
       "properties": {
         "date": "2021-09-06",
@@ -22877,7 +22877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.12247, 47.13942]
+        "coordinates": [9.1224699999999999, 47.139420000000001]
       },
       "properties": {
         "date": "2021-09-10",
@@ -22889,7 +22889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6984, 47.0289]
+        "coordinates": [8.6983999999999995, 47.0289]
       },
       "properties": {
         "date": "2021-09-11",
@@ -22901,7 +22901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79989, 47.1015]
+        "coordinates": [8.7998899999999995, 47.101500000000001]
       },
       "properties": {
         "date": "2021-09-11",
@@ -22913,7 +22913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66763, 47.32461]
+        "coordinates": [8.6676300000000008, 47.32461]
       },
       "properties": {
         "date": "2021-09-13",
@@ -22925,7 +22925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66883, 47.32221]
+        "coordinates": [8.6688299999999998, 47.322209999999998]
       },
       "properties": {
         "date": "2021-09-13",
@@ -22937,7 +22937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66419, 47.32555]
+        "coordinates": [8.6641899999999996, 47.32555]
       },
       "properties": {
         "date": "2021-09-13",
@@ -22949,7 +22949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6562, 47.3272]
+        "coordinates": [8.6562000000000001, 47.327199999999998]
       },
       "properties": {
         "date": "2021-09-13",
@@ -22961,7 +22961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63342, 47.39579]
+        "coordinates": [8.6334199999999992, 47.395789999999998]
       },
       "properties": {
         "date": "2021-09-16",
@@ -22973,7 +22973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6192, 47.4718]
+        "coordinates": [8.6191999999999993, 47.471800000000002]
       },
       "properties": {
         "date": "2021-09-17",
@@ -22985,7 +22985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61923, 47.48768]
+        "coordinates": [8.6192299999999999, 47.487679999999997]
       },
       "properties": {
         "date": "2021-09-17",
@@ -22997,7 +22997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63897, 47.48639]
+        "coordinates": [8.6389700000000005, 47.48639]
       },
       "properties": {
         "date": "2021-09-17",
@@ -23009,7 +23009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66625, 47.49693]
+        "coordinates": [8.6662499999999998, 47.496929999999999]
       },
       "properties": {
         "date": "2021-09-17",
@@ -23021,7 +23021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69898, 47.47766]
+        "coordinates": [8.6989800000000006, 47.47766]
       },
       "properties": {
         "date": "2021-09-17",
@@ -23033,7 +23033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5649, 47.46573]
+        "coordinates": [8.5648999999999997, 47.465730000000001]
       },
       "properties": {
         "date": "2021-09-19",
@@ -23045,7 +23045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52868, 47.48502]
+        "coordinates": [8.5286799999999996, 47.485019999999999]
       },
       "properties": {
         "date": "2021-09-19",
@@ -23057,7 +23057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51749, 47.38763]
+        "coordinates": [8.5174900000000004, 47.387630000000001]
       },
       "properties": {
         "date": "2021-09-19",
@@ -23069,7 +23069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61492, 47.46455]
+        "coordinates": [8.6149199999999997, 47.464550000000003]
       },
       "properties": {
         "date": "2021-09-23",
@@ -23081,7 +23081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63518, 47.4585]
+        "coordinates": [8.6351800000000001, 47.458500000000001]
       },
       "properties": {
         "date": "2021-09-23",
@@ -23093,7 +23093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63967, 47.46393]
+        "coordinates": [8.6396700000000006, 47.463929999999998]
       },
       "properties": {
         "date": "2021-09-23",
@@ -23105,7 +23105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58745, 46.53481]
+        "coordinates": [8.5874500000000005, 46.53481]
       },
       "properties": {
         "date": "2021-09-25",
@@ -23117,7 +23117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5688, 46.54525]
+        "coordinates": [8.5687999999999995, 46.545250000000003]
       },
       "properties": {
         "date": "2021-09-25",
@@ -23129,7 +23129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59637, 46.63477]
+        "coordinates": [8.5963700000000003, 46.634770000000003]
       },
       "properties": {
         "date": "2021-09-25",
@@ -23141,7 +23141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67128, 46.6599]
+        "coordinates": [8.6712799999999994, 46.6599]
       },
       "properties": {
         "date": "2021-09-25",
@@ -23153,7 +23153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.75095, 46.6855]
+        "coordinates": [7.7509499999999996, 46.685499999999998]
       },
       "properties": {
         "date": "2021-09-28",
@@ -23165,7 +23165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.77337, 46.68951]
+        "coordinates": [7.7733699999999999, 46.689509999999999]
       },
       "properties": {
         "date": "2021-09-28",
@@ -23177,7 +23177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7735, 46.71041]
+        "coordinates": [7.7735000000000003, 46.710410000000003]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23189,7 +23189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.79541, 46.72253]
+        "coordinates": [7.7954100000000004, 46.722529999999999]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23201,7 +23201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.80664, 46.73195]
+        "coordinates": [7.8066399999999998, 46.731949999999998]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23213,7 +23213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.81246, 46.73709]
+        "coordinates": [7.8124599999999997, 46.737090000000002]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23225,7 +23225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.81829, 46.74519]
+        "coordinates": [7.8182900000000002, 46.745190000000001]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23237,7 +23237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8437313, 46.74029]
+        "coordinates": [7.8437313, 46.740290000000002]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23249,7 +23249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8635798, 46.72877]
+        "coordinates": [7.8635798000000001, 46.728769999999997]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23261,7 +23261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8613223, 46.73145]
+        "coordinates": [7.8613223000000003, 46.731450000000002]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23273,7 +23273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85146, 46.68311]
+        "coordinates": [7.8514600000000003, 46.683109999999999]
       },
       "properties": {
         "date": "2021-09-29",
@@ -23285,7 +23285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49006, 46.58839]
+        "coordinates": [8.4900599999999997, 46.588389999999997]
       },
       "properties": {
         "date": "2021-10-09",
@@ -23297,7 +23297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.06125, 47.04573]
+        "coordinates": [9.0612499999999994, 47.045729999999999]
       },
       "properties": {
         "date": "2021-10-10",
@@ -23309,7 +23309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0579, 47.09139]
+        "coordinates": [9.0579000000000001, 47.091389999999997]
       },
       "properties": {
         "date": "2021-10-10",
@@ -23321,7 +23321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66679, 47.39535]
+        "coordinates": [8.6667900000000007, 47.395350000000001]
       },
       "properties": {
         "date": "2021-10-13",
@@ -23333,7 +23333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57039, 47.35238]
+        "coordinates": [8.5703899999999997, 47.352379999999997]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23345,7 +23345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55036, 47.3535]
+        "coordinates": [8.5503599999999995, 47.353499999999997]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23357,7 +23357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53697, 47.35913]
+        "coordinates": [8.5369700000000002, 47.35913]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23369,7 +23369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5306, 47.36745]
+        "coordinates": [8.5305999999999997, 47.367449999999998]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23381,7 +23381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51588, 47.37962]
+        "coordinates": [8.5158799999999992, 47.379620000000003]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23393,7 +23393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51636, 47.40339]
+        "coordinates": [8.5163600000000006, 47.403390000000002]
       },
       "properties": {
         "date": "2021-10-17",
@@ -23417,7 +23417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.04454, 53.94846]
+        "coordinates": [-1.04454, 53.948459999999997]
       },
       "properties": {
         "date": "2021-10-20",
@@ -23429,7 +23429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7368, 54.40948]
+        "coordinates": [-0.73680000000000001, 54.409480000000002]
       },
       "properties": {
         "date": "2021-10-23",
@@ -23441,7 +23441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72444, 54.4192]
+        "coordinates": [-0.72443999999999997, 54.419199999999996]
       },
       "properties": {
         "date": "2021-10-23",
@@ -23453,7 +23453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7224, 54.43467]
+        "coordinates": [-0.72240000000000004, 54.434669999999997]
       },
       "properties": {
         "date": "2021-10-23",
@@ -23465,7 +23465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.71757, 54.43532]
+        "coordinates": [-0.71757000000000004, 54.435319999999997]
       },
       "properties": {
         "date": "2021-10-23",
@@ -23477,7 +23477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72017, 54.3999]
+        "coordinates": [-0.72016999999999998, 54.399900000000002]
       },
       "properties": {
         "date": "2021-10-23",
@@ -23489,7 +23489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.966, 53.8971]
+        "coordinates": [-0.96599999999999997, 53.897100000000002]
       },
       "properties": {
         "date": "2021-10-24",
@@ -23501,7 +23501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.9925, 53.9148]
+        "coordinates": [-0.99250000000000005, 53.9148]
       },
       "properties": {
         "date": "2021-10-24",
@@ -23513,7 +23513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0889, 53.9031]
+        "coordinates": [-1.0889, 53.903100000000002]
       },
       "properties": {
         "date": "2021-10-24",
@@ -23525,7 +23525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.09071, 53.90248]
+        "coordinates": [-1.0907100000000001, 53.902479999999997]
       },
       "properties": {
         "date": "2021-10-24",
@@ -23537,7 +23537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08203, 53.96126]
+        "coordinates": [-1.08203, 53.961260000000003]
       },
       "properties": {
         "date": "2021-10-25",
@@ -23549,7 +23549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08579, 53.96037]
+        "coordinates": [-1.08579, 53.960369999999998]
       },
       "properties": {
         "date": "2021-10-25",
@@ -23561,7 +23561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.184, 53.92456]
+        "coordinates": [-1.1839999999999999, 53.92456]
       },
       "properties": {
         "date": "2021-10-26",
@@ -23573,7 +23573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.20906, 53.93066]
+        "coordinates": [-1.20906, 53.930660000000003]
       },
       "properties": {
         "date": "2021-10-26",
@@ -23585,7 +23585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.66717, 54.02156]
+        "coordinates": [-0.66717000000000004, 54.021560000000001]
       },
       "properties": {
         "date": "2021-10-27",
@@ -23597,7 +23597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.6679, 54.04884]
+        "coordinates": [-0.66790000000000005, 54.048839999999998]
       },
       "properties": {
         "date": "2021-10-27",
@@ -23609,7 +23609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.66735, 54.44367]
+        "coordinates": [-1.6673500000000001, 54.443669999999997]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23621,7 +23621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.75139, 54.66099]
+        "coordinates": [-2.7513899999999998, 54.660989999999998]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23633,7 +23633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.93573, 54.53491]
+        "coordinates": [-2.93573, 54.534910000000004]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23645,7 +23645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.93115, 54.5333]
+        "coordinates": [-2.9311500000000001, 54.533299999999997]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23657,7 +23657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.92855, 54.53658]
+        "coordinates": [-2.92855, 54.536580000000001]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23669,7 +23669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.9366, 54.55663]
+        "coordinates": [-2.9365999999999999, 54.556629999999998]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23681,7 +23681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.92483, 54.46605]
+        "coordinates": [-2.92483, 54.466050000000003]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23693,7 +23693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.9319, 54.4592]
+        "coordinates": [-2.9319000000000002, 54.459200000000003]
       },
       "properties": {
         "date": "2021-10-28",
@@ -23717,7 +23717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.95619, 54.61622]
+        "coordinates": [-2.9561899999999999, 54.616219999999998]
       },
       "properties": {
         "date": "2021-10-29",
@@ -23729,7 +23729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.00922, 54.51714]
+        "coordinates": [-2.00922, 54.517139999999998]
       },
       "properties": {
         "date": "2021-10-29",
@@ -23741,7 +23741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.9605, 54.4712]
+        "coordinates": [-1.9604999999999999, 54.471200000000003]
       },
       "properties": {
         "date": "2021-10-29",
@@ -23753,7 +23753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.56534, 54.29878]
+        "coordinates": [-1.56534, 54.298780000000001]
       },
       "properties": {
         "date": "2021-10-29",
@@ -23765,7 +23765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.14593, 54.12889]
+        "coordinates": [-1.1459299999999999, 54.128889999999998]
       },
       "properties": {
         "date": "2021-10-30",
@@ -23777,7 +23777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1919135, 54.1224]
+        "coordinates": [-1.1919135000000001, 54.122399999999999]
       },
       "properties": {
         "date": "2021-10-30",
@@ -23789,7 +23789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55835, 47.3848]
+        "coordinates": [8.5583500000000008, 47.384799999999998]
       },
       "properties": {
         "date": "2021-11-04",
@@ -23801,7 +23801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8584, 47.4279]
+        "coordinates": [8.8583999999999996, 47.427900000000001]
       },
       "properties": {
         "date": "2021-11-06",
@@ -23813,7 +23813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.07467, 47.56177]
+        "coordinates": [8.0746699999999993, 47.561770000000003]
       },
       "properties": {
         "date": "2021-11-07",
@@ -23825,7 +23825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.212, 47.6236]
+        "coordinates": [8.2119999999999997, 47.623600000000003]
       },
       "properties": {
         "date": "2021-11-07",
@@ -23837,7 +23837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.23319, 47.60855]
+        "coordinates": [8.2331900000000005, 47.608550000000001]
       },
       "properties": {
         "date": "2021-11-07",
@@ -23849,7 +23849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.40093, 47.57579]
+        "coordinates": [8.4009300000000007, 47.575789999999998]
       },
       "properties": {
         "date": "2021-11-07",
@@ -23861,7 +23861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.40602, 47.57452]
+        "coordinates": [8.4060199999999998, 47.57452]
       },
       "properties": {
         "date": "2021-11-07",
@@ -23873,7 +23873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68521, 47.45733]
+        "coordinates": [8.6852099999999997, 47.457329999999999]
       },
       "properties": {
         "date": "2021-11-10",
@@ -23885,7 +23885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.659, 47.4832]
+        "coordinates": [8.6590000000000007, 47.483199999999997]
       },
       "properties": {
         "date": "2021-11-10",
@@ -23897,7 +23897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64629, 47.49025]
+        "coordinates": [8.6462900000000005, 47.490250000000003]
       },
       "properties": {
         "date": "2021-11-10",
@@ -23909,7 +23909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64166, 47.48958]
+        "coordinates": [8.6416599999999999, 47.489579999999997]
       },
       "properties": {
         "date": "2021-11-10",
@@ -23921,7 +23921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86203, 46.86732]
+        "coordinates": [8.8620300000000007, 46.867319999999999]
       },
       "properties": {
         "date": "2021-11-13",
@@ -23933,7 +23933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.83123, 46.8711]
+        "coordinates": [8.8312299999999997, 46.871099999999998]
       },
       "properties": {
         "date": "2021-11-13",
@@ -23945,7 +23945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77106, 46.85956]
+        "coordinates": [8.7710600000000003, 46.859560000000002]
       },
       "properties": {
         "date": "2021-11-13",
@@ -23957,7 +23957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85555, 47.31474]
+        "coordinates": [8.8555499999999991, 47.31474]
       },
       "properties": {
         "date": "2021-11-14",
@@ -23969,7 +23969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87278, 47.31042]
+        "coordinates": [8.8727800000000006, 47.310420000000001]
       },
       "properties": {
         "date": "2021-11-14",
@@ -23981,7 +23981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52973, 47.45044]
+        "coordinates": [8.5297300000000007, 47.45044]
       },
       "properties": {
         "date": "2021-11-16",
@@ -23993,7 +23993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4992, 47.466]
+        "coordinates": [8.4992000000000001, 47.466000000000001]
       },
       "properties": {
         "date": "2021-11-16",
@@ -24005,7 +24005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48498, 47.48025]
+        "coordinates": [8.4849800000000002, 47.480249999999998]
       },
       "properties": {
         "date": "2021-11-16",
@@ -24017,7 +24017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46464, 47.48316]
+        "coordinates": [8.4646399999999993, 47.483159999999998]
       },
       "properties": {
         "date": "2021-11-16",
@@ -24029,7 +24029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56831, 47.64979]
+        "coordinates": [8.5683100000000003, 47.649790000000003]
       },
       "properties": {
         "date": "2021-11-16",
@@ -24041,7 +24041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70364, 47.37853]
+        "coordinates": [8.70364, 47.378529999999998]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24053,7 +24053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73433, 47.37467]
+        "coordinates": [8.7343299999999999, 47.374670000000002]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24065,7 +24065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76785, 47.42041]
+        "coordinates": [8.7678499999999993, 47.420409999999997]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24077,7 +24077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75694, 47.41517]
+        "coordinates": [8.7569400000000002, 47.415170000000003]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24089,7 +24089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74388, 47.41226]
+        "coordinates": [8.7438800000000008, 47.412260000000003]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24101,7 +24101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5357128, 47.3777]
+        "coordinates": [8.5357128000000007, 47.377699999999997]
       },
       "properties": {
         "date": "2021-11-18",
@@ -24113,7 +24113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63908, 47.51741]
+        "coordinates": [8.6390799999999999, 47.517409999999998]
       },
       "properties": {
         "date": "2021-11-19",
@@ -24125,7 +24125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64105, 47.52423]
+        "coordinates": [8.6410499999999999, 47.524230000000003]
       },
       "properties": {
         "date": "2021-11-19",
@@ -24137,7 +24137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62392, 47.52503]
+        "coordinates": [8.62392, 47.525030000000001]
       },
       "properties": {
         "date": "2021-11-19",
@@ -24149,7 +24149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6134, 47.52326]
+        "coordinates": [8.6134000000000004, 47.523260000000001]
       },
       "properties": {
         "date": "2021-11-19",
@@ -24161,7 +24161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.64551, 47.43118]
+        "coordinates": [9.6455099999999998, 47.431179999999998]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24173,7 +24173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.6589, 47.42]
+        "coordinates": [9.6588999999999992, 47.420000000000002]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24185,7 +24185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.7688, 47.5153]
+        "coordinates": [9.7688000000000006, 47.515300000000003]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24197,7 +24197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.7358, 47.5473]
+        "coordinates": [9.7357999999999993, 47.5473]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24209,7 +24209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.84789, 48.05794]
+        "coordinates": [10.84789, 48.057940000000002]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24221,7 +24221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.53884, 48.14552]
+        "coordinates": [11.53884, 48.145519999999998]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24233,7 +24233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.53084, 48.16593]
+        "coordinates": [11.53084, 48.165930000000003]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24245,7 +24245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.55164, 48.16983]
+        "coordinates": [11.551640000000001, 48.169829999999997]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24257,7 +24257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.58756, 48.14352]
+        "coordinates": [11.58756, 48.143520000000002]
       },
       "properties": {
         "date": "2021-11-20",
@@ -24269,7 +24269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.74957, 47.57881]
+        "coordinates": [10.74957, 47.578809999999997]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24281,7 +24281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.74932, 47.55533]
+        "coordinates": [10.749320000000001, 47.555329999999998]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24293,7 +24293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.71524, 47.55881]
+        "coordinates": [10.71524, 47.558810000000001]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24305,7 +24305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.69157, 47.55587]
+        "coordinates": [10.69157, 47.555869999999999]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24317,7 +24317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.68078, 47.56774]
+        "coordinates": [10.68078, 47.567740000000001]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24329,7 +24329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.92237, 47.65982]
+        "coordinates": [9.9223700000000008, 47.659820000000003]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24341,7 +24341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.65882, 47.41996]
+        "coordinates": [9.6588200000000004, 47.419960000000003]
       },
       "properties": {
         "date": "2021-11-21",
@@ -24353,7 +24353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57884, 47.63102]
+        "coordinates": [8.5788399999999996, 47.631019999999999]
       },
       "properties": {
         "date": "2021-11-24",
@@ -24365,7 +24365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57813, 47.63042]
+        "coordinates": [8.5781299999999998, 47.630420000000001]
       },
       "properties": {
         "date": "2021-11-24",
@@ -24377,7 +24377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72667, 47.62887]
+        "coordinates": [8.7266700000000004, 47.628869999999999]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24389,7 +24389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70481, 47.63169]
+        "coordinates": [8.7048100000000002, 47.631689999999999]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24401,7 +24401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70925, 47.62153]
+        "coordinates": [8.7092500000000008, 47.62153]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24413,7 +24413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82263, 47.712]
+        "coordinates": [8.8226300000000002, 47.712000000000003]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24425,7 +24425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82697, 47.71838]
+        "coordinates": [8.8269699999999993, 47.718380000000003]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24437,7 +24437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84061, 47.75939]
+        "coordinates": [8.8406099999999999, 47.759390000000003]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24449,7 +24449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84078, 47.75968]
+        "coordinates": [8.8407800000000005, 47.759680000000003]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24461,7 +24461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74078, 47.74954]
+        "coordinates": [8.7407800000000009, 47.749540000000003]
       },
       "properties": {
         "date": "2021-11-26",
@@ -24473,7 +24473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76362, 47.43156]
+        "coordinates": [8.7636199999999995, 47.431559999999998]
       },
       "properties": {
         "date": "2021-11-27",
@@ -24485,7 +24485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75213, 47.42546]
+        "coordinates": [8.7521299999999993, 47.425460000000001]
       },
       "properties": {
         "date": "2021-11-27",
@@ -24497,7 +24497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91804, 47.41128]
+        "coordinates": [8.9180399999999995, 47.411279999999998]
       },
       "properties": {
         "date": "2021-11-28",
@@ -24509,7 +24509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5079, 47.60511]
+        "coordinates": [8.5078999999999994, 47.605110000000003]
       },
       "properties": {
         "date": "2021-12-05",
@@ -24521,7 +24521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49286, 47.61315]
+        "coordinates": [8.4928600000000003, 47.613149999999997]
       },
       "properties": {
         "date": "2021-12-05",
@@ -24533,7 +24533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48164, 47.61429]
+        "coordinates": [8.4816400000000005, 47.614289999999997]
       },
       "properties": {
         "date": "2021-12-05",
@@ -24545,7 +24545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52473, 47.61391]
+        "coordinates": [8.5247299999999999, 47.613909999999997]
       },
       "properties": {
         "date": "2021-12-05",
@@ -24557,7 +24557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67835, 47.32261]
+        "coordinates": [8.67835, 47.322609999999997]
       },
       "properties": {
         "date": "2021-12-06",
@@ -24569,7 +24569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52112, 47.634]
+        "coordinates": [8.5211199999999998, 47.634]
       },
       "properties": {
         "date": "2021-12-08",
@@ -24581,7 +24581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53999, 47.61233]
+        "coordinates": [8.5399899999999995, 47.61233]
       },
       "properties": {
         "date": "2021-12-08",
@@ -24593,7 +24593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4069, 47.50058]
+        "coordinates": [8.4069000000000003, 47.500579999999999]
       },
       "properties": {
         "date": "2021-12-11",
@@ -24605,7 +24605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43647, 47.48226]
+        "coordinates": [8.4364699999999999, 47.482259999999997]
       },
       "properties": {
         "date": "2021-12-11",
@@ -24617,7 +24617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85636, 47.33627]
+        "coordinates": [8.8563600000000005, 47.336269999999999]
       },
       "properties": {
         "date": "2021-12-11",
@@ -24629,7 +24629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61581, 47.37989]
+        "coordinates": [8.6158099999999997, 47.379890000000003]
       },
       "properties": {
         "date": "2021-12-17",
@@ -24641,7 +24641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60945, 47.37639]
+        "coordinates": [8.6094500000000007, 47.376390000000001]
       },
       "properties": {
         "date": "2021-12-17",
@@ -24653,7 +24653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.27925, 53.3667]
+        "coordinates": [-2.2792500000000002, 53.366700000000002]
       },
       "properties": {
         "date": "2021-12-18",
@@ -24665,7 +24665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1097, 53.9484]
+        "coordinates": [-1.1096999999999999, 53.948399999999999]
       },
       "properties": {
         "date": "2021-12-18",
@@ -24677,7 +24677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.1347328, 53.94517]
+        "coordinates": [-1.1347328000000001, 53.945169999999997]
       },
       "properties": {
         "date": "2021-12-18",
@@ -24689,7 +24689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07497, 53.94104]
+        "coordinates": [-1.07497, 53.941040000000001]
       },
       "properties": {
         "date": "2021-12-19",
@@ -24701,7 +24701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.80932, 53.68915]
+        "coordinates": [-1.80932, 53.689149999999998]
       },
       "properties": {
         "date": "2021-12-19",
@@ -24713,7 +24713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.82407, 53.68501]
+        "coordinates": [-1.8240700000000001, 53.685009999999998]
       },
       "properties": {
         "date": "2021-12-19",
@@ -24725,7 +24725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.82275, 53.68276]
+        "coordinates": [-1.8227500000000001, 53.682760000000002]
       },
       "properties": {
         "date": "2021-12-19",
@@ -24737,7 +24737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.80444, 53.69872]
+        "coordinates": [-1.80444, 53.698720000000002]
       },
       "properties": {
         "date": "2021-12-20",
@@ -24749,7 +24749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.83758, 53.68556]
+        "coordinates": [-1.83758, 53.685560000000002]
       },
       "properties": {
         "date": "2021-12-21",
@@ -24761,7 +24761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.90165, 53.69972]
+        "coordinates": [-1.9016500000000001, 53.699719999999999]
       },
       "properties": {
         "date": "2021-12-21",
@@ -24773,7 +24773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.89425, 53.7021]
+        "coordinates": [-1.89425, 53.702100000000002]
       },
       "properties": {
         "date": "2021-12-21",
@@ -24785,7 +24785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.89717, 53.70786]
+        "coordinates": [-1.89717, 53.707859999999997]
       },
       "properties": {
         "date": "2021-12-21",
@@ -24797,7 +24797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.92033, 53.67658]
+        "coordinates": [-1.9203300000000001, 53.676580000000001]
       },
       "properties": {
         "date": "2021-12-21",
@@ -24809,7 +24809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.94996, 53.67269]
+        "coordinates": [-1.9499599999999999, 53.672690000000003]
       },
       "properties": {
         "date": "2021-12-22",
@@ -24821,7 +24821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.99649, 53.66421]
+        "coordinates": [-1.9964900000000001, 53.664209999999997]
       },
       "properties": {
         "date": "2021-12-22",
@@ -24833,7 +24833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.98576, 53.66645]
+        "coordinates": [-1.98576, 53.666449999999998]
       },
       "properties": {
         "date": "2021-12-22",
@@ -24845,7 +24845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.95416, 53.66941]
+        "coordinates": [-1.9541599999999999, 53.669409999999999]
       },
       "properties": {
         "date": "2021-12-22",
@@ -24857,7 +24857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.79096, 53.67249]
+        "coordinates": [-1.7909600000000001, 53.672490000000003]
       },
       "properties": {
         "date": "2021-12-23",
@@ -24869,7 +24869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.8007, 53.6649]
+        "coordinates": [-1.8007, 53.664900000000003]
       },
       "properties": {
         "date": "2021-12-23",
@@ -24881,7 +24881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.82627, 53.67241]
+        "coordinates": [-1.8262700000000001, 53.672409999999999]
       },
       "properties": {
         "date": "2021-12-25",
@@ -24893,7 +24893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.84166, 53.67341]
+        "coordinates": [-1.8416600000000001, 53.673409999999997]
       },
       "properties": {
         "date": "2021-12-25",
@@ -24905,7 +24905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.79385, 53.68268]
+        "coordinates": [-1.7938499999999999, 53.682679999999998]
       },
       "properties": {
         "date": "2021-12-27",
@@ -24917,7 +24917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.91742, 53.64323]
+        "coordinates": [-1.9174199999999999, 53.643230000000003]
       },
       "properties": {
         "date": "2021-12-27",
@@ -24929,7 +24929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4535, 46.5347]
+        "coordinates": [8.4535, 46.534700000000001]
       },
       "properties": {
         "date": "2021-12-31",
@@ -24941,7 +24941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.13412, 46.40578]
+        "coordinates": [8.1341199999999994, 46.40578]
       },
       "properties": {
         "date": "2021-12-31",
@@ -24953,7 +24953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99077, 46.31406]
+        "coordinates": [7.9907700000000004, 46.314059999999998]
       },
       "properties": {
         "date": "2021-12-31",
@@ -24965,7 +24965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.88086, 46.29226]
+        "coordinates": [7.8808600000000002, 46.292259999999999]
       },
       "properties": {
         "date": "2021-12-31",
@@ -24977,7 +24977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8638, 46.3079]
+        "coordinates": [7.8638000000000003, 46.307899999999997]
       },
       "properties": {
         "date": "2021-12-31",
@@ -24989,7 +24989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98822, 46.31627]
+        "coordinates": [7.9882200000000001, 46.316270000000003]
       },
       "properties": {
         "date": "2021-12-31",
@@ -25001,7 +25001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98703, 46.31578]
+        "coordinates": [7.9870299999999999, 46.315779999999997]
       },
       "properties": {
         "date": "2021-12-31",
@@ -25013,7 +25013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8695, 46.2318]
+        "coordinates": [7.8695000000000004, 46.2318]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25025,7 +25025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.77571, 46.06764]
+        "coordinates": [7.7757100000000001, 46.067639999999997]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25037,7 +25037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.76048, 46.03735]
+        "coordinates": [7.7604800000000003, 46.037350000000004]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25049,7 +25049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.74794, 46.0237]
+        "coordinates": [7.7479399999999998, 46.023699999999998]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25061,7 +25061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.74143, 46.01492]
+        "coordinates": [7.7414300000000003, 46.014919999999996]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25073,7 +25073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7429375, 46.01628]
+        "coordinates": [7.7429375, 46.016280000000002]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25085,7 +25085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7443, 46.01791]
+        "coordinates": [7.7443, 46.017910000000001]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25097,7 +25097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.74711, 46.02356]
+        "coordinates": [7.7471100000000002, 46.023560000000003]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25109,7 +25109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.74958, 46.02286]
+        "coordinates": [7.7495799999999999, 46.022860000000001]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25121,7 +25121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.79985, 46.17276]
+        "coordinates": [7.7998500000000002, 46.172759999999997]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25133,7 +25133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.79384, 46.16245]
+        "coordinates": [7.7938400000000003, 46.16245]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25145,7 +25145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7922, 46.13552]
+        "coordinates": [7.7922000000000002, 46.13552]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25157,7 +25157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.96132, 46.30636]
+        "coordinates": [7.9613199999999997, 46.306359999999998]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25169,7 +25169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98905, 46.31638]
+        "coordinates": [7.9890499999999998, 46.316380000000002]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25181,7 +25181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99096, 46.31507]
+        "coordinates": [7.9909600000000003, 46.315069999999999]
       },
       "properties": {
         "date": "2022-01-01",
@@ -25193,7 +25193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7447, 46.3146]
+        "coordinates": [7.7446999999999999, 46.314599999999999]
       },
       "properties": {
         "date": "2022-01-02",
@@ -25205,7 +25205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.75503, 46.36776]
+        "coordinates": [7.7550299999999996, 46.367759999999997]
       },
       "properties": {
         "date": "2022-01-02",
@@ -25217,7 +25217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7219, 46.4209]
+        "coordinates": [7.7218999999999998, 46.420900000000003]
       },
       "properties": {
         "date": "2022-01-02",
@@ -25229,7 +25229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75963, 47.30739]
+        "coordinates": [8.7596299999999996, 47.307389999999998]
       },
       "properties": {
         "date": "2022-01-05",
@@ -25241,7 +25241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8089, 47.2871]
+        "coordinates": [8.8088999999999995, 47.287100000000002]
       },
       "properties": {
         "date": "2022-01-05",
@@ -25253,7 +25253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79601, 47.28975]
+        "coordinates": [8.7960100000000008, 47.289749999999998]
       },
       "properties": {
         "date": "2022-01-05",
@@ -25265,7 +25265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.3429, 47.2302]
+        "coordinates": [8.3429000000000002, 47.230200000000004]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25277,7 +25277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.25664, 47.25135]
+        "coordinates": [8.2566400000000009, 47.251350000000002]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25289,7 +25289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.22483, 47.24423]
+        "coordinates": [8.2248300000000008, 47.244230000000002]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25301,7 +25301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.2197, 47.25222]
+        "coordinates": [8.2196999999999996, 47.252220000000001]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25313,7 +25313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.20991, 47.2708]
+        "coordinates": [8.2099100000000007, 47.270800000000001]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25325,7 +25325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.19083, 47.20626]
+        "coordinates": [8.1908300000000001, 47.20626]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25337,7 +25337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.17852, 47.18926]
+        "coordinates": [8.1785200000000007, 47.189259999999997]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25349,7 +25349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30692, 47.05198]
+        "coordinates": [8.3069199999999999, 47.05198]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25361,7 +25361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46396, 47.08145]
+        "coordinates": [8.4639600000000002, 47.081449999999997]
       },
       "properties": {
         "date": "2022-01-06",
@@ -25373,7 +25373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85859, 47.42821]
+        "coordinates": [8.8585899999999995, 47.42821]
       },
       "properties": {
         "date": "2022-01-08",
@@ -25385,7 +25385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.88578, 47.41949]
+        "coordinates": [8.8857800000000005, 47.419490000000003]
       },
       "properties": {
         "date": "2022-01-08",
@@ -25397,7 +25397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.88554, 47.41265]
+        "coordinates": [8.8855400000000007, 47.412649999999999]
       },
       "properties": {
         "date": "2022-01-08",
@@ -25409,7 +25409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87615, 47.41143]
+        "coordinates": [8.8761500000000009, 47.411430000000003]
       },
       "properties": {
         "date": "2022-01-08",
@@ -25421,7 +25421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.28375, 47.12928]
+        "coordinates": [9.2837499999999995, 47.129280000000001]
       },
       "properties": {
         "date": "2022-01-09",
@@ -25433,7 +25433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53953, 47.3749]
+        "coordinates": [8.5395299999999992, 47.374899999999997]
       },
       "properties": {
         "date": "2022-01-14",
@@ -25445,7 +25445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.91309, 46.59037]
+        "coordinates": [7.9130900000000004, 46.59037]
       },
       "properties": {
         "date": "2022-01-15",
@@ -25457,7 +25457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90278, 46.54493]
+        "coordinates": [7.9027799999999999, 46.544930000000001]
       },
       "properties": {
         "date": "2022-01-15",
@@ -25469,7 +25469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85989, 47.38567]
+        "coordinates": [8.85989, 47.385669999999998]
       },
       "properties": {
         "date": "2022-01-16",
@@ -25481,7 +25481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86424, 47.38711]
+        "coordinates": [8.8642400000000006, 47.38711]
       },
       "properties": {
         "date": "2022-01-16",
@@ -25493,7 +25493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89754, 47.38808]
+        "coordinates": [8.8975399999999993, 47.388080000000002]
       },
       "properties": {
         "date": "2022-01-16",
@@ -25505,7 +25505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87155, 47.38106]
+        "coordinates": [8.8715499999999992, 47.381059999999998]
       },
       "properties": {
         "date": "2022-01-16",
@@ -25517,7 +25517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57454, 47.53068]
+        "coordinates": [8.5745400000000007, 47.530679999999997]
       },
       "properties": {
         "date": "2022-01-18",
@@ -25529,7 +25529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64225, 47.37495]
+        "coordinates": [8.6422500000000007, 47.374949999999998]
       },
       "properties": {
         "date": "2022-01-23",
@@ -25541,7 +25541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63661, 47.36814]
+        "coordinates": [8.6366099999999992, 47.368139999999997]
       },
       "properties": {
         "date": "2022-01-23",
@@ -25553,7 +25553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6176, 47.37744]
+        "coordinates": [8.6175999999999995, 47.37744]
       },
       "properties": {
         "date": "2022-01-23",
@@ -25565,7 +25565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6387, 47.361]
+        "coordinates": [8.6387, 47.360999999999997]
       },
       "properties": {
         "date": "2022-01-28",
@@ -25577,7 +25577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6223, 47.46999]
+        "coordinates": [8.6222999999999992, 47.469990000000003]
       },
       "properties": {
         "date": "2022-01-28",
@@ -25589,7 +25589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68931, 47.29866]
+        "coordinates": [8.6893100000000008, 47.298659999999998]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25601,7 +25601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70211, 47.27434]
+        "coordinates": [8.7021099999999993, 47.274340000000002]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25613,7 +25613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71298, 47.26391]
+        "coordinates": [8.7129799999999999, 47.263910000000003]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25625,7 +25625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73538, 47.23923]
+        "coordinates": [8.7353799999999993, 47.239229999999999]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25637,7 +25637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74269, 47.23601]
+        "coordinates": [8.7426899999999996, 47.23601]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25649,7 +25649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75278, 47.23573]
+        "coordinates": [8.7527799999999996, 47.235729999999997]
       },
       "properties": {
         "date": "2022-01-29",
@@ -25661,7 +25661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64247, 47.47951]
+        "coordinates": [8.6424699999999994, 47.479509999999998]
       },
       "properties": {
         "date": "2022-01-30",
@@ -25673,7 +25673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65895, 47.491]
+        "coordinates": [8.6589500000000008, 47.491]
       },
       "properties": {
         "date": "2022-01-30",
@@ -25685,7 +25685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6326, 47.4986]
+        "coordinates": [8.6326000000000001, 47.498600000000003]
       },
       "properties": {
         "date": "2022-01-30",
@@ -25697,7 +25697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64729, 47.49637]
+        "coordinates": [8.6472899999999999, 47.496369999999999]
       },
       "properties": {
         "date": "2022-02-04",
@@ -25709,7 +25709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64352, 47.49448]
+        "coordinates": [8.6435200000000005, 47.494480000000003]
       },
       "properties": {
         "date": "2022-02-04",
@@ -25721,7 +25721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67622, 47.49657]
+        "coordinates": [8.6762200000000007, 47.496569999999998]
       },
       "properties": {
         "date": "2022-02-04",
@@ -25733,7 +25733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87959, 47.67178]
+        "coordinates": [8.8795900000000003, 47.671779999999998]
       },
       "properties": {
         "date": "2022-02-05",
@@ -25745,7 +25745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87497, 47.66489]
+        "coordinates": [8.8749699999999994, 47.66489]
       },
       "properties": {
         "date": "2022-02-05",
@@ -25757,7 +25757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53565, 47.3565]
+        "coordinates": [8.5356500000000004, 47.356499999999997]
       },
       "properties": {
         "date": "2022-02-06",
@@ -25769,7 +25769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53701, 47.36262]
+        "coordinates": [8.5370100000000004, 47.36262]
       },
       "properties": {
         "date": "2022-02-06",
@@ -25781,7 +25781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5366, 47.34511]
+        "coordinates": [8.5366, 47.345109999999998]
       },
       "properties": {
         "date": "2022-02-06",
@@ -25793,7 +25793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6168, 47.49509]
+        "coordinates": [8.6167999999999996, 47.495089999999998]
       },
       "properties": {
         "date": "2022-02-11",
@@ -25805,7 +25805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.09247, 47.06162]
+        "coordinates": [7.0924699999999996, 47.061619999999998]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25817,7 +25817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.81009, 46.97798]
+        "coordinates": [6.8100899999999998, 46.977980000000002]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25829,7 +25829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.72218, 46.95512]
+        "coordinates": [6.7221799999999998, 46.955120000000001]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25841,7 +25841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.72594, 46.95204]
+        "coordinates": [6.7259399999999996, 46.952039999999997]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25853,7 +25853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.71705, 46.94605]
+        "coordinates": [6.7170500000000004, 46.94605]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25865,7 +25865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.71804, 46.94257]
+        "coordinates": [6.7180400000000002, 46.942570000000003]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25877,7 +25877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.72229, 46.93136]
+        "coordinates": [6.7222900000000001, 46.931359999999998]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25889,7 +25889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.72479, 46.92858]
+        "coordinates": [6.7247899999999996, 46.928579999999997]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25901,7 +25901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.72049, 46.93485]
+        "coordinates": [6.7204899999999999, 46.934849999999997]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25913,7 +25913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.62089, 46.78831]
+        "coordinates": [6.6208900000000002, 46.788310000000003]
       },
       "properties": {
         "date": "2022-02-12",
@@ -25925,7 +25925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63695, 47.49377]
+        "coordinates": [8.6369500000000006, 47.493769999999998]
       },
       "properties": {
         "date": "2022-02-13",
@@ -25937,7 +25937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61709, 47.49223]
+        "coordinates": [8.6170899999999993, 47.492229999999999]
       },
       "properties": {
         "date": "2022-02-13",
@@ -25949,7 +25949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62827, 47.49431]
+        "coordinates": [8.6282700000000006, 47.494309999999999]
       },
       "properties": {
         "date": "2022-02-13",
@@ -25961,7 +25961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.13857, 53.91294]
+        "coordinates": [-1.1385700000000001, 53.912939999999999]
       },
       "properties": {
         "date": "2022-02-19",
@@ -25973,7 +25973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.15689, 53.87549]
+        "coordinates": [-1.15689, 53.875489999999999]
       },
       "properties": {
         "date": "2022-02-20",
@@ -25985,7 +25985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06082, 53.97182]
+        "coordinates": [-1.0608200000000001, 53.971820000000001]
       },
       "properties": {
         "date": "2022-02-21",
@@ -25997,7 +25997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.02826, 53.91233]
+        "coordinates": [-1.02826, 53.912329999999997]
       },
       "properties": {
         "date": "2022-02-23",
@@ -26009,7 +26009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.86972, 54.4327]
+        "coordinates": [-0.86972000000000005, 54.432699999999997]
       },
       "properties": {
         "date": "2022-02-26",
@@ -26021,7 +26021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.48068, 53.96794]
+        "coordinates": [-1.48068, 53.967939999999999]
       },
       "properties": {
         "date": "2022-02-27",
@@ -26033,7 +26033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.5296, 53.9578]
+        "coordinates": [-1.5296000000000001, 53.957799999999999]
       },
       "properties": {
         "date": "2022-02-27",
@@ -26045,7 +26045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.48408, 53.91908]
+        "coordinates": [-1.4840800000000001, 53.919080000000001]
       },
       "properties": {
         "date": "2022-02-27",
@@ -26057,7 +26057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.48291, 53.91967]
+        "coordinates": [-1.48291, 53.919670000000004]
       },
       "properties": {
         "date": "2022-02-27",
@@ -26069,7 +26069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.04337, 53.9177]
+        "coordinates": [-1.0433699999999999, 53.917700000000004]
       },
       "properties": {
         "date": "2022-02-28",
@@ -26081,7 +26081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7412, 54.0315]
+        "coordinates": [-0.74119999999999997, 54.031500000000001]
       },
       "properties": {
         "date": "2022-03-01",
@@ -26093,7 +26093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.72017, 54.01846]
+        "coordinates": [-0.72016999999999998, 54.018459999999997]
       },
       "properties": {
         "date": "2022-03-01",
@@ -26105,7 +26105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.66105, 54.02066]
+        "coordinates": [-0.66105000000000003, 54.020659999999999]
       },
       "properties": {
         "date": "2022-03-01",
@@ -26117,7 +26117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.5133, 54.0079]
+        "coordinates": [-1.5133000000000001, 54.007899999999999]
       },
       "properties": {
         "date": "2022-03-02",
@@ -26141,7 +26141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07174, 53.93503]
+        "coordinates": [-1.0717399999999999, 53.935029999999998]
       },
       "properties": {
         "date": "2022-03-03",
@@ -26153,7 +26153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.97143, 53.98877]
+        "coordinates": [-0.97143000000000002, 53.988770000000002]
       },
       "properties": {
         "date": "2022-03-04",
@@ -26165,7 +26165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.97263, 53.9793]
+        "coordinates": [-0.97262999999999999, 53.979300000000002]
       },
       "properties": {
         "date": "2022-03-04",
@@ -26177,7 +26177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.0605052, 53.95449]
+        "coordinates": [-1.0605051999999999, 53.95449]
       },
       "properties": {
         "date": "2022-03-04",
@@ -26189,7 +26189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34017, 47.37023]
+        "coordinates": [8.3401700000000005, 47.370229999999999]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26201,7 +26201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.35354, 47.36801]
+        "coordinates": [8.3535400000000006, 47.368009999999998]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26213,7 +26213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36478, 47.37855]
+        "coordinates": [8.3647799999999997, 47.378549999999997]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26225,7 +26225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36524, 47.38074]
+        "coordinates": [8.36524, 47.380740000000003]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26237,7 +26237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36297, 47.38741]
+        "coordinates": [8.3629700000000007, 47.387410000000003]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26249,7 +26249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36121, 47.3916]
+        "coordinates": [8.3612099999999998, 47.391599999999997]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26261,7 +26261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34427, 47.35089]
+        "coordinates": [8.3442699999999999, 47.35089]
       },
       "properties": {
         "date": "2022-03-13",
@@ -26273,7 +26273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6488, 47.62605]
+        "coordinates": [8.6487999999999996, 47.626049999999999]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26285,7 +26285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6537, 47.65307]
+        "coordinates": [8.6537000000000006, 47.65307]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26297,7 +26297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67323, 47.64041]
+        "coordinates": [8.6732300000000002, 47.640410000000003]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26309,7 +26309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68144, 47.59707]
+        "coordinates": [8.6814400000000003, 47.597070000000002]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26321,7 +26321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6789, 47.59489]
+        "coordinates": [8.6789000000000005, 47.594889999999999]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26333,7 +26333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67012, 47.57605]
+        "coordinates": [8.6701200000000007, 47.576050000000002]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26345,7 +26345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55452, 47.5517]
+        "coordinates": [8.5545200000000001, 47.551699999999997]
       },
       "properties": {
         "date": "2022-03-19",
@@ -26357,7 +26357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6303, 47.507]
+        "coordinates": [8.6303000000000001, 47.506999999999998]
       },
       "properties": {
         "date": "2022-03-20",
@@ -26369,7 +26369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64608, 47.52587]
+        "coordinates": [8.6460799999999995, 47.525869999999998]
       },
       "properties": {
         "date": "2022-03-20",
@@ -26381,7 +26381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64358, 47.53085]
+        "coordinates": [8.64358, 47.530850000000001]
       },
       "properties": {
         "date": "2022-03-20",
@@ -26393,7 +26393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60703, 47.5403]
+        "coordinates": [8.60703, 47.540300000000002]
       },
       "properties": {
         "date": "2022-03-20",
@@ -26405,7 +26405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61997, 47.54805]
+        "coordinates": [8.6199700000000004, 47.548050000000003]
       },
       "properties": {
         "date": "2022-03-20",
@@ -26417,7 +26417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64182, 47.49815]
+        "coordinates": [8.6418199999999992, 47.498150000000003]
       },
       "properties": {
         "date": "2022-03-22",
@@ -26429,7 +26429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4662, 47.5282]
+        "coordinates": [8.4662000000000006, 47.528199999999998]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26441,7 +26441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.45257, 47.52561]
+        "coordinates": [8.4525699999999997, 47.52561]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26453,7 +26453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.44191, 47.52381]
+        "coordinates": [8.44191, 47.523809999999997]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26465,7 +26465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4576, 47.53249]
+        "coordinates": [8.4575999999999993, 47.532490000000003]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26477,7 +26477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.45694, 47.53405]
+        "coordinates": [8.4569399999999995, 47.534050000000001]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26501,7 +26501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43697, 47.53621]
+        "coordinates": [8.4369700000000005, 47.536209999999997]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26513,7 +26513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41349, 47.54226]
+        "coordinates": [8.4134899999999995, 47.542259999999999]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26525,7 +26525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51967, 47.51513]
+        "coordinates": [8.5196699999999996, 47.515129999999999]
       },
       "properties": {
         "date": "2022-03-26",
@@ -26537,7 +26537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60908, 47.67026]
+        "coordinates": [8.6090800000000005, 47.670259999999999]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26549,7 +26549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60746, 47.66528]
+        "coordinates": [8.6074599999999997, 47.665280000000003]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26561,7 +26561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59929, 47.65773]
+        "coordinates": [8.5992899999999999, 47.657730000000001]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26573,7 +26573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49331, 47.61453]
+        "coordinates": [8.4933099999999992, 47.614530000000002]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26585,7 +26585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48367, 47.62352]
+        "coordinates": [8.48367, 47.623519999999999]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26597,7 +26597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65274, 47.6511]
+        "coordinates": [8.6527399999999997, 47.6511]
       },
       "properties": {
         "date": "2022-03-27",
@@ -26609,7 +26609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85369, 47.25996]
+        "coordinates": [8.8536900000000003, 47.25996]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26621,7 +26621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86445, 47.26095]
+        "coordinates": [8.8644499999999997, 47.260950000000001]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26633,7 +26633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87347, 47.26003]
+        "coordinates": [8.8734699999999993, 47.26003]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26645,7 +26645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87858, 47.26962]
+        "coordinates": [8.8785799999999995, 47.269620000000003]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26657,7 +26657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90203, 47.25989]
+        "coordinates": [8.9020299999999999, 47.259889999999999]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26669,7 +26669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90229, 47.25888]
+        "coordinates": [8.9022900000000007, 47.258879999999998]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26681,7 +26681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8725, 47.25817]
+        "coordinates": [8.8725000000000005, 47.25817]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26693,7 +26693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80077, 47.25686]
+        "coordinates": [8.80077, 47.256860000000003]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26705,7 +26705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77034, 47.2526]
+        "coordinates": [8.7703399999999991, 47.252600000000001]
       },
       "properties": {
         "date": "2022-04-02",
@@ -26717,7 +26717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61406, 47.39945]
+        "coordinates": [8.6140600000000003, 47.399450000000002]
       },
       "properties": {
         "date": "2022-04-04",
@@ -26729,7 +26729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64302, 47.48952]
+        "coordinates": [8.6430199999999999, 47.489519999999999]
       },
       "properties": {
         "date": "2022-04-08",
@@ -26741,7 +26741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63606, 47.49987]
+        "coordinates": [8.6360600000000005, 47.499870000000001]
       },
       "properties": {
         "date": "2022-04-08",
@@ -26753,7 +26753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67183, 47.44191]
+        "coordinates": [8.6718299999999999, 47.44191]
       },
       "properties": {
         "date": "2022-04-12",
@@ -26765,7 +26765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51056, 47.31093]
+        "coordinates": [8.5105599999999999, 47.310929999999999]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26777,7 +26777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49413, 47.3107]
+        "coordinates": [8.4941300000000002, 47.310699999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26789,7 +26789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49471, 47.3139]
+        "coordinates": [8.4947099999999995, 47.313899999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26801,7 +26801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46257, 47.35341]
+        "coordinates": [8.4625699999999995, 47.353409999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26813,7 +26813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4773, 47.38043]
+        "coordinates": [8.4772999999999996, 47.380429999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26825,7 +26825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77551, 47.26837]
+        "coordinates": [8.7755100000000006, 47.268369999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26837,7 +26837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76309, 47.28453]
+        "coordinates": [8.76309, 47.284529999999997]
       },
       "properties": {
         "date": "2022-04-15",
@@ -26849,7 +26849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74661, 47.46145]
+        "coordinates": [8.7466100000000004, 47.461449999999999]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26861,7 +26861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75915, 47.4674]
+        "coordinates": [8.75915, 47.467399999999998]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26873,7 +26873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.795, 47.47381]
+        "coordinates": [8.7949999999999999, 47.47381]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26885,7 +26885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82041, 47.47905]
+        "coordinates": [8.8204100000000007, 47.479050000000001]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26897,7 +26897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82831, 47.46992]
+        "coordinates": [8.8283100000000001, 47.469920000000002]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26909,7 +26909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8072, 47.4675]
+        "coordinates": [8.8071999999999999, 47.467500000000001]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26921,7 +26921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80341, 47.43623]
+        "coordinates": [8.8034099999999995, 47.436230000000002]
       },
       "properties": {
         "date": "2022-04-17",
@@ -26933,7 +26933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63981, 47.50271]
+        "coordinates": [8.6398100000000007, 47.50271]
       },
       "properties": {
         "date": "2022-04-18",
@@ -26945,7 +26945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62075, 47.49594]
+        "coordinates": [8.6207499999999992, 47.495939999999997]
       },
       "properties": {
         "date": "2022-04-18",
@@ -26957,7 +26957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6243, 47.4903]
+        "coordinates": [8.6242999999999999, 47.490299999999998]
       },
       "properties": {
         "date": "2022-04-18",
@@ -26969,7 +26969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99986, 46.62385]
+        "coordinates": [7.99986, 46.623849999999997]
       },
       "properties": {
         "date": "2022-04-23",
@@ -26981,7 +26981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99529, 46.62451]
+        "coordinates": [7.9952899999999998, 46.624510000000001]
       },
       "properties": {
         "date": "2022-04-23",
@@ -26993,7 +26993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00571, 46.61892]
+        "coordinates": [8.0057100000000005, 46.618920000000003]
       },
       "properties": {
         "date": "2022-04-23",
@@ -27005,7 +27005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.03001, 46.62158]
+        "coordinates": [8.0300100000000008, 46.621580000000002]
       },
       "properties": {
         "date": "2022-04-23",
@@ -27017,7 +27017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.76293, 46.71375]
+        "coordinates": [7.7629299999999999, 46.713749999999997]
       },
       "properties": {
         "date": "2022-04-23",
@@ -27029,7 +27029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71952, 47.46901]
+        "coordinates": [8.7195199999999993, 47.469009999999997]
       },
       "properties": {
         "date": "2022-04-24",
@@ -27041,7 +27041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70889, 47.46977]
+        "coordinates": [8.7088900000000002, 47.469769999999997]
       },
       "properties": {
         "date": "2022-04-24",
@@ -27053,7 +27053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70731, 47.47346]
+        "coordinates": [8.7073099999999997, 47.473460000000003]
       },
       "properties": {
         "date": "2022-04-24",
@@ -27065,7 +27065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50725, 47.14893]
+        "coordinates": [8.5072500000000009, 47.14893]
       },
       "properties": {
         "date": "2022-04-27",
@@ -27077,7 +27077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51653, 47.14194]
+        "coordinates": [8.5165299999999995, 47.141939999999998]
       },
       "properties": {
         "date": "2022-04-27",
@@ -27089,7 +27089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50044, 47.11453]
+        "coordinates": [8.5004399999999993, 47.114530000000002]
       },
       "properties": {
         "date": "2022-04-27",
@@ -27101,7 +27101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52247, 47.0628]
+        "coordinates": [8.5224700000000002, 47.062800000000003]
       },
       "properties": {
         "date": "2022-04-27",
@@ -27113,7 +27113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.69638, 46.65861]
+        "coordinates": [7.6963800000000004, 46.658610000000003]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27125,7 +27125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.71048, 46.65071]
+        "coordinates": [7.7104799999999996, 46.650709999999997]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27137,7 +27137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.73012, 46.65204]
+        "coordinates": [7.7301200000000003, 46.65204]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27149,7 +27149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.70016, 46.66589]
+        "coordinates": [7.7001600000000003, 46.665889999999997]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27161,7 +27161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.68361, 46.67248]
+        "coordinates": [7.6836099999999998, 46.67248]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27173,7 +27173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.70454, 46.67343]
+        "coordinates": [7.7045399999999997, 46.673430000000003]
       },
       "properties": {
         "date": "2022-04-28",
@@ -27185,7 +27185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.51087, 47.00525]
+        "coordinates": [9.5108700000000006, 47.005249999999997]
       },
       "properties": {
         "date": "2022-04-29",
@@ -27197,7 +27197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.51009, 47.0105]
+        "coordinates": [9.5100899999999999, 47.0105]
       },
       "properties": {
         "date": "2022-04-29",
@@ -27209,7 +27209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.48272, 47.04378]
+        "coordinates": [9.4827200000000005, 47.043779999999998]
       },
       "properties": {
         "date": "2022-04-29",
@@ -27221,7 +27221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68451, 47.30639]
+        "coordinates": [8.6845099999999995, 47.30639]
       },
       "properties": {
         "date": "2022-05-05",
@@ -27233,7 +27233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61707, 47.42947]
+        "coordinates": [8.61707, 47.429470000000002]
       },
       "properties": {
         "date": "2022-05-07",
@@ -27245,7 +27245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62021, 46.89131]
+        "coordinates": [8.6202100000000002, 46.891309999999997]
       },
       "properties": {
         "date": "2022-05-08",
@@ -27257,7 +27257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62056, 46.88459]
+        "coordinates": [8.6205599999999993, 46.884590000000003]
       },
       "properties": {
         "date": "2022-05-08",
@@ -27269,7 +27269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62277, 46.87734]
+        "coordinates": [8.6227699999999992, 46.877339999999997]
       },
       "properties": {
         "date": "2022-05-08",
@@ -27281,7 +27281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6326, 46.86367]
+        "coordinates": [8.6326000000000001, 46.863669999999999]
       },
       "properties": {
         "date": "2022-05-08",
@@ -27293,7 +27293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.41043, 33.94328]
+        "coordinates": [-118.41043000000001, 33.943280000000001]
       },
       "properties": {
         "date": "2022-05-12",
@@ -27305,7 +27305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.58732, -36.0942]
+        "coordinates": [174.58732000000001, -36.094200000000001]
       },
       "properties": {
         "date": "2022-05-13",
@@ -27317,7 +27317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.91371, -35.03179]
+        "coordinates": [173.91371000000001, -35.031790000000001]
       },
       "properties": {
         "date": "2022-05-15",
@@ -27329,7 +27329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.9068, -35.03964]
+        "coordinates": [173.9068, -35.039639999999999]
       },
       "properties": {
         "date": "2022-05-15",
@@ -27341,7 +27341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.8925, -35.0352]
+        "coordinates": [173.89250000000001, -35.035200000000003]
       },
       "properties": {
         "date": "2022-05-15",
@@ -27353,7 +27353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.8676, -35.02147]
+        "coordinates": [173.86760000000001, -35.021470000000001]
       },
       "properties": {
         "date": "2022-05-15",
@@ -27365,7 +27365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.6657, -34.47178]
+        "coordinates": [172.66569999999999, -34.471780000000003]
       },
       "properties": {
         "date": "2022-05-17",
@@ -27377,7 +27377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.7059, -34.9876]
+        "coordinates": [173.70590000000001, -34.9876]
       },
       "properties": {
         "date": "2022-05-20",
@@ -27389,7 +27389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.7097, -34.99167]
+        "coordinates": [173.7097, -34.991669999999999]
       },
       "properties": {
         "date": "2022-05-20",
@@ -27401,7 +27401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.78597, -35.00493]
+        "coordinates": [173.78596999999999, -35.004930000000002]
       },
       "properties": {
         "date": "2022-05-20",
@@ -27413,7 +27413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.84382, -34.99966]
+        "coordinates": [173.84381999999999, -34.999659999999999]
       },
       "properties": {
         "date": "2022-05-20",
@@ -27425,7 +27425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.53455, -34.98882]
+        "coordinates": [173.53455, -34.988819999999997]
       },
       "properties": {
         "date": "2022-05-22",
@@ -27437,7 +27437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.53856, -34.96988]
+        "coordinates": [173.53855999999999, -34.969880000000003]
       },
       "properties": {
         "date": "2022-05-22",
@@ -27449,7 +27449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.7719, -35.36047]
+        "coordinates": [173.77189999999999, -35.360469999999999]
       },
       "properties": {
         "date": "2022-05-24",
@@ -27461,7 +27461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.91262, -35.26346]
+        "coordinates": [173.91262, -35.263460000000002]
       },
       "properties": {
         "date": "2022-05-25",
@@ -27473,7 +27473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.78062, -41.2931]
+        "coordinates": [174.78062, -41.293100000000003]
       },
       "properties": {
         "date": "2022-05-25",
@@ -27485,7 +27485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.81916, -41.22038]
+        "coordinates": [174.81916000000001, -41.220379999999999]
       },
       "properties": {
         "date": "2022-05-26",
@@ -27497,7 +27497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.81807, -41.21357]
+        "coordinates": [174.81807000000001, -41.213569999999997]
       },
       "properties": {
         "date": "2022-05-26",
@@ -27509,7 +27509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.9508, -41.05088]
+        "coordinates": [174.95079999999999, -41.050879999999999]
       },
       "properties": {
         "date": "2022-05-26",
@@ -27521,7 +27521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.9222, -41.01406]
+        "coordinates": [174.9222, -41.014060000000001]
       },
       "properties": {
         "date": "2022-05-26",
@@ -27533,7 +27533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.97906, -35.13765]
+        "coordinates": [173.97906, -35.137650000000001]
       },
       "properties": {
         "date": "2022-05-29",
@@ -27545,7 +27545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.98056, -35.13257]
+        "coordinates": [173.98056, -35.132570000000001]
       },
       "properties": {
         "date": "2022-05-29",
@@ -27557,7 +27557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.97638, -35.1208]
+        "coordinates": [173.97638000000001, -35.120800000000003]
       },
       "properties": {
         "date": "2022-05-29",
@@ -27569,7 +27569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.09291, -35.28155]
+        "coordinates": [174.09290999999999, -35.281550000000003]
       },
       "properties": {
         "date": "2022-05-31",
@@ -27581,7 +27581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.95603, -35.21506]
+        "coordinates": [173.95603, -35.215060000000001]
       },
       "properties": {
         "date": "2022-05-31",
@@ -27593,7 +27593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.8482, -35.31105]
+        "coordinates": [173.84819999999999, -35.311050000000002]
       },
       "properties": {
         "date": "2022-06-01",
@@ -27605,7 +27605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.87629, -35.31638]
+        "coordinates": [173.87629000000001, -35.316380000000002]
       },
       "properties": {
         "date": "2022-06-01",
@@ -27617,7 +27617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.87504, -35.31639]
+        "coordinates": [173.87504000000001, -35.316389999999998]
       },
       "properties": {
         "date": "2022-06-01",
@@ -27629,7 +27629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.8713146, -35.30473]
+        "coordinates": [173.87131460000001, -35.304729999999999]
       },
       "properties": {
         "date": "2022-06-01",
@@ -27641,7 +27641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.7987373, -35.41034]
+        "coordinates": [173.7987373, -35.410339999999998]
       },
       "properties": {
         "date": "2022-06-01",
@@ -27653,7 +27653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.60536, -36.93271]
+        "coordinates": [174.60535999999999, -36.93271]
       },
       "properties": {
         "date": "2022-06-03",
@@ -27665,7 +27665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.46708, -36.95621]
+        "coordinates": [174.46708000000001, -36.956209999999999]
       },
       "properties": {
         "date": "2022-06-03",
@@ -27677,7 +27677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.46665, -36.95172]
+        "coordinates": [174.46664999999999, -36.951720000000002]
       },
       "properties": {
         "date": "2022-06-03",
@@ -27689,7 +27689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.46657, -36.95359]
+        "coordinates": [174.46656999999999, -36.953589999999998]
       },
       "properties": {
         "date": "2022-06-03",
@@ -27701,7 +27701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.60555, -37.0121]
+        "coordinates": [174.60554999999999, -37.012099999999997]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27713,7 +27713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.6161743, -36.96212]
+        "coordinates": [174.61617430000001, -36.962119999999999]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27725,7 +27725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.65736, -36.93756]
+        "coordinates": [174.65736000000001, -36.937559999999998]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27737,7 +27737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.6855144, -36.90789]
+        "coordinates": [174.68551439999999, -36.907890000000002]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27761,7 +27761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.6027, -36.9508]
+        "coordinates": [174.6027, -36.950800000000001]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27773,7 +27773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.61601, -36.94828]
+        "coordinates": [174.61600999999999, -36.948279999999997]
       },
       "properties": {
         "date": "2022-06-04",
@@ -27785,7 +27785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.83644, -36.91378]
+        "coordinates": [174.83644000000001, -36.913780000000003]
       },
       "properties": {
         "date": "2022-06-05",
@@ -27797,7 +27797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.8406, -36.91326]
+        "coordinates": [174.84059999999999, -36.913260000000001]
       },
       "properties": {
         "date": "2022-06-05",
@@ -27809,7 +27809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.83815, -36.89024]
+        "coordinates": [174.83815000000001, -36.890239999999999]
       },
       "properties": {
         "date": "2022-06-05",
@@ -27821,7 +27821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.66061, -36.41006]
+        "coordinates": [174.66060999999999, -36.410060000000001]
       },
       "properties": {
         "date": "2022-06-06",
@@ -27833,7 +27833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.978, -35.22111]
+        "coordinates": [173.97800000000001, -35.221110000000003]
       },
       "properties": {
         "date": "2022-06-07",
@@ -27845,7 +27845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.71848, -34.44081]
+        "coordinates": [172.71848, -34.440809999999999]
       },
       "properties": {
         "date": "2022-06-08",
@@ -27857,7 +27857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.72214, -34.43897]
+        "coordinates": [172.72214, -34.438969999999998]
       },
       "properties": {
         "date": "2022-06-08",
@@ -27869,7 +27869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.73938, -34.44219]
+        "coordinates": [172.73938000000001, -34.442189999999997]
       },
       "properties": {
         "date": "2022-06-08",
@@ -27881,7 +27881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.76229, -34.46644]
+        "coordinates": [172.76229000000001, -34.466439999999999]
       },
       "properties": {
         "date": "2022-06-08",
@@ -27893,7 +27893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.7615, -34.4823]
+        "coordinates": [172.76150000000001, -34.482300000000002]
       },
       "properties": {
         "date": "2022-06-08",
@@ -27905,7 +27905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.25747, -35.04592]
+        "coordinates": [173.25747000000001, -35.045920000000002]
       },
       "properties": {
         "date": "2022-06-09",
@@ -27929,7 +27929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.98664, 1.35708]
+        "coordinates": [103.98663999999999, 1.3570800000000001]
       },
       "properties": {
         "date": "2022-06-13",
@@ -27941,7 +27941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.18693, 47.11554]
+        "coordinates": [9.1869300000000003, 47.115540000000003]
       },
       "properties": {
         "date": "2022-06-19",
@@ -27953,7 +27953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17274, 47.11712]
+        "coordinates": [9.1727399999999992, 47.11712]
       },
       "properties": {
         "date": "2022-06-19",
@@ -27965,7 +27965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1574, 47.12041]
+        "coordinates": [9.1574000000000009, 47.12041]
       },
       "properties": {
         "date": "2022-06-19",
@@ -27977,7 +27977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43935, 47.45822]
+        "coordinates": [8.4393499999999992, 47.458219999999997]
       },
       "properties": {
         "date": "2022-06-25",
@@ -27989,7 +27989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43, 47.46239]
+        "coordinates": [8.4299999999999997, 47.462389999999999]
       },
       "properties": {
         "date": "2022-06-25",
@@ -28001,7 +28001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.42414, 47.4702]
+        "coordinates": [8.4241399999999995, 47.470199999999998]
       },
       "properties": {
         "date": "2022-06-25",
@@ -28013,7 +28013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.39721, 47.4516]
+        "coordinates": [8.3972099999999994, 47.451599999999999]
       },
       "properties": {
         "date": "2022-06-25",
@@ -28025,7 +28025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.40574, 47.44794]
+        "coordinates": [8.4057399999999998, 47.447940000000003]
       },
       "properties": {
         "date": "2022-06-25",
@@ -28037,7 +28037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9763916, 40.52385]
+        "coordinates": [22.976391599999999, 40.523850000000003]
       },
       "properties": {
         "date": "2022-06-27",
@@ -28049,7 +28049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9532424, 40.63063]
+        "coordinates": [22.953242400000001, 40.630629999999996]
       },
       "properties": {
         "date": "2022-06-27",
@@ -28061,7 +28061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9399584, 40.63395]
+        "coordinates": [22.939958399999998, 40.633949999999999]
       },
       "properties": {
         "date": "2022-06-27",
@@ -28073,7 +28073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9371803, 40.63594]
+        "coordinates": [22.937180300000001, 40.635939999999998]
       },
       "properties": {
         "date": "2022-06-27",
@@ -28085,7 +28085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9410254, 40.63153]
+        "coordinates": [22.941025400000001, 40.631529999999998]
       },
       "properties": {
         "date": "2022-06-28",
@@ -28097,7 +28097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9483787, 40.62608]
+        "coordinates": [22.948378699999999, 40.626080000000002]
       },
       "properties": {
         "date": "2022-06-28",
@@ -28109,7 +28109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9622, 40.62652]
+        "coordinates": [22.962199999999999, 40.626519999999999]
       },
       "properties": {
         "date": "2022-06-28",
@@ -28121,7 +28121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.96062, 40.63257]
+        "coordinates": [22.960619999999999, 40.632570000000001]
       },
       "properties": {
         "date": "2022-06-28",
@@ -28133,7 +28133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9348092, 40.63145]
+        "coordinates": [22.9348092, 40.631450000000001]
       },
       "properties": {
         "date": "2022-06-29",
@@ -28145,7 +28145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.9488549, 40.6273]
+        "coordinates": [22.948854900000001, 40.627299999999998]
       },
       "properties": {
         "date": "2022-06-29",
@@ -28157,7 +28157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.94428, 40.63601]
+        "coordinates": [22.944279999999999, 40.636009999999999]
       },
       "properties": {
         "date": "2022-06-30",
@@ -28169,7 +28169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.91047, 40.74057]
+        "coordinates": [22.91047, 40.740569999999998]
       },
       "properties": {
         "date": "2022-06-30",
@@ -28181,7 +28181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.94227, 40.63407]
+        "coordinates": [22.942270000000001, 40.634070000000001]
       },
       "properties": {
         "date": "2022-07-01",
@@ -28193,7 +28193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99701, 46.54976]
+        "coordinates": [7.9970100000000004, 46.549759999999999]
       },
       "properties": {
         "date": "2022-07-06",
@@ -28205,7 +28205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00578, 46.55481]
+        "coordinates": [8.0057799999999997, 46.554810000000003]
       },
       "properties": {
         "date": "2022-07-06",
@@ -28217,7 +28217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98636, 47.02353]
+        "coordinates": [8.9863599999999995, 47.023530000000001]
       },
       "properties": {
         "date": "2022-07-10",
@@ -28229,7 +28229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5967, 47.4739]
+        "coordinates": [8.5967000000000002, 47.4739]
       },
       "properties": {
         "date": "2022-07-11",
@@ -28241,7 +28241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72144, 47.25837]
+        "coordinates": [8.7214399999999994, 47.258369999999999]
       },
       "properties": {
         "date": "2022-07-12",
@@ -28253,7 +28253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66661, 46.51518]
+        "coordinates": [8.6666100000000004, 46.515180000000001]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28265,7 +28265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8679, 46.4008]
+        "coordinates": [8.8679000000000006, 46.400799999999997]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28277,7 +28277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02018, 46.25281]
+        "coordinates": [9.0201799999999999, 46.252809999999997]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28289,7 +28289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.04174, 46.22323]
+        "coordinates": [9.0417400000000008, 46.223230000000001]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28301,7 +28301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.04012, 46.21769]
+        "coordinates": [9.0401199999999999, 46.217689999999997]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28313,7 +28313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02769, 46.20754]
+        "coordinates": [9.0276899999999998, 46.207540000000002]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28325,7 +28325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03196, 46.20885]
+        "coordinates": [9.0319599999999998, 46.208849999999998]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28337,7 +28337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9073, 45.92726]
+        "coordinates": [8.9072999999999993, 45.927259999999997]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28349,7 +28349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9071, 45.92685]
+        "coordinates": [8.9070999999999998, 45.926850000000002]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28361,7 +28361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9159103, 45.92249]
+        "coordinates": [8.9159103000000002, 45.922490000000003]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28373,7 +28373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9161697, 45.92276]
+        "coordinates": [8.9161696999999993, 45.922759999999997]
       },
       "properties": {
         "date": "2022-07-14",
@@ -28385,7 +28385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9268, 45.93059]
+        "coordinates": [8.9268000000000001, 45.930590000000002]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28397,7 +28397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92257, 45.93026]
+        "coordinates": [8.9225700000000003, 45.930259999999997]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28409,7 +28409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92056, 45.92985]
+        "coordinates": [8.92056, 45.929850000000002]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28421,7 +28421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92104, 45.93217]
+        "coordinates": [8.9210399999999996, 45.932169999999999]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28433,7 +28433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91412, 45.93475]
+        "coordinates": [8.9141200000000005, 45.934750000000001]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28445,7 +28445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90794, 45.92788]
+        "coordinates": [8.90794, 45.927880000000002]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28457,7 +28457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91892, 45.92388]
+        "coordinates": [8.91892, 45.923879999999997]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28469,7 +28469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9447424, 46.00586]
+        "coordinates": [8.9447424000000009, 46.005859999999998]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28481,7 +28481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94741, 45.9969]
+        "coordinates": [8.9474099999999996, 45.996899999999997]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28493,7 +28493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92645, 45.93771]
+        "coordinates": [8.9264500000000009, 45.937710000000003]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28505,7 +28505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92913, 45.94328]
+        "coordinates": [8.9291300000000007, 45.943280000000001]
       },
       "properties": {
         "date": "2022-07-15",
@@ -28517,7 +28517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91417, 45.92321]
+        "coordinates": [8.9141700000000004, 45.923209999999997]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28529,7 +28529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91394, 45.92389]
+        "coordinates": [8.9139400000000002, 45.92389]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28541,7 +28541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91597, 45.92549]
+        "coordinates": [8.9159699999999997, 45.925490000000003]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28553,7 +28553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90974, 45.92635]
+        "coordinates": [8.9097399999999993, 45.926349999999999]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28565,7 +28565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98259, 45.85033]
+        "coordinates": [8.9825900000000001, 45.85033]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28577,7 +28577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03451, 45.83208]
+        "coordinates": [9.0345099999999992, 45.832079999999998]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28589,7 +28589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.07951, 45.81159]
+        "coordinates": [9.0795100000000009, 45.811590000000002]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28601,7 +28601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0771, 45.81308]
+        "coordinates": [9.0770999999999997, 45.813079999999999]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28613,7 +28613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.07526, 45.81505]
+        "coordinates": [9.0752600000000001, 45.815049999999999]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28625,7 +28625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9568732, 46.00681]
+        "coordinates": [8.9568732000000004, 46.006810000000002]
       },
       "properties": {
         "date": "2022-07-16",
@@ -28637,7 +28637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89981, 45.9346]
+        "coordinates": [8.8998100000000004, 45.934600000000003]
       },
       "properties": {
         "date": "2022-07-17",
@@ -28649,7 +28649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91311, 45.94788]
+        "coordinates": [8.9131099999999996, 45.947879999999998]
       },
       "properties": {
         "date": "2022-07-17",
@@ -28661,7 +28661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.5127, 46.84598]
+        "coordinates": [9.5127000000000006, 46.845979999999997]
       },
       "properties": {
         "date": "2022-07-17",
@@ -28673,7 +28673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51008, 47.38124]
+        "coordinates": [8.5100800000000003, 47.381239999999998]
       },
       "properties": {
         "date": "2022-07-21",
@@ -28685,7 +28685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.91435, 46.60274]
+        "coordinates": [7.9143499999999998, 46.602739999999997]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28697,7 +28697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.92166, 46.60501]
+        "coordinates": [7.9216600000000001, 46.60501]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28709,7 +28709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9268, 46.59934]
+        "coordinates": [7.9268000000000001, 46.599339999999998]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28721,7 +28721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.93093, 46.59333]
+        "coordinates": [7.93093, 46.593330000000002]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28733,7 +28733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.93931, 46.57561]
+        "coordinates": [7.9393099999999999, 46.575609999999998]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28745,7 +28745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.96079, 46.585]
+        "coordinates": [7.9607900000000003, 46.585000000000001]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28757,7 +28757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.92092, 46.60621]
+        "coordinates": [7.9209199999999997, 46.606209999999997]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28769,7 +28769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9213, 46.6054]
+        "coordinates": [7.9212999999999996, 46.605400000000003]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28781,7 +28781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.04885, 46.74049]
+        "coordinates": [8.0488499999999998, 46.740490000000001]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28793,7 +28793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.3065055, 47.05284]
+        "coordinates": [8.3065055000000001, 47.052840000000003]
       },
       "properties": {
         "date": "2022-07-24",
@@ -28805,7 +28805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.05851, 47.08424]
+        "coordinates": [9.0585100000000001, 47.084240000000001]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28817,7 +28817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02106, 47.14986]
+        "coordinates": [9.0210600000000003, 47.149859999999997]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28829,7 +28829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85285, 47.19027]
+        "coordinates": [8.8528500000000001, 47.190269999999998]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28841,7 +28841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.77771, 47.20142]
+        "coordinates": [8.7777100000000008, 47.201419999999999]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28853,7 +28853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67405, 47.22955]
+        "coordinates": [8.6740499999999994, 47.229550000000003]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28865,7 +28865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6601, 47.23817]
+        "coordinates": [8.6600999999999999, 47.238169999999997]
       },
       "properties": {
         "date": "2022-07-30",
@@ -28877,7 +28877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66604, 47.49984]
+        "coordinates": [8.6660400000000006, 47.499839999999999]
       },
       "properties": {
         "date": "2022-07-31",
@@ -28889,7 +28889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65671, 47.507]
+        "coordinates": [8.6567100000000003, 47.506999999999998]
       },
       "properties": {
         "date": "2022-07-31",
@@ -28901,7 +28901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71735, 47.41442]
+        "coordinates": [8.7173499999999997, 47.41442]
       },
       "properties": {
         "date": "2022-08-02",
@@ -28913,7 +28913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6455, 47.33678]
+        "coordinates": [8.6455000000000002, 47.336779999999997]
       },
       "properties": {
         "date": "2022-08-03",
@@ -28925,7 +28925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49905, 47.38627]
+        "coordinates": [8.4990500000000004, 47.386270000000003]
       },
       "properties": {
         "date": "2022-08-04",
@@ -28937,7 +28937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.45894, 47.4049]
+        "coordinates": [8.4589400000000001, 47.404899999999998]
       },
       "properties": {
         "date": "2022-08-05",
@@ -28949,7 +28949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43957, 47.40836]
+        "coordinates": [8.4395699999999998, 47.408360000000002]
       },
       "properties": {
         "date": "2022-08-05",
@@ -28961,7 +28961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78898, 47.5356]
+        "coordinates": [8.7889800000000005, 47.535600000000002]
       },
       "properties": {
         "date": "2022-08-06",
@@ -28973,7 +28973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7961, 47.5519]
+        "coordinates": [8.7960999999999991, 47.551900000000003]
       },
       "properties": {
         "date": "2022-08-06",
@@ -28985,7 +28985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.82462, 47.56302]
+        "coordinates": [8.8246199999999995, 47.563020000000002]
       },
       "properties": {
         "date": "2022-08-06",
@@ -28997,7 +28997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79921, 47.56691]
+        "coordinates": [8.7992100000000004, 47.56691]
       },
       "properties": {
         "date": "2022-08-06",
@@ -29021,7 +29021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76828, 47.56531]
+        "coordinates": [8.7682800000000007, 47.565309999999997]
       },
       "properties": {
         "date": "2022-08-06",
@@ -29033,7 +29033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.789, 47.56175]
+        "coordinates": [8.7889999999999997, 47.561750000000004]
       },
       "properties": {
         "date": "2022-08-06",
@@ -29045,7 +29045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.42922, 47.26366]
+        "coordinates": [8.4292200000000008, 47.263660000000002]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29057,7 +29057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.42665, 47.26]
+        "coordinates": [8.4266500000000004, 47.259999999999998]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29069,7 +29069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4436, 47.23611]
+        "coordinates": [8.4436, 47.236109999999996]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29081,7 +29081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4249, 47.2477]
+        "coordinates": [8.4248999999999992, 47.247700000000002]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29093,7 +29093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41738, 47.25483]
+        "coordinates": [8.4173799999999996, 47.254829999999998]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29105,7 +29105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41581, 47.26875]
+        "coordinates": [8.4158100000000005, 47.268749999999997]
       },
       "properties": {
         "date": "2022-08-07",
@@ -29117,7 +29117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65273, 47.33685]
+        "coordinates": [8.65273, 47.336849999999998]
       },
       "properties": {
         "date": "2022-08-13",
@@ -29129,7 +29129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.50985, 47.25211]
+        "coordinates": [7.5098500000000001, 47.252110000000002]
       },
       "properties": {
         "date": "2022-08-14",
@@ -29141,7 +29141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.46774, 47.26227]
+        "coordinates": [7.46774, 47.262270000000001]
       },
       "properties": {
         "date": "2022-08-14",
@@ -29153,7 +29153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.54314, 47.22048]
+        "coordinates": [7.5431400000000002, 47.220480000000002]
       },
       "properties": {
         "date": "2022-08-14",
@@ -29165,7 +29165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.5502, 47.20818]
+        "coordinates": [7.5502000000000002, 47.208179999999999]
       },
       "properties": {
         "date": "2022-08-14",
@@ -29177,7 +29177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.57175, 47.20179]
+        "coordinates": [7.5717499999999998, 47.201790000000003]
       },
       "properties": {
         "date": "2022-08-14",
@@ -29189,7 +29189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60028, 47.43611]
+        "coordinates": [8.6002799999999997, 47.436109999999999]
       },
       "properties": {
         "date": "2022-08-16",
@@ -29201,7 +29201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.9645, 53.6829]
+        "coordinates": [-1.9644999999999999, 53.682899999999997]
       },
       "properties": {
         "date": "2022-08-20",
@@ -29213,7 +29213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.9505, 53.6935]
+        "coordinates": [-1.9504999999999999, 53.6935]
       },
       "properties": {
         "date": "2022-08-20",
@@ -29225,7 +29225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.94816, 53.6886]
+        "coordinates": [-1.9481599999999999, 53.688600000000001]
       },
       "properties": {
         "date": "2022-08-20",
@@ -29237,7 +29237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.9453, 53.6816]
+        "coordinates": [-1.9453, 53.681600000000003]
       },
       "properties": {
         "date": "2022-08-20",
@@ -29249,7 +29249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.93184, 54.26974]
+        "coordinates": [-0.93184, 54.269739999999999]
       },
       "properties": {
         "date": "2022-08-21",
@@ -29261,7 +29261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.06961, 53.94098]
+        "coordinates": [-1.0696099999999999, 53.940980000000003]
       },
       "properties": {
         "date": "2022-08-24",
@@ -29273,7 +29273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.88112, 54.01493]
+        "coordinates": [-0.88112000000000001, 54.01493]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29285,7 +29285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.88073, 54.01687]
+        "coordinates": [-0.88073000000000001, 54.016869999999997]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29297,7 +29297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.80124, 54.04563]
+        "coordinates": [-0.80123999999999995, 54.045630000000003]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29309,7 +29309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.79592, 54.04563]
+        "coordinates": [-0.79591999999999996, 54.045630000000003]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29321,7 +29321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.7708, 54.0603]
+        "coordinates": [-0.77080000000000004, 54.060299999999998]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29333,7 +29333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.75795, 54.07067]
+        "coordinates": [-0.75795000000000001, 54.07067]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29345,7 +29345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.79187, 54.07442]
+        "coordinates": [-0.79186999999999996, 54.074420000000003]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29357,7 +29357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.79564, 54.07514]
+        "coordinates": [-0.79564000000000001, 54.075139999999998]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29369,7 +29369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.80262, 54.05743]
+        "coordinates": [-0.80262, 54.057429999999997]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29381,7 +29381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.91122, 54.06043]
+        "coordinates": [-0.91122000000000003, 54.060429999999997]
       },
       "properties": {
         "date": "2022-08-25",
@@ -29393,7 +29393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59691, 47.36388]
+        "coordinates": [8.5969099999999994, 47.363880000000002]
       },
       "properties": {
         "date": "2022-09-03",
@@ -29405,7 +29405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60161, 47.3632]
+        "coordinates": [8.6016100000000009, 47.363199999999999]
       },
       "properties": {
         "date": "2022-09-03",
@@ -29417,7 +29417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.1539, 47.6787]
+        "coordinates": [8.1539000000000001, 47.678699999999999]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29429,7 +29429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.11926, 47.67817]
+        "coordinates": [8.1192600000000006, 47.678170000000001]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29441,7 +29441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.0437, 47.7049]
+        "coordinates": [8.0436999999999994, 47.704900000000002]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29453,7 +29453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00264, 47.74038]
+        "coordinates": [8.0026399999999995, 47.740380000000002]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29465,7 +29465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99805, 47.74364]
+        "coordinates": [7.9980500000000001, 47.743639999999999]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29477,7 +29477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98466, 47.74868]
+        "coordinates": [7.9846599999999999, 47.74868]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29489,7 +29489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98092, 47.75962]
+        "coordinates": [7.9809200000000002, 47.759619999999998]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29501,7 +29501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.97722, 47.76275]
+        "coordinates": [7.97722, 47.762749999999997]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29513,7 +29513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.98723, 47.76714]
+        "coordinates": [7.9872300000000003, 47.767139999999998]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29525,7 +29525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.01158, 47.76494]
+        "coordinates": [8.0115800000000004, 47.764940000000003]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29537,7 +29537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.01411, 47.76471]
+        "coordinates": [8.0141100000000005, 47.764710000000001]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29549,7 +29549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.01306, 47.76121]
+        "coordinates": [8.0130599999999994, 47.761209999999998]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29561,7 +29561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00679, 47.75646]
+        "coordinates": [8.0067900000000005, 47.756459999999997]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29573,7 +29573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00018, 47.75191]
+        "coordinates": [8.0001800000000003, 47.751910000000002]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29585,7 +29585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.94964, 47.67894]
+        "coordinates": [7.9496399999999996, 47.678939999999997]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29597,7 +29597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90457, 47.62991]
+        "coordinates": [7.9045699999999997, 47.629910000000002]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29609,7 +29609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.94927, 47.54615]
+        "coordinates": [7.9492700000000003, 47.546149999999997]
       },
       "properties": {
         "date": "2022-09-04",
@@ -29621,7 +29621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60747, 47.52377]
+        "coordinates": [8.6074699999999993, 47.523769999999999]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29633,7 +29633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59537, 47.52691]
+        "coordinates": [8.5953700000000008, 47.526910000000001]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29645,7 +29645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59147, 47.53154]
+        "coordinates": [8.5914699999999993, 47.53154]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29657,7 +29657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59336, 47.53169]
+        "coordinates": [8.5933600000000006, 47.531689999999998]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29669,7 +29669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58968, 47.53364]
+        "coordinates": [8.5896799999999995, 47.533639999999998]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29681,7 +29681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58711, 47.53386]
+        "coordinates": [8.5871099999999991, 47.533859999999997]
       },
       "properties": {
         "date": "2022-09-10",
@@ -29693,7 +29693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6108, 47.5206]
+        "coordinates": [8.6107999999999993, 47.520600000000002]
       },
       "properties": {
         "date": "2022-09-11",
@@ -29705,7 +29705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [4.76107, 52.30884]
+        "coordinates": [4.7610700000000001, 52.308839999999996]
       },
       "properties": {
         "date": "2022-09-12",
@@ -29717,7 +29717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.12213, 52.07766]
+        "coordinates": [5.1221300000000003, 52.077660000000002]
       },
       "properties": {
         "date": "2022-09-12",
@@ -29729,7 +29729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.12412, 52.08151]
+        "coordinates": [5.1241199999999996, 52.081510000000002]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29741,7 +29741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.11354, 52.09101]
+        "coordinates": [5.1135400000000004, 52.091009999999997]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29753,7 +29753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.12093, 52.09715]
+        "coordinates": [5.1209300000000004, 52.097149999999999]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29765,7 +29765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.11277, 52.09248]
+        "coordinates": [5.1127700000000003, 52.092480000000002]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29777,7 +29777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.1172, 52.09176]
+        "coordinates": [5.1172000000000004, 52.091760000000001]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29789,7 +29789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.12402, 52.08198]
+        "coordinates": [5.1240199999999998, 52.081980000000001]
       },
       "properties": {
         "date": "2022-09-13",
@@ -29801,7 +29801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.12365, 52.08311]
+        "coordinates": [5.1236499999999996, 52.083109999999998]
       },
       "properties": {
         "date": "2022-09-14",
@@ -29813,7 +29813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.1101, 52.09014]
+        "coordinates": [5.1101000000000001, 52.090139999999998]
       },
       "properties": {
         "date": "2022-09-15",
@@ -29825,7 +29825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86661, 47.49014]
+        "coordinates": [8.8666099999999997, 47.490139999999997]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29837,7 +29837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8722, 47.5115]
+        "coordinates": [8.8721999999999994, 47.511499999999998]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29849,7 +29849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8629, 47.516]
+        "coordinates": [8.8628999999999998, 47.515999999999998]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29861,7 +29861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.836, 47.5172]
+        "coordinates": [8.8360000000000003, 47.517200000000003]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29873,7 +29873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8222, 47.5147]
+        "coordinates": [8.8222000000000005, 47.514699999999998]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29885,7 +29885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8259, 47.5108]
+        "coordinates": [8.8259000000000007, 47.510800000000003]
       },
       "properties": {
         "date": "2022-09-17",
@@ -29897,7 +29897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67464, 47.47354]
+        "coordinates": [8.6746400000000001, 47.47354]
       },
       "properties": {
         "date": "2022-09-18",
@@ -29909,7 +29909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6763, 47.48564]
+        "coordinates": [8.6762999999999995, 47.485639999999997]
       },
       "properties": {
         "date": "2022-09-18",
@@ -29921,7 +29921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63017, 47.46824]
+        "coordinates": [8.6301699999999997, 47.468240000000002]
       },
       "properties": {
         "date": "2022-09-18",
@@ -29933,7 +29933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63809, 47.46748]
+        "coordinates": [8.63809, 47.467480000000002]
       },
       "properties": {
         "date": "2022-09-18",
@@ -29945,7 +29945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71654, 47.57262]
+        "coordinates": [8.7165400000000002, 47.572620000000001]
       },
       "properties": {
         "date": "2022-09-24",
@@ -29957,7 +29957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71535, 47.57902]
+        "coordinates": [8.7153500000000008, 47.57902]
       },
       "properties": {
         "date": "2022-09-24",
@@ -29969,7 +29969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70923, 47.57633]
+        "coordinates": [8.7092299999999998, 47.576329999999999]
       },
       "properties": {
         "date": "2022-09-24",
@@ -29981,7 +29981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70628, 47.55492]
+        "coordinates": [8.7062799999999996, 47.554920000000003]
       },
       "properties": {
         "date": "2022-09-24",
@@ -29993,7 +29993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72763, 47.54625]
+        "coordinates": [8.7276299999999996, 47.546250000000001]
       },
       "properties": {
         "date": "2022-09-24",
@@ -30005,7 +30005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73415, 47.55689]
+        "coordinates": [8.7341499999999996, 47.556890000000003]
       },
       "properties": {
         "date": "2022-09-24",
@@ -30017,7 +30017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7318, 47.5634]
+        "coordinates": [8.7317999999999998, 47.563400000000001]
       },
       "properties": {
         "date": "2022-09-24",
@@ -30029,7 +30029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69216, 47.45609]
+        "coordinates": [8.6921599999999994, 47.456090000000003]
       },
       "properties": {
         "date": "2022-09-25",
@@ -30041,7 +30041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70054, 47.4656]
+        "coordinates": [8.7005400000000002, 47.465600000000002]
       },
       "properties": {
         "date": "2022-09-25",
@@ -30053,7 +30053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70057, 47.47]
+        "coordinates": [8.7005700000000008, 47.469999999999999]
       },
       "properties": {
         "date": "2022-09-25",
@@ -30065,7 +30065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.52022, 47.24368]
+        "coordinates": [9.5202200000000001, 47.243679999999998]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30077,7 +30077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53182, 47.26675]
+        "coordinates": [9.5318199999999997, 47.266750000000002]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30089,7 +30089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53192, 47.2696]
+        "coordinates": [9.5319199999999995, 47.269599999999997]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30101,7 +30101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53471, 47.27385]
+        "coordinates": [9.5347100000000005, 47.273850000000003]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30113,7 +30113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.52537, 47.24148]
+        "coordinates": [9.5253700000000006, 47.241480000000003]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30125,7 +30125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.595162, 47.51673]
+        "coordinates": [8.5951620000000002, 47.516730000000003]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30137,7 +30137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5963237, 47.51688]
+        "coordinates": [8.5963236999999992, 47.51688]
       },
       "properties": {
         "date": "2022-10-02",
@@ -30149,7 +30149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64415, 47.47435]
+        "coordinates": [8.6441499999999998, 47.474350000000001]
       },
       "properties": {
         "date": "2022-10-03",
@@ -30161,7 +30161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5608, 47.36841]
+        "coordinates": [8.5608000000000004, 47.368409999999997]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30173,7 +30173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56327, 47.36993]
+        "coordinates": [8.5632699999999993, 47.369929999999997]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30185,7 +30185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56558, 47.37405]
+        "coordinates": [8.5655800000000006, 47.374049999999997]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30197,7 +30197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5565, 47.37678]
+        "coordinates": [8.5564999999999998, 47.376779999999997]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30209,7 +30209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5506, 47.37785]
+        "coordinates": [8.5505999999999993, 47.377850000000002]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30221,7 +30221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53039, 47.37753]
+        "coordinates": [8.5303900000000006, 47.37753]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30233,7 +30233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53382, 47.37613]
+        "coordinates": [8.5338200000000004, 47.376130000000003]
       },
       "properties": {
         "date": "2022-10-05",
@@ -30245,7 +30245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67588, 47.28985]
+        "coordinates": [8.6758799999999994, 47.289850000000001]
       },
       "properties": {
         "date": "2022-10-08",
@@ -30257,7 +30257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67095, 47.2923]
+        "coordinates": [8.6709499999999995, 47.292299999999997]
       },
       "properties": {
         "date": "2022-10-08",
@@ -30269,7 +30269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66138, 47.30458]
+        "coordinates": [8.6613799999999994, 47.304580000000001]
       },
       "properties": {
         "date": "2022-10-08",
@@ -30281,7 +30281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68425, 47.49856]
+        "coordinates": [8.6842500000000005, 47.498559999999998]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30293,7 +30293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6854, 47.5]
+        "coordinates": [8.6853999999999996, 47.5]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30305,7 +30305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68807, 47.49985]
+        "coordinates": [8.6880699999999997, 47.499850000000002]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30317,7 +30317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70462, 47.49718]
+        "coordinates": [8.7046200000000002, 47.49718]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30329,7 +30329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70395, 47.50033]
+        "coordinates": [8.7039500000000007, 47.500329999999998]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30341,7 +30341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7028, 47.50109]
+        "coordinates": [8.7027999999999999, 47.501089999999998]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30353,7 +30353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70248, 47.50193]
+        "coordinates": [8.7024799999999995, 47.501930000000002]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30365,7 +30365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68225, 47.50507]
+        "coordinates": [8.6822499999999998, 47.505070000000003]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30377,7 +30377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68184, 47.4927]
+        "coordinates": [8.6818399999999993, 47.492699999999999]
       },
       "properties": {
         "date": "2022-10-09",
@@ -30389,7 +30389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47786, 47.61071]
+        "coordinates": [8.4778599999999997, 47.610709999999997]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30401,7 +30401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.2528, 47.776]
+        "coordinates": [8.2528000000000006, 47.776000000000003]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30413,7 +30413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.17696, 47.81731]
+        "coordinates": [8.1769599999999993, 47.817309999999999]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30425,7 +30425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.15174, 47.90123]
+        "coordinates": [8.1517400000000002, 47.901229999999998]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30437,7 +30437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.14022, 47.88696]
+        "coordinates": [8.1402199999999993, 47.886960000000002]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30449,7 +30449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.14783, 47.88588]
+        "coordinates": [8.1478300000000008, 47.88588]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30461,7 +30461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.16575, 47.89217]
+        "coordinates": [8.1657499999999992, 47.89217]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30473,7 +30473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.15416, 47.90256]
+        "coordinates": [8.1541599999999992, 47.902560000000001]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30485,7 +30485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.07814, 47.91863]
+        "coordinates": [8.0781399999999994, 47.91863]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30497,7 +30497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.04122, 47.9235]
+        "coordinates": [8.0412199999999991, 47.923499999999997]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30509,7 +30509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.33353, 47.81754]
+        "coordinates": [8.3335299999999997, 47.817540000000001]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30521,7 +30521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.45629, 47.74913]
+        "coordinates": [8.4562899999999992, 47.749130000000001]
       },
       "properties": {
         "date": "2022-10-12",
@@ -30533,7 +30533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92739, 47.02011]
+        "coordinates": [8.9273900000000008, 47.020110000000003]
       },
       "properties": {
         "date": "2022-10-14",
@@ -30545,7 +30545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92427, 47.0103]
+        "coordinates": [8.9242699999999999, 47.010300000000001]
       },
       "properties": {
         "date": "2022-10-14",
@@ -30557,7 +30557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92471, 47.00565]
+        "coordinates": [8.9247099999999993, 47.005650000000003]
       },
       "properties": {
         "date": "2022-10-14",
@@ -30569,7 +30569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94059, 46.9955]
+        "coordinates": [8.9405900000000003, 46.9955]
       },
       "properties": {
         "date": "2022-10-14",
@@ -30581,7 +30581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4183, 47.5682]
+        "coordinates": [8.4183000000000003, 47.568199999999997]
       },
       "properties": {
         "date": "2022-10-15",
@@ -30593,7 +30593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.39152, 47.57231]
+        "coordinates": [8.3915199999999999, 47.572310000000002]
       },
       "properties": {
         "date": "2022-10-15",
@@ -30605,7 +30605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.41908, 47.56996]
+        "coordinates": [8.4190799999999992, 47.569960000000002]
       },
       "properties": {
         "date": "2022-10-15",
@@ -30617,7 +30617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.42824, 47.28552]
+        "coordinates": [9.4282400000000006, 47.285519999999998]
       },
       "properties": {
         "date": "2022-10-16",
@@ -30629,7 +30629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.40099, 47.26996]
+        "coordinates": [9.4009900000000002, 47.269959999999998]
       },
       "properties": {
         "date": "2022-10-16",
@@ -30641,7 +30641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.41008, 47.27844]
+        "coordinates": [9.4100800000000007, 47.278440000000003]
       },
       "properties": {
         "date": "2022-10-16",
@@ -30653,7 +30653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.41457, 47.28346]
+        "coordinates": [9.4145699999999994, 47.283459999999998]
       },
       "properties": {
         "date": "2022-10-16",
@@ -30677,7 +30677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.41154, 47.28467]
+        "coordinates": [9.4115400000000005, 47.284669999999998]
       },
       "properties": {
         "date": "2022-10-16",
@@ -30689,7 +30689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84987, 47.44475]
+        "coordinates": [8.8498699999999992, 47.444749999999999]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30701,7 +30701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85995, 47.44999]
+        "coordinates": [8.8599499999999995, 47.44999]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30713,7 +30713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.86892, 47.45703]
+        "coordinates": [8.8689199999999992, 47.457030000000003]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30725,7 +30725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8664, 47.4601]
+        "coordinates": [8.8664000000000005, 47.460099999999997]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30737,7 +30737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85175, 47.45568]
+        "coordinates": [8.8517499999999991, 47.455680000000001]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30749,7 +30749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84589, 47.45218]
+        "coordinates": [8.8458900000000007, 47.452179999999998]
       },
       "properties": {
         "date": "2022-10-22",
@@ -30761,7 +30761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52586, 46.99075]
+        "coordinates": [8.5258599999999998, 46.990749999999998]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30773,7 +30773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53648, 46.98913]
+        "coordinates": [8.5364799999999992, 46.989130000000003]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30785,7 +30785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53614, 46.9907]
+        "coordinates": [8.5361399999999996, 46.990699999999997]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30797,7 +30797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52801, 47.00156]
+        "coordinates": [8.5280100000000001, 47.001559999999998]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30809,7 +30809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52146, 46.99818]
+        "coordinates": [8.5214599999999994, 46.998179999999998]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30821,7 +30821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50313, 46.99212]
+        "coordinates": [8.5031300000000005, 46.99212]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30833,7 +30833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60654, 46.99577]
+        "coordinates": [8.6065400000000007, 46.99577]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30845,7 +30845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60538, 46.99345]
+        "coordinates": [8.6053800000000003, 46.993450000000003]
       },
       "properties": {
         "date": "2022-10-23",
@@ -30857,7 +30857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52955, 47.37433]
+        "coordinates": [8.5295500000000004, 47.37433]
       },
       "properties": {
         "date": "2022-10-25",
@@ -30869,7 +30869,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56122, 47.62049]
+        "coordinates": [8.5612200000000005, 47.620489999999997]
       },
       "properties": {
         "date": "2022-10-30",
@@ -30881,7 +30881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57349, 47.62757]
+        "coordinates": [8.5734899999999996, 47.627569999999999]
       },
       "properties": {
         "date": "2022-10-30",
@@ -30893,7 +30893,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57483, 47.59555]
+        "coordinates": [8.5748300000000004, 47.595550000000003]
       },
       "properties": {
         "date": "2022-10-30",
@@ -30905,7 +30905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57781, 47.57604]
+        "coordinates": [8.5778099999999995, 47.576039999999999]
       },
       "properties": {
         "date": "2022-10-30",
@@ -30917,7 +30917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5792, 47.52982]
+        "coordinates": [8.5792000000000002, 47.529820000000001]
       },
       "properties": {
         "date": "2022-10-30",
@@ -30929,7 +30929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4631, 47.2436]
+        "coordinates": [8.4631000000000007, 47.243600000000001]
       },
       "properties": {
         "date": "2022-11-05",
@@ -30941,7 +30941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4971, 47.2416]
+        "coordinates": [8.4970999999999997, 47.241599999999998]
       },
       "properties": {
         "date": "2022-11-05",
@@ -30953,7 +30953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53386, 47.2438]
+        "coordinates": [8.5338600000000007, 47.2438]
       },
       "properties": {
         "date": "2022-11-05",
@@ -30965,7 +30965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5049, 47.2452]
+        "coordinates": [8.5048999999999992, 47.245199999999997]
       },
       "properties": {
         "date": "2022-11-05",
@@ -30977,7 +30977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50169, 47.26396]
+        "coordinates": [8.50169, 47.263959999999997]
       },
       "properties": {
         "date": "2022-11-05",
@@ -30989,7 +30989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50514, 47.26551]
+        "coordinates": [8.5051400000000008, 47.265509999999999]
       },
       "properties": {
         "date": "2022-11-05",
@@ -31001,7 +31001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51182, 47.2596]
+        "coordinates": [8.5118200000000002, 47.259599999999999]
       },
       "properties": {
         "date": "2022-11-05",
@@ -31013,7 +31013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.64535, 47.25129]
+        "coordinates": [7.6453499999999996, 47.251289999999997]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31025,7 +31025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.64217, 47.26352]
+        "coordinates": [7.6421700000000001, 47.26352]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31037,7 +31037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.62272, 47.26667]
+        "coordinates": [7.6227200000000002, 47.266669999999998]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31049,7 +31049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.60978, 47.26898]
+        "coordinates": [7.6097799999999998, 47.268979999999999]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31061,7 +31061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.59994, 47.27487]
+        "coordinates": [7.5999400000000001, 47.27487]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31073,7 +31073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.60148, 47.27497]
+        "coordinates": [7.6014799999999996, 47.274970000000003]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31085,7 +31085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.62031, 47.27663]
+        "coordinates": [7.6203099999999999, 47.276629999999997]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31097,7 +31097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.62381, 47.27695]
+        "coordinates": [7.6238099999999998, 47.276949999999999]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31109,7 +31109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.63693, 47.27805]
+        "coordinates": [7.6369300000000004, 47.27805]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31121,7 +31121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.62861, 47.27301]
+        "coordinates": [7.6286100000000001, 47.273009999999999]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31133,7 +31133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.80515, 47.32347]
+        "coordinates": [7.8051500000000003, 47.32347]
       },
       "properties": {
         "date": "2022-11-06",
@@ -31145,7 +31145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.81543, 47.25605]
+        "coordinates": [7.8154300000000001, 47.256050000000002]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31157,7 +31157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.81862, 47.25546]
+        "coordinates": [7.8186200000000001, 47.255459999999999]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31169,7 +31169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.7983, 47.25278]
+        "coordinates": [7.7983000000000002, 47.252780000000001]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31181,7 +31181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.78574, 47.25624]
+        "coordinates": [7.7857399999999997, 47.256239999999998]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31193,7 +31193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.79708, 47.26601]
+        "coordinates": [7.7970800000000002, 47.266010000000001]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31205,7 +31205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.80004, 47.26963]
+        "coordinates": [7.8000400000000001, 47.269629999999999]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31217,7 +31217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.83184, 47.26735]
+        "coordinates": [7.8318399999999997, 47.26735]
       },
       "properties": {
         "date": "2022-11-12",
@@ -31229,7 +31229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71818, 47.34518]
+        "coordinates": [8.7181800000000003, 47.345179999999999]
       },
       "properties": {
         "date": "2022-11-13",
@@ -31241,7 +31241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.17155, 46.95975]
+        "coordinates": [9.1715499999999999, 46.95975]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31253,7 +31253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.18113, 46.95905]
+        "coordinates": [9.1811299999999996, 46.959049999999998]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31265,7 +31265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.19667, 46.96067]
+        "coordinates": [9.1966699999999992, 46.96067]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31277,7 +31277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.19931, 46.96081]
+        "coordinates": [9.1993100000000005, 46.960810000000002]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31289,7 +31289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.21974, 46.96688]
+        "coordinates": [9.2197399999999998, 46.966880000000003]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31301,7 +31301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.22276, 46.97101]
+        "coordinates": [9.2227599999999992, 46.97101]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31313,7 +31313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.22308, 46.9738]
+        "coordinates": [9.2230799999999995, 46.973799999999997]
       },
       "properties": {
         "date": "2022-11-19",
@@ -31325,7 +31325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5337944, 47.33681]
+        "coordinates": [8.5337943999999997, 47.33681]
       },
       "properties": {
         "date": "2022-11-20",
@@ -31337,7 +31337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48312, 47.36865]
+        "coordinates": [8.4831199999999995, 47.368650000000002]
       },
       "properties": {
         "date": "2022-11-20",
@@ -31349,7 +31349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43717, 47.35369]
+        "coordinates": [8.4371700000000001, 47.35369]
       },
       "properties": {
         "date": "2022-11-20",
@@ -31361,7 +31361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43967, 47.33666]
+        "coordinates": [8.4396699999999996, 47.336660000000002]
       },
       "properties": {
         "date": "2022-11-20",
@@ -31373,7 +31373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5255, 47.3117]
+        "coordinates": [8.5254999999999992, 47.311700000000002]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31385,7 +31385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5212, 47.276]
+        "coordinates": [8.5212000000000003, 47.276000000000003]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31397,7 +31397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51011, 47.27487]
+        "coordinates": [8.5101099999999992, 47.27487]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31409,7 +31409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.50402, 47.278]
+        "coordinates": [8.5040200000000006, 47.277999999999999]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31421,7 +31421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48713, 47.28413]
+        "coordinates": [8.4871300000000005, 47.284129999999998]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31433,7 +31433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47889, 47.28325]
+        "coordinates": [8.4788899999999998, 47.283250000000002]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31445,7 +31445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47236, 47.28951]
+        "coordinates": [8.4723600000000001, 47.28951]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31457,7 +31457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51287, 47.26727]
+        "coordinates": [8.5128699999999995, 47.267270000000003]
       },
       "properties": {
         "date": "2022-11-26",
@@ -31469,7 +31469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.53221, 46.87672]
+        "coordinates": [9.5322099999999992, 46.876719999999999]
       },
       "properties": {
         "date": "2022-11-27",
@@ -31481,7 +31481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.555, 46.913]
+        "coordinates": [9.5549999999999997, 46.912999999999997]
       },
       "properties": {
         "date": "2022-11-27",
@@ -31493,7 +31493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.52632, 46.87922]
+        "coordinates": [9.5263200000000001, 46.879219999999997]
       },
       "properties": {
         "date": "2022-11-27",
@@ -31505,7 +31505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.56266, 46.9192]
+        "coordinates": [9.5626599999999993, 46.919199999999996]
       },
       "properties": {
         "date": "2022-11-27",
@@ -31517,7 +31517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89127, 47.38615]
+        "coordinates": [8.8912700000000005, 47.386150000000001]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31529,7 +31529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89834, 47.38517]
+        "coordinates": [8.8983399999999993, 47.385170000000002]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31541,7 +31541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93335, 47.38206]
+        "coordinates": [8.9333500000000008, 47.382060000000003]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31553,7 +31553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94292, 47.37663]
+        "coordinates": [8.9429200000000009, 47.376629999999999]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31565,7 +31565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.94972, 47.38406]
+        "coordinates": [8.9497199999999992, 47.384059999999998]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31577,7 +31577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93845, 47.3982]
+        "coordinates": [8.9384499999999996, 47.398200000000003]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31589,7 +31589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90307, 47.40211]
+        "coordinates": [8.9030699999999996, 47.40211]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31601,7 +31601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.88815, 47.40729]
+        "coordinates": [8.8881499999999996, 47.407290000000003]
       },
       "properties": {
         "date": "2022-12-03",
@@ -31613,7 +31613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95232, 47.30617]
+        "coordinates": [8.9523200000000003, 47.306170000000002]
       },
       "properties": {
         "date": "2022-12-04",
@@ -31625,7 +31625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9565203, 47.30426]
+        "coordinates": [8.9565202999999993, 47.304259999999999]
       },
       "properties": {
         "date": "2022-12-04",
@@ -31637,7 +31637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96444, 47.30633]
+        "coordinates": [8.9644399999999997, 47.306330000000003]
       },
       "properties": {
         "date": "2022-12-04",
@@ -31649,7 +31649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96356, 47.30863]
+        "coordinates": [8.9635599999999993, 47.308630000000001]
       },
       "properties": {
         "date": "2022-12-04",
@@ -31661,7 +31661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03049, 47.04913]
+        "coordinates": [9.0304900000000004, 47.049129999999998]
       },
       "properties": {
         "date": "2022-12-10",
@@ -31673,7 +31673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70018, 47.32595]
+        "coordinates": [8.7001799999999996, 47.325949999999999]
       },
       "properties": {
         "date": "2022-12-16",
@@ -31685,7 +31685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.28366, 47.06647]
+        "coordinates": [8.2836599999999994, 47.066470000000002]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31697,7 +31697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.10147, 47.05589]
+        "coordinates": [8.1014700000000008, 47.055889999999998]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31709,7 +31709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.0171, 46.95121]
+        "coordinates": [8.0170999999999992, 46.951210000000003]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31721,7 +31721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.93444, 46.91405]
+        "coordinates": [7.9344400000000004, 46.914050000000003]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31733,7 +31733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9174, 46.9163]
+        "coordinates": [7.9173999999999998, 46.9163]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31745,7 +31745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90688, 46.9168]
+        "coordinates": [7.9068800000000001, 46.916800000000002]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31757,7 +31757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.90408, 46.92723]
+        "coordinates": [7.9040800000000004, 46.927230000000002]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31769,7 +31769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.91457, 46.93402]
+        "coordinates": [7.9145700000000003, 46.934019999999997]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31781,7 +31781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.84638, 46.92233]
+        "coordinates": [7.8463799999999999, 46.922330000000002]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31793,7 +31793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.80072, 46.93806]
+        "coordinates": [7.8007200000000001, 46.93806]
       },
       "properties": {
         "date": "2022-12-17",
@@ -31805,7 +31805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61135, 47.29144]
+        "coordinates": [8.6113499999999998, 47.291440000000001]
       },
       "properties": {
         "date": "2022-12-23",
@@ -31817,7 +31817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62214, 47.28749]
+        "coordinates": [8.6221399999999999, 47.287489999999998]
       },
       "properties": {
         "date": "2022-12-23",
@@ -31829,7 +31829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57426, 47.5632]
+        "coordinates": [8.5742600000000007, 47.563200000000002]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31841,7 +31841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5795, 47.55775]
+        "coordinates": [8.5794999999999995, 47.557749999999999]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31853,7 +31853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57807, 47.55503]
+        "coordinates": [8.5780700000000003, 47.555030000000002]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31865,7 +31865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59005, 47.55685]
+        "coordinates": [8.5900499999999997, 47.556849999999997]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31877,7 +31877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59369, 47.556]
+        "coordinates": [8.5936900000000005, 47.555999999999997]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31889,7 +31889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58189, 47.56935]
+        "coordinates": [8.5818899999999996, 47.56935]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31901,7 +31901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57896, 47.57196]
+        "coordinates": [8.5789600000000004, 47.571959999999997]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31913,7 +31913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6284, 47.54389]
+        "coordinates": [8.6283999999999992, 47.543889999999998]
       },
       "properties": {
         "date": "2022-12-24",
@@ -31925,7 +31925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6275, 47.46357]
+        "coordinates": [8.6274999999999995, 47.463569999999997]
       },
       "properties": {
         "date": "2022-12-25",
@@ -31937,7 +31937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60525, 47.45934]
+        "coordinates": [8.6052499999999998, 47.459339999999997]
       },
       "properties": {
         "date": "2022-12-25",
@@ -31949,7 +31949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9217, 47.32617]
+        "coordinates": [8.9216999999999995, 47.326169999999998]
       },
       "properties": {
         "date": "2022-12-26",
@@ -31961,7 +31961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9072, 47.36463]
+        "coordinates": [8.9071999999999996, 47.364629999999998]
       },
       "properties": {
         "date": "2022-12-26",
@@ -31973,7 +31973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89031, 47.39228]
+        "coordinates": [8.8903099999999995, 47.39228]
       },
       "properties": {
         "date": "2022-12-26",
@@ -31985,7 +31985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.63566, 46.6756]
+        "coordinates": [7.6356599999999997, 46.675600000000003]
       },
       "properties": {
         "date": "2022-12-27",
@@ -31997,7 +31997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.5535, 46.6607]
+        "coordinates": [7.5534999999999997, 46.660699999999999]
       },
       "properties": {
         "date": "2022-12-27",
@@ -32009,7 +32009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.3719, 46.5538]
+        "coordinates": [7.3719000000000001, 46.553800000000003]
       },
       "properties": {
         "date": "2022-12-27",
@@ -32033,7 +32033,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.1332, 46.4731]
+        "coordinates": [7.1332000000000004, 46.473100000000002]
       },
       "properties": {
         "date": "2022-12-27",
@@ -32045,7 +32045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52005, 47.71427]
+        "coordinates": [8.5200499999999995, 47.714269999999999]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32057,7 +32057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53403, 47.72104]
+        "coordinates": [8.5340299999999996, 47.721040000000002]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32069,7 +32069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53795, 47.73]
+        "coordinates": [8.5379500000000004, 47.729999999999997]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32081,7 +32081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54699, 47.7342]
+        "coordinates": [8.5469899999999992, 47.734200000000001]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32093,7 +32093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57021, 47.72653]
+        "coordinates": [8.5702099999999994, 47.726529999999997]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32105,7 +32105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57538, 47.72152]
+        "coordinates": [8.5753799999999991, 47.721519999999998]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32117,7 +32117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58099, 47.70516]
+        "coordinates": [8.5809899999999999, 47.705159999999999]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32129,7 +32129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56254, 47.70066]
+        "coordinates": [8.5625400000000003, 47.700659999999999]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32141,7 +32141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53257, 47.70943]
+        "coordinates": [8.5325699999999998, 47.709429999999998]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32153,7 +32153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.79216, 47.8564]
+        "coordinates": [8.7921600000000009, 47.856400000000001]
       },
       "properties": {
         "date": "2022-12-29",
@@ -32165,7 +32165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.12857, 46.23765]
+        "coordinates": [9.1285699999999999, 46.237650000000002]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32177,7 +32177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.122, 46.25691]
+        "coordinates": [9.1219999999999999, 46.256909999999998]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32189,7 +32189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.11047, 46.26808]
+        "coordinates": [9.1104699999999994, 46.268079999999998]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32201,7 +32201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.11516, 46.28099]
+        "coordinates": [9.1151599999999995, 46.280990000000003]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32213,7 +32213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.10744, 46.27276]
+        "coordinates": [9.1074400000000004, 46.272759999999998]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32225,7 +32225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.10593, 46.26646]
+        "coordinates": [9.1059300000000007, 46.266460000000002]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32237,7 +32237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.10994, 46.26777]
+        "coordinates": [9.1099399999999999, 46.267769999999999]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32249,7 +32249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92718, 45.97399]
+        "coordinates": [8.9271799999999999, 45.973990000000001]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32261,7 +32261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97105, 45.90538]
+        "coordinates": [8.97105, 45.905380000000001]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32273,7 +32273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93736, 45.92887]
+        "coordinates": [8.93736, 45.928870000000003]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32285,7 +32285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93746, 45.92779]
+        "coordinates": [8.9374599999999997, 45.927790000000002]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32297,7 +32297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93677, 45.98533]
+        "coordinates": [8.9367699999999992, 45.985329999999998]
       },
       "properties": {
         "date": "2022-12-31",
@@ -32309,7 +32309,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91692, 45.91355]
+        "coordinates": [8.9169199999999993, 45.913550000000001]
       },
       "properties": {
         "date": "2023-01-01",
@@ -32321,7 +32321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90389, 45.90259]
+        "coordinates": [8.9038900000000005, 45.902589999999996]
       },
       "properties": {
         "date": "2023-01-01",
@@ -32333,7 +32333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89071, 45.94776]
+        "coordinates": [8.8907100000000003, 45.947760000000002]
       },
       "properties": {
         "date": "2023-01-01",
@@ -32345,7 +32345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.85899, 45.96702]
+        "coordinates": [8.8589900000000004, 45.967019999999998]
       },
       "properties": {
         "date": "2023-01-01",
@@ -32357,7 +32357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89892, 45.96876]
+        "coordinates": [8.8989200000000004, 45.968760000000003]
       },
       "properties": {
         "date": "2023-01-01",
@@ -32369,7 +32369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95842, 46.00572]
+        "coordinates": [8.9584200000000003, 46.005719999999997]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32381,7 +32381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97713, 46.00122]
+        "coordinates": [8.9771300000000007, 46.001220000000004]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32393,7 +32393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.02246, 46.01688]
+        "coordinates": [9.0224600000000006, 46.01688]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32405,7 +32405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.12626, 46.03678]
+        "coordinates": [9.1262600000000003, 46.03678]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32417,7 +32417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.11827, 46.03477]
+        "coordinates": [9.1182700000000008, 46.034770000000002]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32429,7 +32429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.9255, 45.97057]
+        "coordinates": [8.9254999999999995, 45.970570000000002]
       },
       "properties": {
         "date": "2023-01-02",
@@ -32441,7 +32441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57364, 47.49721]
+        "coordinates": [8.5736399999999993, 47.497210000000003]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32453,7 +32453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55232, 47.49258]
+        "coordinates": [8.5523199999999999, 47.492579999999997]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32465,7 +32465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89314, 47.45428]
+        "coordinates": [8.8931400000000007, 47.454279999999997]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32477,7 +32477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.89555, 47.46278]
+        "coordinates": [8.8955500000000001, 47.462780000000002]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32489,7 +32489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90395, 47.48819]
+        "coordinates": [8.90395, 47.488190000000003]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32501,7 +32501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56779, 47.51972]
+        "coordinates": [8.5677900000000005, 47.51972]
       },
       "properties": {
         "date": "2023-01-07",
@@ -32513,7 +32513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93403, 47.5196]
+        "coordinates": [8.9340299999999999, 47.519599999999997]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32525,7 +32525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95496, 47.52431]
+        "coordinates": [8.9549599999999998, 47.52431]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32537,7 +32537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95919, 47.52999]
+        "coordinates": [8.9591899999999995, 47.529989999999998]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32549,7 +32549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96356, 47.528]
+        "coordinates": [8.9635599999999993, 47.527999999999999]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32561,7 +32561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97631, 47.53151]
+        "coordinates": [8.9763099999999998, 47.531509999999997]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32573,7 +32573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95242, 47.53496]
+        "coordinates": [8.95242, 47.534959999999998]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32585,7 +32585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75255, 47.49842]
+        "coordinates": [8.7525499999999994, 47.498420000000003]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32597,7 +32597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74667, 47.49771]
+        "coordinates": [8.7466699999999999, 47.497709999999998]
       },
       "properties": {
         "date": "2023-01-08",
@@ -32609,7 +32609,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6308, 47.49635]
+        "coordinates": [8.6308000000000007, 47.49635]
       },
       "properties": {
         "date": "2023-01-13",
@@ -32621,7 +32621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.04937, 47.04836]
+        "coordinates": [9.0493699999999997, 47.048360000000002]
       },
       "properties": {
         "date": "2023-01-14",
@@ -32633,7 +32633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.04826, 47.0482]
+        "coordinates": [9.0482600000000009, 47.048200000000001]
       },
       "properties": {
         "date": "2023-01-14",
@@ -32645,7 +32645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03381, 47.04674]
+        "coordinates": [9.0338100000000008, 47.04674]
       },
       "properties": {
         "date": "2023-01-14",
@@ -32657,7 +32657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03753, 47.04747]
+        "coordinates": [9.0375300000000003, 47.047469999999997]
       },
       "properties": {
         "date": "2023-01-14",
@@ -32669,7 +32669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.03056, 47.15443]
+        "coordinates": [9.0305599999999995, 47.154429999999998]
       },
       "properties": {
         "date": "2023-01-14",
@@ -32681,7 +32681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95147, 47.38319]
+        "coordinates": [8.9514700000000005, 47.383189999999999]
       },
       "properties": {
         "date": "2023-01-15",
@@ -32693,7 +32693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95584, 47.38344]
+        "coordinates": [8.9558400000000002, 47.38344]
       },
       "properties": {
         "date": "2023-01-15",
@@ -32705,7 +32705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.96636, 47.38556]
+        "coordinates": [8.9663599999999999, 47.385559999999998]
       },
       "properties": {
         "date": "2023-01-15",
@@ -32717,7 +32717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.63916, 47.45545]
+        "coordinates": [9.6391600000000004, 47.455449999999999]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32729,7 +32729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.63956, 47.45712]
+        "coordinates": [9.6395599999999995, 47.457120000000003]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32741,7 +32741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.6696, 47.47762]
+        "coordinates": [9.6696000000000009, 47.477620000000002]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32753,7 +32753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.6597, 47.48503]
+        "coordinates": [9.6597000000000008, 47.485030000000002]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32765,7 +32765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.64349, 47.52482]
+        "coordinates": [9.6434899999999999, 47.524819999999998]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32777,7 +32777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.65906, 47.50587]
+        "coordinates": [9.6590600000000002, 47.505870000000002]
       },
       "properties": {
         "date": "2023-01-21",
@@ -32789,7 +32789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.3131157, 47.48132]
+        "coordinates": [8.3131157000000009, 47.481319999999997]
       },
       "properties": {
         "date": "2023-01-22",
@@ -32801,7 +32801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07757, 53.9564]
+        "coordinates": [-1.0775699999999999, 53.956400000000002]
       },
       "properties": {
         "date": "2023-01-23",
@@ -32813,7 +32813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07936, 53.95796]
+        "coordinates": [-1.0793600000000001, 53.95796]
       },
       "properties": {
         "date": "2023-01-23",
@@ -32825,7 +32825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.08117, 53.95736]
+        "coordinates": [-1.08117, 53.957360000000001]
       },
       "properties": {
         "date": "2023-01-25",
@@ -32837,7 +32837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.07991, 53.95851]
+        "coordinates": [-1.0799099999999999, 53.958509999999997]
       },
       "properties": {
         "date": "2023-01-26",
@@ -32849,7 +32849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.2764, 53.36672]
+        "coordinates": [-2.2764000000000002, 53.366720000000001]
       },
       "properties": {
         "date": "2023-01-28",
@@ -32861,7 +32861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66716, 47.50118]
+        "coordinates": [8.6671600000000009, 47.501179999999998]
       },
       "properties": {
         "date": "2023-02-10",
@@ -32873,7 +32873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.80806, 46.47399]
+        "coordinates": [6.8080600000000002, 46.473990000000001]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32885,7 +32885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0589, 46.86281]
+        "coordinates": [7.0589000000000004, 46.862810000000003]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32897,7 +32897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.04445, 46.87996]
+        "coordinates": [7.0444500000000003, 46.879959999999997]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32909,7 +32909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.03108, 46.90283]
+        "coordinates": [7.0310800000000002, 46.902830000000002]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32921,7 +32921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.03362, 46.91631]
+        "coordinates": [7.03362, 46.916310000000003]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32933,7 +32933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.04064, 46.87999]
+        "coordinates": [7.0406399999999998, 46.879989999999999]
       },
       "properties": {
         "date": "2023-02-11",
@@ -32945,7 +32945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5665, 47.57581]
+        "coordinates": [8.5664999999999996, 47.575809999999997]
       },
       "properties": {
         "date": "2023-02-12",
@@ -32957,7 +32957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57161, 47.57676]
+        "coordinates": [8.5716099999999997, 47.57676]
       },
       "properties": {
         "date": "2023-02-12",
@@ -32981,7 +32981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55749, 47.55388]
+        "coordinates": [8.5574899999999996, 47.553879999999999]
       },
       "properties": {
         "date": "2023-02-12",
@@ -32993,7 +32993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55078, 47.56341]
+        "coordinates": [8.5507799999999996, 47.563409999999998]
       },
       "properties": {
         "date": "2023-02-12",
@@ -33005,7 +33005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55392, 47.56669]
+        "coordinates": [8.5539199999999997, 47.566690000000001]
       },
       "properties": {
         "date": "2023-02-12",
@@ -33017,7 +33017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54757, 47.57196]
+        "coordinates": [8.5475700000000003, 47.571959999999997]
       },
       "properties": {
         "date": "2023-02-12",
@@ -33029,7 +33029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56272, 47.57271]
+        "coordinates": [8.5627200000000006, 47.572710000000001]
       },
       "properties": {
         "date": "2023-02-12",
@@ -33041,7 +33041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.1579, 22.28766]
+        "coordinates": [114.1579, 22.287659999999999]
       },
       "properties": {
         "date": "2023-02-18",
@@ -33053,7 +33053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.91456, -35.02831]
+        "coordinates": [173.91455999999999, -35.028309999999998]
       },
       "properties": {
         "date": "2023-02-21",
@@ -33065,7 +33065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.91756, -35.02688]
+        "coordinates": [173.91756000000001, -35.026879999999998]
       },
       "properties": {
         "date": "2023-02-21",
@@ -33077,7 +33077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.90868, -35.0346]
+        "coordinates": [173.90868, -35.034599999999998]
       },
       "properties": {
         "date": "2023-02-21",
@@ -33089,7 +33089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.90127, -35.04415]
+        "coordinates": [173.90127000000001, -35.044150000000002]
       },
       "properties": {
         "date": "2023-02-21",
@@ -33101,7 +33101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.51003, -34.9918]
+        "coordinates": [173.51003, -34.991799999999998]
       },
       "properties": {
         "date": "2023-02-22",
@@ -33113,7 +33113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.65972, -36.40813]
+        "coordinates": [174.65971999999999, -36.40813]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33125,7 +33125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.7604, -36.8448]
+        "coordinates": [174.7604, -36.844799999999999]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33137,7 +33137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.787, -36.85544]
+        "coordinates": [174.78700000000001, -36.855440000000002]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33149,7 +33149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.76172, -36.84343]
+        "coordinates": [174.76172, -36.843429999999998]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33161,7 +33161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.64699, -36.40274]
+        "coordinates": [174.64698999999999, -36.402740000000001]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33173,7 +33173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.35723, -36.10935]
+        "coordinates": [174.35722999999999, -36.109349999999999]
       },
       "properties": {
         "date": "2023-02-24",
@@ -33185,7 +33185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.53637, -34.99101]
+        "coordinates": [173.53637000000001, -34.991010000000003]
       },
       "properties": {
         "date": "2023-02-26",
@@ -33197,7 +33197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.52941, -34.98999]
+        "coordinates": [173.52941000000001, -34.989989999999999]
       },
       "properties": {
         "date": "2023-02-26",
@@ -33209,7 +33209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.52545, -34.98464]
+        "coordinates": [173.52545000000001, -34.984639999999999]
       },
       "properties": {
         "date": "2023-02-26",
@@ -33221,7 +33221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.52589, -34.98054]
+        "coordinates": [173.52589, -34.980539999999998]
       },
       "properties": {
         "date": "2023-02-26",
@@ -33233,7 +33233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.51972, -34.9845]
+        "coordinates": [173.51972000000001, -34.984499999999997]
       },
       "properties": {
         "date": "2023-02-26",
@@ -33245,7 +33245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.28252, -35.73955]
+        "coordinates": [174.28252000000001, -35.739550000000001]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33257,7 +33257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.31681, -35.72546]
+        "coordinates": [174.31681, -35.725459999999998]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33269,7 +33269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.32049, -35.7254]
+        "coordinates": [174.32049000000001, -35.7254]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33281,7 +33281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.32474, -35.7229]
+        "coordinates": [174.32473999999999, -35.722900000000003]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33293,7 +33293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.33042, -35.72152]
+        "coordinates": [174.33042, -35.721519999999998]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33305,7 +33305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.33348, -35.71764]
+        "coordinates": [174.33348000000001, -35.717640000000003]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33317,7 +33317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.33673, -35.71283]
+        "coordinates": [174.33672999999999, -35.712829999999997]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33329,7 +33329,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.32651, -35.72485]
+        "coordinates": [174.32651000000001, -35.724850000000004]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33341,7 +33341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.32576, -35.72454]
+        "coordinates": [174.32576, -35.724539999999998]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33353,7 +33353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.32485, -35.72575]
+        "coordinates": [174.32485, -35.725749999999998]
       },
       "properties": {
         "date": "2023-02-28",
@@ -33365,7 +33365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.744, -35.04868]
+        "coordinates": [173.744, -35.048679999999997]
       },
       "properties": {
         "date": "2023-03-01",
@@ -33377,7 +33377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.74807, -35.04369]
+        "coordinates": [173.74807000000001, -35.043689999999998]
       },
       "properties": {
         "date": "2023-03-01",
@@ -33401,7 +33401,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.74494, -35.04995]
+        "coordinates": [173.74494000000001, -35.049950000000003]
       },
       "properties": {
         "date": "2023-03-01",
@@ -33413,7 +33413,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.22576, -41.29999]
+        "coordinates": [173.22576000000001, -41.299990000000001]
       },
       "properties": {
         "date": "2023-03-02",
@@ -33425,7 +33425,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.24841, -41.28337]
+        "coordinates": [173.24841000000001, -41.283369999999998]
       },
       "properties": {
         "date": "2023-03-02",
@@ -33437,7 +33437,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.25459, -41.29123]
+        "coordinates": [173.25459000000001, -41.291229999999999]
       },
       "properties": {
         "date": "2023-03-02",
@@ -33449,7 +33449,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.24005, -41.2853]
+        "coordinates": [173.24005, -41.285299999999999]
       },
       "properties": {
         "date": "2023-03-02",
@@ -33461,7 +33461,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.26931, -41.26317]
+        "coordinates": [173.26930999999999, -41.263170000000002]
       },
       "properties": {
         "date": "2023-03-02",
@@ -33473,7 +33473,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.2846, -41.27018]
+        "coordinates": [173.28460000000001, -41.270180000000003]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33485,7 +33485,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.86259, -41.03202]
+        "coordinates": [172.86259000000001, -41.032020000000003]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33497,7 +33497,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.85462, -41.03462]
+        "coordinates": [172.85462000000001, -41.034619999999997]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33509,7 +33509,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.96869, -40.83259]
+        "coordinates": [172.96869000000001, -40.832590000000003]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33521,7 +33521,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.00383, -40.8224]
+        "coordinates": [173.00382999999999, -40.822400000000002]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33533,7 +33533,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [172.99895, -40.82]
+        "coordinates": [172.99895000000001, -40.82]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33545,7 +33545,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.00632, -40.81758]
+        "coordinates": [173.00631999999999, -40.81758]
       },
       "properties": {
         "date": "2023-03-03",
@@ -33557,7 +33557,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.00514, -40.82606]
+        "coordinates": [173.00514000000001, -40.826059999999998]
       },
       "properties": {
         "date": "2023-03-04",
@@ -33569,7 +33569,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.00966, -40.83154]
+        "coordinates": [173.00966, -40.831539999999997]
       },
       "properties": {
         "date": "2023-03-04",
@@ -33581,7 +33581,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.01043, -40.83553]
+        "coordinates": [173.01043000000001, -40.835529999999999]
       },
       "properties": {
         "date": "2023-03-04",
@@ -33593,7 +33593,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.01457, -40.84738]
+        "coordinates": [173.01456999999999, -40.847380000000001]
       },
       "properties": {
         "date": "2023-03-04",
@@ -33605,7 +33605,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.27937, -41.26288]
+        "coordinates": [173.27937, -41.262880000000003]
       },
       "properties": {
         "date": "2023-03-05",
@@ -33617,7 +33617,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.28404, -41.27484]
+        "coordinates": [173.28404, -41.274839999999998]
       },
       "properties": {
         "date": "2023-03-05",
@@ -33629,7 +33629,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.30939, -41.29334]
+        "coordinates": [173.30939000000001, -41.293340000000001]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33641,7 +33641,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.31155, -41.30226]
+        "coordinates": [173.31155000000001, -41.302259999999997]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33653,7 +33653,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.32332, -41.30295]
+        "coordinates": [173.32332, -41.302950000000003]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33665,7 +33665,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.31675, -41.31062]
+        "coordinates": [173.31675000000001, -41.31062]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33677,7 +33677,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.31134, -41.31116]
+        "coordinates": [173.31134, -41.311160000000001]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33689,7 +33689,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.29866, -41.30553]
+        "coordinates": [173.29866000000001, -41.305529999999997]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33701,7 +33701,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.28334, -41.27372]
+        "coordinates": [173.28334000000001, -41.273719999999997]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33713,7 +33713,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.43924, -41.22085]
+        "coordinates": [173.43924000000001, -41.220849999999999]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33725,7 +33725,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.5542, -41.19048]
+        "coordinates": [173.55420000000001, -41.190480000000001]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33737,7 +33737,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.58318, -41.22802]
+        "coordinates": [173.58318, -41.228020000000001]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33749,7 +33749,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.36224, -41.1852]
+        "coordinates": [173.36224000000001, -41.185200000000002]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33761,7 +33761,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.0785, -41.3023]
+        "coordinates": [173.07849999999999, -41.302300000000002]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33773,7 +33773,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.03903, -41.29946]
+        "coordinates": [173.03903, -41.299460000000003]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33785,7 +33785,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.00632, -41.26943]
+        "coordinates": [173.00631999999999, -41.26943]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33797,7 +33797,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.28239, -41.27439]
+        "coordinates": [173.28238999999999, -41.274389999999997]
       },
       "properties": {
         "date": "2023-03-06",
@@ -33809,7 +33809,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.09486, -35.2]
+        "coordinates": [174.09486000000001, -35.200000000000003]
       },
       "properties": {
         "date": "2023-03-08",
@@ -33821,7 +33821,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.09198, -35.28063]
+        "coordinates": [174.09198000000001, -35.280630000000002]
       },
       "properties": {
         "date": "2023-03-09",
@@ -33833,7 +33833,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.52319, -36.29558]
+        "coordinates": [174.52319, -36.295580000000001]
       },
       "properties": {
         "date": "2023-03-10",
@@ -33845,7 +33845,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.76636, -36.85115]
+        "coordinates": [174.76635999999999, -36.851149999999997]
       },
       "properties": {
         "date": "2023-03-10",
@@ -33857,7 +33857,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.76594, -36.79018]
+        "coordinates": [174.76594, -36.790179999999999]
       },
       "properties": {
         "date": "2023-03-10",
@@ -33881,7 +33881,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.77009, -36.78782]
+        "coordinates": [174.77009000000001, -36.787820000000004]
       },
       "properties": {
         "date": "2023-03-11",
@@ -33905,7 +33905,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.75321, 36.73917]
+        "coordinates": [174.75321, 36.739170000000001]
       },
       "properties": {
         "date": "2023-03-11",
@@ -33917,7 +33917,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.78837, -36.99661]
+        "coordinates": [174.78836999999999, -36.996609999999997]
       },
       "properties": {
         "date": "2023-03-12",
@@ -33929,7 +33929,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.88724, 47.4626]
+        "coordinates": [8.8872400000000003, 47.462600000000002]
       },
       "properties": {
         "date": "2023-03-18",
@@ -33941,7 +33941,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87294, 47.46156]
+        "coordinates": [8.8729399999999998, 47.461559999999999]
       },
       "properties": {
         "date": "2023-03-18",
@@ -33953,7 +33953,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90631, 47.46511]
+        "coordinates": [8.9063099999999995, 47.465110000000003]
       },
       "properties": {
         "date": "2023-03-18",
@@ -33965,7 +33965,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.90975, 47.46294]
+        "coordinates": [8.9097500000000007, 47.462940000000003]
       },
       "properties": {
         "date": "2023-03-18",
@@ -33977,7 +33977,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91351, 47.45632]
+        "coordinates": [8.9135100000000005, 47.456319999999998]
       },
       "properties": {
         "date": "2023-03-18",
@@ -33989,7 +33989,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.8814, 47.44753]
+        "coordinates": [8.8813999999999993, 47.44753]
       },
       "properties": {
         "date": "2023-03-18",
@@ -34001,7 +34001,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.87518, 47.45689]
+        "coordinates": [8.8751800000000003, 47.456890000000001]
       },
       "properties": {
         "date": "2023-03-18",
@@ -34013,7 +34013,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72539, 47.42416]
+        "coordinates": [8.7253900000000009, 47.424160000000001]
       },
       "properties": {
         "date": "2023-03-18",
@@ -34025,7 +34025,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66557, 47.50638]
+        "coordinates": [8.6655700000000007, 47.50638]
       },
       "properties": {
         "date": "2023-03-19",
@@ -34037,7 +34037,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.64717, 47.51119]
+        "coordinates": [8.6471699999999991, 47.511189999999999]
       },
       "properties": {
         "date": "2023-03-19",
@@ -34049,7 +34049,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66072, 47.49754]
+        "coordinates": [8.6607199999999995, 47.497540000000001]
       },
       "properties": {
         "date": "2023-03-19",
@@ -34061,7 +34061,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61344, 46.88104]
+        "coordinates": [8.6134400000000007, 46.881039999999999]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34073,7 +34073,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59538, 46.91753]
+        "coordinates": [8.5953800000000005, 46.917529999999999]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34085,7 +34085,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57997, 46.93492]
+        "coordinates": [8.5799699999999994, 46.934919999999998]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34097,7 +34097,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5862, 46.9246]
+        "coordinates": [8.5861999999999998, 46.924599999999998]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34109,7 +34109,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59151, 46.91461]
+        "coordinates": [8.5915099999999995, 46.914610000000003]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34121,7 +34121,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5912, 46.91646]
+        "coordinates": [8.5912000000000006, 46.916460000000001]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34133,7 +34133,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56264, 46.91074]
+        "coordinates": [8.56264, 46.910739999999997]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34145,7 +34145,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57251, 46.9135]
+        "coordinates": [8.5725099999999994, 46.913499999999999]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34157,7 +34157,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58506, 46.91877]
+        "coordinates": [8.5850600000000004, 46.918770000000002]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34169,7 +34169,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.30781, 47.04853]
+        "coordinates": [8.3078099999999999, 47.04853]
       },
       "properties": {
         "date": "2023-03-25",
@@ -34181,7 +34181,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63346, 47.34737]
+        "coordinates": [8.6334599999999995, 47.347369999999998]
       },
       "properties": {
         "date": "2023-03-29",
@@ -34193,7 +34193,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.24983, 47.35255]
+        "coordinates": [9.2498299999999993, 47.352550000000001]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34205,7 +34205,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.26105, 47.36008]
+        "coordinates": [9.2610499999999991, 47.360080000000004]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34217,7 +34217,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.26144, 47.34984]
+        "coordinates": [9.2614400000000003, 47.34984]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34229,7 +34229,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.23798, 47.34637]
+        "coordinates": [9.2379800000000003, 47.34637]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34241,7 +34241,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.1146, 47.32607]
+        "coordinates": [9.1145999999999994, 47.326070000000001]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34253,7 +34253,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.08737, 47.32311]
+        "coordinates": [9.0873699999999999, 47.32311]
       },
       "properties": {
         "date": "2023-04-01",
@@ -34265,7 +34265,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57846, 47.60707]
+        "coordinates": [8.5784599999999998, 47.60707]
       },
       "properties": {
         "date": "2023-04-02",
@@ -34277,7 +34277,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66825, 47.52852]
+        "coordinates": [8.6682500000000005, 47.52852]
       },
       "properties": {
         "date": "2023-04-02",
@@ -34289,7 +34289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53161, 47.37947]
+        "coordinates": [8.5316100000000006, 47.379469999999998]
       },
       "properties": {
         "date": "2023-04-04",
@@ -34301,7 +34301,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58253, 47.47204]
+        "coordinates": [8.5825300000000002, 47.47204]
       },
       "properties": {
         "date": "2023-04-05",
@@ -34313,7 +34313,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57502, 47.48413]
+        "coordinates": [8.5750200000000003, 47.48413]
       },
       "properties": {
         "date": "2023-04-05",
@@ -34325,7 +34325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.03514, 47.8699]
+        "coordinates": [8.0351400000000002, 47.869900000000001]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34337,7 +34337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.04042, 47.87296]
+        "coordinates": [8.0404199999999992, 47.872959999999999]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34349,7 +34349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02371, 47.88523]
+        "coordinates": [8.0237099999999995, 47.88523]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34361,7 +34361,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.01219, 47.88771]
+        "coordinates": [8.0121900000000004, 47.887709999999998]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34373,7 +34373,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00772, 47.87965]
+        "coordinates": [8.0077200000000008, 47.879649999999998]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34385,7 +34385,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.00468, 47.874]
+        "coordinates": [8.0046800000000005, 47.874000000000002]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34397,7 +34397,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02235, 47.8645]
+        "coordinates": [8.0223499999999994, 47.8645]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34409,7 +34409,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02247, 47.86458]
+        "coordinates": [8.0224700000000002, 47.864579999999997]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34421,7 +34421,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02579, 47.86574]
+        "coordinates": [8.0257900000000006, 47.865740000000002]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34433,7 +34433,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.02917, 47.85632]
+        "coordinates": [8.0291700000000006, 47.856319999999997]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34445,7 +34445,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.94678, 47.83081]
+        "coordinates": [7.9467800000000004, 47.83081]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34457,7 +34457,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.87103, 47.89302]
+        "coordinates": [7.8710300000000002, 47.89302]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34469,7 +34469,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.78309, 47.85467]
+        "coordinates": [7.7830899999999996, 47.854669999999999]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34481,7 +34481,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.72695, 47.92084]
+        "coordinates": [7.7269500000000004, 47.920839999999998]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34493,7 +34493,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8516, 47.99757]
+        "coordinates": [7.8516000000000004, 47.997570000000003]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34505,7 +34505,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.84895, 47.99372]
+        "coordinates": [7.8489500000000003, 47.993720000000003]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34517,7 +34517,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85259, 47.99524]
+        "coordinates": [7.8525900000000002, 47.995240000000003]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34529,7 +34529,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.85228, 47.99784]
+        "coordinates": [7.8522800000000004, 47.997839999999997]
       },
       "properties": {
         "date": "2023-04-07",
@@ -34541,7 +34541,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.58169, 48.02258]
+        "coordinates": [7.58169, 48.022579999999998]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34553,7 +34553,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.54607, 48.01421]
+        "coordinates": [7.5460700000000003, 48.014209999999999]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34565,7 +34565,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.53439, 48.01656]
+        "coordinates": [7.5343900000000001, 48.016559999999998]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34577,7 +34577,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.52893, 48.01743]
+        "coordinates": [7.5289299999999999, 48.017429999999997]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34589,7 +34589,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.55097, 47.73725]
+        "coordinates": [7.5509700000000004, 47.737250000000003]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34601,7 +34601,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.75834, 47.54838]
+        "coordinates": [7.7583399999999996, 47.548380000000002]
       },
       "properties": {
         "date": "2023-04-08",
@@ -34613,7 +34613,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.71772, 47.43561]
+        "coordinates": [8.7177199999999999, 47.435609999999997]
       },
       "properties": {
         "date": "2023-04-09",
@@ -34625,7 +34625,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72572, 47.43632]
+        "coordinates": [8.7257200000000008, 47.436320000000002]
       },
       "properties": {
         "date": "2023-04-09",
@@ -34637,7 +34637,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56707, 47.62589]
+        "coordinates": [8.5670699999999993, 47.625889999999998]
       },
       "properties": {
         "date": "2023-04-10",
@@ -34649,7 +34649,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52873, 47.59453]
+        "coordinates": [8.5287299999999995, 47.594529999999999]
       },
       "properties": {
         "date": "2023-04-10",
@@ -34661,7 +34661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54413, 47.53531]
+        "coordinates": [8.5441299999999991, 47.535310000000003]
       },
       "properties": {
         "date": "2023-04-10",
@@ -34673,7 +34673,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54983, 47.54749]
+        "coordinates": [8.54983, 47.547490000000003]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34685,7 +34685,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54158, 47.55586]
+        "coordinates": [8.5415799999999997, 47.555860000000003]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34697,7 +34697,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53604, 47.55951]
+        "coordinates": [8.5360399999999998, 47.559510000000003]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34709,7 +34709,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53669, 47.56471]
+        "coordinates": [8.5366900000000001, 47.564709999999998]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34721,7 +34721,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54207, 47.56054]
+        "coordinates": [8.5420700000000007, 47.560540000000003]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34733,7 +34733,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54331, 47.56575]
+        "coordinates": [8.54331, 47.565750000000001]
       },
       "properties": {
         "date": "2023-04-14",
@@ -34745,7 +34745,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68365, 47.28888]
+        "coordinates": [8.6836500000000001, 47.288879999999999]
       },
       "properties": {
         "date": "2023-04-16",
@@ -34757,7 +34757,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68115, 47.2863]
+        "coordinates": [8.6811500000000006, 47.286299999999997]
       },
       "properties": {
         "date": "2023-04-16",
@@ -34769,7 +34769,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.65333, 47.28818]
+        "coordinates": [8.6533300000000004, 47.288179999999997]
       },
       "properties": {
         "date": "2023-04-16",
@@ -34781,7 +34781,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63801, 47.29207]
+        "coordinates": [8.6380099999999995, 47.292070000000002]
       },
       "properties": {
         "date": "2023-04-16",
@@ -34793,7 +34793,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63832, 47.30477]
+        "coordinates": [8.6383200000000002, 47.304769999999998]
       },
       "properties": {
         "date": "2023-04-16",
@@ -34805,7 +34805,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.48249, 47.00977]
+        "coordinates": [8.4824900000000003, 47.009770000000003]
       },
       "properties": {
         "date": "2023-04-22",
@@ -34817,7 +34817,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.52995, 47.37805]
+        "coordinates": [8.5299499999999995, 47.378050000000002]
       },
       "properties": {
         "date": "2023-04-22",
@@ -34829,7 +34829,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.56284, 48.12087]
+        "coordinates": [16.562840000000001, 48.120869999999996]
       },
       "properties": {
         "date": "2023-04-23",
@@ -34841,7 +34841,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.39177, 48.21863]
+        "coordinates": [16.391770000000001, 48.218629999999997]
       },
       "properties": {
         "date": "2023-04-23",
@@ -34853,7 +34853,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.39627, 48.21737]
+        "coordinates": [16.396270000000001, 48.217370000000003]
       },
       "properties": {
         "date": "2023-04-23",
@@ -34865,7 +34865,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.40395, 48.21589]
+        "coordinates": [16.403949999999998, 48.215890000000002]
       },
       "properties": {
         "date": "2023-04-23",
@@ -34877,7 +34877,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.40131, 48.21612]
+        "coordinates": [16.401309999999999, 48.216119999999997]
       },
       "properties": {
         "date": "2023-04-23",
@@ -34889,7 +34889,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.4049, 48.21778]
+        "coordinates": [16.404900000000001, 48.217779999999998]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34901,7 +34901,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.41602, 48.23261]
+        "coordinates": [16.41602, 48.232610000000001]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34913,7 +34913,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.41444, 48.23523]
+        "coordinates": [16.414439999999999, 48.235230000000001]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34925,7 +34925,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.4145, 48.21914]
+        "coordinates": [16.4145, 48.219140000000003]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34937,7 +34937,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.43595, 48.2062]
+        "coordinates": [16.435949999999998, 48.206200000000003]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34949,7 +34949,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.41981, 48.22259]
+        "coordinates": [16.419809999999998, 48.222589999999997]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34961,7 +34961,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.40758, 48.22704]
+        "coordinates": [16.407579999999999, 48.227040000000002]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34973,7 +34973,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.40505, 48.21953]
+        "coordinates": [16.405049999999999, 48.219529999999999]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34985,7 +34985,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.4033, 48.21622]
+        "coordinates": [16.403300000000002, 48.21622]
       },
       "properties": {
         "date": "2023-04-24",
@@ -34997,7 +34997,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.37413, 48.21026]
+        "coordinates": [16.374130000000001, 48.210259999999998]
       },
       "properties": {
         "date": "2023-04-24",
@@ -35009,7 +35009,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.37874, 48.2052]
+        "coordinates": [16.378740000000001, 48.205199999999998]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35021,7 +35021,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.36952, 48.20216]
+        "coordinates": [16.369520000000001, 48.202159999999999]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35045,7 +35045,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.36194, 48.21385]
+        "coordinates": [16.361940000000001, 48.213850000000001]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35057,7 +35057,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.37062, 48.20647]
+        "coordinates": [16.370619999999999, 48.206470000000003]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35069,7 +35069,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.37156, 48.2081]
+        "coordinates": [16.371559999999999, 48.208100000000002]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35081,7 +35081,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.39099, 48.20221]
+        "coordinates": [16.390989999999999, 48.202210000000001]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35093,7 +35093,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.39326, 48.201]
+        "coordinates": [16.393260000000001, 48.201000000000001]
       },
       "properties": {
         "date": "2023-04-25",
@@ -35105,7 +35105,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.40831, 48.2024]
+        "coordinates": [16.40831, 48.202399999999997]
       },
       "properties": {
         "date": "2023-04-26",
@@ -35117,7 +35117,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.41838, 48.19848]
+        "coordinates": [16.418379999999999, 48.198480000000004]
       },
       "properties": {
         "date": "2023-04-26",
@@ -35129,7 +35129,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.41265, 48.2063]
+        "coordinates": [16.412649999999999, 48.206299999999999]
       },
       "properties": {
         "date": "2023-04-26",
@@ -35141,7 +35141,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.37998, 48.20446]
+        "coordinates": [16.37998, 48.204459999999997]
       },
       "properties": {
         "date": "2023-04-27",
@@ -35153,7 +35153,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.4031, 48.21051]
+        "coordinates": [16.403099999999998, 48.210509999999999]
       },
       "properties": {
         "date": "2023-04-27",
@@ -35165,7 +35165,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.38798, 48.21684]
+        "coordinates": [16.387979999999999, 48.216839999999998]
       },
       "properties": {
         "date": "2023-04-27",
@@ -35177,7 +35177,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93244, 47.3419]
+        "coordinates": [8.9324399999999997, 47.341900000000003]
       },
       "properties": {
         "date": "2023-04-30",
@@ -35189,7 +35189,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53174, 47.64572]
+        "coordinates": [8.5317399999999992, 47.645719999999997]
       },
       "properties": {
         "date": "2023-05-01",
@@ -35201,7 +35201,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.46707, 47.66755]
+        "coordinates": [8.4670699999999997, 47.667549999999999]
       },
       "properties": {
         "date": "2023-05-01",
@@ -35213,7 +35213,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.43204, 47.6621]
+        "coordinates": [8.4320400000000006, 47.662100000000002]
       },
       "properties": {
         "date": "2023-05-01",
@@ -35225,7 +35225,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49954, 47.5588]
+        "coordinates": [8.4995399999999997, 47.558799999999998]
       },
       "properties": {
         "date": "2023-05-05",
@@ -35237,7 +35237,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.49671, 47.55708]
+        "coordinates": [8.4967100000000002, 47.557079999999999]
       },
       "properties": {
         "date": "2023-05-05",
@@ -35249,7 +35249,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.47661, 47.57263]
+        "coordinates": [8.4766100000000009, 47.572629999999997]
       },
       "properties": {
         "date": "2023-05-05",
@@ -35261,7 +35261,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.4829, 47.54946]
+        "coordinates": [8.4829000000000008, 47.549460000000003]
       },
       "properties": {
         "date": "2023-05-05",
@@ -35273,7 +35273,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.49331, 47.07239]
+        "coordinates": [9.4933099999999992, 47.072389999999999]
       },
       "properties": {
         "date": "2023-05-07",
@@ -35285,7 +35285,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.5008, 47.06553]
+        "coordinates": [9.5007999999999999, 47.065530000000003]
       },
       "properties": {
         "date": "2023-05-07",
@@ -35297,7 +35297,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.48088, 47.06927]
+        "coordinates": [9.4808800000000009, 47.069270000000003]
       },
       "properties": {
         "date": "2023-05-07",
@@ -35321,7 +35321,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.43649, 47.03971]
+        "coordinates": [9.4364899999999992, 47.039709999999999]
       },
       "properties": {
         "date": "2023-05-07",
@@ -35333,7 +35333,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36649, 47.4163]
+        "coordinates": [8.3664900000000006, 47.4163]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35345,7 +35345,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.36653, 47.41195]
+        "coordinates": [8.3665299999999991, 47.411949999999997]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35357,7 +35357,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.34641, 47.41524]
+        "coordinates": [8.3464100000000006, 47.415239999999997]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35369,7 +35369,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.33721, 47.41752]
+        "coordinates": [8.3372100000000007, 47.417520000000003]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35381,7 +35381,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.33595, 47.42112]
+        "coordinates": [8.3359500000000004, 47.421120000000002]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35393,7 +35393,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.3322, 47.42745]
+        "coordinates": [8.3322000000000003, 47.42745]
       },
       "properties": {
         "date": "2023-05-12",
@@ -35405,7 +35405,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.37534, 46.91327]
+        "coordinates": [9.3753399999999996, 46.913269999999997]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35417,7 +35417,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.35755, 46.92061]
+        "coordinates": [9.3575499999999998, 46.920610000000003]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35429,7 +35429,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.34158, 46.92465]
+        "coordinates": [9.3415800000000004, 46.92465]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35441,7 +35441,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.3376, 46.93092]
+        "coordinates": [9.3376000000000001, 46.93092]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35453,7 +35453,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.3383, 46.93312]
+        "coordinates": [9.3383000000000003, 46.933120000000002]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35465,7 +35465,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.32222, 46.93055]
+        "coordinates": [9.3222199999999997, 46.930549999999997]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35477,7 +35477,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.30419, 46.9262]
+        "coordinates": [9.3041900000000002, 46.926200000000001]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35489,7 +35489,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.296, 46.92177]
+        "coordinates": [9.2959999999999994, 46.921770000000002]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35501,7 +35501,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.31663, 46.92507]
+        "coordinates": [9.31663, 46.925069999999998]
       },
       "properties": {
         "date": "2023-05-13",
@@ -35513,7 +35513,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57118, 47.57019]
+        "coordinates": [8.57118, 47.570189999999997]
       },
       "properties": {
         "date": "2023-05-18",
@@ -35525,7 +35525,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56591, 47.55948]
+        "coordinates": [8.5659100000000006, 47.559480000000001]
       },
       "properties": {
         "date": "2023-05-18",
@@ -35537,7 +35537,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56698, 47.55313]
+        "coordinates": [8.5669799999999992, 47.553130000000003]
       },
       "properties": {
         "date": "2023-05-18",
@@ -35549,7 +35549,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.57265, 47.56081]
+        "coordinates": [8.5726499999999994, 47.560809999999996]
       },
       "properties": {
         "date": "2023-05-18",
@@ -35561,7 +35561,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66329, 47.69732]
+        "coordinates": [8.6632899999999999, 47.697319999999998]
       },
       "properties": {
         "date": "2023-05-19",
@@ -35573,7 +35573,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66706, 47.69944]
+        "coordinates": [8.6670599999999993, 47.699440000000003]
       },
       "properties": {
         "date": "2023-05-19",
@@ -35585,7 +35585,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.67105, 47.71587]
+        "coordinates": [8.6710499999999993, 47.715870000000002]
       },
       "properties": {
         "date": "2023-05-19",
@@ -35597,7 +35597,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68784, 47.71232]
+        "coordinates": [8.6878399999999996, 47.712319999999998]
       },
       "properties": {
         "date": "2023-05-19",
@@ -35621,7 +35621,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.74487, 47.69649]
+        "coordinates": [8.7448700000000006, 47.696489999999997]
       },
       "properties": {
         "date": "2023-05-19",
@@ -35633,7 +35633,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.69006, 46.99203]
+        "coordinates": [8.6900600000000008, 46.99203]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35645,7 +35645,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.70652, 46.98483]
+        "coordinates": [8.7065199999999994, 46.984830000000002]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35657,7 +35657,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.72758, 46.98093]
+        "coordinates": [8.7275799999999997, 46.980930000000001]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35669,7 +35669,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.75697, 46.97609]
+        "coordinates": [8.7569700000000008, 46.976089999999999]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35681,7 +35681,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.76007, 46.97723]
+        "coordinates": [8.7600700000000007, 46.977229999999999]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35693,7 +35693,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.7369, 46.98018]
+        "coordinates": [8.7369000000000003, 46.980179999999997]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35705,7 +35705,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.66688, 47.01556]
+        "coordinates": [8.6668800000000008, 47.015560000000001]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35717,7 +35717,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.73326, 47.01746]
+        "coordinates": [8.7332599999999996, 47.01746]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35729,7 +35729,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.78187, 47.03971]
+        "coordinates": [8.7818699999999996, 47.039709999999999]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35741,7 +35741,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80201, 47.05937]
+        "coordinates": [8.8020099999999992, 47.059370000000001]
       },
       "properties": {
         "date": "2023-05-21",
@@ -35753,7 +35753,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60534, 47.50276]
+        "coordinates": [8.60534, 47.502760000000002]
       },
       "properties": {
         "date": "2023-05-26",
@@ -35765,7 +35765,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63489, 47.51021]
+        "coordinates": [8.6348900000000004, 47.510210000000001]
       },
       "properties": {
         "date": "2023-05-26",
@@ -35777,7 +35777,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61745, 47.51463]
+        "coordinates": [8.6174499999999998, 47.514629999999997]
       },
       "properties": {
         "date": "2023-05-26",
@@ -35789,7 +35789,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.60762, 47.51281]
+        "coordinates": [8.6076200000000007, 47.512810000000002]
       },
       "properties": {
         "date": "2023-05-26",
@@ -35801,7 +35801,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61165, 47.50974]
+        "coordinates": [8.6116499999999991, 47.509740000000001]
       },
       "properties": {
         "date": "2023-05-26",
@@ -35813,7 +35813,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62366, 47.11383]
+        "coordinates": [8.6236599999999992, 47.11383]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35825,7 +35825,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.666, 47.17539]
+        "coordinates": [8.6660000000000004, 47.17539]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35837,7 +35837,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.63941, 47.17147]
+        "coordinates": [8.6394099999999998, 47.171469999999999]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35849,7 +35849,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59031, 47.17853]
+        "coordinates": [8.5903100000000006, 47.178530000000002]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35861,7 +35861,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.56325, 47.17048]
+        "coordinates": [8.56325, 47.170479999999998]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35873,7 +35873,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.5595, 47.16769]
+        "coordinates": [8.5594999999999999, 47.16769]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35885,7 +35885,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55998, 47.15764]
+        "coordinates": [8.5599799999999995, 47.157640000000001]
       },
       "properties": {
         "date": "2023-05-27",
@@ -35897,7 +35897,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.94079, 46.81194]
+        "coordinates": [6.9407899999999998, 46.81194]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35909,7 +35909,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.61979, 46.78869]
+        "coordinates": [6.6197900000000001, 46.788690000000003]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35921,7 +35921,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5495, 46.80732]
+        "coordinates": [6.5495000000000001, 46.807319999999997]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35933,7 +35933,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.53249, 46.81781]
+        "coordinates": [6.5324900000000001, 46.817810000000001]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35945,7 +35945,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.50136, 46.82281]
+        "coordinates": [6.50136, 46.822809999999997]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35957,7 +35957,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.49504, 46.82988]
+        "coordinates": [6.4950400000000004, 46.829880000000003]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35969,7 +35969,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.60713, 46.97989]
+        "coordinates": [6.6071299999999997, 46.979889999999997]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35981,7 +35981,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.57379, 46.96584]
+        "coordinates": [6.5737899999999998, 46.96584]
       },
       "properties": {
         "date": "2023-05-29",
@@ -35993,7 +35993,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.55697, 46.96479]
+        "coordinates": [6.5569699999999997, 46.964790000000001]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36005,7 +36005,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.54847, 46.96944]
+        "coordinates": [6.54847, 46.969439999999999]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36017,7 +36017,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5418, 46.97326]
+        "coordinates": [6.5418000000000003, 46.973260000000003]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36029,7 +36029,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.53866, 46.97381]
+        "coordinates": [6.5386600000000001, 46.97381]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36041,7 +36041,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.56245, 46.97832]
+        "coordinates": [6.5624500000000001, 46.978319999999997]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36053,7 +36053,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.56098, 46.97951]
+        "coordinates": [6.5609799999999998, 46.979509999999998]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36065,7 +36065,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.59163, 46.98307]
+        "coordinates": [6.5916300000000003, 46.983069999999998]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36077,7 +36077,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.79219, 46.98806]
+        "coordinates": [6.7921899999999997, 46.988059999999997]
       },
       "properties": {
         "date": "2023-05-29",
@@ -36089,7 +36089,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.68368, 47.27998]
+        "coordinates": [8.6836800000000007, 47.279980000000002]
       },
       "properties": {
         "date": "2023-06-02",
@@ -36101,7 +36101,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62474, 47.29694]
+        "coordinates": [8.6247399999999992, 47.296939999999999]
       },
       "properties": {
         "date": "2023-06-02",
@@ -36113,7 +36113,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.62543, 47.29962]
+        "coordinates": [8.6254299999999997, 47.299619999999997]
       },
       "properties": {
         "date": "2023-06-02",
@@ -36125,7 +36125,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93661, 47.35806]
+        "coordinates": [8.9366099999999999, 47.358060000000002]
       },
       "properties": {
         "date": "2023-06-03",
@@ -36137,7 +36137,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.93981, 47.36452]
+        "coordinates": [8.9398099999999996, 47.364519999999999]
       },
       "properties": {
         "date": "2023-06-03",
@@ -36149,7 +36149,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92872, 47.37554]
+        "coordinates": [8.9287200000000002, 47.375540000000001]
       },
       "properties": {
         "date": "2023-06-03",
@@ -36161,7 +36161,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.92581, 47.37014]
+        "coordinates": [8.9258100000000002, 47.370139999999999]
       },
       "properties": {
         "date": "2023-06-03",
@@ -36173,7 +36173,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.91846, 47.36068]
+        "coordinates": [8.9184599999999996, 47.360680000000002]
       },
       "properties": {
         "date": "2023-06-03",
@@ -36185,7 +36185,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.55718, 47.37024]
+        "coordinates": [8.5571800000000007, 47.370240000000003]
       },
       "properties": {
         "date": "2023-06-04",
@@ -36197,7 +36197,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.59075, 51.51056]
+        "coordinates": [-0.59075, 51.510559999999998]
       },
       "properties": {
         "date": "",
@@ -36209,7 +36209,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.578888, 51.508]
+        "coordinates": [-0.57888799999999996, 51.508000000000003]
       },
       "properties": {
         "date": "",
@@ -36221,7 +36221,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.590481, 51.50904]
+        "coordinates": [-0.59048100000000003, 51.509039999999999]
       },
       "properties": {
         "date": "",
@@ -36233,7 +36233,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.968218, 51.45299]
+        "coordinates": [-0.96821800000000002, 51.45299]
       },
       "properties": {
         "date": "",
@@ -36245,7 +36245,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.856294, 51.29637]
+        "coordinates": [-0.856294, 51.296370000000003]
       },
       "properties": {
         "date": "",
@@ -36257,7 +36257,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.267849, 52.96216]
+        "coordinates": [-1.267849, 52.962159999999997]
       },
       "properties": {
         "date": "",
@@ -36269,7 +36269,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.098052, 53.98945]
+        "coordinates": [-1.098052, 53.989449999999998]
       },
       "properties": {
         "date": "",
@@ -36281,7 +36281,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [174.8740055, -41.18343]
+        "coordinates": [174.87400550000001, -41.183430000000001]
       },
       "properties": {
         "date": "",
@@ -36293,7 +36293,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.61612, 47.66594]
+        "coordinates": [8.6161200000000004, 47.665939999999999]
       },
       "properties": {
         "date": "",
@@ -36305,7 +36305,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.46628, -45.83265]
+        "coordinates": [170.46628000000001, -45.832650000000001]
       },
       "properties": {
         "date": "",
@@ -36317,7 +36317,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.45687, -45.92065]
+        "coordinates": [170.45687000000001, -45.920650000000002]
       },
       "properties": {
         "date": "",
@@ -36341,7 +36341,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.64293, -45.8958]
+        "coordinates": [170.64293000000001, -45.895800000000001]
       },
       "properties": {
         "date": "",
@@ -36353,7 +36353,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.72927, -45.77607]
+        "coordinates": [170.72927000000001, -45.776069999999997]
       },
       "properties": {
         "date": "",
@@ -36365,7 +36365,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.71166, -45.77621]
+        "coordinates": [170.71165999999999, -45.776209999999999]
       },
       "properties": {
         "date": "",
@@ -36377,7 +36377,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.44964, -45.36498]
+        "coordinates": [170.44963999999999, -45.364980000000003]
       },
       "properties": {
         "date": "",
@@ -36389,7 +36389,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [170.73112, -45.49065]
+        "coordinates": [170.73112, -45.490650000000002]
       },
       "properties": {
         "date": "",
