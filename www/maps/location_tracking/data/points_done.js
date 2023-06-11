@@ -36209,6 +36209,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.0353300000000001, 46.622880000000002]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Parkhaus Sportzentrum",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0102899999999995, 46.608899999999998]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Brandegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0041200000000003, 46.600459999999998]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Alpiglen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9830100000000002, 46.59254]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Mettla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9752999999999998, 46.590290000000003]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Arvengarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9146900000000002, 46.599319999999999]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "The Wall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.90747, 46.59684]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Base Cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.8998299999999997, 46.63259]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "Zweilütschinen",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2994400000000006, 47.026139999999998]
+      },
+      "properties": {
+        "date": "2023-06-11",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.510559999999998]
       },
       "properties": {
