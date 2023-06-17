@@ -36317,6 +36317,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.7526799999999998, 47.615079999999999]
+      },
+      "properties": {
+        "date": "2023-06-17",
+        "name": "Barchetsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8285999999999998, 47.625999999999998]
+      },
+      "properties": {
+        "date": "2023-06-17",
+        "name": "Nussbaumen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8433200000000003, 47.641910000000003]
+      },
+      "properties": {
+        "date": "2023-06-17",
+        "name": "Speckhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.510559999999998]
       },
       "properties": {
