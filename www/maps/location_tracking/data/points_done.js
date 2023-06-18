@@ -36353,6 +36353,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.2873199999999994, 47.193280000000001]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Sellamattbahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.2999600000000004, 47.170299999999997]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Oberruestel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3020099999999992, 47.162979999999997]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Sattel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3052499999999991, 47.153640000000003]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Hinterrugg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3127600000000008, 47.154789999999998]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Chäserrugg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.2969000000000008, 47.182459999999999]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "name": "Berghotel Sellamatt",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.510559999999998]
       },
       "properties": {
