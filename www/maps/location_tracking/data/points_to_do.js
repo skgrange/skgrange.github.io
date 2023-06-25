@@ -2069,18 +2069,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6204699999999992, 47.540579999999999]
-      },
-      "properties": {
-        "date": "",
-        "name": "Aussichtsturm Irchel",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.1540999999999997, 47.364649999999997]
       },
       "properties": {

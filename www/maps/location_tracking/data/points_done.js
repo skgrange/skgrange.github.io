@@ -36425,6 +36425,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61449, 47.557209999999998]
+      },
+      "properties": {
+        "date": "2023-06-25",
+        "name": "Wiler",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6204699999999992, 47.540570000000002]
+      },
+      "properties": {
+        "date": "2023-06-25",
+        "name": "Aussichtsturm Irchel",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5959400000000006, 47.548940000000002]
+      },
+      "properties": {
+        "date": "2023-06-25",
+        "name": "Schartenflue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6188099999999999, 47.552889999999998]
+      },
+      "properties": {
+        "date": "2023-06-25",
+        "name": "Unterbuch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6051099999999998, 47.569589999999998]
+      },
+      "properties": {
+        "date": "2023-06-25",
+        "name": "Eigental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.510559999999998]
       },
       "properties": {
