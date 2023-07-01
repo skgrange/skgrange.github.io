@@ -36485,6 +36485,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.02029, 47.02926]
+      },
+      "properties": {
+        "date": "2023-07-01",
+        "name": "Hinter Saggberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02612, 47.02142]
+      },
+      "properties": {
+        "date": "2023-07-01",
+        "name": "Waterfall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03178, 47.0205]
+      },
+      "properties": {
+        "date": "2023-07-01",
+        "name": "Couloir",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03617, 47.02132]
+      },
+      "properties": {
+        "date": "2023-07-01",
+        "name": "Glärnischblanggen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04116, 47.02206]
+      },
+      "properties": {
+        "date": "2023-07-01",
+        "name": "Vorder Glärnisch",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
