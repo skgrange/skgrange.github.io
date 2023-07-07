@@ -1145,18 +1145,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.83797, 46.5826]
-      },
-      "properties": {
-        "date": "",
-        "name": "Albula Pass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.23178, 46.79852]
       },
       "properties": {

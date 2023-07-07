@@ -36557,6 +36557,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.83797, 46.5826]
+      },
+      "properties": {
+        "date": "2023-07-07",
+        "name": "Albula Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.74546, 46.62903]
+      },
+      "properties": {
+        "date": "2023-07-07",
+        "name": "Bergün/Bravuogn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
