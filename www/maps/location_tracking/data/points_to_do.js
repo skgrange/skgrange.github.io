@@ -1073,18 +1073,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.74543, 46.62904]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bergün",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.765029, 46.41368]
       },
       "properties": {
