@@ -36581,6 +36581,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.46552, 47.58671]
+      },
+      "properties": {
+        "date": "2023-07-11",
+        "name": "Zollamt Günzgen",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.44824, 47.57294]
+      },
+      "properties": {
+        "date": "2023-07-11",
+        "name": "Aldi",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
