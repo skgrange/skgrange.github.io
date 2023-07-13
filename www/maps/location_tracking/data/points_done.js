@@ -36605,6 +36605,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57475, 46.53515]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Chiosco Panorama",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02744, 46.2096]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Bellinzona Nord",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88839, 45.93032]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Villaggio Montelago",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87009, 45.95996]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Lungolago Don Basilio Pini",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87269, 45.95826]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Lavena",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88029, 45.91436]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Cuasso al Monte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93842, 45.93023]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Swimming location",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
