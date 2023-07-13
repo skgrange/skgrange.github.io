@@ -36689,6 +36689,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.93734, 45.92794]
+      },
+      "properties": {
+        "date": "2023-07-13",
+        "name": "Osteria della Posta",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
