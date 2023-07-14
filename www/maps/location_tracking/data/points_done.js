@@ -36701,6 +36701,222 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.75324, 46.18593]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Ponte Brolla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70594, 46.24576]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Maggia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61151, 46.3075]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Via Visletto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60214, 46.31658]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Cevio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60797, 46.34052]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Bignasco",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66034, 46.37717]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Broglio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65533, 46.39508]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Prato-Sornico",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.64739, 46.40707]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Peccia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65043, 46.40955]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Hairpins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66195, 46.44368]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Fusio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65975, 46.45608]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Lago del Sambuco/Diga del Sambuco",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59627, 46.31376]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Hairpins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58334, 46.3081]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Linescio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54731, 46.30523]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Cerentino",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49194, 46.31661]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Bosco Gurin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75655, 46.10406]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Dirinella Confine",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7393, 46.0421]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Maccagno Superiore",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74184, 46.00238]
+      },
+      "properties": {
+        "date": "2023-07-14",
+        "name": "Luino",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
