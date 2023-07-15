@@ -36917,6 +36917,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.92364, 45.94287]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Above Pescia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92647, 45.937]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Sentiero dei Sensi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91547, 45.92262]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Golosia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93592, 45.95744]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Carona",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98869, 45.87013]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Mendrisio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00819, 45.8623]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Castel San Pietro",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02134, 45.86045]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Morbio Superiore",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04196, 45.9028]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Muggio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03889, 45.92145]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Hairpins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03925, 45.92154]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Scudellate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03256, 45.91466]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Roncapiano",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
