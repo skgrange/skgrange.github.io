@@ -37001,6 +37001,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.02883, 45.86396]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Valle Muggio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [9.04196, 45.9028]
       },
       "properties": {
@@ -37043,6 +37055,18 @@ var points_done = [{
         "date": "2023-07-15",
         "name": "Roncapiano",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.92633, 45.97131]
+      },
+      "properties": {
+        "date": "2023-07-15",
+        "name": "Holy Cow!",
+        "type": "Food"
       }
     },
     {
