@@ -2105,18 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.51403, 47.56699]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hiltenberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.54292, 47.62704]
       },
       "properties": {

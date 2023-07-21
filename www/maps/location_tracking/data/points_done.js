@@ -37073,6 +37073,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.50427, 47.56498]
+      },
+      "properties": {
+        "date": "2023-07-21",
+        "name": "Hohlgass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51416, 47.56698]
+      },
+      "properties": {
+        "date": "2023-07-21",
+        "name": "Hiltenberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49901, 47.56954]
+      },
+      "properties": {
+        "date": "2023-07-21",
+        "name": "Laubberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51626, 47.56315]
+      },
+      "properties": {
+        "date": "2023-07-21",
+        "name": "Wölflishalden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
