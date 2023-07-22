@@ -37121,6 +37121,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.43843, 47.48294]
+      },
+      "properties": {
+        "date": "2023-07-22",
+        "name": "Schloss Regensberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.48131, 47.44288]
       },
       "properties": {
