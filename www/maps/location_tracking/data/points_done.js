@@ -37145,6 +37145,162 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.16685, 47.36558]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Maison du tourisme",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1705, 47.35811]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "La Lomène",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16255, 47.35087]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Ravines",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.15475, 47.36404]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Pont St-Jean",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.15403, 47.36458]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Saint-Ursanne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.15366, 47.36416]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Librairie-café Le vent se lève",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.39351, 47.1944]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Grenchen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.36977, 47.21047]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Stierenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38117, 47.22119]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Untergrenchenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.39678, 47.23193]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Oberergrenchenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.39434, 47.23188]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Grenchenberg Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.36498, 47.22284]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Montoz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43083, 47.25199]
+      },
+      "properties": {
+        "date": "2023-07-23",
+        "name": "Binzberg Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
