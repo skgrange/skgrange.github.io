@@ -37313,6 +37313,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.26361, 46.4875]
+      },
+      "properties": {
+        "date": "2023-07-31",
+        "name": "Münster",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.26968, 46.48823]
+      },
+      "properties": {
+        "date": "2023-07-31",
+        "name": "z’Cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
