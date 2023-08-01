@@ -41,6 +41,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.93711, -41.57262]
+      },
+      "properties": {
+        "date": "2003-08-24",
+        "name": "Inwood Lookout",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [172.62427, -40.72941]
       },
       "properties": {
@@ -250,18 +262,6 @@ var points_extra = [{
       "properties": {
         "date": "2013-06-22",
         "name": "Lingnerterrassen",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.93711, -41.57262]
-      },
-      "properties": {
-        "date": "2023-08-24",
-        "name": "Inwood Lookout",
         "type": "Extra"
       }
     },
@@ -2566,6 +2566,30 @@ var points_extra = [{
       "properties": {
         "date": "",
         "name": "Maur Schifflände",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45537, 47.36066]
+      },
+      "properties": {
+        "date": "",
+        "name": "WSL",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.22962, 47.53859]
+      },
+      "properties": {
+        "date": "",
+        "name": "Paul Scherrer Institute",
         "type": "Extra"
       }
     }

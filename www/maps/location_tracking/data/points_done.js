@@ -37337,6 +37337,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.32336, 46.5524]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Splügen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.33035, 46.5056]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Splügen Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.59866, 46.59638]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Savognin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6208, 46.52429]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Mulegns",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.63576, 46.50894]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Lai da Marmorera",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.65038, 46.46868]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Bivio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.72815, 46.47222]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Julier Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.83553, 46.49089]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Sankt Moritz Bad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.05619, 46.44096]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Livigno Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

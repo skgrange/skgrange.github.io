@@ -1061,18 +1061,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.22962, 47.53859]
-      },
-      "properties": {
-        "date": "",
-        "name": "Paul Scherrer Institute",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.765029, 46.41368]
       },
       "properties": {
@@ -1114,18 +1102,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Great St Bernard Pass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.72813, 46.47221]
-      },
-      "properties": {
-        "date": "",
-        "name": "Julier Pass",
         "type": "To-do"
       }
     },
@@ -1354,18 +1330,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Engelberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.33033, 46.50558]
-      },
-      "properties": {
-        "date": "",
-        "name": "Splügen Pass",
         "type": "To-do"
       }
     },
@@ -1822,18 +1786,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Rossa",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.45537, 47.36066]
-      },
-      "properties": {
-        "date": "",
-        "name": "WSL",
         "type": "To-do"
       }
     },
