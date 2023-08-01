@@ -2100,6 +2100,18 @@ var points_to_do = [{
         "name": "Hemmental",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.69582, 46.39995]
+      },
+      "properties": {
+        "date": "",
+        "name": "Maloja Pass",
+        "type": "To-do"
+      }
     }
   ]
 }];
