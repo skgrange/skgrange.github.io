@@ -37445,6 +37445,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [10.13746, 46.53803]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Livigno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.17046, 46.58968]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Lago di Livigno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.19381, 46.62338]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Diga del Punt dal Gall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.1961, 46.6401]
+      },
+      "properties": {
+        "date": "2023-08-01",
+        "name": "Munt la Schera Tunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
