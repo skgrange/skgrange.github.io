@@ -2112,6 +2112,18 @@ var points_to_do = [{
         "name": "Maloja Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.25711, 46.80567]
+      },
+      "properties": {
+        "date": "",
+        "name": "Laax",
+        "type": "To-do"
+      }
     }
   ]
 }];
