@@ -37493,6 +37493,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.60764, 47.59591]
+      },
+      "properties": {
+        "date": "2023-08-06",
+        "name": "Thurauen",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5908, 47.59449]
+      },
+      "properties": {
+        "date": "2023-08-06",
+        "name": "Thurspitz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59548, 47.59664]
+      },
+      "properties": {
+        "date": "2023-08-06",
+        "name": "Bunker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.65184, 47.59557]
+      },
+      "properties": {
+        "date": "2023-08-06",
+        "name": "Altemerbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
