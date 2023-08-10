@@ -37541,6 +37541,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5398, 47.37566]
+      },
+      "properties": {
+        "date": "2023-08-10",
+        "name": "Hiltl Dachterrasse",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
