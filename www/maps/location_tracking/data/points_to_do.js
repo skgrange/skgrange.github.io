@@ -1361,18 +1361,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.15356, 46.68014]
-      },
-      "properties": {
-        "date": "",
-        "name": "Reichenbachtal",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.56079, 46.45388]
       },
       "properties": {
