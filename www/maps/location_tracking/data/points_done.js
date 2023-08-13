@@ -37553,6 +37553,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.04548, 46.62736]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Kirchbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04528, 46.62812]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Steinbillenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.10186, 46.65589]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Grosse Scheidegg",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.13412, 46.67618]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Schwarzwaldalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.15354, 46.68012]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Rosenlaui",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.03886, 46.755]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Brienz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.91273, 46.70738]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Camping au lac",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.87265, 46.65486]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Gsteigwiler",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.04235, 46.62429]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Pizzeria Da Salvi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.07485, 46.63944]
+      },
+      "properties": {
+        "date": "2023-08-12",
+        "name": "Im Rumpf",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.08097, 46.6417]
+      },
+      "properties": {
+        "date": "2023-08-13",
+        "name": "Ferienheim Lauchbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.06878, 46.65374]
+      },
+      "properties": {
+        "date": "2023-08-13",
+        "name": "Uf Luegen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.05507, 46.65757]
+      },
+      "properties": {
+        "date": "2023-08-13",
+        "name": "First’s take-off point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.05394, 46.66015]
+      },
+      "properties": {
+        "date": "2023-08-13",
+        "name": "First",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
