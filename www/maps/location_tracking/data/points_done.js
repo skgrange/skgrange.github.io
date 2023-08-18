@@ -37721,6 +37721,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.80122, 47.31638]
+      },
+      "properties": {
+        "date": "2023-08-18",
+        "name": "Schwimmbad Meierwiesen Wetzikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.83803, 47.30179]
+      },
+      "properties": {
+        "date": "2023-08-18",
+        "name": "Unterdorfstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51428, 47.38132]
+      },
+      "properties": {
+        "date": "2023-08-18",
+        "name": "Hirzelstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
