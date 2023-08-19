@@ -37757,6 +37757,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.18561, 46.9176]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Elm Töniberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19272, 46.90776]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Schwammegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19351, 46.90583]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Elm Tschinglenalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19631, 46.90529]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Staffel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.20688, 46.90324]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Brüschegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.22457, 46.902]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Segnas Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.12594, 46.8899]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Walenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.08035, 47.01138]
+      },
+      "properties": {
+        "date": "2023-08-19",
+        "name": "Metzgerei Menzi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
