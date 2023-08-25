@@ -37853,6 +37853,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.66129, 47.30863]
+      },
+      "properties": {
+        "date": "2023-08-25",
+        "name": "Guldenen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.62877, 47.31772]
+      },
+      "properties": {
+        "date": "2023-08-25",
+        "name": "Limberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
