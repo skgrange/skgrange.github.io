@@ -21,12 +21,11 @@ layer_extra = add_location_points(
 );
 
 // Set hill shading to be on by default
-hill_shading.addTo(map);
+// hill_shading.addTo(map);
 
 // Add some layer control
 var overlay_maps = {
   "Hill shading?": hill_shading,
-  "Contour lines?": contour_lines,
   "Display done?": layer_done,
   "Display to-do?": layer_to_do,
   "Display extras?": layer_extra

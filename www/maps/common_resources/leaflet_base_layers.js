@@ -5,11 +5,6 @@ var open_street_map = L.tileLayer(
   maxZoom: 20
 });
 
-// Needs a key
-var mapbox = L.tileLayer(
- 'https://{s}.tiles.mapbox.com/v4/skgrange.b1b7f962/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoic2tncmFuZ2UiLCJhIjoiNjJiMDU5ZjI0YTA4YzliMGRiYmViYzU0MmJmZTg1ZjAifQ.P_g497Ca_chbR8A4TIS0AA'
-);
-
 var toner = L.tileLayer(
  'https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
   attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -60,26 +55,6 @@ var open_topo_map = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.pn
   maxZoom: 16
 });
 
-var carto_db_positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
- attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
- subdomains: 'abcd',
- maxZoom: 19
-});
-
-var carto_db_dark_matter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', {
- attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
- subdomains: 'abcd',
- maxZoom: 19
-});
-
-// Use as a basemap
-// https://www.terrestris.de/en/hoehenmodell-srtm30-wms/
-var hill_shade = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
-  layers: 'SRTM30-Colored-Hillshade',
-  attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG',
-  maxZoom: 20
-});
-
 // A layer, not a basemap
 //var hill_shading = L.tileLayer('http://{s}.tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png', {
 //  maxZoom: 15,
@@ -94,13 +69,6 @@ var hill_shading = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
 });
 
-// Another layer
-var contour_lines = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
-  layers: 'SRTM30-Contour',
-  opacity: 0.28,
-  attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
-});
-
 // Set-up base map
 var map = L.map("map", {
   layers: open_street_map
@@ -109,7 +77,6 @@ var map = L.map("map", {
 // Basemaps for layer control
 var base_maps = {
   "OpenStreetMap": open_street_map,
-  "MapBox": mapbox,
   "Toner": toner,
   "Toner lite": toner_lite,
   "Images": esri_images,
@@ -117,8 +84,5 @@ var base_maps = {
   "Outdoors": thunderforest_outdoors,
   "Cycling": thunderforest_cycle,
   "Transport dark": thunderforest_transport_dark,
-  "Topo": open_topo_map,
-  "Positron": carto_db_positron,
-  "Dark matter": carto_db_dark_matter,
-  "SRTM30 Coloured Hillshade": hill_shade
+  "OpenTopo": open_topo_map
 };
