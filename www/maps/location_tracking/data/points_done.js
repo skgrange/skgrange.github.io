@@ -37877,6 +37877,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.45968, 47.43814]
+      },
+      "properties": {
+        "date": "2023-08-26",
+        "name": "Sportanlage Wisacher",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.44493, 47.43433]
+      },
+      "properties": {
+        "date": "2023-08-26",
+        "name": "Berghof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.42056, 47.43355]
+      },
+      "properties": {
+        "date": "2023-08-26",
+        "name": "Altberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.40808, 47.43626]
+      },
+      "properties": {
+        "date": "2023-08-26",
+        "name": "Aussichtsturm Altberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43955, 47.4374]
+      },
+      "properties": {
+        "date": "2023-08-26",
+        "name": "Dällikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
