@@ -84,5 +84,5 @@ var base_maps = {
   "Outdoors": thunderforest_outdoors,
   "Cycling": thunderforest_cycle,
   "Transport dark": thunderforest_transport_dark,
-  "OpenTopo": open_topo_map
+  "OpenTopoMap": open_topo_map
 };
