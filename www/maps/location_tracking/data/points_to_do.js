@@ -2033,18 +2033,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.54292, 47.62704]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rafzerstein",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.80932, 47.65009]
       },
       "properties": {
@@ -2098,6 +2086,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Laax",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10877, 47.0687]
+      },
+      "properties": {
+        "date": "",
+        "name": "Fronalpstock",
         "type": "To-do"
       }
     }
