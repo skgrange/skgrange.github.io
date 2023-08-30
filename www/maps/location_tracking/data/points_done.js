@@ -37961,6 +37961,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.69529, 47.52172]
+      },
+      "properties": {
+        "date": "2023-08-28",
+        "name": "Lantig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73867, 47.53571]
+      },
+      "properties": {
+        "date": "2023-08-28",
+        "name": "Seuzach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76218, 47.53443]
+      },
+      "properties": {
+        "date": "2023-08-28",
+        "name": "Stadel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77153, 47.5381]
+      },
+      "properties": {
+        "date": "2023-08-28",
+        "name": "Grundhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
