@@ -38009,6 +38009,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.77017, 46.51107]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Hohtürli",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.77157, 46.51008]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Blüemlisalphütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.559, 46.49268]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Adelboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.53898, 46.47936]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Gilbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.59216, 46.52801]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Achsete Bim Stei",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.54254, 46.87821]
+      },
+      "properties": {
+        "date": "2023-09-02",
+        "name": "Münsingen Ost",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

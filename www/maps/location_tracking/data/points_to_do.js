@@ -1013,18 +1013,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.77017, 46.51107]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hohtürli",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.030833, 45.41694]
       },
       "properties": {
