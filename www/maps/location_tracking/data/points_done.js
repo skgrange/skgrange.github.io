@@ -30161,6 +30161,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61226, 47.47174]
+      },
+      "properties": {
+        "date": "2022-10-04",
+        "name": "Bänikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.5608, 47.36841]
       },
       "properties": {
@@ -38075,6 +38087,18 @@ var points_done = [{
         "date": "2023-09-02",
         "name": "Münsingen Ost",
         "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.66033, 47.45126]
+      },
+      "properties": {
+        "date": "2023-09-03",
+        "name": "Hakab",
+        "type": "Attraction"
       }
     },
     {
