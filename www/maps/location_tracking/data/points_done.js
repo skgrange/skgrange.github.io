@@ -38105,6 +38105,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.45621, 47.57552]
+      },
+      "properties": {
+        "date": "2023-09-08",
+        "name": "Herdern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.43877, 47.56805]
+      },
+      "properties": {
+        "date": "2023-09-08",
+        "name": "Campingplatz Hohentengen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.41999, 47.56876]
+      },
+      "properties": {
+        "date": "2023-09-08",
+        "name": "Im Gut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
