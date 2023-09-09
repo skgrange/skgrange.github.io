@@ -38141,6 +38141,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.53285, 47.10501]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Oberdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.54325, 47.13216]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Masescha",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.54454, 47.14207]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Gaflei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.53268, 47.12983]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Frommahusstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.55203, 47.22371]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Hubstraße Tosters",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.57685, 47.2383]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Tosters",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.57715, 47.25416]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Nofels",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.55952, 47.25047]
+      },
+      "properties": {
+        "date": "2023-09-09",
+        "name": "Ruggell Zollamt",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
