@@ -38237,6 +38237,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.85084, 47.84282]
+      },
+      "properties": {
+        "date": "2023-09-10",
+        "name": "Aach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8975, 47.85825]
+      },
+      "properties": {
+        "date": "2023-09-10",
+        "name": "Eigeltingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8883, 47.85134]
+      },
+      "properties": {
+        "date": "2023-09-10",
+        "name": "Loh",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
