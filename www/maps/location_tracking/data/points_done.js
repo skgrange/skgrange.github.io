@@ -38273,6 +38273,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.98778, 46.90443]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Hütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98159, 46.8792]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Tierfehd",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98116, 46.87925]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Tierfehd",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99495, 46.86815]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Kalktrittli",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00997, 46.86189]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Muttenwändli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0187, 46.85743]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Muttseehütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01511, 46.85161]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Muttenchopf",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.07725, 47.03312]
+      },
+      "properties": {
+        "date": "2023-09-11",
+        "name": "Ennenda",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
