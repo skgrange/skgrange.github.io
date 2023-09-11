@@ -2033,18 +2033,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.015043, 46.85196]
-      },
-      "properties": {
-        "date": "",
-        "name": "Muttenchopf",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.58031, 47.73437]
       },
       "properties": {
