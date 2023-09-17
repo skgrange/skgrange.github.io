@@ -1721,18 +1721,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.788717, 47.52112]
-      },
-      "properties": {
-        "date": "",
-        "name": "Offebar",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.53774, 46.39431]
       },
       "properties": {

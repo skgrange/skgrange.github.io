@@ -38369,6 +38369,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.94468, 47.0252]
+      },
+      "properties": {
+        "date": "2023-09-17",
+        "name": "Camping Vorauen Kiosk",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
