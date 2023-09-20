@@ -1961,18 +1961,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.84106, 46.2357]
-      },
-      "properties": {
-        "date": "",
-        "name": "Corippo",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.57546, 46.17887]
       },
       "properties": {

@@ -38381,6 +38381,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.97793, 46.41589]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Rongie",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97755, 46.42032]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Malvaglia, Filovia",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94265, 46.44497]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Scaradra",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.93968, 46.44935]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Pozzo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84106, 46.23569]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Corippo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.801, 46.16646]
+      },
+      "properties": {
+        "date": "2023-09-20",
+        "name": "Hotel Excelsior",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
