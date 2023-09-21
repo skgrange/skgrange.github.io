@@ -1721,18 +1721,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.53774, 46.39431]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sonlerto",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.71948, -35.02564]
       },
       "properties": {

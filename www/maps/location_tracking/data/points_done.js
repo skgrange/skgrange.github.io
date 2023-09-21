@@ -38453,6 +38453,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57891, 46.35911]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Fontana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57798, 46.36118]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Fontana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5424, 46.38019]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Roseto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54186, 46.38568]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Fontanellata",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53812, 46.39411]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Sonlerto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53115, 46.40175]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Chiesa di Ganarint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52615, 46.40844]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "San Carlo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53006, 46.41021]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Funivia San Carlo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54275, 46.38755]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Faedo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54764, 46.37377]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Foroglio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54498, 46.37165]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "Cascata di Foroglio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75032, 46.19831]
+      },
+      "properties": {
+        "date": "2023-09-21",
+        "name": "City Shop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
