@@ -38609,6 +38609,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.93983, 46.45463]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Acquarossa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95017, 46.50283]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Aquila",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80103, 46.56315]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Passo del Lucomagno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.83819, 46.62641]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Pardatsch Dadens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85482, 46.70551]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Disentis/Mustér",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.25822, 46.80541]
+      },
+      "properties": {
+        "date": "2023-09-22",
+        "name": "Laax",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
