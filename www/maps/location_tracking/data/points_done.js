@@ -38693,6 +38693,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.6047, 47.58404]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Basel Badischer",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.40199, 48.99359]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Karlsruhe Hauptbahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67542, 49.40349]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Heidelberg Hauptbahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67629, 49.40387]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Coffee Fellows",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67724, 49.40346]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "ibis Heidelberg Hauptbahnhof",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67658, 49.4107]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Ernst-Walz-Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.67444, 49.41721]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Institut für Umweltphysik",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.68871, 49.36573]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Rohrbach Süd",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69934, 49.35821]
+      },
+      "properties": {
+        "date": "2023-10-05",
+        "name": "Weingut Clauer",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71056, 49.41214]
+      },
+      "properties": {
+        "date": "2023-10-06",
+        "name": "Marktplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71741, 49.41543]
+      },
+      "properties": {
+        "date": "2023-10-06",
+        "name": "Leinpfad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70903, 49.41637]
+      },
+      "properties": {
+        "date": "2023-10-06",
+        "name": "Schlangenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.70393, 49.41622]
+      },
+      "properties": {
+        "date": "2023-10-06",
+        "name": "Philosophenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69272, 49.4124]
+      },
+      "properties": {
+        "date": "2023-10-06",
+        "name": "Theodor-Heuss-Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
