@@ -38861,6 +38861,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.12738, 46.88577]
+      },
+      "properties": {
+        "date": "2023-10-08",
+        "name": "Jetzloch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.12667, 46.87399]
+      },
+      "properties": {
+        "date": "2023-10-08",
+        "name": "Jetz Oberstafel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.11541, 46.85858]
+      },
+      "properties": {
+        "date": "2023-10-08",
+        "name": "Häxenseeli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10394, 46.85579]
+      },
+      "properties": {
+        "date": "2023-10-08",
+        "name": "Panixer Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.10397, 46.85598]
+      },
+      "properties": {
+        "date": "2023-10-08",
+        "name": "Panixerpasshütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
