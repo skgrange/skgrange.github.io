@@ -38921,6 +38921,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.70148, 47.41544]
+      },
+      "properties": {
+        "date": "2023-10-14",
+        "name": "Aspberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72328, 47.39526]
+      },
+      "properties": {
+        "date": "2023-10-14",
+        "name": "Wildert",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
