@@ -38945,6 +38945,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.00339, 47.08621]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Stafelbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99865, 47.08502]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Campingplatz Obersee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01328, 47.08559]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Seeweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.05027, 47.09634]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Brandbödeli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03409, 47.10114]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Läuferberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0181, 47.09405]
+      },
+      "properties": {
+        "date": "2023-10-15",
+        "name": "Lochberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
