@@ -39017,6 +39017,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.75553, 47.11886]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Klosterwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74313, 47.1023]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Ufem Tritt",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74278, 47.08922]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Amselspitz",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74205, 47.07644]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Stockhütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73416, 47.04353]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Furggelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73294, 47.03852]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Furggelenstock",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72007, 47.02411]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Zwäcken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69863, 47.02883]
+      },
+      "properties": {
+        "date": "2023-10-21",
+        "name": "Berggasthaus Holzegg",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
