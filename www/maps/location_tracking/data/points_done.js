@@ -39113,6 +39113,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.7576, 47.3208]
+      },
+      "properties": {
+        "date": "2023-10-22",
+        "name": "Bertschikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7624, 47.30087]
+      },
+      "properties": {
+        "date": "2023-10-22",
+        "name": "Reformierte Kirche Gossau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
