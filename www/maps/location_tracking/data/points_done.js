@@ -39149,6 +39149,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.33058, 46.94448]
+      },
+      "properties": {
+        "date": "2023-10-28",
+        "name": "Heidelpass See",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.33176, 46.94567]
+      },
+      "properties": {
+        "date": "2023-10-28",
+        "name": "Heidelpass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3329, 46.93656]
+      },
+      "properties": {
+        "date": "2023-10-28",
+        "name": "Cairn",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
