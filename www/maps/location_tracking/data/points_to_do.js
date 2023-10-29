@@ -2028,6 +2028,18 @@ var points_to_do = [{
         "name": "Fronalpstock",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.29812, 46.94154]
+      },
+      "properties": {
+        "date": "",
+        "name": "Heubützlipass",
+        "type": "To-do"
+      }
     }
   ]
 }];

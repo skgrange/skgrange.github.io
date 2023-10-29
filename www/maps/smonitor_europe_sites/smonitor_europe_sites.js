@@ -26,3 +26,4 @@ L.control.layers(base_maps, overlay_points).addTo(map);
 
 // Centre of Germany
 map.setView(new L.LatLng(51.163375, 10.447683), 5);
+
