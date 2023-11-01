@@ -39185,6 +39185,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.78282, 46.65357]
+      },
+      "properties": {
+        "date": "2023-10-31",
+        "name": "Eybach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.78754, 46.65063]
+      },
+      "properties": {
+        "date": "2023-10-31",
+        "name": "Meielisalp Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.77931, 46.64714]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Panoramabrücke Leissigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.77227, 46.64609]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Turn around point",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.76863, 46.64541]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Chüngstuel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.76395, 46.64588]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Rügger",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.75823, 46.64492]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Schüpfweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7428, 46.64601]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Ufem Viertel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.72817, 46.66114]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Krattigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.68752, 46.68934]
+      },
+      "properties": {
+        "date": "2023-11-01",
+        "name": "Schloss Spiez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
