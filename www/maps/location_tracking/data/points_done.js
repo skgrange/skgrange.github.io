@@ -39305,6 +39305,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.81237, 47.22072]
+      },
+      "properties": {
+        "date": "2023-11-05",
+        "name": "Holzbrücke Rapperswil-Hurden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80066, 47.2137]
+      },
+      "properties": {
+        "date": "2023-11-05",
+        "name": "Hurden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78982, 47.20424]
+      },
+      "properties": {
+        "date": "2023-11-05",
+        "name": "Kanalweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
