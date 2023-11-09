@@ -2040,6 +2040,30 @@ var points_to_do = [{
         "name": "Heubützlipass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90979, 46.86084]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gämsfairenjoch",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.82072, 46.55591]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rote Härd",
+        "type": "To-do"
+      }
     }
   ]
 }];
