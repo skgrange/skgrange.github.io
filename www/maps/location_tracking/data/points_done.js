@@ -39341,6 +39341,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.76911, 46.84797]
+      },
+      "properties": {
+        "date": "2023-11-11",
+        "name": "Brunnital",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
