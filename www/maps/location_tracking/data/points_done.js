@@ -39353,6 +39353,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.79254, 47.35825]
+      },
+      "properties": {
+        "date": "2023-11-12",
+        "name": "Irgenhausen Castrum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
