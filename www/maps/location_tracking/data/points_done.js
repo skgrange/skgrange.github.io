@@ -39389,6 +39389,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.86759, 47.29782]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Wernetshausen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.87911, 47.2809]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Hasenstrick",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88986, 47.28385]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Underhus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88355, 47.28923]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Orn Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88822, 47.29012]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Bachtelstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
