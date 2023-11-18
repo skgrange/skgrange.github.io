@@ -39365,6 +39365,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.84546, 47.30254]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Wildbach Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84807, 47.30551]
+      },
+      "properties": {
+        "date": "2023-11-18",
+        "name": "Ringwilerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
