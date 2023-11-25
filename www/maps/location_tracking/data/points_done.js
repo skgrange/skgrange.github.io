@@ -39449,6 +39449,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.9619, 47.224]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Le Noirmont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.95811, 47.22655]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Rue des Collèges",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9702, 47.23751]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Sommêtres",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.96525, 47.23641]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Ruine de Spiegelberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.92971, 47.21733]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Rue du Doubs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.95786, 47.22352]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Chemin du Chant du Gros",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.99611, 47.25613]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Saignelégier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.11268, 47.30548]
+      },
+      "properties": {
+        "date": "2023-11-25",
+        "name": "Saint-Brais",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
