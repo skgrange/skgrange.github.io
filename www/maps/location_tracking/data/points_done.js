@@ -39545,6 +39545,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.812, 47.32769]
+      },
+      "properties": {
+        "date": "2023-11-26",
+        "name": "Wetzikon Friedhof",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8168, 47.33362]
+      },
+      "properties": {
+        "date": "2023-11-26",
+        "name": "Kempten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82403, 47.33405]
+      },
+      "properties": {
+        "date": "2023-11-26",
+        "name": "Eichholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8329, 47.33194]
+      },
+      "properties": {
+        "date": "2023-11-26",
+        "name": "Kemptnertobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.83551, 47.33694]
+      },
+      "properties": {
+        "date": "2023-11-26",
+        "name": "Kemptnerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
