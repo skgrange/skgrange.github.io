@@ -39605,6 +39605,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.6941, 47.65653]
+      },
+      "properties": {
+        "date": "2023-12-02",
+        "name": "Mettschlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.71867, 47.67467]
+      },
+      "properties": {
+        "date": "2023-12-02",
+        "name": "Buechberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72795, 47.68576]
+      },
+      "properties": {
+        "date": "2023-12-02",
+        "name": "SWIFT Data Centre",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
