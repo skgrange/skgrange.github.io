@@ -39641,6 +39641,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.78455, 53.64908]
+      },
+      "properties": {
+        "date": "2023-12-04",
+        "name": "Huddersfield Station",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07633, 53.9603]
+      },
+      "properties": {
+        "date": "2023-12-04",
+        "name": "The Gents Turkish Barber",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08145, 53.95813]
+      },
+      "properties": {
+        "date": "2023-12-04",
+        "name": "Byron",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
