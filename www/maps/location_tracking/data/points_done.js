@@ -39689,6 +39689,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.36957, 47.51157]
+      },
+      "properties": {
+        "date": "2023-12-16",
+        "name": "Niederweningen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.28656, 47.56112]
+      },
+      "properties": {
+        "date": "2023-12-16",
+        "name": "Tegerfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.22324, 47.60524]
+      },
+      "properties": {
+        "date": "2023-12-16",
+        "name": "Felsenau Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.18776, 47.59852]
+      },
+      "properties": {
+        "date": "2023-12-16",
+        "name": "Leibstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
