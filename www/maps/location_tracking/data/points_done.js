@@ -39737,6 +39737,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.57172, 47.54126]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Federen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57346, 47.54432]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Schloss Teufen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58453, 47.55119]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Talhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59834, 47.53557]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Rüedi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59148, 47.537]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Geissstig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59444, 47.48891]
+      },
+      "properties": {
+        "date": "2023-12-23",
+        "name": "Fuel pumps",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
