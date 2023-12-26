@@ -39809,6 +39809,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.08642, 46.68228]
+      },
+      "properties": {
+        "date": "2023-12-24",
+        "name": "Gruyères services",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.82968, 46.47686]
+      },
+      "properties": {
+        "date": "2023-12-25",
+        "name": "Chardonne",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.83138, 46.48215]
+      },
+      "properties": {
+        "date": "2023-12-25",
+        "name": "Mont-Pélerin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.79648, 46.48201]
+      },
+      "properties": {
+        "date": "2023-12-25",
+        "name": "Cremières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.79247, 46.48096]
+      },
+      "properties": {
+        "date": "2023-12-25",
+        "name": "Lignières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.79937, 46.47608]
+      },
+      "properties": {
+        "date": "2023-12-25",
+        "name": "Ogoz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.08509, 46.56548]
+      },
+      "properties": {
+        "date": "2023-12-26",
+        "name": "Enney",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.08612, 46.55809]
+      },
+      "properties": {
+        "date": "2023-12-26",
+        "name": "La Sarine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
