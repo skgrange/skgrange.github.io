@@ -39821,6 +39821,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.92314, 46.42679]
+      },
+      "properties": {
+        "date": "2023-12-24",
+        "name": "St. John’s",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.82968, 46.47686]
       },
       "properties": {
