@@ -39929,6 +39929,186 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.58943, 47.49076]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Reinach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.51045, 47.50269]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Leymenstrasse",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.48338, 47.49556]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Leymen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.46486, 47.48658]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Rue de Rodersdorf-Leimenstrasse",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45664, 47.4804]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Rodersdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45146, 47.47511]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Biederthalstrasse",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44764, 47.46947]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Biederthal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.40859, 47.4622]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Wolschwiller",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3662, 47.4751]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Raedersdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.34214, 47.47321]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Hippoltskirch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3375, 47.4603]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Blochmont climb",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.35828, 47.44057]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Kiffis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.41389, 47.50935]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Bettlach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.46588, 47.48508]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Leymen-Rodersdorf cycle path",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.56427, 47.49663]
+      },
+      "properties": {
+        "date": "2023-12-30",
+        "name": "Shell",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
