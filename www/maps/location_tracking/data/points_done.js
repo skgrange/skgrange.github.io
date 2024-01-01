@@ -40109,6 +40109,186 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.4104, 47.03136]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Eichistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.42592, 47.03852]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Remsistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.44914, 47.10738]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Fänn Süd",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45646, 47.14147]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "St. Germanstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45447, 47.15967]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Dersbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.45904, 47.18106]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Cham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.49302, 47.18096]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Chamer Veloweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51503, 47.16608]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Zug Altstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51664, 47.16396]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Pulverturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53113, 47.16529]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "St. Verena",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.53067, 47.15728]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Blasenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55534, 47.15783]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Unterstock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55619, 47.16431]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Allenwinden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61606, 47.06329]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Rossbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61315, 47.04952]
+      },
+      "properties": {
+        "date": "2024-01-01",
+        "name": "Steinen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
