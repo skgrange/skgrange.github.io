@@ -40289,6 +40289,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.48974, 47.34748]
+      },
+      "properties": {
+        "date": "2024-01-02",
+        "name": "Uetlibergtunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57215, 47.38185]
+      },
+      "properties": {
+        "date": "2024-01-02",
+        "name": "Fluntern athletics track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
