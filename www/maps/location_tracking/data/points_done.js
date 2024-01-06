@@ -19745,6 +19745,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.35051, 47.20334]
+      },
+      "properties": {
+        "date": "2021-01-04",
+        "name": "Waldhaus Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.7213, 47.31003]
       },
       "properties": {
