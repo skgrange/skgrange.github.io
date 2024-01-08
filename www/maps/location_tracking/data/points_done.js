@@ -40325,6 +40325,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.62051, 47.64002]
+      },
+      "properties": {
+        "date": "2024-01-07",
+        "name": "Grilling area",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
