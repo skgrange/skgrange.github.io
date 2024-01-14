@@ -40337,6 +40337,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.68828, 47.49236]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Seeparkplatz",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.68798, 47.50219]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Auhafen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.685, 47.50412]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Neuer Industriehafen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.70164, 47.49869]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Bregenzer Ach Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.70768, 47.50829]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.71776, 47.50739]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Yachthafen Bregenz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.67958, 47.47758]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "Jet",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.65317, 47.44729]
+      },
+      "properties": {
+        "date": "2024-01-14",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
