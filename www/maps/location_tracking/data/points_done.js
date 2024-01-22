@@ -40445,6 +40445,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [51.61314, 25.26221]
+      },
+      "properties": {
+        "date": "2024-01-17",
+        "name": "Hamad International Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.50947, -34.99222]
+      },
+      "properties": {
+        "date": "2024-01-21",
+        "name": "Four Square",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.84478, -34.44094]
+      },
+      "properties": {
+        "date": "2024-01-22",
+        "name": "Te Horo Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.80817, -34.45526]
+      },
+      "properties": {
+        "date": "2024-01-22",
+        "name": "Waitahora Lagoon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.78935, -34.45313]
+      },
+      "properties": {
+        "date": "2024-01-22",
+        "name": "Cliffs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.78436, -34.45366]
+      },
+      "properties": {
+        "date": "2024-01-22",
+        "name": "Whangākea Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.77765, -34.45222]
+      },
+      "properties": {
+        "date": "2024-01-22",
+        "name": "Pandora campsite",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
