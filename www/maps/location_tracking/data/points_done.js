@@ -40529,6 +40529,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.02978, -35.19594]
+      },
+      "properties": {
+        "date": "2024-01-24",
+        "name": "Doves Bay Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.04618, -35.19184]
+      },
+      "properties": {
+        "date": "2024-01-24",
+        "name": "Lizard Bay Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
