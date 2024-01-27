@@ -40553,6 +40553,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.78021, -35.10053]
+      },
+      "properties": {
+        "date": "2024-01-27",
+        "name": "Madhatters Donnas Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
