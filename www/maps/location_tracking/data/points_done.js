@@ -40565,6 +40565,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.71962, -35.03841]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Totara North",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.71947, -35.02572]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Wairakau Stream Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.71808, -35.01474]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Fords",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.73086, -35.01217]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Lane Cove Hut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.73526, -35.01332]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Secured way",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.73516, -35.01308]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Kairara Rock / Dukes Nose",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.73122, -35.01215]
+      },
+      "properties": {
+        "date": "2024-01-29",
+        "name": "Day shelter",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
