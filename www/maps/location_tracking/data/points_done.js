@@ -40649,6 +40649,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.96207, -35.21739]
+      },
+      "properties": {
+        "date": "2024-02-06",
+        "name": "Honey House Cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.96269, -35.21777]
+      },
+      "properties": {
+        "date": "2024-02-06",
+        "name": "Stone Store (museum)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.96232, -35.21749]
+      },
+      "properties": {
+        "date": "2024-02-06",
+        "name": "Mission House (museum)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
