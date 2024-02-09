@@ -40553,6 +40553,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.94891, -35.22723]
+      },
+      "properties": {
+        "date": "2024-01-25",
+        "name": "Chop Shop",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.78021, -35.10053]
       },
       "properties": {
@@ -40679,6 +40691,30 @@ var points_done = [{
         "date": "2024-02-06",
         "name": "Mission House (museum)",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.76123, -35.08226]
+      },
+      "properties": {
+        "date": "2024-02-09",
+        "name": "New Kaeo Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.53657, -34.98953]
+      },
+      "properties": {
+        "date": "2024-02-09",
+        "name": "Remarkable Cafe & Seafood Restaurant",
+        "type": "Coffee"
       }
     },
     {
