@@ -13,7 +13,7 @@
 
 <title>About</title>
 
-<script src="libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -265,29 +262,9 @@ $(document).ready(function () {
 
               <li class="dropdown-header"><b>Air quality databases</b></li>
               <li><a href="www/maps/smonitor_europe_sites/smonitor_europe_sites.html" target = "_blank"><b>smonitor</b> Europe sites</a></li>
-              <li><a href="www/maps/smonitor_new_zealand_sites/smonitor_new_zealand_sites.html" target = "_blank"><b>smonitor</b> New Zealand sites</a></li>
-              <li><a href="www/maps/integrated_surface_database_sites/integrated_surface_database_sites.html" target = "_blank">Integrated surface database (ISD) sites</a></li>
-              
-              <li class="divider"></li>
-              <li class="dropdown-header"><b>Other</b></li>
-              <li><a href="www/maps/climate_averages/climate_averages.html" target = "_blank">Climate averages</a></li>
-              <li><a href="www/maps/events/event_links" target = "_blank">Maps of events</a></li>
             </ul>
         </li>
         
-        <!-- Dropdown -->
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">R resources<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="r_introduction.html">Introduction</a></li>
-              <li><a href="r_set_up.html">R Set-up</a></li>
-              <li><a href="date_handling.html">Date handling</a></li>
-            </ul>
-        </li>
-        
-        <!-- Normal tab -->
-        <li><a href="data.html">Data</a></li>
-
       </ul>
       
       <!-- Right hand tab -->
@@ -318,28 +295,19 @@ $(document).ready(function () {
 
   gtag('config', 'UA-91054889-10');
 </script>
-<p>I am a New Zealander living in Zürich, Switzerland. I am an air
-quality and data scientist and a keen runner.</p>
+<p>I am a New Zealander living in Zürich, Switzerland. I am an air quality and data scientist and a keen runner.</p>
 <div id="links" class="section level2">
 <h2>Links</h2>
 <ul>
-<li><p><a
-href="https://www.facebook.com/stuart.grange">Facebook</a></p></li>
-<li><p><a
-href="https://uk.linkedin.com/in/stuart-grange-1841b0b3">LinkedIn</a></p></li>
-<li><p><a
-href="https://www.researchgate.net/profile/Stuart_Grange2">ResearchGate</a></p></li>
-<li><p><a href="http://orcid.org/0000-0003-4093-3596">ORCID (Open
-Researcher and Contributor ID)</a></p></li>
-<li><p><a
-href="https://scholar.google.co.uk/citations?user=oZqouFYAAAAJ&amp;hl=en">Google
-Scholar</a></p></li>
+<li><p><a href="https://www.facebook.com/stuart.grange">Facebook</a></p></li>
+<li><p><a href="https://uk.linkedin.com/in/stuart-grange-1841b0b3">LinkedIn</a></p></li>
+<li><p><a href="https://www.researchgate.net/profile/Stuart_Grange2">ResearchGate</a></p></li>
+<li><p><a href="http://orcid.org/0000-0003-4093-3596">ORCID (Open Researcher and Contributor ID)</a></p></li>
+<li><p><a href="https://scholar.google.co.uk/citations?user=oZqouFYAAAAJ&amp;hl=en">Google Scholar</a></p></li>
 <li><p><a href="https://github.com/skgrange">GitHub</a></p></li>
-<li><p><a
-href="https://drive.google.com/open?id=0B7lRD1eNlhErUGpqRXlPZU96Umc">CV/Résumé</a></p></li>
+<li><p><a href="https://drive.google.com/open?id=0B7lRD1eNlhErUGpqRXlPZU96Umc">CV/Résumé</a></p></li>
 <li><p><a href="publications.html">Publication list</a></p></li>
-<li><p><a href="https://www.strava.com/athletes/90322632">Strava</a> (an
-account is needed to view my profile)</p></li>
+<li><p><a href="https://www.strava.com/athletes/90322632">Strava</a> (an account is needed to view my profile)</p></li>
 </ul>
 </div>
 
