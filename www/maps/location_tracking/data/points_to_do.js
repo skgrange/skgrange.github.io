@@ -1721,18 +1721,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.71948, -35.02564]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wairakau Stream Track",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.12551, 46.3726]
       },
       "properties": {

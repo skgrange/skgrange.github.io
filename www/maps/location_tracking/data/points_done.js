@@ -40697,6 +40697,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.94395, -35.23273]
+      },
+      "properties": {
+        "date": "2024-02-08",
+        "name": "Salvation Army",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.76123, -35.08226]
       },
       "properties": {
