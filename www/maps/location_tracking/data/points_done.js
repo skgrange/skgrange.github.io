@@ -40733,6 +40733,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.09113, -35.28122]
+      },
+      "properties": {
+        "date": "2024-02-12",
+        "name": "The Third Wheel",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.08913, -35.281]
+      },
+      "properties": {
+        "date": "2024-02-12",
+        "name": "Bounty Motel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
