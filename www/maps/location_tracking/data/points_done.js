@@ -40757,6 +40757,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.84167, -36.85132]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Aarangi Motel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.86284, -36.84429]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Ladies Bay Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.86406, -36.84386]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Achilles Point",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.84328, -36.85295]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Melanesia Road shops",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.85143, -36.866]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Thai Heart Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.84488, -36.85777]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Madills Farm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.85542, -36.85847]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Dingle Dell Reserve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.85759, -36.85033]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "Annabelles",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.79767, -36.88185]
+      },
+      "properties": {
+        "date": "2024-02-13",
+        "name": "New World",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
