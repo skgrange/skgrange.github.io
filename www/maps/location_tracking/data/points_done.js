@@ -40733,6 +40733,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.0922, -35.28193]
+      },
+      "properties": {
+        "date": "2024-02-12",
+        "name": "Paihia’s Village Green",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [174.09113, -35.28122]
       },
       "properties": {
