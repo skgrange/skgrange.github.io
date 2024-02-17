@@ -2052,6 +2052,18 @@ var points_to_do = [{
         "name": "Rote Härd",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.34828, -35.93413]
+      },
+      "properties": {
+        "date": "",
+        "name": "Waipū Caves",
+        "type": "To-do"
+      }
     }
   ]
 }];
