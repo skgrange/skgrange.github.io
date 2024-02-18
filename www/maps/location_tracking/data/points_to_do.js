@@ -2064,6 +2064,30 @@ var points_to_do = [{
         "name": "Waipū Caves",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.57437, -35.76971]
+      },
+      "properties": {
+        "date": "",
+        "name": "Aranga Beach",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.6379, -35.8054]
+      },
+      "properties": {
+        "date": "",
+        "name": "Kai Iwi Lakes",
+        "type": "To-do"
+      }
     }
   ]
 }];

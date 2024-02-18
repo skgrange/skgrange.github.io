@@ -40877,6 +40877,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.56268, 47.57545]
+      },
+      "properties": {
+        "date": "2024-02-17",
+        "name": "Hurbig",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57806, 47.63044]
+      },
+      "properties": {
+        "date": "2024-02-17",
+        "name": "dm",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
