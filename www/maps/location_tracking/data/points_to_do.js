@@ -2088,6 +2088,30 @@ var points_to_do = [{
         "name": "Kai Iwi Lakes",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.92375, -35.92269]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hoanga Road’s track",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.3821, -35.2222]
+      },
+      "properties": {
+        "date": "",
+        "name": "Takahue Saddle",
+        "type": "To-do"
+      }
     }
   ]
 }];
