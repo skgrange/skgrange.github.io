@@ -40901,6 +40901,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.58039, 47.73426]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Hemmental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57265, 47.74073]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Unnamed paved road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57622, 47.74591]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Chrüüzweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60176, 47.74702]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Buechbärghuus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.60823, 47.75504]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Dostental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6231, 47.75683]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Chörblitobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63185, 47.75805]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Gmaafäld",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56178, 47.74692]
+      },
+      "properties": {
+        "date": "2024-02-24",
+        "name": "Mäserich",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

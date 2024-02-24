@@ -1985,18 +1985,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.58031, 47.73437]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hemmental",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.69582, 46.39995]
       },
       "properties": {
