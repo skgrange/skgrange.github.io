@@ -40997,6 +40997,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.94757, 47.54657]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Zollstation Bad Säckingen/Stein",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9428, 47.5558]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Bad Säckingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.95048, 47.57386]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Eggbergstraße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.97811, 47.61892]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Rickenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.95882, 47.61324]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Bergalingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.94976, 47.62799]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Hütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.95098, 47.65949]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Hornberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.96333, 47.66099]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Hornbergbecken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00114, 47.66628]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Herrischried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.00686, 47.68071]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Großherrischwand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01694, 47.69962]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Steinernes Kreuz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.93592, 47.55404]
+      },
+      "properties": {
+        "date": "2024-02-25",
+        "name": "Esso",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
