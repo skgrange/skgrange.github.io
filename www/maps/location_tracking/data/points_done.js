@@ -41141,6 +41141,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.43547, 47.30015]
+      },
+      "properties": {
+        "date": "2024-03-02",
+        "name": "Schwende",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41797, 47.27345]
+      },
+      "properties": {
+        "date": "2024-03-02",
+        "name": "Gross Hütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.42365, 47.27546]
+      },
+      "properties": {
+        "date": "2024-03-02",
+        "name": "Klein Hütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.42921, 47.2897]
+      },
+      "properties": {
+        "date": "2024-03-02",
+        "name": "Forscherstein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34147, 47.37]
+      },
+      "properties": {
+        "date": "2024-03-02",
+        "name": "Avia",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
