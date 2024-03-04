@@ -41201,6 +41201,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.5676, 47.57758]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Basel/St. Louis",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37375, 48.84468]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Gare de Lyon",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.36242, 48.84873]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Esplanade des Villes-Compagnons-de-la-Libération",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35114, 48.85669]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Parvis de l’Hôtel de Ville",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.34652, 48.86157]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Châtelet - Les Halles",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.18192, 48.69761]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Orsay-Ville",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.18083, 48.69925]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "L’Yvette",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.16849, 48.7094]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Campanile",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.16648, 48.71186]
+      },
+      "properties": {
+        "date": "2024-03-04",
+        "name": "Avenue des Sciences",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
