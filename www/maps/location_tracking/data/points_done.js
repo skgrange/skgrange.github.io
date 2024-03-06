@@ -41309,6 +41309,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.41654, 48.8798]
+      },
+      "properties": {
+        "date": "2024-03-05",
+        "name": "Mairie des Lilas",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42243, 48.88534]
+      },
+      "properties": {
+        "date": "2024-03-05",
+        "name": "Tour TDF des Lilas",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
