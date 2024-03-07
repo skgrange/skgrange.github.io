@@ -41333,6 +41333,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.17004, 48.71218]
+      },
+      "properties": {
+        "date": "2024-03-05",
+        "name": "Lumen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.16845, 48.70928]
+      },
+      "properties": {
+        "date": "2024-03-05",
+        "name": "Le Comptoir",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.16439, 48.71238]
+      },
+      "properties": {
+        "date": "2024-03-06",
+        "name": "Kfé",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.15645, 48.71317]
+      },
+      "properties": {
+        "date": "2024-03-07",
+        "name": "Athletics track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
