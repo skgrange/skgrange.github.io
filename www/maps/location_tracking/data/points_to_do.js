@@ -2100,6 +2100,18 @@ var points_to_do = [{
         "name": "Takahue Saddle",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167.75306, -44.79152]
+      },
+      "properties": {
+        "date": "",
+        "name": "Quintin Lodge",
+        "type": "To-do"
+      }
     }
   ]
 }];

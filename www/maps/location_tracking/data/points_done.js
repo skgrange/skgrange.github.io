@@ -41309,6 +41309,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.19191, 48.70511]
+      },
+      "properties": {
+        "date": "2024-03-05",
+        "name": "Le Guichet",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [2.41654, 48.8798]
       },
       "properties": {
