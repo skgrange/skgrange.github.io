@@ -41405,6 +41405,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [17.92935, 59.64934]
+      },
+      "properties": {
+        "date": "2024-03-13",
+        "name": "Stockholm-Arlanda Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.92849, 59.64941]
+      },
+      "properties": {
+        "date": "2024-03-13",
+        "name": "Arlanda central",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.10875, 61.72419]
+      },
+      "properties": {
+        "date": "2024-03-13",
+        "name": "Hudiksvall",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.12364, 61.72257]
+      },
+      "properties": {
+        "date": "2024-03-13",
+        "name": "Strandpiren",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
