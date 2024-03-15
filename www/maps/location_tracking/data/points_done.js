@@ -41453,6 +41453,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [17.10395, 61.72622]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "Sankt Jakobs kyrka",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.10803, 61.7178]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "Håstaholmen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.5597, 61.79793]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "Torggatan",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.55913, 61.79634]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "SenseAir",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.55359, 61.79955]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "Delspo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.56535, 61.83867]
+      },
+      "properties": {
+        "date": "2024-03-14",
+        "name": "Svanbacken",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.15078, 61.72068]
+      },
+      "properties": {
+        "date": "2024-03-15",
+        "name": "Gräsmalnsvägen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.16202, 61.72003]
+      },
+      "properties": {
+        "date": "2024-03-15",
+        "name": "Gräsmaln",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.11559, 61.73269]
+      },
+      "properties": {
+        "date": "2024-03-15",
+        "name": "Borgarparken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
