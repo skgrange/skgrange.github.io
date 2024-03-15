@@ -161,6 +161,42 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-80.307671, 25.66163]
+      },
+      "properties": {
+        "date": "2007-06-26",
+        "name": "Pinecrest Florida",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.190295, 26.52462]
+      },
+      "properties": {
+        "date": "2007-07-03",
+        "name": "Captiva Island",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.075625, 26.42335]
+      },
+      "properties": {
+        "date": "2007-07-03",
+        "name": "Sanibell Island",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [13.318332, 52.51886]
       },
       "properties": {
@@ -178,6 +214,222 @@ var points_extra = [{
       "properties": {
         "date": "2009-11-24",
         "name": "Cliffs of Moher",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.710538, 48.03566]
+      },
+      "properties": {
+        "date": "2012-10-21",
+        "name": "Buchloe",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.083827, 50.77466]
+      },
+      "properties": {
+        "date": "2012-10-30",
+        "name": "Aachen",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.226208, 54.50114]
+      },
+      "properties": {
+        "date": "2012-11-11",
+        "name": "Puttgarden",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.352157, 54.65454]
+      },
+      "properties": {
+        "date": "2012-11-11",
+        "name": "Rødby",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.551293, 55.68334]
+      },
+      "properties": {
+        "date": "2012-11-11",
+        "name": "Steenwinkelsvej",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.575813, 55.68139]
+      },
+      "properties": {
+        "date": "2012-11-12",
+        "name": "Rundetaarn",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.573698, 55.68087]
+      },
+      "properties": {
+        "date": "2012-11-12",
+        "name": "Hovedbiblioteket",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.599248, 55.69287]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "The Little Mermaid",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.590045, 55.67998]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "Nyhavn",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.569371, 55.67574]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "City Hall Square",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.576515, 55.68647]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "Rosenborg Slot",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.599741, 55.68221]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "Copenhagen Opera House",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.593207, 55.68399]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "Amalienborg",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.590295, 55.68478]
+      },
+      "properties": {
+        "date": "2012-11-13",
+        "name": "Frederik's Church",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.53082, 55.66457]
+      },
+      "properties": {
+        "date": "2012-11-14",
+        "name": "Visit Carlsberg",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.820755, 55.57659]
+      },
+      "properties": {
+        "date": "2012-11-15",
+        "name": "Øresund Bridge",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.001189, 55.59697]
+      },
+      "properties": {
+        "date": "2012-11-15",
+        "name": "Triangeln",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.97677, 55.61315]
+      },
+      "properties": {
+        "date": "2012-11-15",
+        "name": "Turning Torso",
         "type": "Extra"
       }
     },
@@ -629,59 +881,11 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.307671, 25.66163]
-      },
-      "properties": {
-        "date": "",
-        "name": "Pinecrest Florida",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-80.131432, 25.79124]
       },
       "properties": {
         "date": "",
         "name": "Miami Beach",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.190295, 26.52462]
-      },
-      "properties": {
-        "date": "",
-        "name": "Captiva Island",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.075625, 26.42335]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sanibell Island",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.710538, 48.03566]
-      },
-      "properties": {
-        "date": "",
-        "name": "Buchloe",
         "type": "Extra"
       }
     },
@@ -893,18 +1097,6 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.53082, 55.66457]
-      },
-      "properties": {
-        "date": "",
-        "name": "Visit Carlsberg",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [10.700553, 47.56967]
       },
       "properties": {
@@ -989,203 +1181,11 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.083827, 50.77466]
-      },
-      "properties": {
-        "date": "",
-        "name": "Aachen",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.992236, 53.55028]
       },
       "properties": {
         "date": "",
         "name": "Hamburg",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [11.226208, 54.50114]
-      },
-      "properties": {
-        "date": "",
-        "name": "Puttgarden",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [11.352157, 54.65454]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rødby",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.551293, 55.68334]
-      },
-      "properties": {
-        "date": "",
-        "name": "Steenwinkelsvej",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.575813, 55.68139]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rundetaarn",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.573698, 55.68087]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hovedbiblioteket",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.599248, 55.69287]
-      },
-      "properties": {
-        "date": "",
-        "name": "The Little Mermaid",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.590045, 55.67998]
-      },
-      "properties": {
-        "date": "",
-        "name": "Nyhavn",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.569371, 55.67574]
-      },
-      "properties": {
-        "date": "",
-        "name": "City Hall Square",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.576515, 55.68647]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rosenborg Slot",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.599741, 55.68221]
-      },
-      "properties": {
-        "date": "",
-        "name": "Copenhagen Opera House",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.593207, 55.68399]
-      },
-      "properties": {
-        "date": "",
-        "name": "Amalienborg",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.590295, 55.68478]
-      },
-      "properties": {
-        "date": "",
-        "name": "Frederik's Church",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.820755, 55.57659]
-      },
-      "properties": {
-        "date": "",
-        "name": "Øresund Bridge",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.001189, 55.59697]
-      },
-      "properties": {
-        "date": "",
-        "name": "Triangeln",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.97677, 55.61315]
-      },
-      "properties": {
-        "date": "",
-        "name": "Turning Torso",
         "type": "Extra"
       }
     },
