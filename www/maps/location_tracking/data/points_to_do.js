@@ -2112,6 +2112,18 @@ var points_to_do = [{
         "name": "Quintin Lodge",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.86227, 46.43442]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lötschental",
+        "type": "To-do"
+      }
     }
   ]
 }];
