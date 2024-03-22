@@ -41561,6 +41561,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.62165, 47.50381]
+      },
+      "properties": {
+        "date": "2024-03-22",
+        "name": "Ägerten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6467, 47.50211]
+      },
+      "properties": {
+        "date": "2024-03-22",
+        "name": "Salstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
