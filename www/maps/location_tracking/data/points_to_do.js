@@ -1973,18 +1973,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.80932, 47.65009]
-      },
-      "properties": {
-        "date": "",
-        "name": "Stammerberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.69582, 46.39995]
       },
       "properties": {

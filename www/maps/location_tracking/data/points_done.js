@@ -41585,6 +41585,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.80932, 47.65009]
+      },
+      "properties": {
+        "date": "2024-03-23",
+        "name": "Stammerberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.79728, 47.64452]
+      },
+      "properties": {
+        "date": "2024-03-23",
+        "name": "Aussichtsturm Vorderhütten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80112, 47.63398]
+      },
+      "properties": {
+        "date": "2024-03-23",
+        "name": "Galluskapelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85653, 47.61896]
+      },
+      "properties": {
+        "date": "2024-03-23",
+        "name": "Steinegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
