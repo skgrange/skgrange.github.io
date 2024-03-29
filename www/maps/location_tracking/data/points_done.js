@@ -41633,6 +41633,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.64632, 46.40892]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Lavizzara",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6309, 46.41226]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Avalanche gallery",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.599, 46.42559]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Unnamed bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5977, 46.42828]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Stangialgò",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6077, 46.41463]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Piano di Peccia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.61705, 46.41108]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "San Carlo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94214, 45.9828]
+      },
+      "properties": {
+        "date": "2024-03-29",
+        "name": "Via Carona",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
