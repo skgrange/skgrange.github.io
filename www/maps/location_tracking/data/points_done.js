@@ -41837,6 +41837,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.00652, 45.96011]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Dogana Arogno",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00828, 45.96177]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Stráda da Valmára",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00916, 45.96241]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Stráda da Valmára-Strada Provinciale 13",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.02105, 45.97885]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Lanzo d'Intelvi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9871, 45.93326]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Rovio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
