@@ -41717,6 +41717,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.97166, 45.97114]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Casinò Municipale di Campione d'Italia stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97789, 45.96994]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Via Giarone",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97871, 45.96956]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Italy-Switzerland boarder",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97724, 45.96832]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Sciree",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97744, 45.96814]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Italy-Switzerland boarder",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98255, 45.96278]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "San Vitale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9873, 45.96003]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Arogno Paese",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98686, 45.95934]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Piázza Gránda",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98188, 45.94761]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Devoggio",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97265, 45.93837]
+      },
+      "properties": {
+        "date": "2024-03-30",
+        "name": "Frazione Piazzo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
