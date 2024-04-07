@@ -41897,6 +41897,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.51637, 47.57245]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Eglisau",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.51683, 47.57378]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Bahnhofstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52882, 47.57543]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Eglisauer Lauftag",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54146, 47.57264]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Fellenbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.52541, 47.57316]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Rhihaldenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55741, 47.55735]
+      },
+      "properties": {
+        "date": "2024-04-07",
+        "name": "Murkathof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
