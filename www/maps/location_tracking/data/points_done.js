@@ -41969,6 +41969,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.82414, 47.36128]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Oberhittnau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.81201, 47.36267]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Wildenwis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80906, 47.37158]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Balchenstal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82028, 47.38612]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Grüter",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8361, 47.37955]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Hasel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.83511, 47.37354]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Unterwis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8325, 47.36641]
+      },
+      "properties": {
+        "date": "2024-04-12",
+        "name": "Werdegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
