@@ -42053,6 +42053,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.83651, 47.36556]
+      },
+      "properties": {
+        "date": "2024-04-13",
+        "name": "Dürstelenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84392, 47.36684]
+      },
+      "properties": {
+        "date": "2024-04-13",
+        "name": "Dürstelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85702, 47.37052]
+      },
+      "properties": {
+        "date": "2024-04-13",
+        "name": "Niederdürstelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
