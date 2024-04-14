@@ -2124,6 +2124,30 @@ var points_to_do = [{
         "name": "Hüttlingen",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88612, 47.35375]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ober Wolfsberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88728, 47.30684]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schufelberger Egg Pass",
+        "type": "To-do"
+      }
     }
   ]
 }];

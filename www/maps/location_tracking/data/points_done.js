@@ -42089,6 +42089,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.9036, 47.33284]
+      },
+      "properties": {
+        "date": "2024-04-14",
+        "name": "Ghöch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90211, 47.33138]
+      },
+      "properties": {
+        "date": "2024-04-14",
+        "name": "Ghöch Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90814, 47.36214]
+      },
+      "properties": {
+        "date": "2024-04-14",
+        "name": "Allenwilstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.90456, 47.35811]
+      },
+      "properties": {
+        "date": "2024-04-14",
+        "name": "Allenwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91049, 47.35155]
+      },
+      "properties": {
+        "date": "2024-04-14",
+        "name": "Vorderbräch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
