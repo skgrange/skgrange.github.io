@@ -42149,6 +42149,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.75703, 47.49077]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Allmend Grüzefeld",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76825, 47.49611]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Walderplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7568, 47.50603]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Frauenfelderstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73898, 47.4995]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Seidenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73112, 47.49894]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Unnamed Plaza",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.72923, 47.49898]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Kirchplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.73982, 47.49009]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Mattenbachweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78943, 47.52105]
+      },
+      "properties": {
+        "date": "2024-04-15",
+        "name": "Wiesendangen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
