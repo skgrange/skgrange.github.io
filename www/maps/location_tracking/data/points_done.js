@@ -42245,6 +42245,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.74203, 47.53921]
+      },
+      "properties": {
+        "date": "2024-04-20",
+        "name": "Rehweid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75191, 47.53964]
+      },
+      "properties": {
+        "date": "2024-04-20",
+        "name": "Eschberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76902, 47.53927]
+      },
+      "properties": {
+        "date": "2024-04-20",
+        "name": "Mörsburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.76859, 47.54004]
+      },
+      "properties": {
+        "date": "2024-04-20",
+        "name": "Schloss Mörsburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75451, 47.5373]
+      },
+      "properties": {
+        "date": "2024-04-20",
+        "name": "Gussli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
