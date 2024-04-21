@@ -42305,6 +42305,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.61986, 47.39133]
+      },
+      "properties": {
+        "date": "2024-04-21",
+        "name": "Friedhof Dübendorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
