@@ -42317,6 +42317,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.89132, 47.36003]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Unter Wolfsberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88612, 47.35375]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Ober Wolfsberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89388, 47.34451]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Sunnenhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.85793, 47.32863]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Schönau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88728, 47.30684]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Schufelberger Egg Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.89877, 47.31827]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Lee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86162, 47.36169]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Hof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.86424, 47.36411]
+      },
+      "properties": {
+        "date": "2024-04-27",
+        "name": "Bliggenswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
