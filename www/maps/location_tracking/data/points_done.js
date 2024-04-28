@@ -42413,6 +42413,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.77963, 47.15444]
+      },
+      "properties": {
+        "date": "2024-04-28",
+        "name": "Staumauer Sihlsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.74775, 47.18734]
+      },
+      "properties": {
+        "date": "2024-04-28",
+        "name": "Feusisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7748, 47.18395]
+      },
+      "properties": {
+        "date": "2024-04-28",
+        "name": "St.-Meinrad-Strasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
