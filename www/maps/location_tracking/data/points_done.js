@@ -42449,6 +42449,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.90647, 47.05466]
+      },
+      "properties": {
+        "date": "2024-05-01",
+        "name": "Aberen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9014, 47.06897]
+      },
+      "properties": {
+        "date": "2024-05-01",
+        "name": "Alpeli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.88688, 47.07445]
+      },
+      "properties": {
+        "date": "2024-05-01",
+        "name": "Fläschlipass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.91516, 47.06786]
+      },
+      "properties": {
+        "date": "2024-05-01",
+        "name": "Hundlochquelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
