@@ -42497,6 +42497,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.59436, 47.26471]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Gisingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.57051, 47.30624]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Blatten Rheinbrücke",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.4968, 47.22821]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Werdenberger Binnenkanal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.54234, 47.12678]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Balischguadstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.56465, 47.11556]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Tunnel Gnalp-Steg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.60778, 47.10287]
+      },
+      "properties": {
+        "date": "2024-05-09",
+        "name": "Malbun",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
