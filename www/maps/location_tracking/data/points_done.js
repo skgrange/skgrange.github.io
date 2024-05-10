@@ -42569,6 +42569,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.67018, 47.55173]
+      },
+      "properties": {
+        "date": "2024-05-10",
+        "name": "Hünikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.63674, 47.5465]
+      },
+      "properties": {
+        "date": "2024-05-10",
+        "name": "Wolschberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6441, 47.55236]
+      },
+      "properties": {
+        "date": "2024-05-10",
+        "name": "Desibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
