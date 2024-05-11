@@ -42605,6 +42605,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.05347, 47.12613]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Niederurnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04136, 47.1233]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Eschen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01976, 47.12555]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Morgenholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.01998, 47.13021]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Schwinfärch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0108, 47.13218]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Ahornhüttli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00955, 47.13126]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Ahorn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00752, 47.134]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Hirzli",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.03418, 47.12784]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Bergwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.04685, 47.12526]
+      },
+      "properties": {
+        "date": "2024-05-11",
+        "name": "Dorfbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
