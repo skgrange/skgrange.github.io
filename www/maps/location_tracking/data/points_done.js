@@ -42725,6 +42725,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.96733, 60.31795]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Helsinki Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96855, 60.31577]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Lentoasema",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94146, 60.17126]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Helsinki",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9498, 60.18004]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Hakaniemi",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94774, 60.17858]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Scandic Paasi",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95001, 60.18014]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "Hesburger",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94967, 60.17796]
+      },
+      "properties": {
+        "date": "2024-05-13",
+        "name": "S-market",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
