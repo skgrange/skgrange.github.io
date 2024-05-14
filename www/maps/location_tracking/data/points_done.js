@@ -42809,6 +42809,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.93594, 60.1903]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Alppipuisto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92885, 60.18837]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Eläintarha",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93219, 60.18402]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Töölönlahti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96601, 60.20394]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Kumpulan kampus",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96164, 60.20449]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Exactum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96395, 60.20561]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Unicafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96584, 60.20307]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Kumpulan kampus",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94089, 60.17045]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Rautatieasema",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94421, 60.16888]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Aleksanterinkatu",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94729, 60.1675]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Esplanadinpuisto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95082, 60.16714]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Indus",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95859, 60.16851]
+      },
+      "properties": {
+        "date": "2024-05-14",
+        "name": "Kanavaranta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
