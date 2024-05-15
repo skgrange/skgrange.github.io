@@ -42953,6 +42953,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.93367, 60.17268]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Parliament House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92482, 60.17298]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Temppeliaukio Church",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94367, 60.16885]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Aleksanterinkatu",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95226, 60.1696]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Senate Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95221, 60.17009]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Helsinki Cathedral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
