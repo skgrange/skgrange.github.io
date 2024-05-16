@@ -43013,6 +43013,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.95096, 60.17997]
+      },
+      "properties": {
+        "date": "2024-05-15",
+        "name": "Kirsikka",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.90017, 60.19148]
+      },
+      "properties": {
+        "date": "2024-05-16",
+        "name": "Meilahti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.88344, 60.19259]
+      },
+      "properties": {
+        "date": "2024-05-16",
+        "name": "Meilahdentie",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
