@@ -43073,6 +43073,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.96766, 60.20261]
+      },
+      "properties": {
+        "date": "2024-05-17",
+        "name": "Kauppakeskus Arabia",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94787, 60.22076]
+      },
+      "properties": {
+        "date": "2024-05-17",
+        "name": "Käpylä",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
