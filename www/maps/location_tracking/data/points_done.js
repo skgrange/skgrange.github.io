@@ -43049,6 +43049,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [24.94727, 60.17861]
+      },
+      "properties": {
+        "date": "2024-05-16",
+        "name": "Helsinki Congress Paasitorni",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95763, 60.15399]
+      },
+      "properties": {
+        "date": "2024-05-17",
+        "name": "Kaivopuisto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
