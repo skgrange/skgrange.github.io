@@ -43097,6 +43097,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.9293, 47.29102]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Hüebli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.95142, 47.29637]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Wolfsgrueb",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96751, 47.29063]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Schwarzenberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.97916, 47.29784]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Höchhand",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98016, 47.30064]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Vorder Färch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99264, 47.30235]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Hand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99665, 47.30407]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Habrüti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00089, 47.3091]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Hinter Chreuel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99514, 47.31519]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Schindelberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99077, 47.31794]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Schindelegg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.94852, 47.29442]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "Fälmis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.82425, 47.30537]
+      },
+      "properties": {
+        "date": "2024-05-19",
+        "name": "McDonald's",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
