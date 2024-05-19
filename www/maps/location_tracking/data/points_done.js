@@ -16433,6 +16433,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.98406, 47.31863]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Neurüti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98085, 47.3094]
+      },
+      "properties": {
+        "date": "2019-10-13",
+        "name": "Dägelsberger Wiesli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.96891, 47.30942]
       },
       "properties": {
