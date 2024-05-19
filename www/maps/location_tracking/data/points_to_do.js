@@ -1817,30 +1817,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.97918, 47.29776]
-      },
-      "properties": {
-        "date": "",
-        "name": "Höchhand",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.98171, 47.3151]
-      },
-      "properties": {
-        "date": "",
-        "name": "Dägelsberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.90336, 46.91924]
       },
       "properties": {
