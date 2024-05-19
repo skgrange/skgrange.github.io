@@ -1805,18 +1805,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.95347, 47.32057]
-      },
-      "properties": {
-        "date": "",
-        "name": "Beicher",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.90336, 46.91924]
       },
       "properties": {
