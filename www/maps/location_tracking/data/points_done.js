@@ -43265,6 +43265,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.53734, 47.5514]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Allschwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.50204, 47.53721]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Schönenbuch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.50955, 47.52861]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Schönenbuch-Neuwiller",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.47824, 47.5251]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Hagenthal-le-Bas",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4451, 47.5496]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Folgensbourg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.37259, 47.54768]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Muespach-le-Bas",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3154, 47.5525]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Waldighofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3006, 47.5637]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Grentzingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.32, 47.5864]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Willer",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4766, 47.6348]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Bartenheim",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.52665, 47.56155]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Hégenheim",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.53659, 47.55553]
+      },
+      "properties": {
+        "date": "2024-05-20",
+        "name": "Zoll/Douane Allschwil",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
