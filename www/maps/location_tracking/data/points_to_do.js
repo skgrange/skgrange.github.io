@@ -2069,18 +2069,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.98145, 47.5769]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hüttlingen",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.0227, 54.26638]
       },
       "properties": {

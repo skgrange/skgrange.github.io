@@ -43409,6 +43409,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.97764, 47.57764]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Hüttlingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98763, 47.55732]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Wachbüel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.98993, 47.5557]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Hessenbohl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99486, 47.56152]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Grubhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00045, 47.57112]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Harenwilen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.00504, 47.57975]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Eschikofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.99565, 47.58523]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Oberer Binnenkanal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.84188, 47.54554]
+      },
+      "properties": {
+        "date": "2024-05-25",
+        "name": "Islikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
