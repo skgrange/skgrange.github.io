@@ -43505,6 +43505,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.15167, 46.985]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Engi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.15492, 46.98719]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Mülibachtal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.16347, 47.00123]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Hatzgen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.16637, 47.00468]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Üblital",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.17009, 47.00817]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Steep track road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.18232, 47.00715]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Gams’s track fork",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.18362, 47.00585]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Gams",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.14456, 46.98486]
+      },
+      "properties": {
+        "date": "2024-05-26",
+        "name": "Engi Vorderdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
