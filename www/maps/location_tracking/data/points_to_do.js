@@ -2076,6 +2076,18 @@ var points_to_do = [{
         "name": "Pockley",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.01261, -44.74132]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gertrude Saddle",
+        "type": "To-do"
+      }
     }
   ]
 }];
