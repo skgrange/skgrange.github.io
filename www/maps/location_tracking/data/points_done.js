@@ -43613,6 +43613,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.83547, 47.39189]
+      },
+      "properties": {
+        "date": "2024-06-08",
+        "name": "Ravensbüel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8271, 47.39492]
+      },
+      "properties": {
+        "date": "2024-06-08",
+        "name": "Hermatswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78966, 47.38021]
+      },
+      "properties": {
+        "date": "2024-06-08",
+        "name": "Rickstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
