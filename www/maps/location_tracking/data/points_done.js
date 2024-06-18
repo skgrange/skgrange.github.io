@@ -43649,6 +43649,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.7874, 47.42971]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Neschwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.79436, 47.43612]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Rikonerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80231, 47.45152]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Unterlangenhard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.81155, 47.4565]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Oberlangenhard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.8177, 47.45481]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Gartenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
