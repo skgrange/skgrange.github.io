@@ -43709,6 +43709,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.56777, 47.53234]
+      },
+      "properties": {
+        "date": "2024-06-22",
+        "name": "Bütbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56192, 47.53231]
+      },
+      "properties": {
+        "date": "2024-06-22",
+        "name": "Buetberg Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55545, 47.53051]
+      },
+      "properties": {
+        "date": "2024-06-22",
+        "name": "Nussbaumen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
