@@ -43745,6 +43745,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.77706, 47.42264]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Leisibüel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77757, 47.41806]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Moos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80025, 47.41881]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Ludetswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80449, 47.41804]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Bläsimühle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80419, 47.42349]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Tobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.80418, 47.42663]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Tobel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.79964, 47.43521]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Tobelhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78249, 47.44101]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Haldenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.77934, 47.44007]
+      },
+      "properties": {
+        "date": "2024-06-23",
+        "name": "Dettenried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
