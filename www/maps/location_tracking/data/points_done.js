@@ -43649,6 +43649,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.77996, 47.42556]
+      },
+      "properties": {
+        "date": "2024-06-18",
+        "name": "Lendikon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.7874, 47.42971]
       },
       "properties": {
