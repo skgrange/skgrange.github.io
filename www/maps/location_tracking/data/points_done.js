@@ -43865,6 +43865,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.42104, 47.03052]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Fontanixerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.36336, 47.00727]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Schwendi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34355, 46.98944]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Weisstannen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.27089, 46.96777]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Walabütz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26446, 46.95745]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Isengrind viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26394, 46.94528]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Seez river crossing",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26039, 46.94449]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Alp Foo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.23816, 46.94279]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Foo Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.23769, 46.94384]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Unnamed peak",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.41897, 47.04675]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Mels",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.26712, 47.11334]
+      },
+      "properties": {
+        "date": "2024-06-28",
+        "name": "Nord Bergsboden services",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
