@@ -43997,6 +43997,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.81974, 47.22865]
+      },
+      "properties": {
+        "date": "2024-06-30",
+        "name": "Steiner Beck",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
