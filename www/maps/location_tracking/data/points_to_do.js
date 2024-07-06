@@ -1949,18 +1949,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.29812, 46.94154]
-      },
-      "properties": {
-        "date": "",
-        "name": "Heubützlipass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.90979, 46.86084]
       },
       "properties": {

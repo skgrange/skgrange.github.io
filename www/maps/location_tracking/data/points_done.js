@@ -43997,12 +43997,84 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.48509, 46.96191]
+      },
+      "properties": {
+        "date": "2024-06-29",
+        "name": "Aussichtspunkt Windegg",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.81974, 47.22865]
       },
       "properties": {
         "date": "2024-06-30",
         "name": "Steiner Beck",
         "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.39502, 46.91211]
+      },
+      "properties": {
+        "date": "2024-07-06",
+        "name": "Gigerwald Staudamm track road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.30097, 46.93105]
+      },
+      "properties": {
+        "date": "2024-07-06",
+        "name": "Gamserälpli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.29854, 46.94083]
+      },
+      "properties": {
+        "date": "2024-07-06",
+        "name": "Vordere Chrazeri",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.29811, 46.94153]
+      },
+      "properties": {
+        "date": "2024-07-06",
+        "name": "Heubützlipass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.31041, 46.94349]
+      },
+      "properties": {
+        "date": "2024-07-06",
+        "name": "Plattenseeli",
+        "type": "Attraction"
       }
     },
     {
