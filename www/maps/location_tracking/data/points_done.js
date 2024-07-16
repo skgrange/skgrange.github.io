@@ -44237,6 +44237,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.81352, 54.41519]
+      },
+      "properties": {
+        "date": "2024-07-16",
+        "name": "Smith’s Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.78297, 54.43027]
+      },
+      "properties": {
+        "date": "2024-07-16",
+        "name": "Delves",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7804, 54.43076]
+      },
+      "properties": {
+        "date": "2024-07-16",
+        "name": "Delves Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.76632, 54.4356]
+      },
+      "properties": {
+        "date": "2024-07-16",
+        "name": "The Horseshoe Hotel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.76141, 54.43604]
+      },
+      "properties": {
+        "date": "2024-07-16",
+        "name": "Egton Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
