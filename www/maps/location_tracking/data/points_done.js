@@ -44297,6 +44297,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.21303, 54.02192]
+      },
+      "properties": {
+        "date": "2024-07-18",
+        "name": "Beningbrough Hall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.22086, 54.03277]
+      },
+      "properties": {
+        "date": "2024-07-18",
+        "name": "Newton-on-Ouse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14865, 53.98489]
+      },
+      "properties": {
+        "date": "2024-07-18",
+        "name": "The Lemon Tree",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.82478, 54.45818]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Lealholm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.85314, 54.44723]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Great Fryup Dale (road)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93865, 54.44745]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Cornforths Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.82513, 54.45879]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Beck View Tea Rooms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.88748, 54.43256]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Nuns Green Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.89145, 54.46005]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "River Esk Ford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.95116, 54.43524]
+      },
+      "properties": {
+        "date": "2024-07-19",
+        "name": "Brye Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
