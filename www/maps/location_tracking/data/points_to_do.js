@@ -881,18 +881,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.8411, 54.3443]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hartoft",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-0.80753, 54.33443]
       },
       "properties": {
