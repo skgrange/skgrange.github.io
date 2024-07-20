@@ -689,18 +689,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.116667, 54.2575]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rievaulx Abbey",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-2.040439, 54.10618]
       },
       "properties": {
@@ -874,18 +862,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Woolsthorpe Manor",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-0.80753, 54.33443]
-      },
-      "properties": {
-        "date": "",
-        "name": "High Muffles",
         "type": "To-do"
       }
     },
