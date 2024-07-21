@@ -44441,6 +44441,210 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.83844, 54.29199]
+      },
+      "properties": {
+        "date": "2024-07-20",
+        "name": "Cropton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.78937, 54.30371]
+      },
+      "properties": {
+        "date": "2024-07-20",
+        "name": "Low Moor Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.76421, 54.43304]
+      },
+      "properties": {
+        "date": "2024-07-20",
+        "name": "Key Green",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.85543, 54.38295]
+      },
+      "properties": {
+        "date": "2024-07-20",
+        "name": "Hamer House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79955, 54.13535]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Market Place",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.87291, 54.08298]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Kirkham",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.85003, 54.07834]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Westow",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.77749, 53.93152]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "WHISK",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7289, 53.90677]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Burnby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.70767, 53.92222]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Nunburnholme",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.57652, 53.95742]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "North Dalton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.57773, 54.01953]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Wetwang",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.61741, 54.09585]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Kirby Grindalythe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.67553, 54.1237]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Settrington Beacon",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7257, 54.1254]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Settrington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.79647, 54.13223]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Asda",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.78947, 54.13191]
+      },
+      "properties": {
+        "date": "2024-07-21",
+        "name": "Ocean Hand Car Wash",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
