@@ -677,18 +677,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.330445, 53.73891]
-      },
-      "properties": {
-        "date": "",
-        "name": "The Deep",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-2.040439, 54.10618]
       },
       "properties": {
@@ -874,18 +862,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Ramsgill",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-0.53139, 53.89574]
-      },
-      "properties": {
-        "date": "",
-        "name": "South Dalton",
         "type": "To-do"
       }
     },
