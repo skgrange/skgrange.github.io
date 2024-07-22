@@ -44669,6 +44669,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.02293, 54.26589]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Pockley",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.05612, 54.24738]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Bata",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0068, 54.23054]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Harome",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.97456, 54.24677]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Wombleton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.92972, 54.26655]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Co-Op",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
