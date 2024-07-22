@@ -44681,18 +44681,6 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.05612, 54.24738]
-      },
-      "properties": {
-        "date": "2024-07-22",
-        "name": "Bata",
-        "type": "Fuel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-1.0068, 54.23054]
       },
       "properties": {
