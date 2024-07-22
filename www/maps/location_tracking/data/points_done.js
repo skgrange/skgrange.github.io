@@ -44645,6 +44645,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.945, 54.3291]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Daleside Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.00042, 54.3872]
+      },
+      "properties": {
+        "date": "2024-07-22",
+        "name": "Lendersfield House",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
