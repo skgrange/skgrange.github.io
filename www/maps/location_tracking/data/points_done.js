@@ -44717,6 +44717,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.9603, 54.51434]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Smeathorns Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.63528, 54.31399]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Killington Lake Services",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.03108, 54.41592]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "A593",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1034, 54.33806]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Torver Deli",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.12641, 54.33077]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Old Rake",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1962, 54.3057]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Broughton Mills",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.20902, 54.32903]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Kiln Bank Cross",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.50114, 54.51875]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5008, 54.52049]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Morrisons",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
