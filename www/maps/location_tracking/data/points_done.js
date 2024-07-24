@@ -44825,6 +44825,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.35441, 54.50915]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Yarm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.06383, 54.47619]
+      },
+      "properties": {
+        "date": "2024-07-24",
+        "name": "Kildale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
