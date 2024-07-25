@@ -44849,6 +44849,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.04736, 53.98779]
+      },
+      "properties": {
+        "date": "2024-07-25",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.77826, 54.24616]
+      },
+      "properties": {
+        "date": "2024-07-25",
+        "name": "Capplemans",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
