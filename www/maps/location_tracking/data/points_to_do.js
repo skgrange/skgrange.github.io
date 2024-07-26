@@ -869,30 +869,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.30744, 54.33297]
-      },
-      "properties": {
-        "date": "",
-        "name": "Over Stilton",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-1.30066, 54.3246]
-      },
-      "properties": {
-        "date": "",
-        "name": "Nether Stilton",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-0.65908, 54.31095]
       },
       "properties": {
@@ -1666,18 +1642,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Griesalp",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-1.27469, 54.39281]
-      },
-      "properties": {
-        "date": "",
-        "name": "Scarth Nick",
         "type": "To-do"
       }
     },

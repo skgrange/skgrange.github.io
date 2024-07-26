@@ -44873,6 +44873,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.23681, 54.42148]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Faceby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.26727, 54.41362]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Swainby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.27473, 54.39276]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Scarth Nick",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1624, 54.30189]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Easterside Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.30749, 54.33266]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Over Stilton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.30235, 54.32471]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Nether Stilton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.01724, 54.24985]
+      },
+      "properties": {
+        "date": "2024-07-26",
+        "name": "Bedlam Grange",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
