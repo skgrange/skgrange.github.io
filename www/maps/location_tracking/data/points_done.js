@@ -44957,6 +44957,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.88896, 54.29957]
+      },
+      "properties": {
+        "date": "2024-07-27",
+        "name": "Spaunton",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
