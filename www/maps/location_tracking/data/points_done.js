@@ -44969,6 +44969,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.89025, 54.36628]
+      },
+      "properties": {
+        "date": "2024-07-27",
+        "name": "Hanging Stones Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1488, 51.52415]
+      },
+      "properties": {
+        "date": "2024-07-28",
+        "name": "Townsend Farmhouse",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
