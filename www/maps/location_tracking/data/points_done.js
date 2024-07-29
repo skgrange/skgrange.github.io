@@ -45053,6 +45053,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.95925, 51.45721]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.08609, 51.48445]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Pangbourne’s Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
