@@ -44993,6 +44993,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.91283, 51.47525]
+      },
+      "properties": {
+        "date": "2024-07-28",
+        "name": "Coppa Club",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0914, 51.5846]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Cart Gap",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0579, 51.5594]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Berins Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0437, 51.54233]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Checkendon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14382, 51.52398]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Coppa Club",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
