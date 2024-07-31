@@ -45077,6 +45077,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-1.18762, 51.51404]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Westridge Green",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.19721, 51.51163]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Aldworth",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.16096, 51.50311]
+      },
+      "properties": {
+        "date": "2024-07-29",
+        "name": "Old Hook Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14009, 51.52308]
+      },
+      "properties": {
+        "date": "2024-07-30",
+        "name": "Pierreponts",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.03953, 51.27374]
+      },
+      "properties": {
+        "date": "2024-07-30",
+        "name": "Clacket Lane Services",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.42508, 48.59119]
+      },
+      "properties": {
+        "date": "2024-07-31",
+        "name": "Aire de Vitrimont",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
