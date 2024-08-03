@@ -45149,6 +45149,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.55079, 47.35968]
+      },
+      "properties": {
+        "date": "2024-08-03",
+        "name": "The Monocle Café",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
