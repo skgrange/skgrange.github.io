@@ -45161,6 +45161,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.80497, 47.55932]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "Flossländeweg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.79712, 47.5565]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "Stadtpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.79555, 47.55545]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "Storchentorturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.791722, 47.55507]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "MundArt Philanina",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7893, 47.55548]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "Alte Rheinbrücke Rheinfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.80083, 47.56178]
+      },
+      "properties": {
+        "date": "2024-08-04",
+        "name": "Rheinweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
