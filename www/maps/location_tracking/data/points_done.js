@@ -45233,6 +45233,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.54974, 47.36565]
+      },
+      "properties": {
+        "date": "2024-08-06",
+        "name": "Elisabeth Aschl Praxis",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54217, 47.37673]
+      },
+      "properties": {
+        "date": "2024-08-06",
+        "name": "Coop",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
