@@ -45257,6 +45257,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.53921, 47.50837]
+      },
+      "properties": {
+        "date": "2024-08-07",
+        "name": "Auto Waschplatz",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
