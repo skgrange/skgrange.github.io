@@ -45269,6 +45269,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.40006, 46.73458]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Bäregg Feldmoos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58733, 46.66765]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Göschenen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.58389, 46.65419]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Cycleway on top of the avalanche galleries",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5903, 46.64736]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Teufelsbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.59654, 46.63326]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Toutoune",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.56781, 46.61889]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Hospental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
