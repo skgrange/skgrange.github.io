@@ -45269,6 +45269,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.16862, 46.73569]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Hüsen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.18628, 46.72786]
+      },
+      "properties": {
+        "date": "2024-08-10",
+        "name": "Meiringen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.40006, 46.73458]
       },
       "properties": {
