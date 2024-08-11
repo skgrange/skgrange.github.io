@@ -1968,6 +1968,18 @@ var points_to_do = [{
         "name": "Gertrude Saddle",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.98452, 50.59625]
+      },
+      "properties": {
+        "date": "",
+        "name": "Highwood Pass",
+        "type": "To-do"
+      }
     }
   ]
 }];
