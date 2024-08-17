@@ -45389,6 +45389,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5276, 47.37592]
+      },
+      "properties": {
+        "date": "2024-08-17",
+        "name": "The Yard",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
