@@ -45377,6 +45377,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.53808, 47.36815]
+      },
+      "properties": {
+        "date": "2024-08-17",
+        "name": "Schanzengraben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
