@@ -45413,6 +45413,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.517172, 47.17348]
+      },
+      "properties": {
+        "date": "2024-08-24",
+        "name": "Starbucks",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.517065, 47.17265]
+      },
+      "properties": {
+        "date": "2024-08-24",
+        "name": "Metalli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.516421, 47.17126]
+      },
+      "properties": {
+        "date": "2024-08-24",
+        "name": "Neustadt Passage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.513503, 47.17031]
+      },
+      "properties": {
+        "date": "2024-08-24",
+        "name": "Katastrophen-Bucht",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
