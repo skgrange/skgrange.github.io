@@ -45461,6 +45461,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.5482, 47.37035]
+      },
+      "properties": {
+        "date": "2024-08-28",
+        "name": "Kunsthaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.550555, 47.37333]
+      },
+      "properties": {
+        "date": "2024-08-28",
+        "name": "Rechtswissenschaftliche Bibliothek",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
