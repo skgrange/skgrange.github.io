@@ -45485,6 +45485,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.767034, 47.36384]
+      },
+      "properties": {
+        "date": "2024-08-29",
+        "name": "Il Borgo - Pizzeria Napoletana",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
