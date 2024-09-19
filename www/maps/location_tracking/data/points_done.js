@@ -45521,6 +45521,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.68952, 47.3926]
+      },
+      "properties": {
+        "date": "2024-09-17",
+        "name": "Huzlenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.684789, 47.3994]
+      },
+      "properties": {
+        "date": "2024-09-17",
+        "name": "Langacher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.681924, 47.40226]
+      },
+      "properties": {
+        "date": "2024-09-17",
+        "name": "Bergweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
