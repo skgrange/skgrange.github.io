@@ -45557,6 +45557,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.548423, 47.37923]
+      },
+      "properties": {
+        "date": "2024-09-20",
+        "name": "ETH Zürich",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.826474, 47.40695]
+      },
+      "properties": {
+        "date": "2024-09-20",
+        "name": "Schalchen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.838876, 47.41269]
+      },
+      "properties": {
+        "date": "2024-09-20",
+        "name": "Loch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
