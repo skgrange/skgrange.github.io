@@ -45593,6 +45593,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.853666, 47.18745]
+      },
+      "properties": {
+        "date": "2024-09-22",
+        "name": "Hofstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.851692, 47.19376]
+      },
+      "properties": {
+        "date": "2024-09-22",
+        "name": "Lachen Hafen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.852695, 47.19396]
+      },
+      "properties": {
+        "date": "2024-09-22",
+        "name": "Steiner Beck",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
