@@ -45629,6 +45629,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.969733, 47.17254]
+      },
+      "properties": {
+        "date": "2024-09-25",
+        "name": "Gewerbestrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.968583, 47.17215]
+      },
+      "properties": {
+        "date": "2024-09-25",
+        "name": "Autohaus Zürichsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.900388, 47.18286]
+      },
+      "properties": {
+        "date": "2024-09-25",
+        "name": "Siebnen-Wangen",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
