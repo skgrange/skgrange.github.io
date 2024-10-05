@@ -45665,6 +45665,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.7699, -35.32115]
+      },
+      "properties": {
+        "date": "2024-10-05",
+        "name": "Kiwi Kai",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
