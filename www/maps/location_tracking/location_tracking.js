@@ -44,5 +44,7 @@ L.control.layers(base_maps, overlay_maps).addTo(map);
 // map.fitBounds(bounds);
 
 // Empa
-map.setView(new L.LatLng(47.4032, 8.61093), 14);
+// map.setView(new L.LatLng(47.4032, 8.61093), 14);
 
+// Kerikeri
+map.setView(new L.LatLng(-35.227668, 173.948749), 14);
