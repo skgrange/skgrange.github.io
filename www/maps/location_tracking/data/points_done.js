@@ -45689,6 +45689,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9404, -35.23772]
+      },
+      "properties": {
+        "date": "2024-10-08",
+        "name": "Chaining Views P",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9338, -35.25715]
+      },
+      "properties": {
+        "date": "2024-10-08",
+        "name": "Canopy Imaging",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
