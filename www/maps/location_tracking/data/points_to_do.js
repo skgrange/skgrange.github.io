@@ -1980,6 +1980,90 @@ var points_to_do = [{
         "name": "Highwood Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.794087, -35.15801]
+      },
+      "properties": {
+        "date": "",
+        "name": "Waiare Road",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.38801, -35.53453]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ōmāpere",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.868599, -35.94125]
+      },
+      "properties": {
+        "date": "",
+        "name": "Dargaville",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.743959, -35.94953]
+      },
+      "properties": {
+        "date": "",
+        "name": "Baylys Beach",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.906547, -35.76587]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tangowahine Valley Road",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.831289, -35.54647]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mangakahia Road",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.207636, -35.75531]
+      },
+      "properties": {
+        "date": "",
+        "name": "Maungatapere",
+        "type": "To-do"
+      }
     }
   ]
 }];
