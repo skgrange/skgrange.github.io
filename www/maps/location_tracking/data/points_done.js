@@ -45749,6 +45749,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.6487, -35.45962]
+      },
+      "properties": {
+        "date": "2024-10-13",
+        "name": "Taheke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.5874, -35.48838]
+      },
+      "properties": {
+        "date": "2024-10-13",
+        "name": "Waimā",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.505, -35.39254]
+      },
+      "properties": {
+        "date": "2024-10-13",
+        "name": "A New Era Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
