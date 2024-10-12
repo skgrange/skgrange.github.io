@@ -45713,6 +45713,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8511, -35.12003]
+      },
+      "properties": {
+        "date": "2024-10-12",
+        "name": "Matauri Bay-SH10 parking area",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7911, -35.04378]
+      },
+      "properties": {
+        "date": "2024-10-12",
+        "name": "Matangirau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8212, -35.0171]
+      },
+      "properties": {
+        "date": "2024-10-12",
+        "name": "Radar Heights",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
