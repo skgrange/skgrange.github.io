@@ -45941,6 +45941,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.7684, -36.85337]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Science Centre (Building 302)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [174.4435, -36.16364]
       },
       "properties": {
