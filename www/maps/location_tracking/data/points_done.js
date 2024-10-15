@@ -45785,6 +45785,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.5074, -36.03009]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Cove Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5914, -36.11285]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Shipwreck Way",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5897, -36.08955]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Alamar Crescent",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5927, -36.06853]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Mangawhai Heads beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5915, -36.11545]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Estuary Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5921, -36.11631]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Unnamed trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5637, -36.09412]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Cove Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5527, -36.12185]
+      },
+      "properties": {
+        "date": "2024-10-14",
+        "name": "Tara Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6957, -36.58456]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Marine View",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6981, -36.6066]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Red Beach Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7424, -36.62689]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Stanmore Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7843, -36.61079]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Gulf Harbour Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8034, -36.60585]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Shakespear Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.4435, -36.16364]
+      },
+      "properties": {
+        "date": "2024-10-15",
+        "name": "Gull",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
