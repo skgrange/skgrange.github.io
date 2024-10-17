@@ -45965,6 +45965,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8296, -35.28269]
+      },
+      "properties": {
+        "date": "2024-10-17",
+        "name": "Ōkaihau Golf Club",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8043, -35.3119]
+      },
+      "properties": {
+        "date": "2024-10-17",
+        "name": "Wehirua Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7377, -35.33268]
+      },
+      "properties": {
+        "date": "2024-10-17",
+        "name": "Horeke Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7099, -35.34215]
+      },
+      "properties": {
+        "date": "2024-10-17",
+        "name": "Horeke Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9369, -35.24641]
+      },
+      "properties": {
+        "date": "2024-10-17",
+        "name": "The Old Packhouse Market",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
