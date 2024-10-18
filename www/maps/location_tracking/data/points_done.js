@@ -46025,6 +46025,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.6171, -35.33616]
+      },
+      "properties": {
+        "date": "2024-10-18",
+        "name": "Rangiahua Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.5907, -35.35608]
+      },
+      "properties": {
+        "date": "2024-10-18",
+        "name": "Horeke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9197, -35.31284]
+      },
+      "properties": {
+        "date": "2024-10-18",
+        "name": "Te Ahu Ahu Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
