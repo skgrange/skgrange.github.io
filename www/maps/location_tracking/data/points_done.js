@@ -45665,6 +45665,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.0267, -35.20931]
+      },
+      "properties": {
+        "date": "2024-10-04",
+        "name": "Windsor Landing",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.7699, -35.32115]
       },
       "properties": {
