@@ -46049,6 +46049,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.4884, -35.19653]
+      },
+      "properties": {
+        "date": "2024-10-18",
+        "name": "SH1 road closure point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.9197, -35.31284]
       },
       "properties": {
