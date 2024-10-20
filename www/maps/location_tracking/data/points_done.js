@@ -46085,6 +46085,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.5096, -34.9916]
+      },
+      "properties": {
+        "date": "2024-10-19",
+        "name": "Beach Box",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.1683, -35.03972]
+      },
+      "properties": {
+        "date": "2024-10-19",
+        "name": "Waipapakauri Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
