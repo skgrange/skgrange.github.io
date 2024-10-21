@@ -46109,6 +46109,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.3272, -35.73132]
+      },
+      "properties": {
+        "date": "2024-10-21",
+        "name": "Kmart",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.3198, -35.72892]
+      },
+      "properties": {
+        "date": "2024-10-21",
+        "name": "Spotlight",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.3192, -35.7293]
+      },
+      "properties": {
+        "date": "2024-10-21",
+        "name": "Reduced to Clear",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
