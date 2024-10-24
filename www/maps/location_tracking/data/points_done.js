@@ -46145,6 +46145,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.349, -34.89928]
+      },
+      "properties": {
+        "date": "2024-10-23",
+        "name": "Lake Waiporohita",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.2937, -34.87915]
+      },
+      "properties": {
+        "date": "2024-10-23",
+        "name": "Rangiputa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.3725, -34.88185]
+      },
+      "properties": {
+        "date": "2024-10-23",
+        "name": "Tokerau Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.3907, -34.87524]
+      },
+      "properties": {
+        "date": "2024-10-23",
+        "name": "Parakerake Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.3827, -34.8603]
+      },
+      "properties": {
+        "date": "2024-10-23",
+        "name": "Carrington Estate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
