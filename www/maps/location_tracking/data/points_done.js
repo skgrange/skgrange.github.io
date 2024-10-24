@@ -46205,6 +46205,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.1186, -35.30861]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Opua-Okiato vehicle ferry",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1204, -35.3027]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Okiato",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1492, -35.28713]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Orongo Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1268, -35.26616]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Matauwhi Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.12, -35.25489]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Flagstaff Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1209, -35.25555]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Maiki Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1201, -35.24603]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Tapeka",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1214, -35.26171]
+      },
+      "properties": {
+        "date": "2024-10-25",
+        "name": "Seaside",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
