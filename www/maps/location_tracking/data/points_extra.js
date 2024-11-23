@@ -137,6 +137,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [169.00158, -46.67428]
+      },
+      "properties": {
+        "date": "2007-03-31",
+        "name": "Slope Point",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [169.09802, -46.6616]
       },
       "properties": {
@@ -154,6 +166,18 @@ var points_extra = [{
       "properties": {
         "date": "2007-04-22",
         "name": "Camp Iona",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.408232, 33.94291]
+      },
+      "properties": {
+        "date": "2007-06-24",
+        "name": "Los Angeles Airport",
         "type": "Extra"
       }
     },
@@ -214,6 +238,18 @@ var points_extra = [{
       "properties": {
         "date": "2009-10-20",
         "name": "München Haputbahnhof",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.362659, 25.25002]
+      },
+      "properties": {
+        "date": "2009-10-20",
+        "name": "Dubai airport",
         "type": "Extra"
       }
     },
@@ -425,6 +461,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [11.885515, 47.70263]
+      },
+      "properties": {
+        "date": "2009-10-25",
+        "name": "Slyrs Destillerie",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.910636, 50.82317]
       },
       "properties": {
@@ -521,11 +569,83 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.992803, 53.55058]
+      },
+      "properties": {
+        "date": "2009-11-04",
+        "name": "Hamburg Rathaus",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.967613, 53.59896]
+      },
+      "properties": {
+        "date": "2009-11-06",
+        "name": "Höxterstrasse",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.976162, 53.57753]
+      },
+      "properties": {
+        "date": "2009-11-06",
+        "name": "Hoheluftbrücke",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.971527, 53.58377]
+      },
+      "properties": {
+        "date": "2009-11-06",
+        "name": "Heider Straße",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.958024, 53.54958]
+      },
+      "properties": {
+        "date": "2009-11-06",
+        "name": "Reeperbahn",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [9.988545, 53.54365]
       },
       "properties": {
         "date": "2009-11-09",
         "name": "Miniatur Wunderland",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.974498, 53.60136]
+      },
+      "properties": {
+        "date": "2009-11-10",
+        "name": "Media Markt ",
         "type": "Extra"
       }
     },
@@ -857,6 +977,42 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.35, 52.51444]
+      },
+      "properties": {
+        "date": "2009-11-19",
+        "name": "Siegessäule ",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.335, 52.505]
+      },
+      "properties": {
+        "date": "2009-11-19",
+        "name": "Kaiser-Wilhelm-Gedächtniskirche",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.394722, 52.51583]
+      },
+      "properties": {
+        "date": "2009-11-19",
+        "name": "Sankt-Hedwigs-Kathedrale",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-8.574547, 52.66876]
       },
       "properties": {
@@ -1109,6 +1265,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.728795, 52.00483]
+      },
+      "properties": {
+        "date": "2009-12-13",
+        "name": "Milton Keynes",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [10.22424, 48.61746]
       },
       "properties": {
@@ -1217,6 +1385,54 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [10.873897, 48.04745]
+      },
+      "properties": {
+        "date": "2010-01-02",
+        "name": "Landsberg am Lech",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.987146, 51.5398]
+      },
+      "properties": {
+        "date": "2010-01-07",
+        "name": "Sonnenbreite",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.93495, 51.5327]
+      },
+      "properties": {
+        "date": "2010-01-07",
+        "name": "Gänseliesel",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.996112, 51.70543]
+      },
+      "properties": {
+        "date": "2010-01-10",
+        "name": "Northeim",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [9.684252, 47.54467]
       },
       "properties": {
@@ -1253,6 +1469,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [151.164826, -33.93965]
+      },
+      "properties": {
+        "date": "2010-01-20",
+        "name": "Sydney airport",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.52709, -35.60097]
       },
       "properties": {
@@ -1270,6 +1498,18 @@ var points_extra = [{
       "properties": {
         "date": "2013-05-30",
         "name": "Tower Hamlets",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.123057, -27.38645]
+      },
+      "properties": {
+        "date": "2013-05-30",
+        "name": "Brisbane airport",
         "type": "Extra"
       }
     },
@@ -1469,6 +1709,30 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.812058, 53.08216]
+      },
+      "properties": {
+        "date": "2013-06-10",
+        "name": "Bremen Hauptbahnhof",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.213441, 53.13908]
+      },
+      "properties": {
+        "date": "2013-06-10",
+        "name": "Degodehaus",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [11.568084, 47.68422]
       },
       "properties": {
@@ -1661,11 +1925,71 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [144.955886, -37.82687]
+      },
+      "properties": {
+        "date": "2013-06-28",
+        "name": "Southbank",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [144.951398, -37.81878]
       },
       "properties": {
         "date": "2013-06-28",
         "name": "Southern Cross Station",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.963045, -37.82247]
+      },
+      "properties": {
+        "date": "2013-06-28",
+        "name": "L.E.K. Consulting",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.967052, -37.81782]
+      },
+      "properties": {
+        "date": "2013-06-29",
+        "name": "Flinders Street Station",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.977209, -37.83187]
+      },
+      "properties": {
+        "date": "2013-06-30",
+        "name": "Melbourne Botanical Gardens",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.916507, 22.30761]
+      },
+      "properties": {
+        "date": "2016-12-09",
+        "name": "Hong Kong airport",
         "type": "Extra"
       }
     },
@@ -2045,318 +2369,6 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.967613, 53.59896]
-      },
-      "properties": {
-        "date": "",
-        "name": "Höxterstrasse",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.976162, 53.57753]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hoheluftbrücke",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.971527, 53.58377]
-      },
-      "properties": {
-        "date": "",
-        "name": "Heider Straße",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.958024, 53.54958]
-      },
-      "properties": {
-        "date": "",
-        "name": "Reeperbahn",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.992803, 53.55058]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hamburg Rathaus",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.974498, 53.60136]
-      },
-      "properties": {
-        "date": "",
-        "name": "Media Markt ",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.812058, 53.08216]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bremen Hauptbahnhof",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.213441, 53.13908]
-      },
-      "properties": {
-        "date": "",
-        "name": "Degodehaus",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-0.728795, 52.00483]
-      },
-      "properties": {
-        "date": "",
-        "name": "Milton Keynes",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.35, 52.51444]
-      },
-      "properties": {
-        "date": "",
-        "name": "Siegessäule ",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.335, 52.505]
-      },
-      "properties": {
-        "date": "",
-        "name": "Kaiser-Wilhelm-Gedächtniskirche",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.394722, 52.51583]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sankt-Hedwigs-Kathedrale",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [11.885515, 47.70263]
-      },
-      "properties": {
-        "date": "",
-        "name": "Slyrs Destillerie",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.873897, 48.04745]
-      },
-      "properties": {
-        "date": "",
-        "name": "Landsberg am Lech",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.987146, 51.5398]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sonnenbreite",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.93495, 51.5327]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gänseliesel",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.996112, 51.70543]
-      },
-      "properties": {
-        "date": "",
-        "name": "Northeim",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [113.916507, 22.30761]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hong Kong airport",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [55.362659, 25.25002]
-      },
-      "properties": {
-        "date": "",
-        "name": "Dubai airport",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [151.164826, -33.93965]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sydney airport",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.123057, -27.38645]
-      },
-      "properties": {
-        "date": "",
-        "name": "Brisbane airport",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [144.955886, -37.82687]
-      },
-      "properties": {
-        "date": "",
-        "name": "Southbank",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [144.963045, -37.82247]
-      },
-      "properties": {
-        "date": "",
-        "name": "L.E.K. Consulting",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [144.967052, -37.81782]
-      },
-      "properties": {
-        "date": "",
-        "name": "Flinders Street Station",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [144.977209, -37.83187]
-      },
-      "properties": {
-        "date": "",
-        "name": "Melbourne Botanical Gardens",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.408232, 33.94291]
-      },
-      "properties": {
-        "date": "",
-        "name": "Los Angeles Airport",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [167.9817, -44.7642]
       },
       "properties": {
@@ -2398,18 +2410,6 @@ var points_extra = [{
       "properties": {
         "date": "",
         "name": "Stirling Point",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [169.00158, -46.67428]
-      },
-      "properties": {
-        "date": "",
-        "name": "Slope Point",
         "type": "Extra"
       }
     },
