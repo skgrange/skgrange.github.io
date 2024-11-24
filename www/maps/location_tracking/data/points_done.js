@@ -47069,6 +47069,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9042, -35.19357]
+      },
+      "properties": {
+        "date": "2024-11-24",
+        "name": "Riverstream Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9069, -35.19452]
+      },
+      "properties": {
+        "date": "2024-11-24",
+        "name": "Riverstream Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8987, -35.203]
+      },
+      "properties": {
+        "date": "2024-11-24",
+        "name": "Koropewa Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9, -35.1848]
+      },
+      "properties": {
+        "date": "2024-11-24",
+        "name": "Waipapa West Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8802, -35.17519]
+      },
+      "properties": {
+        "date": "2024-11-24",
+        "name": "Ness Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
