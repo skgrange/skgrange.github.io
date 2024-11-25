@@ -47129,6 +47129,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9971, -35.22684]
+      },
+      "properties": {
+        "date": "2024-11-25",
+        "name": "Te Wairoa Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0277, -35.25275]
+      },
+      "properties": {
+        "date": "2024-11-25",
+        "name": "Te Puke Junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0702, -35.25319]
+      },
+      "properties": {
+        "date": "2024-11-25",
+        "name": "Waitangi Mountain Bike Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0703, -35.25717]
+      },
+      "properties": {
+        "date": "2024-11-25",
+        "name": "Bayly Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

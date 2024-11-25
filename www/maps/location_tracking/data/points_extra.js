@@ -221,6 +221,54 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.87702, -41.20231]
+      },
+      "properties": {
+        "date": "2007-11-25",
+        "name": "Ngātīmoti",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.89536, -41.23106]
+      },
+      "properties": {
+        "date": "2007-11-25",
+        "name": "Orinoco",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.82185, -41.2606]
+      },
+      "properties": {
+        "date": "2007-11-25",
+        "name": "Woodstock",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.747339, -41.19033]
+      },
+      "properties": {
+        "date": "2007-11-25",
+        "name": "Flora Saddle car park",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [10.710538, 48.03566]
       },
       "properties": {
