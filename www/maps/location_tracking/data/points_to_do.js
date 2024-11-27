@@ -1865,18 +1865,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.57437, -35.76971]
-      },
-      "properties": {
-        "date": "",
-        "name": "Aranga Beach",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.92375, -35.92269]
       },
       "properties": {
@@ -1954,18 +1942,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Mangakahia Road",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.974916, -36.0573]
-      },
-      "properties": {
-        "date": "",
-        "name": "Tokatoka",
         "type": "To-do"
       }
     }
