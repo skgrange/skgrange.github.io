@@ -1932,6 +1932,42 @@ var points_to_do = [{
         "name": "Highwood Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.802187, -35.76]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tutamoe",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.562537, -35.75797]
+      },
+      "properties": {
+        "date": "",
+        "name": "Maunganui",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.82324, -35.8104]
+      },
+      "properties": {
+        "date": "",
+        "name": "Tongariro",
+        "type": "To-do"
+      }
     }
   ]
 }];
