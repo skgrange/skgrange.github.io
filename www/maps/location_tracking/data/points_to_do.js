@@ -1932,18 +1932,6 @@ var points_to_do = [{
         "name": "Highwood Pass",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.831289, -35.54647]
-      },
-      "properties": {
-        "date": "",
-        "name": "Mangakahia Road",
-        "type": "To-do"
-      }
     }
   ]
 }];

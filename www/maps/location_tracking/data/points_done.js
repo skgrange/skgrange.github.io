@@ -46985,6 +46985,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8313, -35.54647]
+      },
+      "properties": {
+        "date": "2024-11-15",
+        "name": "Mangakahia Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.8467, -35.62377]
       },
       "properties": {
