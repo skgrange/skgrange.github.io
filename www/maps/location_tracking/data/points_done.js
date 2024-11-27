@@ -47177,6 +47177,198 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.371, -35.53744]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Signal Station Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.5227, -35.58884]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Waipoua Forest entrance",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.6962, -35.76988]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Kaihu",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.6627, -35.80916]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Pine Beach & Lake Taharoa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.6274, -35.8016]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Lake Waikere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7429, -35.95001]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Baylys Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8663, -35.94472]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Kahu River Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8841, -35.93937]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Northern Wairoa River Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9329, -36.01454]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Mititai",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9767, -36.02049]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Maungaraho Rock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9761, -36.02133]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Maungaraho",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9749, -36.05729]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Tokatoka",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9673, -36.0587]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Tokatoka",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.87, -35.94084]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Moa Bakery & Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.933, -35.86807]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Tangowahine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9254, -35.82717]
+      },
+      "properties": {
+        "date": "2024-11-27",
+        "name": "Tangowahine Valley Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

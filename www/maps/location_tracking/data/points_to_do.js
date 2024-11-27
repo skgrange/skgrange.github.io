@@ -1877,18 +1877,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.6379, -35.8054]
-      },
-      "properties": {
-        "date": "",
-        "name": "Kai Iwi Lakes",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.92375, -35.92269]
       },
       "properties": {
@@ -1954,54 +1942,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Highwood Pass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.794087, -35.15801]
-      },
-      "properties": {
-        "date": "",
-        "name": "Waiare Road",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.868599, -35.94125]
-      },
-      "properties": {
-        "date": "",
-        "name": "Dargaville",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.743959, -35.94953]
-      },
-      "properties": {
-        "date": "",
-        "name": "Baylys Beach",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.906547, -35.76587]
-      },
-      "properties": {
-        "date": "",
-        "name": "Tangowahine Valley Road",
         "type": "To-do"
       }
     },
