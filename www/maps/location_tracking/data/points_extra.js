@@ -269,6 +269,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.869117, -40.83398]
+      },
+      "properties": {
+        "date": "2007-11-29",
+        "name": "Sunflower Motel",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [10.710538, 48.03566]
       },
       "properties": {
