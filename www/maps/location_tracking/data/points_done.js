@@ -47381,6 +47381,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8751, -35.32288]
+      },
+      "properties": {
+        "date": "2024-11-30",
+        "name": "Showground Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7837, -35.4104]
+      },
+      "properties": {
+        "date": "2024-11-30",
+        "name": "Kaikohe Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.8046, -35.40557]
+      },
+      "properties": {
+        "date": "2024-11-30",
+        "name": "Cafe Ihaalam",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
