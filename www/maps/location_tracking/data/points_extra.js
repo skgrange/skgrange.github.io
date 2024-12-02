@@ -2597,6 +2597,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.948639, -34.52254]
+      },
+      "properties": {
+        "date": "",
+        "name": "Dog Island / Motuwhangaikirehe Island",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.736237, 47.43732]
       },
       "properties": {
