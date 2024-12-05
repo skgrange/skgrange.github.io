@@ -1553,6 +1553,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.482103, -36.98654]
+      },
+      "properties": {
+        "date": "2011-12-03",
+        "name": "Karekare Falls",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.028832, 51.52148]
       },
       "properties": {
