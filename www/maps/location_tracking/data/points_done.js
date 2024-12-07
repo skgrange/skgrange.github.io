@@ -47417,6 +47417,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.0885, -37.36132]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Waikato Expressway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3323, -37.77943]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Waitomo",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3324, -37.77922]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Robert Harris",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.7319, -38.11097]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Old Taupo Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.7502, -38.59994]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Whangamata Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [176.072, -38.68792]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Taupō",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8145, -38.99025]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Judges Pool Motel",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8124, -38.99732]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Tongariro River Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8132, -38.99894]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Major Jones Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8086, -39.005]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Waikari Loop",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8089, -38.98874]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Tūrangi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8093, -38.99016]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Turangi Tavern",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
