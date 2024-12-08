@@ -47561,6 +47561,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.7392, -39.01003]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Te Ponanga Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5384, -39.19919]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Whakapapa Village",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5394, -39.21791]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Bruce Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5568, -39.23704]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Top of The Bruce",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.4025, -39.17678]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "National Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3913, -39.26662]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Makatote Viaduct",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3231, -39.36727]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Tohunga Junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3991, -39.41837]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Ohakune",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.6688, -39.47821]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Subway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.1242, -40.79972]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Kāpiti Expressway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8768, -41.1048]
+      },
+      "properties": {
+        "date": "2024-12-08",
+        "name": "Bayview Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
