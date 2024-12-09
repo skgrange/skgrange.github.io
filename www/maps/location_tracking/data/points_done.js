@@ -47693,6 +47693,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.7759, -41.27999]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "name": "Where’s Charley?",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8655, -41.08219]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "name": "Plimmerton Village Grocery Store",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
