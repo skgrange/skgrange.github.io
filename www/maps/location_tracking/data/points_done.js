@@ -47717,6 +47717,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.7823, -41.28022]
+      },
+      "properties": {
+        "date": "2024-12-10",
+        "name": "Bluebridge Ferry pier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9606, -41.50439]
+      },
+      "properties": {
+        "date": "2024-12-10",
+        "name": "Subway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0441, -41.59088]
+      },
+      "properties": {
+        "date": "2024-12-10",
+        "name": "Weld Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.5714, -43.53152]
+      },
+      "properties": {
+        "date": "2024-12-10",
+        "name": "Alpine Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.5744, -43.53016]
+      },
+      "properties": {
+        "date": "2024-12-10",
+        "name": "AROY",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
