@@ -47921,6 +47921,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.6264, -43.52318]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "North Hagley Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6156, -43.53713]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "South Hagley Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6219, -43.53203]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Woodland Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6251, -43.53151]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Christchurch Botanic Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6227, -43.52799]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Victoria Lake",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6285, -43.53159]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Christchurch Arts Centre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6277, -43.53216]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Bagel Food Truck",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
