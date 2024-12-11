@@ -47909,6 +47909,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.6522, -43.51387]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Hills Road",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
