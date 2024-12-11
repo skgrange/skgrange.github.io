@@ -47777,6 +47777,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.6255, -43.57017]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Cashmere Tennis Club",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6355, -43.58187]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Sign of the Takahe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6456, -43.60634]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Dyres Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6484, -43.62364]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Governors Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6612, -43.66821]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Teddington",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6474, -43.60141]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Sugarloaf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6245, -43.56899]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Zeros",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6279, -43.53237]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Hotel Give",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6337, -43.53383]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Oxford Terrace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.634, -43.53389]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Riverside Market",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.635, -43.53359]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Black and White Coffee Cartel",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
