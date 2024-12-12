@@ -48005,6 +48005,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.6269, -43.53265]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "Curators Garden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6341, -43.53296]
+      },
+      "properties": {
+        "date": "2024-12-12",
+        "name": "King of Snake",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
