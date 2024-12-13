@@ -48029,6 +48029,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.7453, -43.56607]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Christchurch Yacht Club",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7648, -43.57139]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Sumner Promenade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7736, -43.57149]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Flowers Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7756, -43.56973]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Scarborough Walk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7772, -43.57652]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Taylors Mistake Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7764, -43.58319]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Taylors Mistake Surf Life Saving Club",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7737, -43.57552]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Scarborough",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6986, -43.51321]
+      },
+      "properties": {
+        "date": "2024-12-13",
+        "name": "Aldershot Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
