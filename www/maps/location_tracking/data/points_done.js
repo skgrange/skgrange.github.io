@@ -47909,6 +47909,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [172.5403, -43.48932]
+      },
+      "properties": {
+        "date": "2024-12-11",
+        "name": "Christchurch Airport",
+        "type": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [172.6522, -43.51387]
       },
       "properties": {
@@ -48119,6 +48131,90 @@ var points_done = [{
         "date": "2024-12-13",
         "name": "Aldershot Street",
         "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7023, -43.00797]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Weka Pass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.3973, -42.37402]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Lewis Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.2435, -42.0266]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Shenandoah Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.2193, -41.77796]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "O'Sullivans Junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7199, -41.62914]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Hope Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.9083, -41.47989]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Spooners Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.3234, -41.80037]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Beechwoods Cafe",
+        "type": "Attraction"
       }
     },
     {
