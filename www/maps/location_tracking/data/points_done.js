@@ -48221,6 +48221,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.2864, -41.27398]
+      },
+      "properties": {
+        "date": "2024-12-14",
+        "name": "Quest",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.5871, -41.21891]
+      },
+      "properties": {
+        "date": "2024-12-15",
+        "name": "Brown River Reserve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7304, -41.13876]
+      },
+      "properties": {
+        "date": "2024-12-15",
+        "name": "Ōpōuri Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7317, -41.12576]
+      },
+      "properties": {
+        "date": "2024-12-15",
+        "name": "Tennyson Inlet Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7581, -41.10305]
+      },
+      "properties": {
+        "date": "2024-12-15",
+        "name": "Archers Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.7658, -41.08749]
+      },
+      "properties": {
+        "date": "2024-12-15",
+        "name": "Penzance Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
