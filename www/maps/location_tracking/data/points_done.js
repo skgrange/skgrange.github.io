@@ -48293,6 +48293,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.2589, -41.27918]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "Toi Toi Street Walkway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.141, -41.31334]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "Höglund Art Glass Studio & Gallery",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.1582, -41.33546]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "The Junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.1881, -41.34098]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "Kmart",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.2707, -41.28827]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "Nelson Pottery Supplies",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.2864, -41.27423]
+      },
+      "properties": {
+        "date": "2024-12-16",
+        "name": "Loafers Bakery",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
