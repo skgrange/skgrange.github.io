@@ -48377,6 +48377,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.8687, -41.09449]
+      },
+      "properties": {
+        "date": "2024-12-17",
+        "name": "New World",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8399, -41.13723]
+      },
+      "properties": {
+        "date": "2024-12-17",
+        "name": "North City Shopping Centre",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9778, -41.1359]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Haywards Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9752, -41.15799]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Haywards Hill Interchange",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9043, -41.25304]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Port Howard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9178, -41.25096]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Cheviot Road Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9147, -41.26853]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Kaitawa Road Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8817, -41.22619]
+      },
+      "properties": {
+        "date": "2024-12-18",
+        "name": "Petone Coffee Shop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8725, -41.09609]
+      },
+      "properties": {
+        "date": "2024-12-19",
+        "name": "Cambourne Walkway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8826, -41.08929]
+      },
+      "properties": {
+        "date": "2024-12-19",
+        "name": "Te Ara Piko",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
