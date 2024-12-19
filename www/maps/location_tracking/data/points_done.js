@@ -48509,6 +48509,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.8228, -41.22463]
+      },
+      "properties": {
+        "date": "2024-12-19",
+        "name": "Pukehuia Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7743, -41.28113]
+      },
+      "properties": {
+        "date": "2024-12-19",
+        "name": "Aurora Terrace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
