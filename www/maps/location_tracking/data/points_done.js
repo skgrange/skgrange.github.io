@@ -48533,6 +48533,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.0666, -35.37994]
+      },
+      "properties": {
+        "date": "2024-12-20",
+        "name": "Kawakawa Bakehouse Cafe & Roast",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
