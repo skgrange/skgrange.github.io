@@ -47453,6 +47453,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.1895, -37.56965]
+      },
+      "properties": {
+        "date": "2024-12-07",
+        "name": "Taupiri Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [175.7319, -38.11097]
       },
       "properties": {
