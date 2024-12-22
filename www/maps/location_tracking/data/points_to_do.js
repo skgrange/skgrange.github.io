@@ -1409,35 +1409,11 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [173.69895, -35.49908]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ōtaua",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [173.8023, -35.7603]
       },
       "properties": {
         "date": "",
         "name": "Tutamoe",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [173.2737, -35.4299]
-      },
-      "properties": {
-        "date": "",
-        "name": "Mitimiti",
         "type": "To-do"
       }
     },
