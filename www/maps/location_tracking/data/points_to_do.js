@@ -1277,11 +1277,11 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [168.6875, -44.8436]
+        "coordinates": [168.68688, -44.84426]
       },
       "properties": {
         "date": "",
-        "name": "Skippers",
+        "name": "Skippers Bridge",
         "type": "To-do"
       }
     },
