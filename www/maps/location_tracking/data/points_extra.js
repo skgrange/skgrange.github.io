@@ -173,6 +173,54 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [168.70545, -44.94035]
+      },
+      "properties": {
+        "date": "2007-04-28",
+        "name": "Skippers Saddle",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.69691, -44.93133]
+      },
+      "properties": {
+        "date": "2007-04-28",
+        "name": "Hells Gate",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.672076, -44.89368]
+      },
+      "properties": {
+        "date": "2007-04-28",
+        "name": "Devils Elbow",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.734969, -44.92692]
+      },
+      "properties": {
+        "date": "2007-04-28",
+        "name": "Coronet Peak",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-118.408232, 33.94291]
       },
       "properties": {
@@ -2614,54 +2662,6 @@ var points_extra = [{
       "properties": {
         "date": "",
         "name": "Dog Island / Motuwhangaikirehe Island",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [168.70545, -44.94035]
-      },
-      "properties": {
-        "date": "",
-        "name": "Skippers Saddle",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [168.69691, -44.93133]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hells Gate",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [168.672076, -44.89368]
-      },
-      "properties": {
-        "date": "",
-        "name": "Devils Elbow",
-        "type": "Extra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [168.734969, -44.92692]
-      },
-      "properties": {
-        "date": "",
-        "name": "Coronet Peak",
         "type": "Extra"
       }
     },
