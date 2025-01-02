@@ -48557,6 +48557,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.4827, -35.19374]
+      },
+      "properties": {
+        "date": "2024-12-28",
+        "name": "Axe sculpture",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.456, -35.18959]
+      },
+      "properties": {
+        "date": "2024-12-28",
+        "name": "Mangamuka Saddle",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [173.9877, -35.23137]
       },
       "properties": {
