@@ -1944,6 +1944,18 @@ var points_to_do = [{
         "name": "Tongariro",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.40669, -34.82537]
+      },
+      "properties": {
+        "date": "",
+        "name": "Matai Bay",
+        "type": "To-do"
+      }
     }
   ]
 }];

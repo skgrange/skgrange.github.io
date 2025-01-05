@@ -1625,11 +1625,11 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.123057, -27.38645]
+        "coordinates": [153.109744, -27.40364]
       },
       "properties": {
         "date": "2013-05-30",
-        "name": "Brisbane airport",
+        "name": "Brisbane International Airport",
         "type": "Extra"
       }
     },

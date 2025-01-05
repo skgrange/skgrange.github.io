@@ -48593,6 +48593,234 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.1087, -27.40265]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "International Airport",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0496, -27.41536]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Eagle Junction",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0182, -27.46633]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Roma Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0293, -27.48068]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Captain Cook Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0349, -27.48598]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Woolloongabba Station",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0353, -27.48764]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Gibbon Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0355, -27.48729]
+      },
+      "properties": {
+        "date": "2025-01-04",
+        "name": "Coles Local",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.033, -27.48085]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Kangaroo Point Cliffs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0271, -27.48059]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Goodwill Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0296, -27.47825]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Gardens Point Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0286, -27.47723]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "QUT",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0256, -27.47305]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "George Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0241, -27.47237]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Queen’s Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0211, -27.47245]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Victoria Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0181, -27.46938]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Kurilpa Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0238, -27.47815]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Brisbane Lagoon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0381, -27.48849]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Brown Dog Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0413, -27.49239]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Woolworths",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0282, -27.48451]
+      },
+      "properties": {
+        "date": "2025-01-05",
+        "name": "Mater Hill Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
