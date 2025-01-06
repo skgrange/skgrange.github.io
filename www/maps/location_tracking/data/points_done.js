@@ -48821,6 +48821,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0354, -27.46477]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Captain Burke Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0326, -27.4717]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Kangaroo Point Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0314, -27.47543]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Brisbane City Botanic Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0284, -27.47709]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "QUT Gardens Point Main Library",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0291, -27.47833]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "P Block",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0257, -27.4701]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Albert Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0252, -27.46965]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Queen Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0254, -27.46934]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "ANZ",
+        "type": "Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0249, -27.47044]
+      },
+      "properties": {
+        "date": "2025-01-06",
+        "name": "Uptown Brisbane",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
