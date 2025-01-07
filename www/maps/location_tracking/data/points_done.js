@@ -48929,6 +48929,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0147, -27.46992]
+      },
+      "properties": {
+        "date": "2025-01-07",
+        "name": "Kurilpa Point Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0045, -27.477]
+      },
+      "properties": {
+        "date": "2025-01-07",
+        "name": "Davies Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0286, -27.47711]
+      },
+      "properties": {
+        "date": "2025-01-07",
+        "name": "Merlo Coffee",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
