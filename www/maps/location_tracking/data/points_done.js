@@ -48965,6 +48965,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0373, -27.47274]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "Ferrymans Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0354, -27.48723]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "Gabba Bakery & Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0243, -27.47062]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "Queen Street Bus Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0077, -27.46226]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "Given Terrace",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9984, -27.42353]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "Rose Gum Apartments",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.024, -27.46848]
+      },
+      "properties": {
+        "date": "2025-01-08",
+        "name": "King George Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
