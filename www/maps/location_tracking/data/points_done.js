@@ -49037,6 +49037,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0123, -27.46967]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Go Between Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0183, -27.46863]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Boardwalk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
