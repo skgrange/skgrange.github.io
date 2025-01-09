@@ -49061,6 +49061,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0396, -27.49717]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Buranda Bus Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0376, -27.49925]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Communa",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0374, -27.49998]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Carl Street Urban Common",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0366, -27.50076]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Buranda Village",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0361, -27.5005]
+      },
+      "properties": {
+        "date": "2025-01-09",
+        "name": "Nandos",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
