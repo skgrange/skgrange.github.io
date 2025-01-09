@@ -49121,6 +49121,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0313, -27.47282]
+      },
+      "properties": {
+        "date": "2025-01-10",
+        "name": "Botanic Gardens Riverwalk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0312, -27.46682]
+      },
+      "properties": {
+        "date": "2025-01-10",
+        "name": "Riverside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0363, -27.4625]
+      },
+      "properties": {
+        "date": "2025-01-10",
+        "name": "Howard Smith Wharves",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
