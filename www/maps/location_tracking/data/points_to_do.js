@@ -1956,6 +1956,30 @@ var points_to_do = [{
         "name": "Matai Bay",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.263516, -36.45583]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mount Kosciuszko",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.239745, -27.46614]
+      },
+      "properties": {
+        "date": "",
+        "name": "Wellington Point",
+        "type": "To-do"
+      }
     }
   ]
 }];

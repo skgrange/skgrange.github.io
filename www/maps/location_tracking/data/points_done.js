@@ -49157,6 +49157,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.022, -27.47677]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "South Bank Parklands",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0229, -27.47456]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "Neville Bonner Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0249, -27.48024]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "Coffee at the Kombi",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0349, -27.48743]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "Make My Day",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
