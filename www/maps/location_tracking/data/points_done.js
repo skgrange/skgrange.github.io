@@ -49205,6 +49205,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0191, -27.47339]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "Cultural Centre",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0443, -27.45081]
+      },
+      "properties": {
+        "date": "2025-01-11",
+        "name": "Gasworks Plaza",
+        "type": "Shopping mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
