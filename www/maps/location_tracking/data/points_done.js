@@ -49241,6 +49241,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9996, -27.4242]
+      },
+      "properties": {
+        "date": "2025-01-12",
+        "name": "Coles",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0003, -27.41546]
+      },
+      "properties": {
+        "date": "2025-01-13",
+        "name": "Grinstead Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9992, -27.41473]
+      },
+      "properties": {
+        "date": "2025-01-13",
+        "name": "Kedron Brook Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9809, -27.4056]
+      },
+      "properties": {
+        "date": "2025-01-13",
+        "name": "Teralba Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9765, -27.40172]
+      },
+      "properties": {
+        "date": "2025-01-13",
+        "name": "Lansvale Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
