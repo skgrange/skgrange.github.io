@@ -50,4 +50,4 @@ L.control.layers(base_maps, overlay_maps).addTo(map);
 // map.setView(new L.LatLng(-35.227668, 173.948749), 14);
 
 // Brisbane
-map.setView(new L.LatLng(-27.469592, 153.025228), 14);
+map.setView(new L.LatLng(-27.469592, 153.025228), 13);
