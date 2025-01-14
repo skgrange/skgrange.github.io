@@ -49301,6 +49301,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0374, -27.46612]
+      },
+      "properties": {
+        "date": "2025-01-14",
+        "name": "Holman Street Pier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
