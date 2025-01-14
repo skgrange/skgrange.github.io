@@ -49313,6 +49313,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0125, -27.41057]
+      },
+      "properties": {
+        "date": "2025-01-14",
+        "name": "Kmart",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0123, -27.41163]
+      },
+      "properties": {
+        "date": "2025-01-14",
+        "name": "Stafford City Shopping Centre",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0089, -27.41221]
+      },
+      "properties": {
+        "date": "2025-01-14",
+        "name": "Kedron Brook Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
