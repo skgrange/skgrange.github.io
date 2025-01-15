@@ -49349,6 +49349,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0067, -27.41441]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Royal Parade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0223, -27.42035]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Gilbert Road Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0487, -27.40346]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Shaw Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0637, -27.41075]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Jim Soorley Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.095, -27.39128]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Unnamed junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1017, -27.34551]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Nudgee Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.101, -27.34347]
+      },
+      "properties": {
+        "date": "2025-01-15",
+        "name": "Nudgee Beach Reserve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
