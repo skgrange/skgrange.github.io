@@ -49433,6 +49433,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0391, -27.46565]
+      },
+      "properties": {
+        "date": "2025-01-16",
+        "name": "New Farm Riverwalk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0464, -27.47525]
+      },
+      "properties": {
+        "date": "2025-01-16",
+        "name": "Merthyr Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0491, -27.47313]
+      },
+      "properties": {
+        "date": "2025-01-16",
+        "name": "Oxlade Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
