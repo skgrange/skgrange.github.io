@@ -49469,6 +49469,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0116, -27.44042]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Enoggera Creek Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0259, -27.44963]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Herston Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0224, -27.45427]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Victoria Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0175, -27.46355]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Roma Street Parklands",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0255, -27.46688]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Edward Street (Upper)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
