@@ -49589,6 +49589,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0378, -27.46276]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Felons Barrel Hall - River Lawn",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
