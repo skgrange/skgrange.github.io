@@ -49529,6 +49529,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.1036, -27.56059]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Wishart Community Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1067, -27.55776]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Bulimba Creek Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1114, -27.55281]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Boorabbin Picnic Ground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0806, -27.59777]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Mountain River Pâtisserie",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0092, -27.4105]
+      },
+      "properties": {
+        "date": "2025-01-18",
+        "name": "Bunnings Warehouse",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
