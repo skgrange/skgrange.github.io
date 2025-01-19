@@ -49601,6 +49601,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9627, -27.39821]
+      },
+      "properties": {
+        "date": "2025-01-19",
+        "name": "Oxford Groove",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.958, -27.40379]
+      },
+      "properties": {
+        "date": "2025-01-19",
+        "name": "Grovely Sports Ground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9548, -27.40871]
+      },
+      "properties": {
+        "date": "2025-01-19",
+        "name": "Dash Street Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0442, -27.40613]
+      },
+      "properties": {
+        "date": "2025-01-19",
+        "name": "Mercer Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
