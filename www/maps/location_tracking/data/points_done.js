@@ -49661,6 +49661,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0364, -27.46214]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "name": "Petrie Point Story Bridge Lookout",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [153.0389, -27.4632]
       },
       "properties": {
