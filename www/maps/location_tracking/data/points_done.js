@@ -49649,6 +49649,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0356, -27.46357]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "name": "Story Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0389, -27.4632]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "name": "Wilson Outlook Reserve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
