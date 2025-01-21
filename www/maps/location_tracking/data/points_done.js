@@ -49685,6 +49685,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0233, -27.48033]
+      },
+      "properties": {
+        "date": "2025-01-21",
+        "name": "Little Stanley Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.023, -27.47809]
+      },
+      "properties": {
+        "date": "2025-01-21",
+        "name": "Grand Arbour",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0225, -27.47934]
+      },
+      "properties": {
+        "date": "2025-01-21",
+        "name": "Fritzenberger",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
