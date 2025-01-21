@@ -49721,6 +49721,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0155, -27.46853]
+      },
+      "properties": {
+        "date": "2025-01-21",
+        "name": "William Jolly Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9994, -27.47896]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Bicentennial Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9879, -27.48048]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Sylvan Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9798, -27.47801]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Canon Garland Overpass",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9707, -27.47433]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Sir Samuel Griffith Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9592, -27.48495]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Mount Coot-tha",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9516, -27.47901]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Constitution Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9464, -27.46348]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "The Summit",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.995, -27.48171]
+      },
+      "properties": {
+        "date": "2025-01-22",
+        "name": "Dux Brew",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
