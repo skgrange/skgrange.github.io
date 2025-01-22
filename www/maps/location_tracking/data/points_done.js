@@ -49829,6 +49829,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9992, -27.48274]
+      },
+      "properties": {
+        "date": "2025-01-23",
+        "name": "West End River Hub",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
