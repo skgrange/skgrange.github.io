@@ -49841,6 +49841,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0345, -27.45827]
+      },
+      "properties": {
+        "date": "2025-01-23",
+        "name": "Ric's Bar + Backyard",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
