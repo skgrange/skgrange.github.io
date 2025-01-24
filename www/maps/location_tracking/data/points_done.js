@@ -49853,6 +49853,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9456, -27.40925]
+      },
+      "properties": {
+        "date": "2025-01-24",
+        "name": "Annandale Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9384, -27.40653]
+      },
+      "properties": {
+        "date": "2025-01-24",
+        "name": "Tramway Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9345, -27.40123]
+      },
+      "properties": {
+        "date": "2025-01-24",
+        "name": "Ferry Grove",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9221, -27.39454]
+      },
+      "properties": {
+        "date": "2025-01-24",
+        "name": "Lanita Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9102, -27.39656]
+      },
+      "properties": {
+        "date": "2025-01-24",
+        "name": "Lanita Rail Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
