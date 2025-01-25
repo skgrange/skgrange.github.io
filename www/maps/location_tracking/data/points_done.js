@@ -49949,6 +49949,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0234, -27.45907]
+      },
+      "properties": {
+        "date": "2025-01-25",
+        "name": "Fortescue Street",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
