@@ -49881,7 +49881,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-01-24",
-        "name": "Ferry Grove",
+        "name": "Ferny Grove",
         "type": "Attraction"
       }
     },
@@ -49919,6 +49919,30 @@ var points_done = [{
         "date": "2025-01-24",
         "name": "Aldi",
         "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0507, -27.40794]
+      },
+      "properties": {
+        "date": "2025-01-25",
+        "name": "Henry Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0317, -27.4079]
+      },
+      "properties": {
+        "date": "2025-01-25",
+        "name": "Farmhouse Cafe",
+        "type": "Food"
       }
     },
     {
