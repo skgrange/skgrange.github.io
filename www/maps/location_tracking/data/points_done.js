@@ -49961,6 +49961,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0131, -27.49214]
+      },
+      "properties": {
+        "date": "2025-01-26",
+        "name": "Sir William MacGregor Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9742, -27.50582]
+      },
+      "properties": {
+        "date": "2025-01-26",
+        "name": "Jack Pesch Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0022, -27.51103]
+      },
+      "properties": {
+        "date": "2025-01-26",
+        "name": "Bixa Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0247, -27.4974]
+      },
+      "properties": {
+        "date": "2025-01-26",
+        "name": "Dutton Park Commons",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
