@@ -50081,6 +50081,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9774, -27.00561]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Bruce Highway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0915, -26.38756]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Noosa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1025, -26.37976]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Coastal Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.108, -26.3774]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Dolphin Point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1139, -26.37956]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Link Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1194, -26.37917]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Hell’s Gates",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1158, -26.37667]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Fairy Pools",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0966, -26.38349]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Little Cove",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0906, -26.38674]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Hastings Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0917, -26.38717]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Betty's Burgers",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
