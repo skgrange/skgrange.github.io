@@ -50009,6 +50009,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0694, -27.40891]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Nundah Criterium Circuit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0952, -27.3883]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Gateway North Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0602, -27.33577]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Moreton Bay Cycleway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0801, -27.33365]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Sinbad Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0847, -27.32561]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Elvy's Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0695, -27.32052]
+      },
+      "properties": {
+        "date": "2025-01-27",
+        "name": "Sandgate",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
