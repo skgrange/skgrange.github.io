@@ -50237,6 +50237,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9963, -27.42365]
+      },
+      "properties": {
+        "date": "2025-01-31",
+        "name": "Kin Barbershop",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
