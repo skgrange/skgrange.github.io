@@ -50213,6 +50213,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9058, -27.40159]
+      },
+      "properties": {
+        "date": "2025-01-31",
+        "name": "Lanita Rail Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.8932, -27.40087]
+      },
+      "properties": {
+        "date": "2025-01-31",
+        "name": "Lookout Court",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
