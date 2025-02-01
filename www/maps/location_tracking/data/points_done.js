@@ -50261,6 +50261,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0072, -27.42538]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Alderley Avenue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0143, -27.42591]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Grange",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0087, -27.42141]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Raymont Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0248, -27.43109]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Eildon Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
