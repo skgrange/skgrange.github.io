@@ -50309,6 +50309,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9785, -27.40985]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Brookside Shopping Centre",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9794, -27.40919]
+      },
+      "properties": {
+        "date": "2025-02-02",
+        "name": "Brookside Shopping Centre",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
