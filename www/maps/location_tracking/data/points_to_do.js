@@ -2052,6 +2052,30 @@ var points_to_do = [{
         "name": "The Gap",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.135343, -27.63785]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ikea",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.015709, -27.24353]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ikea",
+        "type": "To-do"
+      }
     }
   ]
 }];
