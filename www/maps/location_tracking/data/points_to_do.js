@@ -1992,6 +1992,66 @@ var points_to_do = [{
         "name": "Lone Pine Koala Sanctuary",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.996174, -27.43113]
+      },
+      "properties": {
+        "date": "",
+        "name": "Banks Street",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.43073, -27.9992]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gold Coast",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.103634, -26.65636]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sunshine Coast",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.614345, -28.64146]
+      },
+      "properties": {
+        "date": "",
+        "name": "Byron Bay",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.952808, -27.44496]
+      },
+      "properties": {
+        "date": "",
+        "name": "The Gap",
+        "type": "To-do"
+      }
     }
   ]
 }];
