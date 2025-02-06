@@ -50357,6 +50357,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0299, -27.46913]
+      },
+      "properties": {
+        "date": "2025-02-06",
+        "name": "Brisbane City Physiotherapy",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
