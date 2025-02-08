@@ -50393,6 +50393,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9684, -27.53422]
+      },
+      "properties": {
+        "date": "2025-02-08",
+        "name": "Lone Pine Koala Sanctuary",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
