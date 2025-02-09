@@ -50405,6 +50405,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9957, -27.43123]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Banks Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9876, -27.43965]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Enoggera Creek Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9794, -27.44168]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Des Connor Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9744, -27.44062]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Ashgrove Sports Ground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9528, -27.44493]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "The Gap",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9267, -27.44168]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Walkabout Creek Reserve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.925, -27.4353]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Mount Nebo Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9499, -27.44826]
+      },
+      "properties": {
+        "date": "2025-02-09",
+        "name": "Enoggera Creek Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

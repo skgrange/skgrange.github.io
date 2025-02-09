@@ -1985,18 +1985,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [152.996174, -27.43113]
-      },
-      "properties": {
-        "date": "",
-        "name": "Banks Street",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.43073, -27.9992]
       },
       "properties": {
