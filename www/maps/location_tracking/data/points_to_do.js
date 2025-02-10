@@ -2021,18 +2021,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [152.952808, -27.44496]
-      },
-      "properties": {
-        "date": "",
-        "name": "The Gap",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.135343, -27.63785]
       },
       "properties": {
