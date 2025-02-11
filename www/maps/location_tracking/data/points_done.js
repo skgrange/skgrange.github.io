@@ -50501,6 +50501,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0124, -27.42964]
+      },
+      "properties": {
+        "date": "2025-02-10",
+        "name": "Montpelier Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0134, -27.4327]
+      },
+      "properties": {
+        "date": "2025-02-10",
+        "name": "Wilston",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0135, -27.43418]
+      },
+      "properties": {
+        "date": "2025-02-10",
+        "name": "Watson Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
