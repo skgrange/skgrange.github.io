@@ -2052,6 +2052,18 @@ var points_to_do = [{
         "name": "Sparkes Hill",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.041579, -27.50072]
+      },
+      "properties": {
+        "date": "",
+        "name": "Stones Corner Parkrun",
+        "type": "To-do"
+      }
     }
   ]
 }];
