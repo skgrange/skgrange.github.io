@@ -50597,6 +50597,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0012, -27.41159]
+      },
+      "properties": {
+        "date": "2025-02-15",
+        "name": "Sparkles Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

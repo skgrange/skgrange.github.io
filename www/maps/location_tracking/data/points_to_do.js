@@ -2045,18 +2045,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.00123, -27.4116]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sparkes Hill",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.041579, -27.50072]
       },
       "properties": {
