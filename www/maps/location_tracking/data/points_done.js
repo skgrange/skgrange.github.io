@@ -50549,6 +50549,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.2356, -27.52975]
+      },
+      "properties": {
+        "date": "2025-02-15",
+        "name": "Scribbly Gum Conservation Area",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.2682, -27.52389]
+      },
+      "properties": {
+        "date": "2025-02-15",
+        "name": "Raby Bay Marina",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.2683, -27.52417]
+      },
+      "properties": {
+        "date": "2025-02-15",
+        "name": "Chop 'n Chill Raby Bay",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1006, -27.44467]
+      },
+      "properties": {
+        "date": "2025-02-15",
+        "name": "Sir Leo Hielscher Bridges",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
