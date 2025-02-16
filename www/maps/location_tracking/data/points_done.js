@@ -50609,6 +50609,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0198, -27.43236]
+      },
+      "properties": {
+        "date": "2025-02-16",
+        "name": "Wilston",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0299, -27.44896]
+      },
+      "properties": {
+        "date": "2025-02-16",
+        "name": "Bowen Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0319, -27.44462]
+      },
+      "properties": {
+        "date": "2025-02-16",
+        "name": "North Brisbane Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
