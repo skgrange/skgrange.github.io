@@ -50645,6 +50645,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0032, -27.49037]
+      },
+      "properties": {
+        "date": "2025-02-16",
+        "name": "West End ferry terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0526, -27.47172]
+      },
+      "properties": {
+        "date": "2025-02-16",
+        "name": "New Farm ferry terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
