@@ -50669,6 +50669,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0211, -27.42146]
+      },
+      "properties": {
+        "date": "2025-02-18",
+        "name": "Hermitage Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

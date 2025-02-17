@@ -2052,6 +2052,18 @@ var points_to_do = [{
         "name": "Stones Corner Parkrun",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.284257, 46.47514]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gstaad",
+        "type": "To-do"
+      }
     }
   ]
 }];
