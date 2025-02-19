@@ -329,6 +329,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [11.790015, 48.35409]
+      },
+      "properties": {
+        "date": "2009-10-20",
+        "name": "Munich Airport",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [10.710538, 48.03566]
       },
       "properties": {
