@@ -50681,6 +50681,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0217, -27.47819]
+      },
+      "properties": {
+        "date": "2025-02-22",
+        "name": "Denim Co.",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
