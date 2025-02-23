@@ -2088,6 +2088,18 @@ var points_to_do = [{
         "name": "New Farm Parkrun",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.897198, 46.52901]
+      },
+      "properties": {
+        "date": "",
+        "name": "Châtel-Saint-Denis",
+        "type": "To-do"
+      }
     }
   ]
 }];
