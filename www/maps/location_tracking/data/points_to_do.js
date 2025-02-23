@@ -2064,6 +2064,30 @@ var points_to_do = [{
         "name": "Gstaad",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.974003, -27.44226]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ashgrove Parkrun",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.052211, -27.47073]
+      },
+      "properties": {
+        "date": "",
+        "name": "New Farm Parkrun",
+        "type": "To-do"
+      }
     }
   ]
 }];
