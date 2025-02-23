@@ -50693,6 +50693,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9186, -27.39356]
+      },
+      "properties": {
+        "date": "2025-02-23",
+        "name": "Wahminda Pond",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
