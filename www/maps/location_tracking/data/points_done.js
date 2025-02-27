@@ -50357,6 +50357,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0238, -27.47055]
+      },
+      "properties": {
+        "date": "2025-02-05",
+        "name": "Chemist Warehouse",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [153.0299, -27.46913]
       },
       "properties": {
@@ -50711,6 +50723,18 @@ var points_done = [{
         "date": "2025-02-26",
         "name": "The Plough Inn",
         "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.025, -27.46965]
+      },
+      "properties": {
+        "date": "2025-02-27",
+        "name": "Mcdonald’s",
+        "type": "Coffee"
       }
     },
     {
