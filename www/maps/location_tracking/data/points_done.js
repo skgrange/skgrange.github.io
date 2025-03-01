@@ -50741,6 +50741,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0188, -27.49055]
+      },
+      "properties": {
+        "date": "2025-03-01",
+        "name": "Gladstone Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0168, -27.48721]
+      },
+      "properties": {
+        "date": "2025-03-01",
+        "name": "Highgate Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
