@@ -50765,6 +50765,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9985, -27.42733]
+      },
+      "properties": {
+        "date": "2025-03-01",
+        "name": "Alderley Heights",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
