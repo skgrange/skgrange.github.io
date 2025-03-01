@@ -2100,6 +2100,18 @@ var points_to_do = [{
         "name": "Châtel-Saint-Denis",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.018012, -27.49562]
+      },
+      "properties": {
+        "date": "",
+        "name": "St. Lucia Parkrun",
+        "type": "To-do"
+      }
     }
   ]
 }];
