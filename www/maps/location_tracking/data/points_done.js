@@ -50789,6 +50789,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9966, -27.48311]
+      },
+      "properties": {
+        "date": "2025-03-04",
+        "name": "Regatta Ferry Wharf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0244, -27.46864]
+      },
+      "properties": {
+        "date": "2025-03-04",
+        "name": "King George Square Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
