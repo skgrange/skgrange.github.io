@@ -50825,6 +50825,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.008, -27.4201]
+      },
+      "properties": {
+        "date": "2025-03-07",
+        "name": "Alderley Grove Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

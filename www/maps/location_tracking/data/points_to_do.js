@@ -2112,6 +2112,18 @@ var points_to_do = [{
         "name": "St. Lucia Parkrun",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0367, -27.37865]
+      },
+      "properties": {
+        "date": "",
+        "name": "North Chermside",
+        "type": "To-do"
+      }
     }
   ]
 }];
