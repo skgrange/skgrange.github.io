@@ -50849,6 +50849,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.918, -27.39727]
+      },
+      "properties": {
+        "date": "2025-03-15",
+        "name": "Outlook Terrace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
