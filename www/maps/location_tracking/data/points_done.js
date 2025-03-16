@@ -50861,6 +50861,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0086, -27.4165]
+      },
+      "properties": {
+        "date": "2025-03-15",
+        "name": "Grange Forest Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0123, -27.47749]
+      },
+      "properties": {
+        "date": "2025-03-16",
+        "name": "Soak Bathhouse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0247, -27.47427]
+      },
+      "properties": {
+        "date": "2025-03-16",
+        "name": "Queen's Wharf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
