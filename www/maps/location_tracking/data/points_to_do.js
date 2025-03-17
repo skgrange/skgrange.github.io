@@ -2148,6 +2148,18 @@ var points_to_do = [{
         "name": "Stoneleigh Street",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.834435, -27.35579]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mayfield Road",
+        "type": "To-do"
+      }
     }
   ]
 }];
