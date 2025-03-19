@@ -50897,6 +50897,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0129, -27.47723]
+      },
+      "properties": {
+        "date": "2025-03-19",
+        "name": "Indian Room",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.012, -27.47778]
+      },
+      "properties": {
+        "date": "2025-03-19",
+        "name": "Anita Gelato",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0117, -27.47773]
+      },
+      "properties": {
+        "date": "2025-03-19",
+        "name": "Harris Farm Markets",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
