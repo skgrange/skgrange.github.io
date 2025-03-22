@@ -50933,6 +50933,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0355, -27.45741]
+      },
+      "properties": {
+        "date": "2025-03-21",
+        "name": "East Coast Car Rentals",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.4965, -28.16128]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Pacific Highway & state boarder",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.6132, -28.64237]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Byron Bay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.6219, -28.64313]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Byron Bay Clark Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.5006, -28.59807]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Myocum Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.5004, -28.55323]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Mullumbimby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.5328, -28.57343]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Gulgan Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.5426, -28.5587]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Pacific Highway on ramp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.6224, -28.64259]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Byron Beach Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.6359, -28.63937]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Cape Byron Lighthouse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.4277, -28.00259]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Beach Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.429, -28.0019]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Cavill Avenue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.4277, -27.99921]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Chevron Renaissance Shopping Centre",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.4314, -27.99902]
+      },
+      "properties": {
+        "date": "2025-03-22",
+        "name": "Surfers Paradise Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

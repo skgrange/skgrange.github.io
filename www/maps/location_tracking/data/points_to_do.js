@@ -2009,18 +2009,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.614345, -28.64146]
-      },
-      "properties": {
-        "date": "",
-        "name": "Byron Bay",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.135343, -27.63785]
       },
       "properties": {
