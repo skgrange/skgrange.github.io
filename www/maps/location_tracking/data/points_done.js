@@ -51101,6 +51101,174 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.8983, -27.38183]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Stamford Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.7749, -27.35928]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Mount Glorious Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.7677, -27.33475]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Mount Glorious",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.8863, -27.3733]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Ampol",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.779, -27.39295]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Mount Nebo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.6912, -27.30382]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Northbrook Parkway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.4201, -27.23802]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Esk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.4173, -27.25085]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Brisbane Valley Rail Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.4201, -27.23837]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Esk Bakery & Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.4189, -27.23412]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Brisbane Valley Rail Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.2808, -27.55725]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.4232, -27.56479]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Plainland",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.7734, -27.57893]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Warrego Highway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.854, -27.5976]
+      },
+      "properties": {
+        "date": "2025-03-23",
+        "name": "Ipswich Motorway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
