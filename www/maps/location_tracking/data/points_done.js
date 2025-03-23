@@ -51269,6 +51269,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0109, -27.42321]
+      },
+      "properties": {
+        "date": "2025-03-24",
+        "name": "The Pinnacle",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
