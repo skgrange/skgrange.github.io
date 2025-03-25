@@ -51281,6 +51281,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.029, -27.47108]
+      },
+      "properties": {
+        "date": "2025-03-25",
+        "name": "Punch Espresso Bar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
