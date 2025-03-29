@@ -51317,6 +51317,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9955, -27.41897]
+      },
+      "properties": {
+        "date": "2025-03-28",
+        "name": "Magura Street Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0009, -27.4232]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Alderley",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0232, -27.4819]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "South Bank",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0234, -27.48164]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.023, -27.47835]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Changing rooms",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0229, -27.47769]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Boat Pool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0234, -27.4687]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Museum of Brisbane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0259, -27.4658]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Central",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0258, -27.46587]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
