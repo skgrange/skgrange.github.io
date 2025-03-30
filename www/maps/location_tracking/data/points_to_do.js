@@ -2105,18 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [152.9755, -27.48566]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gower Street",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.0107, -27.4587]
       },
       "properties": {
