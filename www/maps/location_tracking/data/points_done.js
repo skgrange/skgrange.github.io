@@ -51461,6 +51461,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.957, -26.95754]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Beerburrum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.935, -26.89976]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Mount Ngungun",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9079, -26.92519]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Glasshouse Plantation",
+        "type": "Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0127, -27.36292]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
