@@ -51425,6 +51425,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9905, -27.48519]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Toowong",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9805, -27.48401]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Lodge Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9751, -27.48799]
+      },
+      "properties": {
+        "date": "2025-03-30",
+        "name": "Gower Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
