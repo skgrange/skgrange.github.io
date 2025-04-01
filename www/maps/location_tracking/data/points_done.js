@@ -51521,6 +51521,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0356, -27.46633]
+      },
+      "properties": {
+        "date": "2025-04-02",
+        "name": "Moonshine Coffee Roasters",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
