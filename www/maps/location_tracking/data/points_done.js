@@ -51341,6 +51341,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0131, -27.46932]
+      },
+      "properties": {
+        "date": "2025-03-29",
+        "name": "Merivale Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [153.0232, -27.4819]
       },
       "properties": {
