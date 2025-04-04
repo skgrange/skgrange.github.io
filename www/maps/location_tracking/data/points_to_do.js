@@ -2105,18 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.0107, -27.4587]
-      },
-      "properties": {
-        "date": "",
-        "name": "Stoneleigh Street",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [152.834435, -27.35579]
       },
       "properties": {

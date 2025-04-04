@@ -51581,6 +51581,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0258, -27.47166]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "Enterprise",
+        "type": "Car rental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0127, -27.41156]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "Top G Barbers",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0107, -27.4587]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "Stoneleigh Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
