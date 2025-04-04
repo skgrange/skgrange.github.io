@@ -51545,6 +51545,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.8956, -27.40483]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "South McLean Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.8901, -27.41029]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "Verbindi Acres",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9173, -27.41255]
+      },
+      "properties": {
+        "date": "2025-04-04",
+        "name": "Cedar Creek Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
