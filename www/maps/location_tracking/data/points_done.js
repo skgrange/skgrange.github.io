@@ -51617,6 +51617,198 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.0522, -27.5426]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Toowoomba Connection Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.9577, -27.56153]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Toowoomba",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.5903, -27.3677]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Jondaryan",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2627, -27.18178]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.6302, -26.73957]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Chinchilla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.1868, -26.65949]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Miles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.7611, -26.64345]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Liberty Dulacca",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.7897, -26.57373]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Roma",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.1866, -26.54924]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Amby",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.9761, -26.48697]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Mitchell",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.9728, -26.48914]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Mitchell Memorial Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.9684, -26.48279]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Winchester Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.9804, -26.48533]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Maranoa River",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.786, -26.57625]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Athena Studio Units",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.7887, -26.57131]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Subway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.7864, -26.57728]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Liberty Roma",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
