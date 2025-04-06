@@ -51809,6 +51809,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [148.7814, -26.57496]
+      },
+      "properties": {
+        "date": "2025-04-06",
+        "name": "Roma Bush Gardens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.7955, -26.57155]
+      },
+      "properties": {
+        "date": "2025-04-06",
+        "name": "Roma’s largest bottle tree",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.8004, -26.57331]
+      },
+      "properties": {
+        "date": "2025-04-06",
+        "name": "Bungil Creek",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.6288, -26.73852]
+      },
+      "properties": {
+        "date": "2025-04-06",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
