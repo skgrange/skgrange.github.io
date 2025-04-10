@@ -51713,6 +51713,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [148.385, -26.5848]
+      },
+      "properties": {
+        "date": "2025-04-05",
+        "name": "Muckadilla",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [148.1866, -26.54924]
       },
       "properties": {
