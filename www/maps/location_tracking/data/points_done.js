@@ -49481,6 +49481,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.021, -27.44213]
+      },
+      "properties": {
+        "date": "2025-01-17",
+        "name": "Bat Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [153.0259, -27.44963]
       },
       "properties": {
