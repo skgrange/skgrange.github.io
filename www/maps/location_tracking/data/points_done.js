@@ -51905,6 +51905,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0187, -27.475]
+      },
+      "properties": {
+        "date": "2025-04-12",
+        "name": "South Brisbane",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.018, -27.46261]
+      },
+      "properties": {
+        "date": "2025-04-12",
+        "name": "Roma Street Parklands",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0225, -27.4505]
+      },
+      "properties": {
+        "date": "2025-04-12",
+        "name": "Victoria Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0181, -27.43533]
+      },
+      "properties": {
+        "date": "2025-04-12",
+        "name": "Abuklea Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
