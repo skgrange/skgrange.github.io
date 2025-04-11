@@ -51893,6 +51893,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.8914, -27.3929]
+      },
+      "properties": {
+        "date": "2025-04-11",
+        "name": "Camp Mountain Road junction",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
