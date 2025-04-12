@@ -2124,18 +2124,6 @@ var points_to_do = [{
         "name": "Stanthorpe",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.023053, -27.42702]
-      },
-      "properties": {
-        "date": "",
-        "name": "Napels",
-        "type": "To-do"
-      }
     }
   ]
 }];
