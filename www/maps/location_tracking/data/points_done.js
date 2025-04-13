@@ -51989,6 +51989,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0124, -27.41921]
+      },
+      "properties": {
+        "date": "2025-04-13",
+        "name": "Grange Forest Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0105, -27.42103]
+      },
+      "properties": {
+        "date": "2025-04-13",
+        "name": "Grange Forest Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
