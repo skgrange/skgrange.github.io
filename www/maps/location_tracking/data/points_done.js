@@ -51953,6 +51953,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.2044, -27.7174]
+      },
+      "properties": {
+        "date": "2025-04-13",
+        "name": "Beenleigh",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.2069, -27.71776]
+      },
+      "properties": {
+        "date": "2025-04-13",
+        "name": "Beenleigh Mall",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.207, -27.71636]
+      },
+      "properties": {
+        "date": "2025-04-13",
+        "name": "Hungry Jack’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
