@@ -52013,6 +52013,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0622, -27.37598]
+      },
+      "properties": {
+        "date": "2025-04-15",
+        "name": "Rebel",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0625, -27.38215]
+      },
+      "properties": {
+        "date": "2025-04-15",
+        "name": "Virginia Station",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0375, -27.44523]
+      },
+      "properties": {
+        "date": "2025-04-15",
+        "name": "Bowen Hills",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
