@@ -52157,6 +52157,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9351, -27.40132]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Ferny Grove",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9388, -27.4005]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Ferny Way",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9365, -27.39984]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Thomsett Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
