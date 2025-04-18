@@ -52073,6 +52073,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9682, -27.46437]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Carwoola Street",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9681, -27.47289]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "JC Slaughter Falls",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9601, -27.48183]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Summit Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9537, -27.47855]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Litchfield Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9461, -27.47092]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Powerful Owl Trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.953, -27.46581]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "Simpson Falls",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0269, -27.46634]
+      },
+      "properties": {
+        "date": "2025-04-18",
+        "name": "ANZAC Square",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
