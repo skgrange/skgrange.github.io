@@ -52229,6 +52229,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.008, -27.43726]
+      },
+      "properties": {
+        "date": "2025-04-19",
+        "name": "Newmarket Village",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0085, -27.4374]
+      },
+      "properties": {
+        "date": "2025-04-19",
+        "name": "Coles",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
