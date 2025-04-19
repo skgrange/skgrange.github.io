@@ -52193,6 +52193,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.8789, -27.41024]
+      },
+      "properties": {
+        "date": "2025-04-19",
+        "name": "Camp Mountain",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.8292, -27.41341]
+      },
+      "properties": {
+        "date": "2025-04-19",
+        "name": "Jollys Lookout",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.7885, -27.39888]
+      },
+      "properties": {
+        "date": "2025-04-19",
+        "name": "Mount Nebo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
