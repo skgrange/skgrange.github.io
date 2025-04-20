@@ -52253,6 +52253,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0821, -27.22539]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Kippa-Ring",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0945, -27.21212]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Kay Cottee Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0973, -27.20308]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Endeavour Esplanade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1159, -27.19974]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Scarborough Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1194, -27.2124]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Osbourne point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1149, -27.22621]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Redcliffe Parade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1171, -27.22617]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "Redcliffe Jetty",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1142, -27.22507]
+      },
+      "properties": {
+        "date": "2025-04-20",
+        "name": "The Point Café",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
