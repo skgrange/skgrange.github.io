@@ -52349,6 +52349,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9307, -27.39286]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Samford Road Break",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9291, -27.38963]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "IBG East Break",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9381, -27.38405]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Linkwood Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9457, -27.38361]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Cabbage Tree Creek Bikeway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9598, -27.39126]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Max Morton Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9464, -27.40355]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Kolora Crescent",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9625, -27.40443]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "Grovely",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9621, -27.40423]
+      },
+      "properties": {
+        "date": "2025-04-21",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
