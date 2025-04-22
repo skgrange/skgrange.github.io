@@ -1997,30 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.135343, -27.63785]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ikea",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.015709, -27.24353]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ikea",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.041579, -27.50072]
       },
       "properties": {
@@ -2122,6 +2098,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Stanthorpe",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.052055, -27.43166]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bartleys Hill",
         "type": "To-do"
       }
     }
