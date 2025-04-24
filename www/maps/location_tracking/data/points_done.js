@@ -52457,6 +52457,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.024, -27.47301]
+      },
+      "properties": {
+        "date": "2025-04-24",
+        "name": "Miller Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0348, -27.47708]
+      },
+      "properties": {
+        "date": "2025-04-24",
+        "name": "Stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
