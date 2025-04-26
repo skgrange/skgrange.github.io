@@ -1985,18 +1985,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.103634, -26.65636]
-      },
-      "properties": {
-        "date": "",
-        "name": "Sunshine Coast",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.041579, -27.50072]
       },
       "properties": {

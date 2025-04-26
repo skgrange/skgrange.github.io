@@ -52481,6 +52481,186 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9628, -26.66052]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Woombye",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9651, -26.66053]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Woombye",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0912, -26.6547]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Maroochydore Station",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1029, -26.65426]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Alexandra Parade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1078, -26.66912]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Alexandra Headland Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1127, -26.6729]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Alexandra Headland",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1219, -26.68117]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Mooloolaba Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1179, -26.68603]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Mooloolaba Walk and Ride Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1104, -26.69583]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Seriata Way",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0824, -26.71325]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Mooloolah River National Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0676, -26.71523]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "University of the Sunshine Coast",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0498, -26.71756]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Chancellor Park Marketplace",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0497, -26.71736]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Coffee Club",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0508, -26.71762]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "University Way at Chancellor Park Marketplace",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9664, -26.80785]
+      },
+      "properties": {
+        "date": "2025-04-26",
+        "name": "Landsborough",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
