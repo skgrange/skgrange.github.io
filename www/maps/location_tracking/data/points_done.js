@@ -52661,6 +52661,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9567, -27.40916]
+      },
+      "properties": {
+        "date": "2025-04-27",
+        "name": "Keperra",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9586, -27.40911]
+      },
+      "properties": {
+        "date": "2025-04-27",
+        "name": "Dallas Parade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9557, -27.41305]
+      },
+      "properties": {
+        "date": "2025-04-27",
+        "name": "Alpine Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9547, -27.41145]
+      },
+      "properties": {
+        "date": "2025-04-27",
+        "name": "Silvertop Street Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
