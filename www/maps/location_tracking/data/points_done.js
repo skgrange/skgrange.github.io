@@ -52709,6 +52709,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0067, -27.42974]
+      },
+      "properties": {
+        "date": "2025-04-29",
+        "name": "Newmarket Pool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
