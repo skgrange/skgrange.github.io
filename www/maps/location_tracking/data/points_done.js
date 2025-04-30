@@ -52721,6 +52721,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0158, -27.47521]
+      },
+      "properties": {
+        "date": "2025-04-30",
+        "name": "Gelato Messina ",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
