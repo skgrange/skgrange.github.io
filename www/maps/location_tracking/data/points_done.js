@@ -52733,6 +52733,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0076, -27.43762]
+      },
+      "properties": {
+        "date": "2025-05-02",
+        "name": "Reading Cinemas",
+        "type": "Theatre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
