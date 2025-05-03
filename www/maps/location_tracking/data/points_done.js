@@ -52745,6 +52745,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.2382, -27.48571]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Wellington Point",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.2353, -27.46097]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Wellington Point sandbar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.24, -27.46633]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Oxley’s on the Bay",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.6533, -27.45586]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Fernvale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.6353, -27.372]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Splityard Creek Dam Viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.7839, -27.39868]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "J.M. Jones Tearooms",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.943, -27.42768]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Settlement Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9231, -27.41269]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "Upper Kedron",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9771, -27.41456]
+      },
+      "properties": {
+        "date": "2025-05-03",
+        "name": "United",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

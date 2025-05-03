@@ -1973,30 +1973,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.239745, -27.46614]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wellington Point",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.041579, -27.50072]
-      },
-      "properties": {
-        "date": "",
-        "name": "Stones Corner Parkrun",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.284257, 46.47514]
       },
       "properties": {
@@ -2009,47 +1985,11 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [152.974003, -27.44226]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ashgrove Parkrun",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.052211, -27.47073]
-      },
-      "properties": {
-        "date": "",
-        "name": "New Farm Parkrun",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [6.897198, 46.52901]
       },
       "properties": {
         "date": "",
         "name": "Châtel-Saint-Denis",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.018012, -27.49562]
-      },
-      "properties": {
-        "date": "",
-        "name": "St. Lucia Parkrun",
         "type": "To-do"
       }
     },
