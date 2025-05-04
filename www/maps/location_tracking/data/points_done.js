@@ -52961,6 +52961,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [151.9354, -28.65386]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Woolworths",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.9351, -28.65459]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Subway",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
