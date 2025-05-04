@@ -2021,18 +2021,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [151.934722, -28.65501]
-      },
-      "properties": {
-        "date": "",
-        "name": "Stanthorpe",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.052055, -27.43166]
       },
       "properties": {

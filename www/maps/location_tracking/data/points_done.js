@@ -52853,6 +52853,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.6163, -27.82366]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Warrill View",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.5383, -27.99178]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "BP Aratula",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.3946, -28.04984]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Cunninghams Gap",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.0349, -28.21616]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Warwick",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.9705, -28.48935]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Jim Mitchell Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.0309, -28.43694]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Old Stanthorpe Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.934, -28.65679]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Stanthorpe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.9538, -28.63092]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.9286, -28.66484]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Granite Belt Motel",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
