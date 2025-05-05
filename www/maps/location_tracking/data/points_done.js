@@ -53045,6 +53045,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0342, -27.45849]
+      },
+      "properties": {
+        "date": "2025-05-06",
+        "name": "Duke's On Brunswick",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
