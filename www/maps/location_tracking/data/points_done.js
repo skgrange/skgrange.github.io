@@ -52949,6 +52949,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [151.9987, -28.63478]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Queensland-New South Wales boarder",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.0849, -28.64608]
+      },
+      "properties": {
+        "date": "2025-05-04",
+        "name": "Liston",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [151.9286, -28.66484]
       },
       "properties": {
