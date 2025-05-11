@@ -53069,6 +53069,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0181, -27.47391]
+      },
+      "properties": {
+        "date": "2025-05-11",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0181, -27.47292]
+      },
+      "properties": {
+        "date": "2025-05-11",
+        "name": "Queensland Museum Kurilpa",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
