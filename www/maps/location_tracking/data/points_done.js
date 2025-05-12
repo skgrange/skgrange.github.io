@@ -53093,6 +53093,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.992, -27.41945]
+      },
+      "properties": {
+        "date": "2025-05-12",
+        "name": "Cetnaj Lighting",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
