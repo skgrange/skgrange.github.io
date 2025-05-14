@@ -53189,6 +53189,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0362, -27.48349]
+      },
+      "properties": {
+        "date": "2025-05-15",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.036, -27.48222]
+      },
+      "properties": {
+        "date": "2025-05-15",
+        "name": "Osteoworks",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0311, -27.48278]
+      },
+      "properties": {
+        "date": "2025-05-15",
+        "name": "Ellis Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0288, -27.48194]
+      },
+      "properties": {
+        "date": "2025-05-15",
+        "name": "Maritime Museum ferry terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
