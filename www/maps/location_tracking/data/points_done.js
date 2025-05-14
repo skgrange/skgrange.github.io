@@ -53105,6 +53105,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0116, -27.49329]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "P8 parking",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0164, -27.49501]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "UQ Sport Aquatic Centre & David Theile Olympic Pool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0134, -27.49801]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "Great Court",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0121, -27.49902]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "Food Court",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0158, -27.49869]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "St Lucia Lakes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0195, -27.4967]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "UQ St Lucia ferry terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0262, -27.47847]
+      },
+      "properties": {
+        "date": "2025-05-14",
+        "name": "QUT Gardens Point ferry terminal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
