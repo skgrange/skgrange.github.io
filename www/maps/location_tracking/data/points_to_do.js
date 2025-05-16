@@ -2009,18 +2009,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [152.834435, -27.35579]
-      },
-      "properties": {
-        "date": "",
-        "name": "Mayfield Road",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [153.052055, -27.43166]
       },
       "properties": {
