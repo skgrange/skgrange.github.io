@@ -53169,8 +53169,8 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-05-14",
-        "name": "UQ St Lucia ferry terminal",
-        "type": "Attraction"
+        "name": "UQ St Lucia Ferry Terminal",
+        "type": "Ferry terminal"
       }
     },
     {
@@ -53181,8 +53181,8 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-05-14",
-        "name": "QUT Gardens Point ferry terminal",
-        "type": "Attraction"
+        "name": "QUT Gardens Point Ferry Terminal",
+        "type": "Ferry terminal"
       }
     },
     {
@@ -53229,8 +53229,8 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-05-15",
-        "name": "Maritime Museum ferry terminal",
-        "type": "Attraction"
+        "name": "Maritime Museum Ferry Terminal",
+        "type": "Ferry terminal"
       }
     },
     {
@@ -53278,6 +53278,42 @@ var points_done = [{
       "properties": {
         "date": "2025-05-17",
         "name": "Downfall Creek",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0313, -27.46702]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Riverside Ferry Terminal",
+        "type": "Ferry terminal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0839, -27.44529]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Northshore Hamilton Ferry Terminal",
+        "type": "Ferry terminal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0802, -27.44418]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Eat Street Markets",
         "type": "Attraction"
       }
     },
