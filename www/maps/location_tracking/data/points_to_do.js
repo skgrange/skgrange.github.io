@@ -1992,30 +1992,6 @@ var points_to_do = [{
         "name": "Châtel-Saint-Denis",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.0367, -27.37865]
-      },
-      "properties": {
-        "date": "",
-        "name": "North Chermside",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [153.052055, -27.43166]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bartleys Hill",
-        "type": "To-do"
-      }
     }
   ]
 }];

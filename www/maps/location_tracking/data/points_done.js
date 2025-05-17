@@ -53237,6 +53237,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0518, -27.43179]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Bartleys Hill",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0435, -27.43197]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "The Albion Marketplace",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0321, -27.38506]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Westfield Chermside",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0338, -27.37948]
+      },
+      "properties": {
+        "date": "2025-05-17",
+        "name": "Downfall Creek",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
