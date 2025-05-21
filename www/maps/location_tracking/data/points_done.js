@@ -53393,6 +53393,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0212, -27.49783]
+      },
+      "properties": {
+        "date": "2025-05-22",
+        "name": "Eleanor Schonell Bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
