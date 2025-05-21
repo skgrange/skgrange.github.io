@@ -53345,6 +53345,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9923, -27.40779]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "Everton Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9933, -27.4095]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "Anaconda",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9906, -27.40646]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "99 Bikes",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.992, -27.40639]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "Everton Plaza",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
