@@ -53333,6 +53333,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9947, -27.41257]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "Fern Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
