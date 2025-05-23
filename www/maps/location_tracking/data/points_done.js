@@ -53417,6 +53417,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0922, -26.38732]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Tanglewood",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0835, -26.38318]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Noosa Main Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0798, -26.38158]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Noosa Spit",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0897, -26.39899]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Coles",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1095, -26.40937]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Sunseeker Lodge",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0904, -26.38687]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Aromas",
+        "type": "Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0876, -26.38632]
+      },
+      "properties": {
+        "date": "2025-05-23",
+        "name": "Piccolino",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
