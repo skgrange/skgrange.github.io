@@ -53549,6 +53549,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.1117, -26.409]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Beach Access 34",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1125, -26.4086]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Sunshine Beach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1137, -26.40241]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Beach Access 28",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
