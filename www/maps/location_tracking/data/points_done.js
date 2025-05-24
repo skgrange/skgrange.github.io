@@ -53501,6 +53501,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.061, -26.39802]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Noosaville",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9937, -26.40598]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Gyndier Drive",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.983, -26.40477]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Sunrise Road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0371, -26.39256]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Tewantin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
