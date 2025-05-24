@@ -53585,6 +53585,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0903, -26.39663]
+      },
+      "properties": {
+        "date": "2025-05-24",
+        "name": "Monkey Punch",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
