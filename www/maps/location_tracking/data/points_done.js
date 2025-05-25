@@ -53597,6 +53597,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.1298, -26.72543]
+      },
+      "properties": {
+        "date": "2025-05-25",
+        "name": "Bfresh",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
