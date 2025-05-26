@@ -53621,6 +53621,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0076, -27.43734]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "name": "The Yiros Shop",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0267, -27.47162]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "name": "Festival Towers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0162, -27.47132]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "name": "Riverside Hotel South Bank",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
