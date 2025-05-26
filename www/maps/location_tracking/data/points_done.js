@@ -53657,6 +53657,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.022, -27.47864]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "name": "Viet de lites",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
