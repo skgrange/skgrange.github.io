@@ -53657,6 +53657,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [153.0159, -27.47513]
+      },
+      "properties": {
+        "date": "2025-05-27",
+        "name": "Hoo Ha",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0166, -27.4937]
+      },
+      "properties": {
+        "date": "2025-05-27",
+        "name": "Unnamed platform",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0058, -27.5022]
+      },
+      "properties": {
+        "date": "2025-05-27",
+        "name": "Shalom",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
