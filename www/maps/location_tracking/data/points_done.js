@@ -53357,6 +53357,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [152.9933, -27.40952]
+      },
+      "properties": {
+        "date": "2025-05-21",
+        "name": "Anaconda",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [152.9906, -27.40646]
       },
       "properties": {
