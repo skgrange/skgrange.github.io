@@ -53705,6 +53705,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.375546, 46.94411]
+      },
+      "properties": {
+        "date": "2025-05-28",
+        "name": "Bern Brünnen Westside",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38061, 46.94511]
+      },
+      "properties": {
+        "date": "2025-05-28",
+        "name": "b20 apartments",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.374093, 46.94447]
+      },
+      "properties": {
+        "date": "2025-05-28",
+        "name": "Westside",
+        "type": "Shopping mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
