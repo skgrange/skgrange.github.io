@@ -53741,6 +53741,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.379913, 46.94713]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Brünnengut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.377293, 46.94802]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Gäbelbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
