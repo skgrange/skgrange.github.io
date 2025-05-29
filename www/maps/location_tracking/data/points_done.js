@@ -53765,6 +53765,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.384996, 46.94904]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Bethlehem",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.429778, 46.9549]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Länggassstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438458, 46.95155]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Sidlerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43926, 46.95081]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Einsteinterrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.458483, 46.9485]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Nydeggbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.428053, 46.94878]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Bühlbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.391656, 46.94163]
+      },
+      "properties": {
+        "date": "2025-05-29",
+        "name": "Bümpliz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
