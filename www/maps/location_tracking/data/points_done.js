@@ -53849,6 +53849,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.395558, 46.93765]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Bern Bümpliz Süd",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.632487, 46.75647]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Scherzligschleuse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.636665, 46.754]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Bistro Promenade",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.629989, 46.75988]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Schloss Thun",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.627197, 46.75715]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Aare Zentrum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.630405, 46.75438]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43651, 46.94745]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Fust",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.39315, 46.94921]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Bethlehem Kirche",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
