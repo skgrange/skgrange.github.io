@@ -53945,6 +53945,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.374417, 46.94731]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Rondo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.377231, 46.94849]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Lidl",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.377231, 46.94836]
+      },
+      "properties": {
+        "date": "2025-05-30",
+        "name": "Coop",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
