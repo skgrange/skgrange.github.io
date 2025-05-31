@@ -53981,6 +53981,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.349223, 46.94373]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Buch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.335681, 46.94367]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Riedbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.31265, 46.93465]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Mannenriedstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.296875, 46.93424]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Rosshäusern Station",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.262502, 46.92543]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Spengelried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.245671, 46.92613]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Rüplisried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.268561, 46.91945]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Süri",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.310404, 46.92244]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Süristrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.350647, 46.93556]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Oberbottigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
