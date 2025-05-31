@@ -53741,6 +53741,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.373792, 46.94539]
+      },
+      "properties": {
+        "date": "2025-05-28",
+        "name": "Denner",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.379913, 46.94713]
       },
       "properties": {
@@ -54083,6 +54095,18 @@ var points_done = [{
         "date": "2025-05-31",
         "name": "Oberbottigen",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.373489, 46.94447]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Coffee Fellows",
+        "type": "Coffee"
       }
     },
     {
