@@ -54113,6 +54113,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.383156, 46.94746]
+      },
+      "properties": {
+        "date": "2025-05-31",
+        "name": "Migros",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
