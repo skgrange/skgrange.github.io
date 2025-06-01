@@ -1613,6 +1613,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [169.161531, -44.69724]
+      },
+      "properties": {
+        "date": "2011-06-01",
+        "name": "Puzzling World",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [174.482103, -36.98654]
       },
       "properties": {
