@@ -54125,6 +54125,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.438648, 46.94996]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Grosse Schanze",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.452239, 46.94656]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Münsterplattform",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448374, 46.94623]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Kirchenfeldbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444144, 46.94701]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Bundesplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443404, 46.9475]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Coffee Fellows",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440445, 46.94781]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Bubenbergplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
