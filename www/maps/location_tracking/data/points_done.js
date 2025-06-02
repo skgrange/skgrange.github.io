@@ -54221,6 +54221,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437519, 46.94903]
+      },
+      "properties": {
+        "date": "2025-06-02",
+        "name": "Coop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438678, 46.95117]
+      },
+      "properties": {
+        "date": "2025-06-02",
+        "name": "Institute Exakte Wissenschaften (ExWi)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43835, 46.95179]
+      },
+      "properties": {
+        "date": "2025-06-02",
+        "name": "Mensa Gesellschaftsstrass",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
