@@ -54197,6 +54197,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.44751, 46.94776]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Zytglogge",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448886, 46.94818]
+      },
+      "properties": {
+        "date": "2025-06-01",
+        "name": "Kramgasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
