@@ -54257,6 +54257,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.438822, 46.94662]
+      },
+      "properties": {
+        "date": "2025-06-02",
+        "name": "Medbase",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.403685, 46.94803]
+      },
+      "properties": {
+        "date": "2025-06-02",
+        "name": "Hallenbad Weyermannshaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
