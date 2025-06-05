@@ -54281,6 +54281,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.440228, 46.949]
+      },
+      "properties": {
+        "date": "2025-06-04",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440904, 46.94902]
+      },
+      "properties": {
+        "date": "2025-06-04",
+        "name": "Coop to go",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427471, 46.94362]
+      },
+      "properties": {
+        "date": "2025-06-05",
+        "name": "Röntgeninstitut und MR-Zentrum Brunnhof",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
