@@ -54317,6 +54317,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.433343, 46.96068]
+      },
+      "properties": {
+        "date": "2025-06-05",
+        "name": "Schwimmhalle Neufeld",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438562, 46.95348]
+      },
+      "properties": {
+        "date": "2025-06-05",
+        "name": "Troxlerrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
