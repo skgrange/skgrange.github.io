@@ -54353,6 +54353,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.438527, 46.94955]
+      },
+      "properties": {
+        "date": "2025-06-06",
+        "name": "Grosse Schanze",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.437787, 46.94661]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Hirschengraben",
+        "type": "Tram station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.459738, 46.94823]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Bärenpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439345, 46.96139]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Innere Enge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440426, 46.97606]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Felsenaubrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441751, 46.9776]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Bremgarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427286, 46.97516]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Bremgarten Stuckishaus",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.437463, 46.9754]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Kalchacker-Märit",
+        "type": "Shopping mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
