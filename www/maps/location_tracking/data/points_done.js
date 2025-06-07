@@ -54449,6 +54449,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.451606, 46.94816]
+      },
+      "properties": {
+        "date": "2025-06-07",
+        "name": "Kramer",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
