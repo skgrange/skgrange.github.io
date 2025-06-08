@@ -54461,6 +54461,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.912055, 46.69355]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Romont",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.828878, 46.5571]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Palézieux",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.895828, 46.52775]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Châtel-Saint-Denis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.89726, 46.52971]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Route des Misets",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.838624, 46.48527]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Chemin de la Gay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.900069, 46.52722]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Châtel-Saint-Denis",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.053121, 46.6194]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Bulle",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.053877, 46.61807]
+      },
+      "properties": {
+        "date": "2025-06-08",
+        "name": "Bulle Gare Routière",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
