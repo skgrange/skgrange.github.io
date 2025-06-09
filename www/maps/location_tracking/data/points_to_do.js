@@ -1980,6 +1980,54 @@ var points_to_do = [{
         "name": "Gstaad",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.608105, 47.056]
+      },
+      "properties": {
+        "date": "",
+        "name": "Carrefour",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.336912, 46.90996]
+      },
+      "properties": {
+        "date": "",
+        "name": "Intermarché",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.592459, 47.59028]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rhein Center",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.59905, 47.6265]
+      },
+      "properties": {
+        "date": "",
+        "name": "Eimeldingen",
+        "type": "To-do"
+      }
     }
   ]
 }];
