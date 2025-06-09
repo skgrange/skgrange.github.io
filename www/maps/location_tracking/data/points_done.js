@@ -54557,6 +54557,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.406719, 46.94376]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Europaplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.407548, 46.94338]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Bern Europaplatz",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44593, 46.92862]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Wabern",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.446005, 46.92773]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Wabern",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439745, 46.91955]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Gurten Kulm",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439801, 46.91933]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Gurten Kulm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43698, 46.91971]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Gurtenturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.435746, 46.94333]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Monbijou",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.431076, 46.94115]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Eigerplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.414894, 46.92333]
+      },
+      "properties": {
+        "date": "2025-06-09",
+        "name": "Köniz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
