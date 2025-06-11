@@ -54677,6 +54677,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.405391, 46.94721]
+      },
+      "properties": {
+        "date": "2025-06-11",
+        "name": "Freibad Weyermannshaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
