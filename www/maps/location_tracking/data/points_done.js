@@ -54713,6 +54713,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.435802, 46.95004]
+      },
+      "properties": {
+        "date": "2025-06-13",
+        "name": "UniS",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443302, 46.95279]
+      },
+      "properties": {
+        "date": "2025-06-13",
+        "name": "Lorrainebrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444857, 46.95245]
+      },
+      "properties": {
+        "date": "2025-06-13",
+        "name": "Botanischer Garten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441832, 46.95759]
+      },
+      "properties": {
+        "date": "2025-06-13",
+        "name": "Lorraine Bad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441438, 46.95554]
+      },
+      "properties": {
+        "date": "2025-06-13",
+        "name": "Swimming spot",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
