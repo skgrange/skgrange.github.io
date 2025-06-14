@@ -54773,6 +54773,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.485925, 46.93774]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Saali",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.476615, 46.93682]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Egghölzli",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.463429, 46.95878]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Papiermühlestrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.463906, 46.96259]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.464378, 46.96258]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Wankdorf Center",
+        "type": "Shopping mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.463448, 46.96547]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Wyler",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443422, 46.94852]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Interdiscount",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441853, 46.9482]
+      },
+      "properties": {
+        "date": "2025-06-14",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
