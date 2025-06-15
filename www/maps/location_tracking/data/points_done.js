@@ -54869,6 +54869,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.400821, 46.94646]
+      },
+      "properties": {
+        "date": "2025-06-15",
+        "name": "Bern Stöckacker",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44997, 46.9477]
+      },
+      "properties": {
+        "date": "2025-06-15",
+        "name": "Einstein café & bel étage",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
