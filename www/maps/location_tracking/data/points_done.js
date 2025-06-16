@@ -54893,6 +54893,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.870446, 46.69097]
+      },
+      "properties": {
+        "date": "2025-06-16",
+        "name": "Interlaken Ost",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.01881, 46.62454]
+      },
+      "properties": {
+        "date": "2025-06-16",
+        "name": "Bistro Grindelwald Terminal",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.867697, 46.6903]
+      },
+      "properties": {
+        "date": "2025-06-16",
+        "name": "Restaurant 3a",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
