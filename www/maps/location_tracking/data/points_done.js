@@ -54929,6 +54929,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.435553, 46.92683]
+      },
+      "properties": {
+        "date": "2025-06-17",
+        "name": "Spiegel",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.433619, 46.9261]
+      },
+      "properties": {
+        "date": "2025-06-17",
+        "name": "Spiegel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.432573, 46.92542]
+      },
+      "properties": {
+        "date": "2025-06-17",
+        "name": "Kirche Spiegel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.436889, 46.92677]
+      },
+      "properties": {
+        "date": "2025-06-17",
+        "name": "Bellevuestrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
