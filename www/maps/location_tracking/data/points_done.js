@@ -54977,6 +54977,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.446279, 46.94947]
+      },
+      "properties": {
+        "date": "2025-06-18",
+        "name": "Einwohnerdienste",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
