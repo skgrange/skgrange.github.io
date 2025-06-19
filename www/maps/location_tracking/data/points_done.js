@@ -54989,6 +54989,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.431599, 46.93117]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Steinhölzli",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.460473, 46.92305]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Kleinwabern",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.459703, 46.92251]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Chly Wabere",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.464564, 46.92092]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Nesslerenweg",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.403144, 46.92001]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Landorfstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.378414, 46.92669]
+      },
+      "properties": {
+        "date": "2025-06-19",
+        "name": "Niederwangen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
