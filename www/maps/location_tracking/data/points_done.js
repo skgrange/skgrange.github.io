@@ -55061,6 +55061,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.621411, 47.06087]
+      },
+      "properties": {
+        "date": "2025-06-21",
+        "name": "Burgdorf",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.571578, 47.07465]
+      },
+      "properties": {
+        "date": "2025-06-21",
+        "name": "Bernstrasse (Ikea)",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.570197, 47.07469]
+      },
+      "properties": {
+        "date": "2025-06-21",
+        "name": "Ikea",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
