@@ -55109,6 +55109,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.156793, 46.80532]
+      },
+      "properties": {
+        "date": "2025-06-26",
+        "name": "Les Trentenaires",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.156399, 46.80595]
+      },
+      "properties": {
+        "date": "2025-06-26",
+        "name": "Café Populaire",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
