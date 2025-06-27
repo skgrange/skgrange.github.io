@@ -55133,6 +55133,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.419156, 46.93039]
+      },
+      "properties": {
+        "date": "2025-06-27",
+        "name": "Liebefeld",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.420219, 46.93161]
+      },
+      "properties": {
+        "date": "2025-06-27",
+        "name": "Schwarzenburgstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.420489, 46.92969]
+      },
+      "properties": {
+        "date": "2025-06-27",
+        "name": "Liebefeld Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.373028, 46.9439]
+      },
+      "properties": {
+        "date": "2025-06-27",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
