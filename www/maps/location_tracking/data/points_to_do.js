@@ -2064,6 +2064,54 @@ var points_to_do = [{
         "name": "Chutzenturm",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.246462, 46.97804]
+      },
+      "properties": {
+        "date": "",
+        "name": "Risetenpass",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.067422, 46.89801]
+      },
+      "properties": {
+        "date": "",
+        "name": "Richetlipass",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.611423, 46.39635]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gemmiweg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.927773, 46.10917]
+      },
+      "properties": {
+        "date": "",
+        "name": "Saas-Fee",
+        "type": "To-do"
+      }
     }
   ]
 }];
