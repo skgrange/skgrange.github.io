@@ -55181,6 +55181,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.443219, 46.94962]
+      },
+      "properties": {
+        "date": "2025-07-04",
+        "name": "McCarthy's",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
