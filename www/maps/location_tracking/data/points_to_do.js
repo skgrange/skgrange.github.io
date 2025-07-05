@@ -2112,6 +2112,18 @@ var points_to_do = [{
         "name": "Saas-Fee",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.450769, 46.7047]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gantrisch",
+        "type": "To-do"
+      }
     }
   ]
 }];
