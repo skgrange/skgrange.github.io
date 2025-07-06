@@ -269,6 +269,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-82.112476, 26.44553]
+      },
+      "properties": {
+        "date": "2007-07-06",
+        "name": "J.N. \"Ding\" Darling National Wildlife Refuge",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [172.87702, -41.20231]
       },
       "properties": {

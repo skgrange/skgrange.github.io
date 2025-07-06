@@ -2124,6 +2124,18 @@ var points_to_do = [{
         "name": "Gantrisch",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.459846, 46.95155]
+      },
+      "properties": {
+        "date": "",
+        "name": "Rosengarten",
+        "type": "To-do"
+      }
     }
   ]
 }];
