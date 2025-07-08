@@ -55217,6 +55217,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437516, 46.94702]
+      },
+      "properties": {
+        "date": "2025-07-08",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
