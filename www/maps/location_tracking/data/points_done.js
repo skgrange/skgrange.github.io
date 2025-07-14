@@ -55229,6 +55229,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.435118, 46.95153]
+      },
+      "properties": {
+        "date": "2025-07-08",
+        "name": "Le Carrousel",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.019164, 46.6248]
+      },
+      "properties": {
+        "date": "2025-07-14",
+        "name": "Lindt",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.029177, 46.62488]
+      },
+      "properties": {
+        "date": "2025-07-14",
+        "name": "Annex Crystal",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.037406, 46.6233]
+      },
+      "properties": {
+        "date": "2025-07-14",
+        "name": "Bebbis",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
