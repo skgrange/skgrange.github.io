@@ -55277,6 +55277,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.436921, 46.95023]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Zentralbereich",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45697, 46.98002]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Worblaufen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.483948, 46.97361]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Ittigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62572, 47.03935]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Oberburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.842489, 47.11431]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Huttwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.111247, 47.17274]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Märtplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.110297, 47.17213]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Hirschen",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.110402, 47.17222]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Oberstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.17551, 47.18961]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Blosenbergturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.868724, 47.11706]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Schwertschwenden",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
