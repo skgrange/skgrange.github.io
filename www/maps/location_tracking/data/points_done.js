@@ -55313,6 +55313,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.509697, 46.98763]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Stockerehöchi",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.565476, 47.00818]
+      },
+      "properties": {
+        "date": "2025-07-17",
+        "name": "Krauchthal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.62572, 47.03935]
       },
       "properties": {
