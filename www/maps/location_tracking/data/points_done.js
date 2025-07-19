@@ -55421,6 +55421,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.405429, 46.94497]
+      },
+      "properties": {
+        "date": "2025-07-18",
+        "name": "Ladenwandweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.390556, 46.94128]
+      },
+      "properties": {
+        "date": "2025-07-18",
+        "name": "Bümplizstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.383708, 46.9337]
+      },
+      "properties": {
+        "date": "2025-07-18",
+        "name": "Rehhagstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
