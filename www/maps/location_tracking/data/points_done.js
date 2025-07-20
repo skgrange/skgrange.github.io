@@ -55457,6 +55457,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.380865, 46.96543]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Kappelenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.37763, 46.96776]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Hinterkappelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.356795, 46.97114]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Wohlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.37041, 46.98193]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Riedhaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.385505, 46.98691]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Uettligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.418416, 46.97129]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Halenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.417359, 46.96273]
+      },
+      "properties": {
+        "date": "2025-07-20",
+        "name": "Halenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
