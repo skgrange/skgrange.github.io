@@ -55541,6 +55541,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.378607, 46.9492]
+      },
+      "properties": {
+        "date": "2025-07-21",
+        "name": "Gäbelbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.38093, 46.95036]
+      },
+      "properties": {
+        "date": "2025-07-21",
+        "name": "Holenacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.367899, 46.95091]
+      },
+      "properties": {
+        "date": "2025-07-21",
+        "name": "Riedern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.363662, 46.95015]
+      },
+      "properties": {
+        "date": "2025-07-21",
+        "name": "Riedernstrasse (cobblestone road)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.336295, 46.94607]
+      },
+      "properties": {
+        "date": "2025-07-21",
+        "name": "Räbmatt bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
