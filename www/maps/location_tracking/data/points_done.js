@@ -55601,6 +55601,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.424247, 46.91597]
+      },
+      "properties": {
+        "date": "2025-07-23",
+        "name": "Köniztalstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448071, 46.90856]
+      },
+      "properties": {
+        "date": "2025-07-23",
+        "name": "Köniztal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470875, 46.90973]
+      },
+      "properties": {
+        "date": "2025-07-23",
+        "name": "Kehrsatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.467801, 46.91565]
+      },
+      "properties": {
+        "date": "2025-07-23",
+        "name": "Bernstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.404415, 46.94193]
+      },
+      "properties": {
+        "date": "2025-07-23",
+        "name": "Unnamed cycle bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
