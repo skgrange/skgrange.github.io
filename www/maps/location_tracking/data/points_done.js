@@ -55661,6 +55661,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.350122, 46.94151]
+      },
+      "properties": {
+        "date": "2025-07-24",
+        "name": "Buchweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.381745, 46.93806]
+      },
+      "properties": {
+        "date": "2025-07-24",
+        "name": "Bottigenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
