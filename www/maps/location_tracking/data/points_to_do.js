@@ -2136,6 +2136,54 @@ var points_to_do = [{
         "name": "Rosengarten",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471103, 46.92463]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gürbe",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.47027, 46.85949]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hubel",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.446113, 46.85361]
+      },
+      "properties": {
+        "date": "",
+        "name": "Imihubel",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.340959, 46.818]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schwarzenburg",
+        "type": "To-do"
+      }
     }
   ]
 }];
