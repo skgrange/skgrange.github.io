@@ -55697,6 +55697,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.272072, 46.94157]
+      },
+      "properties": {
+        "date": "2025-07-25",
+        "name": "Garage Jüni",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
