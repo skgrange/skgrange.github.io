@@ -2196,6 +2196,30 @@ var points_to_do = [{
         "name": "Murten Altstadt",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44788, 46.73204]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gurnigelpass",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.287398, 46.67049]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schwarzsee",
+        "type": "To-do"
+      }
     }
   ]
 }];
