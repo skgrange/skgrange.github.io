@@ -55709,6 +55709,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.239089, 46.90305]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Laupen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.236471, 46.89792]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Bösingenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.240143, 46.90249]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Kreuzplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.240229, 46.90289]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Läubliplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.247071, 46.90404]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Alte Bernstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.303709, 46.89475]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Neuenegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.322495, 46.90422]
+      },
+      "properties": {
+        "date": "2025-07-26",
+        "name": "Landstuhl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

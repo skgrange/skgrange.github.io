@@ -2184,6 +2184,18 @@ var points_to_do = [{
         "name": "Schwarzenburg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.117778, 46.92872]
+      },
+      "properties": {
+        "date": "",
+        "name": "Murten Altstadt",
+        "type": "To-do"
+      }
     }
   ]
 }];
