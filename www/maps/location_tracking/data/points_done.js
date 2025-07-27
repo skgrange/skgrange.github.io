@@ -55793,6 +55793,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.381214, 46.93988]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Winterfeldweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443235, 46.94252]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Marzilistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.452386, 46.94606]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Aarstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.456543, 46.94745]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Gerberngasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.458451, 46.94937]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Untertorbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.457499, 46.95207]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Oranienburgstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.455951, 46.95726]
+      },
+      "properties": {
+        "date": "2025-07-27",
+        "name": "Beundenfeldstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
