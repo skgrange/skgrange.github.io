@@ -2220,6 +2220,54 @@ var points_to_do = [{
         "name": "Schwarzsee",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.451238, 46.95934]
+      },
+      "properties": {
+        "date": "",
+        "name": "Breitenrain",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.524058, 46.95859]
+      },
+      "properties": {
+        "date": "",
+        "name": "Stettlen",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.416222, 46.9093]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schliern",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.126758, 46.9114]
+      },
+      "properties": {
+        "date": "",
+        "name": "Münchenwiler",
+        "type": "To-do"
+      }
     }
   ]
 }];
