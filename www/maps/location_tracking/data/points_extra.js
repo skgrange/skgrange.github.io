@@ -1145,6 +1145,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-6.244295, 53.42721]
+      },
+      "properties": {
+        "date": "2009-11-21",
+        "name": "Dublin Airport",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-8.574547, 52.66876]
       },
       "properties": {
