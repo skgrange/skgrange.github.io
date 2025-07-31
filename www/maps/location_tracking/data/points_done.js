@@ -55877,6 +55877,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.466409, 46.91546]
+      },
+      "properties": {
+        "date": "2025-07-31",
+        "name": "Kehrsatz Nord",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
