@@ -55889,6 +55889,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.459293, 46.96561]
+      },
+      "properties": {
+        "date": "2025-08-04",
+        "name": "Micasa",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441894, 46.94958]
+      },
+      "properties": {
+        "date": "2025-08-04",
+        "name": "Coop City Ryfflihof",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
