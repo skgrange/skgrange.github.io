@@ -55925,6 +55925,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.438015, 46.94774]
+      },
+      "properties": {
+        "date": "2025-08-06",
+        "name": "Bogenschützenstrasse bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438077, 46.94761]
+      },
+      "properties": {
+        "date": "2025-08-06",
+        "name": "Haus Bubenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
