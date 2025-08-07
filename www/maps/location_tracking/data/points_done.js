@@ -55889,6 +55889,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.462418, 46.92464]
+      },
+      "properties": {
+        "date": "2025-08-02",
+        "name": "Lindenweg",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.459293, 46.96561]
       },
       "properties": {
