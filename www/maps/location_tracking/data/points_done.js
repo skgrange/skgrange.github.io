@@ -55973,6 +55973,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444251, 46.94651]
+      },
+      "properties": {
+        "date": "2025-08-09",
+        "name": "Bundeshaus – Parlamentsgebäude",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
