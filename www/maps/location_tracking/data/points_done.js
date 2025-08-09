@@ -55961,6 +55961,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.446799, 46.95711]
+      },
+      "properties": {
+        "date": "2025-08-09",
+        "name": "Bärner Brocki",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
