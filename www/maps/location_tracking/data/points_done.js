@@ -55977,7 +55977,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-08-09",
-        "name": "Bundeshaus – Parlamentsgebäude",
+        "name": "Bundeshaus - Parlamentsgebäude",
         "type": "Attraction"
       }
     },
