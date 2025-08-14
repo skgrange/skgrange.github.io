@@ -55985,6 +55985,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.441028, 46.93996]
+      },
+      "properties": {
+        "date": "2025-08-14",
+        "name": "Unnamed elevator",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.444578, 46.94198]
       },
       "properties": {
