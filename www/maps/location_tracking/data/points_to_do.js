@@ -2268,18 +2268,6 @@ var points_to_do = [{
         "name": "Münchenwiler",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.442441, 46.94575]
-      },
-      "properties": {
-        "date": "",
-        "name": "Marzilibahn",
-        "type": "To-do"
-      }
     }
   ]
 }];
