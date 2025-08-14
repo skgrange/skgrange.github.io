@@ -55985,6 +55985,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444578, 46.94198]
+      },
+      "properties": {
+        "date": "2025-08-14",
+        "name": "Marzilibad 50 m pool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442792, 46.94546]
+      },
+      "properties": {
+        "date": "2025-08-14",
+        "name": "Marzilibahn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
