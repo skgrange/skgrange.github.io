@@ -56021,6 +56021,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.375471, 46.92788]
+      },
+      "properties": {
+        "date": "2025-08-16",
+        "name": "Riedmoosstrasse",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.377529, 46.92741]
+      },
+      "properties": {
+        "date": "2025-08-16",
+        "name": "Fust",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.378467, 46.92665]
+      },
+      "properties": {
+        "date": "2025-08-16",
+        "name": "Riedmoosbrücke",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
