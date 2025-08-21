@@ -56057,6 +56057,162 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.038275, 46.75477]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Brienz",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.096709, 46.75006]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Wilerhorn",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.096487, 46.74958]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Ballenberg open-air museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.093732, 46.74903]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Wohnhaus Blatten VS 1568",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.092635, 46.74847]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Seilerei Unterägeri ZG 1897",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.091516, 46.74833]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Wohnhaus Matten BE 1570",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.090706, 46.74891]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Käsespeicher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.088716, 46.74894]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Degen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.08914, 46.74956]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Bauernhaus Brülisau AI 1621/1754",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.085262, 46.74971]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Trotte Schaffhausen SH 15. Jh./1750",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.083054, 46.74987]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Brandboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.079406, 46.74828]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Farmhouse Ostermundigen BE 1761",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.078427, 46.75083]
+      },
+      "properties": {
+        "date": "2025-08-21",
+        "name": "Ballenberg open-air museum",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
