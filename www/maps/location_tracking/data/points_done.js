@@ -56206,7 +56206,7 @@ var points_done = [{
       "properties": {
         "date": "2025-08-21",
         "name": "Ballenberg open-air museum",
-        "type": "Attraction"
+        "type": "Drink"
       }
     },
     {
