@@ -56213,6 +56213,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.589031, 47.54694]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Basel SBB",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.611127, 47.48901]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Dornach-Arlesheim",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.609226, 47.49038]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Autobasilea",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.590131, 47.5481]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Centralbahnplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.590426, 47.54968]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Elisabethenanlage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.590064, 47.55619]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Freie Strasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.587961, 47.55822]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Marktplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.589785, 47.56012]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "Mittlere Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.587487, 47.558]
+      },
+      "properties": {
+        "date": "2025-08-23",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
