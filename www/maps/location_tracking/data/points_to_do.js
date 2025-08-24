@@ -2141,18 +2141,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.471103, 46.92463]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gürbe",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.47027, 46.85949]
       },
       "properties": {
