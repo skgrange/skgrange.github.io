@@ -56321,6 +56321,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.466414, 46.92202]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Oberi Nesslere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.46908, 46.92207]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Underi Nesslere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.472755, 46.92299]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Gürbe trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471207, 46.92469]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Bodenacherfähre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470309, 46.92556]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Gürbe-Aare confluence",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.466629, 46.92432]
+      },
+      "properties": {
+        "date": "2025-08-24",
+        "name": "Nesslerenholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
