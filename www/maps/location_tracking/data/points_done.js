@@ -56405,6 +56405,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.424505, 46.94712]
+      },
+      "properties": {
+        "date": "2025-08-30",
+        "name": "Inselspital",
+        "type": "Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.437374, 46.94831]
+      },
+      "properties": {
+        "date": "2025-08-30",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
