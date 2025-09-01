@@ -56429,6 +56429,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.469311, 46.96504]
+      },
+      "properties": {
+        "date": "2025-09-01",
+        "name": "Strassenverkehrsamt",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465569, 46.96694]
+      },
+      "properties": {
+        "date": "2025-09-01",
+        "name": "Wankdorf",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
