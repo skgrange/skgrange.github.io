@@ -56453,6 +56453,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.638556, 47.46409]
+      },
+      "properties": {
+        "date": "2025-09-02",
+        "name": "Tüfletehöchi",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.658865, 47.47556]
+      },
+      "properties": {
+        "date": "2025-09-02",
+        "name": "Gempen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.659667, 47.48746]
+      },
+      "properties": {
+        "date": "2025-09-02",
+        "name": "Stollenhäuser",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
