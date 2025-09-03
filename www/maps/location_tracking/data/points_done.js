@@ -56501,6 +56501,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.468616, 46.89766]
+      },
+      "properties": {
+        "date": "2025-09-03",
+        "name": "Englisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471068, 46.88127]
+      },
+      "properties": {
+        "date": "2025-09-03",
+        "name": "Zimmerwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465435, 46.86167]
+      },
+      "properties": {
+        "date": "2025-09-03",
+        "name": "Niedermuhlern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.480327, 46.87466]
+      },
+      "properties": {
+        "date": "2025-09-03",
+        "name": "Untere Längenbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
