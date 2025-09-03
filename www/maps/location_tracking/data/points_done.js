@@ -56489,6 +56489,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.459481, 46.92314]
+      },
+      "properties": {
+        "date": "2025-09-02",
+        "name": "Seftigenstrasse Parkplatz",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
