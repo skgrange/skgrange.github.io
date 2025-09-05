@@ -2256,6 +2256,18 @@ var points_to_do = [{
         "name": "Münchenwiler",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.478675, 46.95459]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ecostop",
+        "type": "To-do"
+      }
     }
   ]
 }];

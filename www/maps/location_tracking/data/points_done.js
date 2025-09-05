@@ -56489,6 +56489,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.445785, 46.94449]
+      },
+      "properties": {
+        "date": "2025-09-02",
+        "name": "Dalmazibrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.459481, 46.92314]
       },
       "properties": {
@@ -56567,6 +56579,18 @@ var points_done = [{
         "date": "2025-09-04",
         "name": "Hunzikenbrücke",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.479908, 46.96004]
+      },
+      "properties": {
+        "date": "2025-09-05",
+        "name": "Etzelpark Ostermundigen",
+        "type": "Fuel"
       }
     },
     {
