@@ -56597,6 +56597,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.78167, 47.55685]
+      },
+      "properties": {
+        "date": "2025-09-06",
+        "name": "dm",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.782067, 47.55744]
+      },
+      "properties": {
+        "date": "2025-09-06",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.777634, 47.56529]
+      },
+      "properties": {
+        "date": "2025-09-06",
+        "name": "Hieber's Frische Center (Edeka)",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.777905, 47.56508]
+      },
+      "properties": {
+        "date": "2025-09-06",
+        "name": "Hieber's Frische Center (Cafe)",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.391838, 46.95112]
+      },
+      "properties": {
+        "date": "2025-09-06",
+        "name": "Jumbo",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
