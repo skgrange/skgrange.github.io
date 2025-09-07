@@ -56657,6 +56657,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.339079, 46.59216]
+      },
+      "properties": {
+        "date": "2025-09-07",
+        "name": "Jaun Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.276415, 46.61104]
+      },
+      "properties": {
+        "date": "2025-09-07",
+        "name": "Jaun",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16373, 46.61939]
+      },
+      "properties": {
+        "date": "2025-09-07",
+        "name": "Val-de-Charmey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.113293, 46.60759]
+      },
+      "properties": {
+        "date": "2025-09-07",
+        "name": "Bataille",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.118009, 46.93079]
+      },
+      "properties": {
+        "date": "2025-09-07",
+        "name": "Ryf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
