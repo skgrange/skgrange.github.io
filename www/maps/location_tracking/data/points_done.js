@@ -56717,6 +56717,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.523508, 47.3713]
+      },
+      "properties": {
+        "date": "2025-09-09",
+        "name": "Caffè Spettacolo",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.455245, 47.36045]
+      },
+      "properties": {
+        "date": "2025-09-09",
+        "name": "WSL Birmensdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.453381, 47.36266]
+      },
+      "properties": {
+        "date": "2025-09-09",
+        "name": "WSL Birmensdorf forest research plot",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440306, 46.94875]
+      },
+      "properties": {
+        "date": "2025-09-09",
+        "name": "Rice Up!",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
