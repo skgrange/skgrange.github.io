@@ -56765,6 +56765,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.44792, 46.97143]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "Hintere Engehaldenstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.432187, 46.94721]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "AniCura Kleintierpraxis Laupeneck",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
