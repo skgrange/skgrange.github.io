@@ -56789,6 +56789,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.4669, 46.91923]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "Unterer Breitenacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470808, 46.91614]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "Eigerweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471229, 46.91853]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "Eichenrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
