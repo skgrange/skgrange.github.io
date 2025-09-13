@@ -56825,6 +56825,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444624, 46.95032]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Polizeiposten Waisenhaus",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442368, 46.94822]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Müller",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441376, 46.94805]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "H&M",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441215, 46.94801]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "PKZ",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.458083, 46.92358]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Migrol Car Wash",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.555895, 46.49087]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Marktplatz",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.556931, 46.4909]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Tea Room Schmid",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
