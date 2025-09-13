@@ -56909,6 +56909,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.479233, 46.91986]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Unter Selhofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.486212, 46.92047]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Gürbe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.499717, 46.91432]
+      },
+      "properties": {
+        "date": "2025-09-13",
+        "name": "Flugplatzstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
