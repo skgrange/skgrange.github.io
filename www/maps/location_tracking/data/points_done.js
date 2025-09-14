@@ -56981,6 +56981,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.90501, 47.01558]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "A20",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.818229, 47.09213]
       },
       "properties": {
