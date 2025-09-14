@@ -56945,6 +56945,186 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.1446, 46.99553]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Müntschemier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.106513, 47.00521]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Ins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.877688, 46.97936]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Auvernier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.818229, 47.09213]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Rue des Crêtets",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.758346, 47.06175]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Quartier-Neuf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.757107, 47.0503]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Piscine du Communal",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.761591, 47.04885]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Montpugin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.768774, 47.04798]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "La Pluie",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.761162, 47.05244]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Camping La Belle Verte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.720248, 47.0508]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Col des Roches",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.719239, 47.05129]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Swiss-French boarder",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.710318, 47.05277]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "La Rançonnière",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6703, 47.05932]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Villers-le-Lac",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.936021, 46.99659]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.227134, 46.96303]
+      },
+      "properties": {
+        "date": "2025-09-14",
+        "name": "Rastplatz Wileroltigen",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
