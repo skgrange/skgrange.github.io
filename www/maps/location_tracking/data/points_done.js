@@ -57137,6 +57137,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.433804, 46.95457]
+      },
+      "properties": {
+        "date": "2025-09-15",
+        "name": "Gelateria di Berna",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
