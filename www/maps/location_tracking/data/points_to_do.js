@@ -2292,6 +2292,18 @@ var points_to_do = [{
         "name": "Simplon Pass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.358844, 46.94308]
+      },
+      "properties": {
+        "date": "",
+        "name": "Samnaun",
+        "type": "To-do"
+      }
     }
   ]
 }];
