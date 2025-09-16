@@ -2304,6 +2304,30 @@ var points_to_do = [{
         "name": "Samnaun",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.05222, 47.20757]
+      },
+      "properties": {
+        "date": "",
+        "name": "Mont-Tramelan",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.039914, 47.19064]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col du Mont Crosin",
+        "type": "To-do"
+      }
     }
   ]
 }];
