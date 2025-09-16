@@ -2268,6 +2268,30 @@ var points_to_do = [{
         "name": "Ecostop",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.336947, 46.19614]
+      },
+      "properties": {
+        "date": "",
+        "name": "Veysonnaz",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.032486, 46.25075]
+      },
+      "properties": {
+        "date": "",
+        "name": "Simplon Pass",
+        "type": "To-do"
+      }
     }
   ]
 }];
