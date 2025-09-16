@@ -57149,6 +57149,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.474123, 46.91538]
+      },
+      "properties": {
+        "date": "2025-09-16",
+        "name": "Schulhaus Selfhofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471846, 46.91035]
+      },
+      "properties": {
+        "date": "2025-09-16",
+        "name": "Kehrsatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
