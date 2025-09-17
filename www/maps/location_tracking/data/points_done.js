@@ -56825,6 +56825,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.478672, 46.95462]
+      },
+      "properties": {
+        "date": "2025-09-12",
+        "name": "Ecostop",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.444624, 46.95032]
       },
       "properties": {
@@ -57166,6 +57178,30 @@ var points_done = [{
       "properties": {
         "date": "2025-09-16",
         "name": "Kehrsatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.768064, 47.55217]
+      },
+      "properties": {
+        "date": "2025-09-17",
+        "name": "Warmbacher Straße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.808388, 47.42844]
+      },
+      "properties": {
+        "date": "2025-09-17",
+        "name": "Rastplatz Mühlematt West",
         "type": "Attraction"
       }
     },

@@ -2261,18 +2261,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.478675, 46.95459]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ecostop",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.336947, 46.19614]
       },
       "properties": {
