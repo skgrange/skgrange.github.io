@@ -2316,6 +2316,18 @@ var points_to_do = [{
         "name": "Col du Mont Crosin",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.450973, 47.24218]
+      },
+      "properties": {
+        "date": "",
+        "name": "Hasenmatt",
+        "type": "To-do"
+      }
     }
   ]
 }];
