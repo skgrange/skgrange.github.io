@@ -2328,6 +2328,66 @@ var points_to_do = [{
         "name": "Hasenmatt",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.220474, 46.39504]
+      },
+      "properties": {
+        "date": "",
+        "name": "Arnensee",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.204585, 46.35345]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col du Pillon",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.126715, 46.32471]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col de la Croix",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.102634, 46.39898]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col des Mosses",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.977236, 46.45155]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col de Jaman",
+        "type": "To-do"
+      }
     }
   ]
 }];
