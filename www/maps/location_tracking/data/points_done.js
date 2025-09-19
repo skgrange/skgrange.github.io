@@ -57209,6 +57209,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.459905, 46.92202]
+      },
+      "properties": {
+        "date": "2025-09-19",
+        "name": "Lindenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453963, 46.92503]
+      },
+      "properties": {
+        "date": "2025-09-19",
+        "name": "Bächtelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
