@@ -57233,6 +57233,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.320998, 46.21428]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "A9",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.643003, 46.31113]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Luek",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.867439, 46.2963]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.022777, 46.29384]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Schallberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.037481, 46.27983]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Rothwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.032486, 46.25075]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Simplon Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.028989, 46.24657]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Simplon Hospiz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.343596, 46.56079]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Totesee viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
