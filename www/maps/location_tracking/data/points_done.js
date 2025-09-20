@@ -57281,6 +57281,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.050345, 46.29678]
+      },
+      "properties": {
+        "date": "2025-09-20",
+        "name": "Ganterbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.037481, 46.27983]
       },
       "properties": {
