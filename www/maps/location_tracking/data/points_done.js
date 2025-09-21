@@ -57353,6 +57353,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.464537, 46.91813]
+      },
+      "properties": {
+        "date": "2025-09-21",
+        "name": "Oberer Breitenacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.464448, 46.91918]
+      },
+      "properties": {
+        "date": "2025-09-21",
+        "name": "Oberer Breitenacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
