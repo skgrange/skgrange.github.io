@@ -2388,6 +2388,18 @@ var points_to_do = [{
         "name": "Grande Dixence Dam",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.05465, 46.428]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lac de l'Hongrin",
+        "type": "To-do"
+      }
     }
   ]
 }];
