@@ -2400,6 +2400,66 @@ var points_to_do = [{
         "name": "Lac de l'Hongrin",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.954386, 46.36434]
+      },
+      "properties": {
+        "date": "",
+        "name": "Les Agites",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.459612, 46.78933]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col routier de l'Aiguillon",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.106786, 46.03182]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col de Champex",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.232378, 46.1217]
+      },
+      "properties": {
+        "date": "",
+        "name": "Croix de Coeur",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.088437, 46.45603]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col de la Givrine",
+        "type": "To-do"
+      }
     }
   ]
 }];
