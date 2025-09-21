@@ -2376,6 +2376,18 @@ var points_to_do = [{
         "name": "Col de Jaman",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.403401, 46.08442]
+      },
+      "properties": {
+        "date": "",
+        "name": "Grande Dixence Dam",
+        "type": "To-do"
+      }
     }
   ]
 }];
