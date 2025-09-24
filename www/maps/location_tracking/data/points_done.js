@@ -57389,6 +57389,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437983, 46.93128]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Frischingweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444621, 46.93143]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Bondelistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
