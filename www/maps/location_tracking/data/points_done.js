@@ -57413,6 +57413,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.521264, 46.868]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Belpberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.525538, 46.85943]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Belpberg/Chutze",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.500331, 46.88666]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Sägetstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.501766, 46.91391]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Flugplatz Bern - Belp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.464381, 46.92814]
+      },
+      "properties": {
+        "date": "2025-09-24",
+        "name": "Lindenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
