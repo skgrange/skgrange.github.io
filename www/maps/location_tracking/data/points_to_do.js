@@ -2460,6 +2460,30 @@ var points_to_do = [{
         "name": "Col de la Givrine",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.325121, 46.66803]
+      },
+      "properties": {
+        "date": "",
+        "name": "Le Pont",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.255649, 46.68048]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col de Landoz-Neuve",
+        "type": "To-do"
+      }
     }
   ]
 }];
