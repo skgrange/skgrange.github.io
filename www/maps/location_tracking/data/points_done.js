@@ -57705,7 +57705,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-09-27",
-        "name": "Blauerelefant",
+        "name": "Blauer Elefant",
         "type": "Car wash"
       }
     },
