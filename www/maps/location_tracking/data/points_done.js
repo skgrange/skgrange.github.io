@@ -57485,6 +57485,234 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.41604, 47.04096]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "A6",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.053646, 47.21014]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Mont-Tramelan",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.005544, 47.21047]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Les Breuleux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.999329, 47.20953]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Coop",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.99485, 47.21072]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Prè-au-Maire",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.995738, 47.21288]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Unnamed path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.039914, 47.19064]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Col du Mont Crosin",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.038605, 47.24091]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "La Theurre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.996794, 47.25603]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Saignelégier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.96251, 47.24851]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Route de France",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.951913, 47.26154]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Goumois",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.951336, 47.26167]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Pont de Goumois",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.914236, 47.28018]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Fessevillers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.882393, 47.24543]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Damprichard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.823213, 47.21308]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Charquemont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.825401, 47.16865]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Fournet-Blancheroche",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.841961, 47.14703]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Côte-du-Doubs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.144648, 46.94044]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.14416, 46.93957]
+      },
+      "properties": {
+        "date": "2025-09-27",
+        "name": "Blauerelefant",
+        "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
