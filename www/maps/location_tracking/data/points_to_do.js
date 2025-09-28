@@ -2460,18 +2460,6 @@ var points_to_do = [{
         "name": "Col de Landoz-Neuve",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.796814, 46.82616]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schallenberg",
-        "type": "To-do"
-      }
     }
   ]
 }];

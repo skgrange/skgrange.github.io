@@ -36077,6 +36077,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.561332, 46.97888]
+      },
+      "properties": {
+        "date": "2023-05-29",
+        "name": "Col France",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.53866, 46.97381]
       },
       "properties": {
@@ -57707,6 +57719,114 @@ var points_done = [{
         "date": "2025-09-27",
         "name": "Blauer Elefant",
         "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.61825, 46.83694]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Oberdiessbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.741327, 46.85418]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Röthenbach im Emmental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.796814, 46.82616]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Schallenberg Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.796516, 46.8263]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Berghaus Gabelspitz",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.772996, 46.89941]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Horben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.761937, 46.90917]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Aeschau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.660469, 46.90007]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Zäziwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.620783, 46.87933]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Konolfingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.562724, 46.87546]
+      },
+      "properties": {
+        "date": "2025-09-28",
+        "name": "Münsingen",
+        "type": "Attraction"
       }
     },
     {
