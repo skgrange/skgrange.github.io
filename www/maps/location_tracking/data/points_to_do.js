@@ -2460,6 +2460,18 @@ var points_to_do = [{
         "name": "Col de Landoz-Neuve",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.925775, 47.22415]
+      },
+      "properties": {
+        "date": "",
+        "name": "La Goule",
+        "type": "To-do"
+      }
     }
   ]
 }];
