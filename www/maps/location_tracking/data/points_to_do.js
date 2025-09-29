@@ -2472,6 +2472,18 @@ var points_to_do = [{
         "name": "La Goule",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.705391, 47.07428]
+      },
+      "properties": {
+        "date": "",
+        "name": "Leug",
+        "type": "To-do"
+      }
     }
   ]
 }];
