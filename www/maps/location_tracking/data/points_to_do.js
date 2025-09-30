@@ -2484,6 +2484,18 @@ var points_to_do = [{
         "name": "Leug",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.084462, 46.46572]
+      },
+      "properties": {
+        "date": "",
+        "name": "Grand Chalet",
+        "type": "To-do"
+      }
     }
   ]
 }];
