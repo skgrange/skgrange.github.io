@@ -57845,6 +57845,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.448406, 46.93708]
+      },
+      "properties": {
+        "date": "2025-09-30",
+        "name": "Jubiläumsstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445944, 46.93435]
+      },
+      "properties": {
+        "date": "2025-09-30",
+        "name": "Schönausteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.449522, 46.93206]
+      },
+      "properties": {
+        "date": "2025-09-30",
+        "name": "Unnamed cycleway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
