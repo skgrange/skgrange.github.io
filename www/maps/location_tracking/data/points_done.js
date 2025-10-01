@@ -57893,6 +57893,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.379492, 46.93194]
+      },
+      "properties": {
+        "date": "2025-10-01",
+        "name": "Bauhaus",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.372379, 46.93424]
+      },
+      "properties": {
+        "date": "2025-10-01",
+        "name": "Moosweg",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.372862, 46.93995]
+      },
+      "properties": {
+        "date": "2025-10-01",
+        "name": "Niederbottigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
