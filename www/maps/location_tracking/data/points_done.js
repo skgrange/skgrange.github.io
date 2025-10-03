@@ -57929,6 +57929,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.449696, 46.92581]
+      },
+      "properties": {
+        "date": "2025-10-03",
+        "name": "Gurtendorfstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.456117, 46.914]
+      },
+      "properties": {
+        "date": "2025-10-03",
+        "name": "Gurtendorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465805, 46.90922]
+      },
+      "properties": {
+        "date": "2025-10-03",
+        "name": "Breitägerte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448634, 46.90684]
+      },
+      "properties": {
+        "date": "2025-10-03",
+        "name": "Schützenhaus Gummersloch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
