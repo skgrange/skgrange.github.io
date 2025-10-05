@@ -57977,6 +57977,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.47835, 46.81014]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Riggisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442803, 46.76157]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Gurnigelbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.452762, 46.73341]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Gurnigel Berghaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.447883, 46.73204]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Gurnigel Pass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442478, 46.72552]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Wasserscheide",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440687, 46.71821]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Untere Gantrischhütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.397954, 46.72944]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Grön",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.35231, 46.76642]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Riffenmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.341278, 46.81779]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Schwarzenburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.361076, 46.864]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Schwarzwasserbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.424923, 46.92087]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Blinzern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
