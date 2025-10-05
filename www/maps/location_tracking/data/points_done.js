@@ -58061,6 +58061,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.38591, 46.7471]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Schwarzenbühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.35231, 46.76642]
       },
       "properties": {
