@@ -2165,18 +2165,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.340959, 46.818]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schwarzenburg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.117778, 46.92872]
       },
       "properties": {
