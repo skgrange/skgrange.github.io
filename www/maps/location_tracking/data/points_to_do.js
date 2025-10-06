@@ -2484,6 +2484,18 @@ var points_to_do = [{
         "name": "Col des Rangiers",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.456058, 46.84282]
+      },
+      "properties": {
+        "date": "",
+        "name": "Buetschelegg",
+        "type": "To-do"
+      }
     }
   ]
 }];
