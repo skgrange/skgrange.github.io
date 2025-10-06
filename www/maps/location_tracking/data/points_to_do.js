@@ -2484,6 +2484,18 @@ var points_to_do = [{
         "name": "Grand Chalet",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.219278, 47.38486]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col des Rangiers",
+        "type": "To-do"
+      }
     }
   ]
 }];

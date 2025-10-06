@@ -57989,6 +57989,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444444, 46.77913]
+      },
+      "properties": {
+        "date": "2025-10-05",
+        "name": "Dürrbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.442803, 46.76157]
       },
       "properties": {
