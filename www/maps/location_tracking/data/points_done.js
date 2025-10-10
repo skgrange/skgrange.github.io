@@ -58169,6 +58169,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.106596, 47.17267]
+      },
+      "properties": {
+        "date": "2025-10-10",
+        "name": "Bahnhofstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.110139, 47.1726]
+      },
+      "properties": {
+        "date": "2025-10-10",
+        "name": "Stadtcafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
