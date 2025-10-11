@@ -58193,6 +58193,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.120098, 46.9288]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Parkplatz Viehmarkt",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.117698, 46.92867]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Hauptgasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.114935, 46.92796]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Scholss Murten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.106886, 46.92564]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Unnamed park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.107682, 46.92463]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Meyriez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.12274, 46.93]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Migros",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.129663, 46.93789]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Chez Sommer",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
