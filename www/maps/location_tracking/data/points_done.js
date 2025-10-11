@@ -58277,6 +58277,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.457896, 46.92378]
+      },
+      "properties": {
+        "date": "2025-10-11",
+        "name": "Migrol Car Wash",
+        "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
