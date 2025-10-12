@@ -58445,6 +58445,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.465969, 46.91448]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Kehrsatz North stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.460854, 46.91666]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Chlywabereholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
