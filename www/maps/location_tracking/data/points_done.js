@@ -58449,7 +58449,7 @@ var points_done = [{
       },
       "properties": {
         "date": "2025-10-12",
-        "name": "Kehrsatz North stairs",
+        "name": "Kehrsatz Nord stairs",
         "type": "Attraction"
       }
     },
