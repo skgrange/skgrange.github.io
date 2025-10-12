@@ -2484,6 +2484,18 @@ var points_to_do = [{
         "name": "Buetschelegg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.476475, 46.85956]
+      },
+      "properties": {
+        "date": "",
+        "name": "Fallenbach",
+        "type": "To-do"
+      }
     }
   ]
 }];

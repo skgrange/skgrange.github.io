@@ -58289,6 +58289,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.450662, 46.86717]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Bachmühle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.42443, 46.87838]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Scherliau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.420342, 46.89261]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Schlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.416683, 46.9103]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Schliern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
