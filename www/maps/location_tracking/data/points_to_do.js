@@ -1505,18 +1505,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.79554, 47.04329]
-      },
-      "properties": {
-        "date": "",
-        "name": "Wasen",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.742937, 46.01628]
       },
       "properties": {
@@ -2182,30 +2170,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Breitenrain",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.524058, 46.95859]
-      },
-      "properties": {
-        "date": "",
-        "name": "Stettlen",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.416222, 46.9093]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schliern",
         "type": "To-do"
       }
     },

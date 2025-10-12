@@ -58337,6 +58337,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.525163, 46.9584]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Stettlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.548375, 46.95417]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Boll",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.643529, 47.01591]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Biembachstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.686613, 47.00806]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Lützelflüh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.745849, 47.02746]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Sumiswald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.797203, 47.04351]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Wasen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.81059, 47.04513]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Hornbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.825973, 47.00245]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Lüderenalp",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.563427, 46.92987]
+      },
+      "properties": {
+        "date": "2025-10-12",
+        "name": "Worb",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
