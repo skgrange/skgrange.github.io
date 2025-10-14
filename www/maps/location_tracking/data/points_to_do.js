@@ -2460,6 +2460,18 @@ var points_to_do = [{
         "name": "Fallenbach",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.836452, 47.05554]
+      },
+      "properties": {
+        "date": "",
+        "name": "Fritzenfluh",
+        "type": "To-do"
+      }
     }
   ]
 }];

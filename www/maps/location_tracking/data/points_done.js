@@ -58469,6 +58469,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.4393, 46.94647]
+      },
+      "properties": {
+        "date": "2025-10-14",
+        "name": "Ängelibeck",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440754, 46.94557]
+      },
+      "properties": {
+        "date": "2025-10-14",
+        "name": "Kleine Schanze",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
