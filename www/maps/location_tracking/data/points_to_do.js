@@ -2453,11 +2453,11 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.476475, 46.85956]
+        "coordinates": [7.836452, 47.05554]
       },
       "properties": {
         "date": "",
-        "name": "Fallenbach",
+        "name": "Fritzenfluh",
         "type": "To-do"
       }
     },
@@ -2465,11 +2465,11 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.836452, 47.05554]
+        "coordinates": [8.093177, 46.81881]
       },
       "properties": {
         "date": "",
-        "name": "Fritzenfluh",
+        "name": "Glaubenbielen",
         "type": "To-do"
       }
     }
