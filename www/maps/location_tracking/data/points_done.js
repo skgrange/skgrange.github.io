@@ -58505,6 +58505,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.431224, 46.93097]
+      },
+      "properties": {
+        "date": "2025-10-17",
+        "name": "Sami Coiffeur",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.390387, 46.94647]
+      },
+      "properties": {
+        "date": "2025-10-17",
+        "name": "Entsorgungshof Fellerstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
