@@ -58493,6 +58493,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.486456, 46.92053]
+      },
+      "properties": {
+        "date": "2025-10-15",
+        "name": "Belpmatten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.477712, 46.8595]
       },
       "properties": {
@@ -58523,6 +58535,42 @@ var points_done = [{
         "date": "2025-10-17",
         "name": "Entsorgungshof Fellerstrasse",
         "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.492037, 46.91009]
+      },
+      "properties": {
+        "date": "2025-10-17",
+        "name": "Hühnerhubel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.907268, 46.59535]
+      },
+      "properties": {
+        "date": "2025-10-18",
+        "name": "Flavours",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.910629, 46.58831]
+      },
+      "properties": {
+        "date": "2025-10-18",
+        "name": "Jungfrau",
+        "type": "Attraction"
       }
     },
     {
