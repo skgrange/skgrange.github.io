@@ -58577,6 +58577,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.451198, 46.91613]
+      },
+      "properties": {
+        "date": "2025-10-18",
+        "name": "Gutenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45089, 46.91513]
+      },
+      "properties": {
+        "date": "2025-10-18",
+        "name": "Studholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443814, 46.91739]
+      },
+      "properties": {
+        "date": "2025-10-18",
+        "name": "Gurten",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
