@@ -2033,18 +2033,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.527732, 46.97789]
-      },
-      "properties": {
-        "date": "",
-        "name": "Bantiger",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.324075, 47.01484]
       },
       "properties": {
@@ -2158,18 +2146,6 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Schwarzsee",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.451238, 46.95934]
-      },
-      "properties": {
-        "date": "",
-        "name": "Breitenrain",
         "type": "To-do"
       }
     },
@@ -2470,6 +2446,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Glaubenbielen",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.509445, 46.94672]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gümligental",
         "type": "To-do"
       }
     }

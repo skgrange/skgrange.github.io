@@ -58625,6 +58625,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.481394, 46.96397]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Bolligenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.508557, 46.97427]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Flugbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.532026, 46.96682]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Ferenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.541366, 46.97422]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Cholgruebe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.528639, 46.97777]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Sendeturm Bern-Bantiger",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.527743, 46.97789]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Bantiger",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.449685, 46.95987]
+      },
+      "properties": {
+        "date": "2025-10-19",
+        "name": "Breitenrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
