@@ -2460,6 +2460,18 @@ var points_to_do = [{
         "name": "Gümligental",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.055875, 46.23435]
+      },
+      "properties": {
+        "date": "",
+        "name": "CERN",
+        "type": "To-do"
+      }
     }
   ]
 }];
