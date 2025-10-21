@@ -58709,6 +58709,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.606943, 46.78095]
+      },
+      "properties": {
+        "date": "2025-10-21",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.609397, 46.78055]
+      },
+      "properties": {
+        "date": "2025-10-21",
+        "name": "Jumbo",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
