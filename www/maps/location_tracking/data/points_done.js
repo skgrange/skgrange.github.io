@@ -58733,6 +58733,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.463547, 46.88858]
+      },
+      "properties": {
+        "date": "2025-10-22",
+        "name": "Schulanlage Wald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470293, 46.8763]
+      },
+      "properties": {
+        "date": "2025-10-22",
+        "name": "Zimmerwald Kirche",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465159, 46.87707]
+      },
+      "properties": {
+        "date": "2025-10-22",
+        "name": "Zimmerwald Observatory",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.458786, 46.86904]
+      },
+      "properties": {
+        "date": "2025-10-22",
+        "name": "Obermuhlern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.497547, 46.81331]
+      },
+      "properties": {
+        "date": "2025-10-22",
+        "name": "Riggisbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
