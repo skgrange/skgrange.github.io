@@ -2472,6 +2472,30 @@ var points_to_do = [{
         "name": "CERN",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453888, 46.85227]
+      },
+      "properties": {
+        "date": "",
+        "name": "Space Eye",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.159213, 46.1123]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col du Lein",
+        "type": "To-do"
+      }
     }
   ]
 }];
