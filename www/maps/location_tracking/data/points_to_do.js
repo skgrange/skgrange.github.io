@@ -2496,6 +2496,18 @@ var points_to_do = [{
         "name": "Col du Lein",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.019408, 46.67092]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bachalpsee",
+        "type": "To-do"
+      }
     }
   ]
 }];
