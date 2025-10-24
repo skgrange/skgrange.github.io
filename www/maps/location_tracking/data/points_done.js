@@ -58793,6 +58793,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.538633, 46.89692]
+      },
+      "properties": {
+        "date": "2025-10-24",
+        "name": "Feldernstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.48589, 46.93165]
+      },
+      "properties": {
+        "date": "2025-10-24",
+        "name": "Muri",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
