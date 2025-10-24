@@ -2508,6 +2508,18 @@ var points_to_do = [{
         "name": "Bachalpsee",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.796487, 46.66926]
+      },
+      "properties": {
+        "date": "",
+        "name": "Moudon",
+        "type": "To-do"
+      }
     }
   ]
 }];
