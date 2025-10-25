@@ -58817,6 +58817,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.463719, 46.92622]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Nesslerenhölzli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465349, 46.92762]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Friedhof Nesslerenholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.467476, 46.92668]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Nesslerenhölzli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471626, 46.92349]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Unnamed path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.472575, 46.92042]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Buechwäldli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.467508, 46.91788]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Stockacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
