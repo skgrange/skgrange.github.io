@@ -58889,6 +58889,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.548991, 46.91537]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Vielbringen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.530911, 46.92978]
+      },
+      "properties": {
+        "date": "2025-10-25",
+        "name": "Rüfenacht",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
