@@ -2297,18 +2297,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.106786, 46.03182]
-      },
-      "properties": {
-        "date": "",
-        "name": "Col de Champex",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.232378, 46.1217]
       },
       "properties": {
