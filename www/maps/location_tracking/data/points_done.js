@@ -58913,6 +58913,222 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.025459, 46.18427]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Aire de repos Cime de l'Est",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.144109, 46.07881]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Sembrancher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.213356, 46.08108]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Le Châble",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.228687, 46.09605]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Verbier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.230965, 46.09499]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Rue de Médran",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.241991, 46.10172]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Pro Bordzay",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.233041, 46.09307]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Arctic juice & cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.143264, 46.02895]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Orsières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.132798, 46.02887]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Route de la Piscine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.116759, 46.03001]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Champex-Lac",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.106792, 46.03182]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Col de Champex",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.075308, 46.0668]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Le Lombard",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.027256, 46.19245]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Camping du Bois Noir",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.025733, 46.19494]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Saint-Barthélémy",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.016525, 46.204]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Lavey-les-Bains",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.931437, 46.33933]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "Aire de repos Le Chablais Est",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.931638, 46.33977]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.059215, 46.62732]
+      },
+      "properties": {
+        "date": "2025-10-26",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

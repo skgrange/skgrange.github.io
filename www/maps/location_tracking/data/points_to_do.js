@@ -1121,18 +1121,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.22862, 46.09611]
-      },
-      "properties": {
-        "date": "",
-        "name": "Verbier",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.19959, 47.08232]
       },
       "properties": {
