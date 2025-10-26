@@ -2496,6 +2496,18 @@ var points_to_do = [{
         "name": "Moudon",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.077867, 45.88905]
+      },
+      "properties": {
+        "date": "",
+        "name": "Grand Col Ferret",
+        "type": "To-do"
+      }
     }
   ]
 }];
