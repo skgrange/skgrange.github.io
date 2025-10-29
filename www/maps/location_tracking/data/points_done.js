@@ -59141,6 +59141,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.453719, 46.95067]
+      },
+      "properties": {
+        "date": "2025-10-29",
+        "name": "Altenbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44578, 46.95302]
+      },
+      "properties": {
+        "date": "2025-10-29",
+        "name": "Altenbergrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
