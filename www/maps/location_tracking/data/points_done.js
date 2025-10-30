@@ -59165,6 +59165,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.432004, 46.9588]
+      },
+      "properties": {
+        "date": "2025-10-30",
+        "name": "Beaulieurain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.424558, 46.96265]
+      },
+      "properties": {
+        "date": "2025-10-30",
+        "name": "Bremgartenwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
