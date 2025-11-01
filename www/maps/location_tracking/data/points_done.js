@@ -59189,6 +59189,234 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.073945, 46.17823]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "École Luchepelet",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.071985, 46.17471]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Bernex",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.072296, 46.16906]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Chemin de la Croix",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.064099, 46.16512]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Chemin du Vignoble",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.057168, 46.16373]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Sézenove",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.035593, 46.15785]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Laconnex",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.043779, 46.14444]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Soral",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.035944, 46.13609]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Soral-Douane",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.023308, 46.13963]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Veigy",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.010026, 46.13986]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Malagny",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.008698, 46.14279]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Pont de Veigy",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.010246, 46.14404]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Sézegnin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.995, 46.15102]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Avusy",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0014, 46.16965]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Avully",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.000584, 46.17595]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Pont de La Plaine",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.994777, 46.19437]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Dardagny",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.013214, 46.18782]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Russin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.029043, 46.1931]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Barrage de Verbois",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.043054, 46.19039]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Aire-la-Ville",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

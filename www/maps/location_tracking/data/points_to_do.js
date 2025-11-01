@@ -2508,6 +2508,30 @@ var points_to_do = [{
         "name": "Grand Col Ferret",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.286226, 46.33158]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col du Sanetsch",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.495605, 46.11295]
+      },
+      "properties": {
+        "date": "",
+        "name": "Evolène",
+        "type": "To-do"
+      }
     }
   ]
 }];
