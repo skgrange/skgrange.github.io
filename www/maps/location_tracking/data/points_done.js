@@ -59417,6 +59417,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.044852, 46.19515]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Pont de Peney",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.050114, 46.23499]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Route de Meyrin",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.994565, 46.22859]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Paul",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.994657, 46.22906]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Hyper U",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.994029, 46.22818]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.993412, 46.22719]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "Elephant Blue",
+        "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.992211, 46.22678]
+      },
+      "properties": {
+        "date": "2025-11-01",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
