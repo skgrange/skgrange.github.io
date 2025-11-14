@@ -1,0 +1,9 @@
+# Files
+*.Rmd
+*.R
+*.sh
+*.log
+
+# Folders
+discarded/
+

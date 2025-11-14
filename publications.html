@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Publications</title>
+
+<script src="libs/header-attrs-2.30/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="libs/navigation-1.1/tabsets.js"></script>
+<link href="libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!-- Global home -->
+      <a class="navbar-brand" href="index.html"><b>Home</b></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+        <!-- Dropdown -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tracking<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown-header"><b>Active activities</b></li>
+              <li><a href="www/maps/location_tracking/location_tracking.html" target = "_blank">Location tracking</a></li>
+            </ul>
+        </li>
+        
+        <!-- Dropdown -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mapping<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown-header"><b>Air quality databases</b></li>
+              <li><a href="www/maps/smonitor_europe_sites/smonitor_europe_sites.html" target = "_blank"><b>smonitor</b> Europe sites</a></li>
+            </ul>
+        </li>
+        
+      </ul>
+      
+      <!-- Right hand tab -->
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="about.html"><b>About</b></a></li>
+      </ul>
+      
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="publication-lists" class="section level1 tabset tabset-fade">
+<h1 class="tabset tabset-fade">Publication lists</h1>
+<div id="journal-articles" class="section level2">
+<h2>Journal articles</h2>
+<p>Brunner, D., Suter, I., Bernet, L., Constantin, L., Grange, S. K.,
+Rubli, P., Li, J., Chen, J., Bigi, A., and Emmenegger, L. (2025). <a
+href="https://acp.copernicus.org/articles/25/14387/2025">Building-resolving
+simulations of anthropogenic and biospheric CO2 in the city of Zurich
+with GRAMM/GRAL.</a> <em>Atmospheric Chemistry and Physics</em> 25.21,
+pp. 14387–14410.</p>
+<p>Jouanny, A., Upadhyay, A., Jiang, J., Vasilakos, P., Via, M., Cheng,
+Y., Flueckiger, B., Uzu, G., Jaffrezo, J.-L., Voiron, C., Favez, O.,
+Chebaicheb, H., Bourin, A., Font, A., Riffault, V., Freney, E.,
+Marchand, N., Chazeau, B., Conil, S., Petit, J.-E., Rosa, J. D. de la,
+Campa, A. S. de la, Navarro, D. S.-R., Castillo, S., Alastuey, A.,
+Querol, X., Reche, C., Minguillón, M. C., Maasikmets, M., Keernik, H.,
+Giardi, F., Colombi, C., Cuccia, E., Gilardoni, S., Rinaldi, M.,
+Paglione, M., Poluzzi, V., Massabò, D., Belis, C., Grange, S., Hueglin,
+C., Canonaco, F., Tobler, A., Timonen, H. J., Aurela, M., Ehn, M.,
+Stavroulas, I., Bougiatioti, A., Eleftheriadis, K., Gini, M. I.,
+Zografou, O., Manousakas, M.-I., Chen, G. I., Green, D. C., Pokorná, P.,
+Vodička, P., Lhotka, R., Schwarz, J., Schemmel, A., Atabakhsh, S.,
+Herrmann, H., Poulain, L., Flentje, H., Heikkinen, L., Kumar, V., Denier
+van der Gon, H. A., Aas, W., Platt, S. M., Yttri, K. E., Salma, I.,
+Vasanits, A., Bergmans, B., Sosedova, Y., Necki, J., Ovadnevaite, J.,
+Lin, C., Pauraite, J., Pikridas, M., Sciare, J., Vasilescu, J.,
+Belegante, L., Alves, C., Slowik, J. G., Probst-Hensch, N., Vienneau,
+D., Prévôt, A. S. H., Medbouhi, A. A., Banos, D. T., Hoogh, K. de,
+Daellenbach, K. R., Krymova, E., and El Haddad, I. (2025). <a
+href="https://doi.org/10.1021/acs.estlett.5c00771">Machine-Learning-Driven
+Reconstruction of Organic Aerosol Sources across Dense Monitoring
+Networks in Europe.</a> <em>Environmental Science and Technology
+Letters</em>.</p>
+<p>Ponomarev, N., Steiner, M., Koene, E., Rubli, P., Grange, S.,
+Constantin, L., Ramonet, M., David, L., Emmenegger, L., and Brunner, D.
+(2025). <a
+href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3668/">Estimation
+of CO<sub>2</sub> fluxes in the cities of Zurich and Paris using the
+ICON-ART CTDAS inverse modelling framework.</a> <em>EGUsphere (under
+review)</em>. pp. 1–35.</p>
+<p>Creman, L., Grange, S. K., Rubli, P., Fischer, A., Brunner, D.,
+Hueglin, C., Emmenegger, L., and Bernet, L. (2025). <a
+href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3425">The
+Zurich Low-cost CO<sub>2</sub> sensor network (ZiCOS-L): data
+processing, performance assessment and analysis of spatial and temporal
+CO<sub>2</sub> dynamics.</a> <em>EGUsphere (under review)</em>.</p>
+<p>Liu, X., Zhang, X., Jin, B., Wang, T., Qian, S., Zou, J., Dinh, V. N.
+T., Jaffrezo, J.-L., Uzu, G., Dominutti, P., Darfeuil, S., Favez, O.,
+Conil, S., Marchand, N., Castillo, S., Rosa, J. D. de la, Grange, S.,
+Hueglin, C., Eleftheriadis, K., Diapouli, E., Manousakas, M.-I., Gini,
+M., Nava, S., Calzolai, G., Alves, C., Monge, M., Reche, C., Harrison,
+R. M., Hopke, P. K., Alastuey, A., and Querol, X. (2025). <a
+href="https://doi.org/10.1038/s41612-025-01097-7">Source apportionment
+of PM<sub>10</sub> based on offline chemical speciation data at 24
+European sites.</a> <em>npj Climate and Atmospheric Science</em> 8.1,
+p. 255.</p>
+<p>Upadhyay, A., Jiang, J., Cheng, Y., Vasilakos, P., Chen, Y., Banos,
+D. T., Flückiger, B., Manousakas, M. I., Prévôt, A. S. H., Modini, R.
+L., Campa, A. S. de la, Schemmel, A., Alastuey, A., Bergmans, B., Alves,
+C. A., Hueglin, C., Colombi, C., Reche, C., Sánchez-Rodas, D., Massabò,
+D., Diapouli, E., Mazzei, F., Lucarelli, F., Uzu, G., Salma, I.,
+Jaffrezo, J.-L., Rosa, J. D. de la, Reusser, J. E., Elefthariadis, K.,
+Alleman, L., Scerri, M., Severi, M., Favez, O., Prati, P., Traversi, R.,
+Vecchi, R., Becagli, S., Nava, S., Castillo, S., Grange, S. K., Querol,
+X., Kertész, Z., Ciarelli, G., Probst-Hensch, N., Vienneau, D., Kuenen,
+J., Gon, H. D. V. D., Daellenbach, K. R., Krymova, E., Hoogh, K. de, and
+El-Haddad, I. (2025). <a
+href="https://doi.org/10.1016/j.envint.2025.109615">High-resolution
+modelling of particulate matter chemical composition over Europe: brake
+wear pollution.</a> <em>Environmental International</em>, 202,
+p. 109615.</p>
+<p>Grange, S. K., Rubli, P., Fischer, A., Brunner, D., Hueglin, C., and
+Emmenegger, L. (2025). <a
+href="https://acp.copernicus.org/articles/25/2781/2025/">The ZiCOS-M
+CO<sub>2</sub> sensor network: measurement performance and
+CO<sub>2</sub> variability across Zurich.</a> <em>Atmospheric Chemistry
+and Physics</em> 25.5, pp. 2781–2806.</p>
+<p>Liu, X., Zhang, X., Wang, T., Jin, B., Wu, L., Lara, R., Monge, M.,
+Reche, C., Jaffrezo, J.-L., Uzu, G., Dominutti, P., Darfeuil, S., Favez,
+O., Conil, S., Marchand, N., Castillo, S., Rosa, J. D. de la, Grange,
+S., Eleftheriadis, K., Diapouli, E., Gini, M. I., Nava, S., Alves, C.,
+Wang, X., Xu, Y., Green, D. C., Beddows, D. C. S., Harrison, R. M.,
+Alastuey, A., and Querol, X. (2024). <a
+href="https://www.sciencedirect.com/science/article/pii/S0013935124015354">PM<sub>10</sub>
+-bound trace elements in pan-European urban atmosphere.</a>
+<em>Environmental Research</em> 260, p. 119630.</p>
+<p>Grange, S. K., Sintermann, J., and Hueglin, C. (2023). <a
+href="https://www.sciencedirect.com/science/article/pii/S0048969723044698">Meteorologically
+normalised long-term trends of atmospheric ammonia (NH<sub>3</sub>) in
+Switzerland/Liechtenstein and the explanatory role of gas-aerosol
+partitioning</a>. <em>Science of the Total Environment</em> 900,
+p. 165844.</p>
+<p>Colombi, N. K., Jacob, D. J., Yang, L. H., Zhai, S., Shah, V.,
+Grange, S. K., Yantosca, R. M., Kim, S., and Liao, H. (2023). <a
+href="https://acp.copernicus.org/articles/23/4031/2023/">Why is ozone in
+South Korea and the Seoul metropolitan area so high and increasing?</a>
+<em>Atmospheric Chemistry and Physics</em> 23.7, pp. 4031–4044.</p>
+<p>Borlaza, L. J. S., Nguyen, V. T., Hueglin, C., Jean-Luc, J., Grange,
+S. K., and Uzu, G (2023). <a
+href="https://pubs.rsc.org/en/Content/ArticleLanding/2023/EA/D3EA00013C">Impact
+of COVID-19 lockdown on particulate matter oxidative potential at urban
+background versus traffic sites</a>. <em>Environmental Science:
+Atmospheres</em>.</p>
+<p>Warburton, T., Grange, S. K., Hopkins, J. R., Andrews, S. J., Lewis,
+A. C., Owen, N., Jordan, C., Adamson, G., and Xia, B. (2023). <a
+href="http://dx.doi.org/10.1039/D2EM00444E">The impact of plug-in
+fragrance diffusers on residential indoor VOC concentrations</a>.
+<em>Environmental Science: Processes &amp; Impacts</em></p>
+<p>Shaw, J. T., Allen, G., Topping, D., Grange, S. K., Barker, P., Pitt,
+J., and Ward, R. S. (2022). <a
+href="https://www.sciencedirect.com/science/article/pii/S1309104222002446">A
+case study application of machine-learning for the detection of
+greenhouse gas emission sources</a>. <em>Atmospheric Pollution
+Research</em>, 13.10, p. 101563.</p>
+<p>Lovrić, M., Antunović, M., Šunić, I., Vuković, M., Kecorius, S.,
+Kröll, M., Bešlić, I., Godec, R., Pehnec, G., Geiger, B. C., Grange, S.,
+and Šimić, I. (2022). <a
+href="https://www.mdpi.com/1660-4601/19/11/6937">Machine Learning and
+Meteorological Normalization for Assessment of Particulate Matter
+Changes during the COVID-19 Lockdown in Zagreb, Croatia</a>.
+<em>International Journal of Environmental Research and Public
+Health</em> 19.11.</p>
+<p>Grange, S. K., Uzu, G., Weber, S., Jaffrezo, J.-L., and Hueglin, C.
+(2022). <a
+href="https://acp.copernicus.org/articles/22/7029/2022">Linking
+Switzerland’s PM<sub>10</sub> and PM<sub>2.5</sub> oxidative potential
+(OP) with emission sources</a>. <em>Atmospheric Chemistry and
+Physics</em> 22.10, pp. 7029–7050.</p>
+<p>Brighty, A., Jacob, V., Uzu, G., Borlaza, L., Conil, S., Hueglin, C.,
+Grange, S. K., Favez, O., Trébuchon, C., and Jaffrezo, J.-L. (2022). <a
+href="https://acp.copernicus.org/articles/22/6021/2022">Cellulose in
+atmospheric particulate matter at rural and urban sites across France
+and Switzerland</a>. <em>Atmospheric Chemistry and Physics</em> 22.9,
+pp. 6021–6043.</p>
+<p>Grange, S. K., Fischer, A., Zellweger, C., Alastuey, A., Quero, X.,
+Jaffrezo, J.-l., Weber, S., Uzu, G., and Hueglin, C. (2021). <a
+href="https://www.sciencedirect.com/science/article/pii/S2590162121000459">Switzerland’s
+PM<sub>10</sub> and PM<sub>2.5</sub> environmental increments show the
+importance of non-exhaust emissions</a>. <em>Atmospheric Environment:
+X</em> 12, p 100145.</p>
+<p>Heeley-Hill, A. C., Grange, S. K., Ward, M. W., Lewis, A. C., Owen,
+N., Jordan, C., Hodgson, G., and Adamson, G. (2021). <a
+href="http://dx.doi.org/10.1039/D0EM00504E">Frequency of use of
+household products containing VOCs and indoor atmospheric concentrations
+in homes</a>. <em>Environmental Science: Processes &amp; Impacts</em> 23
+(5), pp. 699–713.</p>
+<p>Grange, S. K., Lee, J. D., Drysdale, W. S., Lewis, A. C., Hueglin,
+C., Emmenegger, L., and Carslaw, D. C. (2021). <a
+href="https://acp.copernicus.org/articles/21/4169/2021/">COVID-19
+lockdowns highlight a risk of increasing ozone pollution in European
+urban areas</a>. <em>Atmospheric Chemistry and Physics</em>. 21.5,
+pp. 4169–4185.</p>
+<p>Lovrić, M., Pavlović, K., Vuković, M., Grange, S. K., Haberl, M., and
+Kern, R. (2020). <a
+href="http://www.sciencedirect.com/science/article/pii/S0269749120365891">Understanding
+the true effects of the COVID-19 lockdown on air pollution by means of
+machine learning</a>. <em>Environmental Pollution</em>. p. 115900.</p>
+<p>Boleti, E., Hueglin, C., Grange, S. K., Prévôt, A. S. H., and
+Takahama, S. (2020). <a
+href="https://www.atmos-chem-phys.net/20/9051/2020/">Temporal and
+spatial analysis of ozone concentrations in Europe based on timescale
+decomposition and a multi-clustering approach</a>. <em>Atmospheric
+Chemistry and Physics</em> 20.14, pp. 9051–9066.</p>
+<p>Grange, S. K., Farren, N. J., Vaughan, A. R., Davison, J., and
+Carslaw, D. C. (2020). <a
+href="https://doi.org/10.1021/acs.estlett.0c00188">Post-Dieselgate:
+Evidence of NO<sub>x</sub> Emission Reductions Using On-Road Remote
+Sensing</a>. <em>Environmental Science and Technology Letters</em>. 7.6,
+pp. 382–387.</p>
+<p>Grange, S. K., Lötscher, H., Fischer, A., Emmenegger, L., and
+Hueglin, C. (2020). <a
+href="https://www.atmos-meas-tech.net/13/1867/2020/">Evaluation of
+equivalent black carbon source apportionment using observations from
+Switzerland between 2008 and 2018</a>. <em>Atmospheric Measurement
+Techniques</em> 13.4, pp. 1867–1885.</p>
+<p>Grange, S. K., Farren, N. J., Vaughan, A. R., Rose, R. A., and
+Carslaw, D. C. (2019). <a
+href="https://pubs.acs.org/doi/abs/10.1021/acs.est.9b01024">Strong
+temperature dependence for light-duty diesel vehicle NO<sub>x</sub>
+emissions</a>. <em>Environmental Science &amp; Technology</em> 53.11,
+pp. 6587–6596.</p>
+<p>Grange, S. K. and Carslaw, D. C. (2019). <a
+href="http://www.sciencedirect.com/science/article/pii/S004896971834244X">Using
+meteorological normalisation to detect interventions in air quality time
+series</a>. <em>Science of The Total Environment</em> 653,
+pp. 578–588.</p>
+<p>Hu, L., Keller, C. A., Long, M. S., Sherwen, T., Auer, B., Da Silva,
+A., Nielsen, J. E., Pawson, S., Thompson, M. A., Trayanov, A. L.,
+Travis, K. R., Grange, S. K., Evans, M. J., and Jacob, D. J. (2018). <a
+href="https://www.geosci-model-dev.net/11/4603/2018/">Global simulation
+of tropospheric chemistry at 12.5 km resolution: performance and
+evaluation of the GEOS-Chem chemical module (v10-1) within the NASA GEOS
+Earth system model (GEOS-5 ESM).</a> <em>Geoscientific Model
+Development</em> 11.11, pp. 4603–4620.</p>
+<p>Bigi, A., Mueller, M., Grange, S. K., Ghermandi, G., and Hueglin, C.
+(2018). <a
+href="https://www.atmos-meas-tech.net/11/3717/2018/">Performance of NO,
+NO<sub>2</sub> low cost sensors and three calibration approaches within
+a real world application.</a> <em>Atmospheric Measurement
+Techniques</em> 11.6, pp. 3717–3735.</p>
+<p>Grange, S. K., Carslaw, D. C., Lewis, A. C., Boleti, E., and Hueglin,
+C. (2018). <a
+href="https://www.atmos-chem-phys.net/18/6223/2018/">Random forest
+meteorological normalisation models for Swiss PM<sub>10</sub> trend
+analysis</a>. <em>Atmospheric Chemistry and Physics</em> 18.9,
+pp. 6223–6239.</p>
+<p>Grange, S. K., Lewis, A. C., Moller, S. J., and Carslaw, D. C.
+(2017). <a href="https://doi.org/10.1038/s41561-017-0009-0">Lower
+vehicular primary emissions of NO<sub>2</sub> in Europe than assumed in
+policy projections</a>. <em>Nature Geoscience</em> 10.12,
+pp. 914–918.</p>
+<p>Weissert, L., Salmond, J. A., Miskell, G., Alavi-Shoshtari, M.,
+Grange, S. K., Henshaw, G., and Williams, D. (2017). <a
+href="http://www.sciencedirect.com/science/article/pii/S004896971632160X">Use
+of a dense monitoring network of low-cost instruments to observe local
+changes in the diurnal ozone cycles as marine air passes over a
+geographically isolated urban centre</a>. <em>Science of the Total
+Environment</em> 575, pp. 67–78.</p>
+<p>Grange, S. K., Lewis, A. C., and Carslaw, D. C. (2016). <a
+href="http://www.sciencedirect.com/science/article/pii/S1352231016307166">Source
+apportionment advances using polar plots of bivariate correlation and
+regression statistics</a>. <em>Atmospheric Environment</em> 145, pp
+128–134</p>
+<p>Miskell, G., Salmond, J., Alavi-Shoshtari, M., Bart, M., Ainslie, B.,
+Grange, S., Mckendry, I., Henshaw, G., and Williams, D. E. (2015). <a
+href="http://dx.doi.org/10.1021/acs.est.5b04421">Data verification tools
+for minimizing management costs of dense air-quality monitoring
+networks</a>. <em>Environmental Science &amp; Technology</em>. 50.2
+pp. 835–846.</p>
+<p>Bart, M., Williams, D., Ainslie, B., McKendry, I., Salmond, J.,
+Grange, S., Alavi-Shoshtari, M., Steyn, D., and Henshaw, G. (2014). <a
+href="http://dx.doi.org/10.1021/es404610t">High Density Ozone Monitoring
+using Gas Sensitive Semi-Conductor Sensors in the Lower Fraser Valley
+British Columbia.</a>, <em>Environmental Science &amp; Technology</em>
+48.7, pp. 3970–3977</p>
+<p>Grange, S. K., Dirks, K. N., Costello, S. B., and Salmond, J. A.
+(2014). <a
+href="http://www.sciencedirect.com/science/article/pii/S1361920914000996">Cycleways
+and footpaths: What separation is needed for equivalent air pollution
+dose between travel modes?</a> <em>Transportation Research Part D:
+Transport and Environment</em> 32, pp. 111–119.</p>
+<p>Grange, S. K., Salmond, J. A., Trompetter, W. J., Davy, P. K., and
+Ancelet, T. (2013). <a
+href="http://www.sciencedirect.com/science/article/pii/S1352231013000411">Effect
+of atmospheric stability on the impact of domestic wood combustion to
+air quality of a small urban township in winter.</a> <em>Atmospheric
+Environment</em> 70, pp. 28–38.</p>
+<p>Trompetter, W. J., Grange, S. K., Davy, P. K., and Ancelet, T.
+(2013). <a
+href="http://www.sciencedirect.com/science/article/pii/S1352231013002902">Vertical
+and temporal variations of black carbon in New Zealand urban areas
+during winter.</a> <em>Atmospheric Environment</em> 75, pp. 179–187.</p>
+</div>
+<div id="conference-papers-presentations" class="section level2">
+<h2>Conference papers &amp; presentations</h2>
+<p>Grange, S. K. (2025). <a
+href="https://drive.google.com/file/d/14x1sNvoc6EjMUcBawXLjjPzgihjlts_o/view?usp=drive_link">Leveraging
+routine atmospheric observations to illuminate emission source
+behaviour.</a> University of Bern, Climate and Environmental Physics
+(CEP) Fall Semester Seminar Series, Sidlerstrasse 5, Bern, September 22,
+2025.</p>
+<p>Via, M., Rusanen, A., Demšar, J., Hao, Y., Manousakas, M., Jiang, J.,
+Močnik, G., Grange, S. K., and Daellenbach, K. R. (2025). Sparsity
+introduction in Bayesian models for aerosol source apportionment through
+the regularised horseshoe prior. International Conference AI for SCIENCE
+2025, 22–26 September 2025, Ljubljana, Slovenia.</p>
+<p>Grange, S. K., Rubli, P., Fischer, A., Brunner, D., Hueglin, C., and
+Emmenegger, L. (2025). <a
+href="https://drive.google.com/file/d/1UOJrqvfkAuk8G0xf7vffjhp0IYXHYgzx/view?usp=drive_link">Zürich’s
+ICOS Cities CO<sub>2</sub> sensor network: measurement performance and
+CO<sub>2</sub> gradients.</a> ICOS-CH annual meeting, September 9, 2025,
+WSL Birmensdorf, Switzerland.</p>
+<p>Zhao, B., Grange, S. K., Gupta, U., Larbi, M., and Morawska, L.
+(2025). <a
+href="https://drive.google.com/file/d/1w1-12mglHmkSzgwJpZc84pwM5Hasno51/view?usp=drive_link">Enhancing
+Existing BMS Capabilities for Indoor Air Quality Optimization.</a> Clean
+Indoor Air for ALL conference. 13–15 October, 2025, Amora Riverwalk
+Melbourne.</p>
+<p>Karvonen, A., Havu, M., Grange, S. K., Ponomarev, N., Stagakis, S.,
+Molinier, B., Kljun, N., Brunner, D., Emmenegger, L., and Järvi, L.
+(2025). <a
+href="https://drive.google.com/file/d/1QrtOxa3IuNuO7OCvMjo0BcMKLrbdV_X3/view?usp=drive_link">Utilizing
+urban land surface model SUEWS to estimate effects of green
+infrastructures to carbon and heat balances in Zürich, Switzerland.</a>
+ICUC12 – 12th International Conference on Urban Climate. July 7–11,
+2025. Rotterdam, The Netherlands.</p>
+<p>Bernet, L., Constantin, L., Emmenegger, L., Grange, S. K., Hüglin,
+C., Rubli, P., and Brunner, D. (2025). <a
+href="https://drive.google.com/file/d/19h1Ydl4O4MkxDhI_Jei65CRE4eXAU_iT/view?usp=drive_link.">CO<sub>2</sub>
+emission estimates in the city of Zurich: combining building-resolved
+modelling with a dense urban monitoring network.</a> DACH 2025
+Conference. June 23–28, 2025. Oeschger Center, University of Bern,
+Switzerland.</p>
+<p>Grange, S. K., Jayaratne, R., Josa-Cullere, A., Brown, A., Kumar, P.,
+Green, L., Green, D., Fierz, M., Asbach, C., Hueglin, C., Patel, H.,
+Silvonen, V., Rönkkö, T., Timonen, H., Teinilä, K., Petäjä, T., Niemi,
+J., Lazaridis, M., Chatoutsidou, S. E., Wang, H., Stabile, L., Buonanno,
+G., Chen, H., Zhu, Y., Alastuey, A., Querol, X., Baron, L., and
+Morawska, L. (2025). <a
+href="https://drive.google.com/file/d/1At68emaicrb1h7JIwNHkrS--VRtmg-fP/view?usp=drive_link">Evaluation
+of the Naneos Partector 2 Pro ultrafine particle monitor to support
+WHO’s 2021 good practice statements.</a> 6th Workplace &amp; Indoor
+Aerosols Conference (WIAC2025), May 6–8, 2025. Gaeta, Latina, Lazio,
+Italy. Presented by Lidia Morawska.</p>
+<p>Emmenegger, L., Bernet, L., Constantin, L., Christen, A., Fischer,
+A., Grange, S. K., Hammer, S., Hörger, C., Hüglin, C., Kljun, N.,
+Marbet, S., Molinier, B., Ponomarev, N., Rubli, P., Stagakis, S., and
+Brunner, D. (2025). <a
+href="https://drive.google.com/file/d/1pdgt4xyJu5Xe2Td_mFmb7Ahg46xaofoj/view?usp=drive_link">Towards
+observation-based CO<sub>2</sub> emission estimates for the city of
+Zürich—a lively journey.</a> Urban Greenhouse Gas Conference and
+Stakeholder Summit 2025. April 7–9, 2025. Geneva, Switzerland.</p>
+<p>Grange, S. K., Rubli, P., Fischer, A., Hueglin, C., Ponomarev, N.,
+Brunner, D., and Emmenegger, L. (2024). <a
+href="https://drive.google.com/file/d/1LjuGZPcwwe_DfAIQDyUFJUTEqmVmoWDC/view?usp=drive_link">Design,
+operation, and insights from Zürich city’s mid- and low-cost ICOS Cities
+CO<sub>2</sub> sensor network.</a> ICOS Science Conference 2024,
+September 10–12 2024, Versailles Palais des Congrès, France.</p>
+<p>Aigner, P., Kühbacher, D., Wenzel, A., Schmitt, A., Böhm, F.,
+Makowski, M., Kürzinger, K., Laurent, O., Rubli, P., Grange, S.,
+Emmenegger, L., and Chen, J. (2024). <a
+href="https://drive.google.com/file/d/1cJ6IA7yW-NWQREARGQmmO3YpuXJE0UTj/view?usp=drive_link">ACROPOLIS.
+Autonomous and Calibrated Roof-top Observatory for MetroPOLItan
+Sensing.</a> ICOS Science Conference 2024. September 10–12, 2024,
+Versailles Palais des Congrès, France.</p>
+<p>Kühbacher, D., Chen, J., Bärtschi, J., Khan, A. A., Wenzel, A.,
+Aigner, P., Grange, S., Rubli, P., and Emmenegger, L. (2024). <a
+href="https://drive.google.com/file/d/1UMz_BalNpKuUDRaOli8T4tQZKGeuznlh/view?usp=drive_link">SCOUT:
+Street-Level Carbon Observatory for Urban Terrain.</a> ICOS Science
+Conference 2024. ICOS Science Conference 2024. September 10–12, 2024,
+Versailles Palais des Congrès, France.</p>
+<p>Bernet, L., Constantin, L., Emmenegger, L., Grange, S. K., Hüglin,
+C., Ponomarev, N., Rubli, P., and Brunner, D. (2024). <a
+href="https://drive.google.com/file/d/1Tsf_qu7211V72z11NRvUPZFJ43T-eS78/view?usp=drive_link">Building-resolved
+CO<sub>2</sub> simulations to estimate emissions of the city of
+Zurich.</a> ICOS Science Conference 2024, September 10–12 2024,
+Versailles Palais des Congrès, France.</p>
+<p>Grange, S. K., Rubli, P., Fischer, A., Hüglin, C., and Emmenegger, L.
+(2024c). <a
+href="https://drive.google.com/file/d/1ybrRRMS3J4Wg-SMDd1DsV0pTYptJ14g7/view?usp=drive_link">Design,
+operation, and insights from Zürich City’s mid- and low-cost CO2 sensor
+network.</a> 14th International Conference on Air Quality, Helsinki,
+Finland, 13–17 May, 2024.</p>
+<p>Grange, S., Rubli, P., Fischer, A., Hueglin, C., Ponomarev, N.,
+Brunner, D., and Emmenegger, L. (2024). <a
+href="https://drive.google.com/file/d/1OYAB7ot6BW25zf6MRwji71z85tDICri_/view?usp=sharing">Design,
+deployment, and insights from Zürich city’s mid- and low-cost
+CO<sub>2</sub> sensor network.</a> EGU General Assembly 2024, Vienna,
+Austria, 14–19 April 2024, EGU24-5221. Session AS3.38 – Science-based,
+measurement-based greenhouse gas monitoring and emission estimates in
+support of national, sub-national, city and industrial climate change
+mitigation. Presented by Lukas Emmenegger.</p>
+<p>Ponomarev, N., Steiner, M., Koene, E., Constantin, L., Rubli, P.,
+Grange, S., Emmenegger, L., and Brunner, D. (2024). <a
+href="https://meetingorganizer.copernicus.org/EGU24/EGU24-7420.html">Estimation
+of CO<sub>2</sub> fluxes in the city of Zurich using the mesoscale
+atmospheric transport and inversion model ICON-ART-CTDAS.</a> EGU
+General Assembly 2024, Vienna, Austria, 14–19 April 2024, EGU24-7420.
+Session AS3.36 – Urban Air Quality and Greenhouse Gases.</p>
+<p>Rausch, J., Jaramillo-Vogel, D., Perseguers, S., Manousakas, M.,
+Daellenbach, K. R., Grange, S. K., Hüglin, C., Alastuey, A., and
+Schnidrig, N. (2024). <a
+href="https://drive.google.com/file/d/1dvoLi-jQOYjFnZmi7PhsozQQgrzaWaik/view?usp=drive_link">Using
+SEM/EDX morpho-chemical single particle analysis for elemental source
+apportionment in PM<sub>10–2.5</sub> following a validation with
+ICP-MS/-AES data.</a> The European Aerosol Conference 2024
+(EAC2024).</p>
+<p>Grange, S. K. (2024). <a
+href="https://drive.google.com/file/d/1TUqrUjs9gt4SpwE1AxEPcJaEV1u8gZZQ/view?usp=drive_link">Robust
+trend analysis and intervention detection of air pollutants with the use
+of machine learning models.</a> Clean Air Society of Australia and New
+Zealand (CASANZ) AIR TALKS 2024 – Modelling. Presented online on
+February 29, 2024.</p>
+<p>Christen, A., Emmenegger, L., Hammer, S., Kutsch, W., D’Onofrio, C.,
+Chen, J., Eritt, M., Haeffelin, M., Järvi, L., Kljun, N., Lauvaux, T.,
+Loubet, B., Mauder, M., Mensah, A. A., Papale, D., Rivier, L., Stagakis,
+S., Vermeulen, A., Aigner, P., Bernasconi, D., Brunner, D., Buysse, P.,
+Chariot, M., Fischer, A., Grange, S., Hashemi, J., Hilland, R., Holst,
+C. C., Kasurinen, V., Kotthaus, S., Kühbacher, D., Kunz, A.-K., Lan, C.,
+Laurent, O., Lopez, M., Luther, A., Makowski, M., Morrison, W.,
+Nicolini, G., Ramonet, M., Rubli, P., Soininen, J., Vogt, R., Wenzel,
+A., and Zeeman, M. (2023). <a
+href="https://drive.google.com/file/d/1CkaWTmU8C5DcfLLiGial7W4avV-3nrsC/view?usp=share_link">ICOS
+pilot observatories to monitor greenhouse gas emissions from three
+different-size European cities.</a> EGU General Assembly 2023, Vienna,
+Austria, 24–28 Apr 2023, EGU23-9884. Session AS2.4 – Air-Land
+Interactions (General Session).</p>
+<p>Grange, S., Rubli, P., Hueglin, C., Fischer, A., Baffelli, S.,
+Brunner, D., and Emmenegger, L. (2023). <a
+href="https://drive.google.com/file/d/1qyD3qOVCbyvRcyOy5diwTlOz7CE3XSND/view?usp=share_link">Design,
+deployment, and exploitation of a high-density CO<sub>2</sub> sensor
+network in Zürich City.</a> EGU General Assembly 2023, Vienna, Austria,
+24–28 Apr 2023, EGU23-7172. Session AS3.15 – Urban Air Quality and
+Greenhouse Gases.</p>
+<p>Grange, S. . K., Baffelli, S., Hueglin, C., Rubli, P., Fischer, A.,
+and Emmenegger, L. (2022). <a
+href="https://drive.google.com/file/d/1dfxKZ3vpjJSFIfxKF--CHcs2S6BmG9Nt/view?usp=sharing">Operation
+of the ICOS-Cities urban CO<sub>2</sub> sensor network in Zürich,
+Switzerland</a>. ICOS Science Conference 2022. Presented on September
+15, 2022, Utrecht, the Netherlands.</p>
+<p>Grange, S. K., Uzu, G., Weber, S., Jaffrezo, J.-L., Alastuey, A.,
+Querol, X., and Hueglin, C. (2022). <a
+href="https://drive.google.com/file/d/1WPi7lHFV7J8_EZ28HWyfdFzPnEFGxEIz/view?usp=sharing">Characterisation
+of Switzerland’s PM<sub>10</sub>, PM<sub>2.5</sub>, and associated
+oxidative potential</a>. 13th International Conference on Air Quality -
+Science and Application. Thessaloniki, Greece, 27 June–1 July, 2022.</p>
+<p>Grange, S. . K., Lee, J. D., Drysdale, W. S., Lewis, A. C., Hueglin,
+C., Emmenegger, L., and Carslaw, D. C. (2022). <a
+href="https://drive.google.com/file/d/1RodR1JNja3VS3atDAL5rBZdAJoUronl-/view?usp=sharing">European
+urban air quality and COVID-19 lockdowns</a>. 13th International
+Conference on Air Quality - Science and Application. Thessaloniki,
+Greece, 27 June–1 July, 2022.</p>
+<p>Grange, S. K. (2021). <a
+href="https://drive.google.com/file/d/13HcMhgsldrScQUkfW6MLQ76Adnx7vXgR/view?usp=sharing">COVID-19
+lockdowns highlight a risk of increasing ozone pollution in European
+urban areas</a>. Scottish Air Quality Database Seminar, 2021. Presented
+online on March 17, 2021.</p>
+<p>Grange, S. K. (2021). <a
+href="https://drive.google.com/file/d/1edqgKOKhpwRfg25qjDDYvBK8j-tJ2Bzh/view?usp=sharing">European
+gaseous air pollutants’ responses to COVID-19 restrictions</a>. ACTRIS
+NO<sub>x</sub>/VOC QA workshop – April 21, 2021.</p>
+<p>Grange, S. K. (2021). <a
+href="https://drive.google.com/file/d/1HDl6Z2cVoVDi26FHiS8xAAlBcCDw_Rcc/view">The
+impact of COVID-19 lockdowns on air quality in European urban areas</a>.
+Data Science of the Natural Environment (DSNE; Lancaster University)
+seminar. Presented online on May 20, 2021.</p>
+<p>Grange, S. K., Lee, J. D., Drysdale, W. S., Lewis, A. C., Hueglin,
+C., Emmenegger, L., and Carslaw, D. C. (2021). <a
+href="https://drive.google.com/file/d/1tXzuVTdRQrZeMncdjFSp2aku0UTYRHIL/view?usp=sharing">The
+impact of COVID-19 lockdowns on air quality in European urban areas</a>.
+Royal Meteorological Society’s Virtual Event – Air Quality and Climate
+Impacts of COVID-19 Lockdowns. Presented online on November 18,
+2021.</p>
+<p>Grange, S. K., Lee, J. D., Drysdale, W. S., Lewis, A. C., Hueglin,
+C., Emmenegger, L., Reimann, S., and Carslaw, D. C. (2021). <a
+href="https://drive.google.com/file/d/1WLuXYxDqyHW7i-FJuEdwMGjrFwhT4ZMT/view">The
+impact and implications of COVID-19 mobility restrictions on European
+air quality</a>. ACTRIS Week 2021 – Plenary Scientific Session.
+Presented online on October 28, 2021.</p>
+<p>Grange, S. K. (2021). <a
+href="https://drive.google.com/file/d/18-ABB7IQxyv1OtqwX3zhcY5vJdZP-En9/view?usp=sharing">Exploring
+Switzerland’s PM<sub>10</sub>, PM<sub>2.5</sub>, and associated
+oxidative potential (OP)</a>. Swiss Aerosol Group (SAG) Meeting,
+November 2, 2021, Bern, Switzerland.</p>
+<p>Grange, S. K., Alastuey, A., Querol, X., Uzu, G., Jaffrezo, J.-L.,
+and Hueglin, C. (2020). <a
+href="https://drive.google.com/file/d/1KXbfaKDHwV_Y9k5m4PWVAo-1mZhGNy9T/view?usp=sharing">Characterisation
+of Switzerland’s PM<sub>10</sub> and PM<sub>2.5</sub> between 1998 and
+2019.</a> European Aerosol Conference (EAC 2020), held online between
+August 31 and September 4, 2020, planned to be held in Aachen, Germany.
+Session: AAS 1: Atmospheric new particle formation/Aerosols in earth
+system models; ID: 202.</p>
+<p>Grange, S. K., Lötscher, H., Fischer, A., Emmenegger, L., and
+Hueglin, C. (2020). <a
+href="https://drive.google.com/open?id=1mAZhHGp2ecWIFxv5rfvnAiaQW2OzJo_E">Exploring
+equivalent black carbon (EBC) concentrations in Switzerland with the
+aethalometer model.</a> Presented online for the 12th International
+Conference on Air Quality – Science and Application (planned to be held
+in Thessaloniki, Greece, 9-13 March, 2020).</p>
+<p>Grange, S. K., Farren, N. J., Vaughan, A. R., Rose, R. A., and
+Carslaw, D. C. (2019). <a
+href="https://drive.google.com/open?id=1NQKZKBJ7cExlRXhZMqn-HrVwoHWlFatU">Strong
+ambient temperature dependence on NO<sub>x</sub> emissions for
+light-duty diesel vehicles</a>. Presented at American Geophysical Union
+(AGU) 2019 Fall Meeting, San Francisco, California, 9–13 December.
+Abstract number 488377 and final paper number A21W-2634.</p>
+<p>Grange, S. K. (2018) <a
+href="https://drive.google.com/open?id=1TXXuOmrBk_E-M3qjpCqoJzg4mUVcqRcH">Extracting
+additional information from routine air quality data</a>. Presented on
+2018-10-03 for the Kathleen Mary Stott (KMS) Prize winners’ seminar.</p>
+<p>Grange, S. K., Carslaw, D. C., and Hueglin, C. (2018). <a
+href="https://drive.google.com/open?id=1NSmRE9JA4kgSI5RIpjYdIRN2953Bv2sS">PM<sub>10</sub>
+trends in Switzerland using random forest models</a>. 11th International
+Conference on Air Quality - Science and Application. Air Quality 2018,
+Barcelona, 12-16 March 2018.</p>
+<p>Grange, S. K. and Carslaw, D. C. (2017). <a
+href="https://drive.google.com/open?id=1LGoDGzafkG4vBqfwCEWfAWRNBR__xpqM">Comprehensive
+analysis of European vehicular primary NO<sub>2</sub> trends</a>. 22nd
+International Transport and Air Pollution Conference, 15-16 November
+2017, Zürich, Switzerland.</p>
+<p>Miskell, G., Salmond, J., Grange, S., Weissert, L., Henshaw, G., and
+Williams, D. (2017). <a
+href="http://www.mdpi.com/2504-3900/1/4/400">Reliable Long-Term Data
+from Low-Cost Gas Sensor Networks in the Environment</a>. Proceedings
+for Eurosensors 2017, Paris September 3-6.</p>
+<p>Miskell, G., Salmond, J., Alavi-Shoshtari, M., Bart, M., Ainslie, B.,
+Grange, S., McKendry, I., Henshaw, G., and Williams, D. (2016). <a
+href="https://drive.google.com/open?id=0B7lRD1eNlhErRFpLMDRSdS1XNms">Application
+of Automated Statistics for Managing Low Cost Air Quality Networks.</a>
+Air Quality Measurement Methods and Technology. March 15-17, 2016.
+Chapel Hill, North Carolina. Extended Abstract #29.</p>
+<p>Grange, S. K., Dirks, K. N., Costello, S. B., Bolam, L., Brandon, R.
+A., and Salmond, J. A. (2013). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErbk4zTTd4cGg2a2M/edit?usp=sharing">Carbon
+monoxide exposure and dose for commuters in a roadside environment.</a>
+The Meteorological Society of New Zealand Annual Conference, Palmerston
+North, New Zealand on 19-22 November, 2013.</p>
+<p>Ancelet, T., Davy, P., Trompetter, B., Markwitz, A., Grange, S., and
+Weatherburn, D. (2012). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErcWRFdllwOWpIVzg/edit?usp=sharing">Air
+Particulate Matter Sources on an Hourly Time-Scale-Alexandra and
+Nelson.</a> National Air Quality Working Group May 25, 2012.</p>
+<p>Grange, S. K. (2012). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErQ1NrOU42VnR1VDA/edit?usp=sharing">Winter-time
+air quality consequences of domestic woodburning in a small urban
+area.</a> Presented on February 10, 2012 at GNS Science, Gracefield, New
+Zealand.</p>
+<p>Grange, S. K., Salmond, J., Trompetter, B., Davy, P., and Ancelet, T.
+(2012). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErWTZiN013WTJmZkk/edit?usp=sharing">Air
+quality consequences of domestic wood burning in Nelson during the
+winter of 2011.</a> The New Zealand National Air Quality Working Group,
+May 25, 2012.</p>
+<p>Grange, S. K., Trompetter, W. J., Davy, P. K., Ancelet, T., and
+Salmond, J. A. (2011). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErNjY0WjJzTVc1bUk/edit?usp=sharing">Horizontal
+and vertical variation of pollutants in Nelson South during the winter
+of 2011.</a> The Meteorological Society of New Zealand Annual
+Conference, Nelson, New Zealand, November 14–15, 2011. <em>Recipient of
+best student presentation award for 2011</em>.</p>
+<p>Trompetter, W. J., Grange, S. K., Davy, P., Ancelet, T., and
+Markwitz, A. (2011). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErWGdlcmtwMjdGU3M/edit?usp=sharing">Black
+carbon transect profiles during the 2010 winter sampling campaign in
+Masterton, New Zealand.</a> 20th International Clean Air and Environment
+Conference, Clean Air Society of Australia and New Zealand (CASANZ), 31
+July–2 August, Auckland, New Zealand.</p>
+</div>
+<div id="software" class="section level2">
+<h2>Software</h2>
+<div id="r-packages" class="section level3">
+<h3>R packages</h3>
+<div id="published-on-cran" class="section level4">
+<h4>Published on CRAN</h4>
+<p><a
+href="https://cran.r-project.org/web/packages/rmweather/index.html">rmweather</a>:
+Tools to Conduct Meteorological Normalisation on Air Quality Data.</p>
+<p><a
+href="https://cran.r-project.org/web/packages/saqgetr/index.html">saqgetr</a>:
+Import Air Quality Monitoring Data in a Fast and Easy Way.</p>
+</div>
+<div id="other" class="section level4">
+<h4>Other</h4>
+<p><a href="https://github.com/skgrange/threadr">threadr</a>: Tools to
+Thread Pieces Of Data Analysis Together.</p>
+<p><a href="https://github.com/skgrange/gissr">gissr</a>: A collection
+of spatial functions to make R a more effective GIS. Retired in 2024 and
+superseded by <a
+href="https://github.com/skgrange/sspatialr">sspatialr</a>.</p>
+<p><a href="https://github.com/skgrange/databaser">databaser</a>: Tools
+to Keep Database Interaction Easy and Consistent.</p>
+<p><a href="https://github.com/skgrange/smonitor">smonitor</a>: A
+Framework and a Collection of Functions to Allow for Maintenance of Air
+Quality Monitoring Data.</p>
+<p><a
+href="https://github.com/skgrange/envirologgerr">envirologgerr</a>: An R
+interface to the Envirologger API.</p>
+<p><a href="https://github.com/wacl-york/waclr">waclr</a>: A Collection
+of Tools to Help at the Wolfson Atmospheric Chemistry Laboratories
+(WACL).</p>
+<p><a
+href="https://github.com/skgrange/normalweatherr">normalweatherr</a>: An
+R package to conduct meteorological/weather normalisation on air quality
+data (deprecated).</p>
+<p><a href="https://github.com/skgrange/systemr">systemr</a>: Tools to
+Return Structured System Calls.</p>
+<p><a href="https://github.com/skgrange/emitr">emitr</a>: Tools to Help
+With On-Road Vehicle Emission Data Analysis.</p>
+<p><a href="https://github.com/skgrange/hyr">hyr</a>: Command the Hybrid
+Single Particle Lagrangian Integrated Trajectory Model (HYSPLIT) with
+R.</p>
+<p><a href="https://github.com/skgrange/pmfr">pmfr</a>: Interact With
+Data Generated by the EPA PMF Tool.</p>
+<p><a href="https://github.com/skgrange/isorropiar">isorropiar</a>:
+Command the aerosol thermodynamical equilibrium ISORROPIA II model with
+R.</p>
+<p><a href="https://github.com/skgrange/sspatialr">sspatialr</a>: A
+collection of spatial functions to make R a more effective GIS based on
+the sf and terra packages.</p>
+<p><a href="https://github.com/skgrange/partectorr">partectorr</a>: A
+collection of functions to help with the testing and characterisation of
+the Naneos Partector 2 Pro ultrafine particle monitor.</p>
+</div>
+</div>
+</div>
+<div id="other-works" class="section level2">
+<h2>Other works</h2>
+<div id="technical-notes-and-reports" class="section level3">
+<h3>Technical notes and reports</h3>
+<p>Hüglin, C. and Grange, S. K. (2021). <a
+href="https://www.bafu.admin.ch/dam/bafu/de/dokumente/luft/externe-studien-berichte/chemical-characterisation-and-source-identification-of-pm-in-switzerland.pdf.download.pdf/Characterisation-source-identification-PM.pdf">Chemical
+characterisation and source identification of PM<sub>10</sub> and
+PM<sub>2.5</sub> in Switzerland</a>. Project report. Empa, Swiss Federal
+Laboratories for Materials Science and Technology. Commissioned by the
+Federal Office for the Environment (FOEN).</p>
+<p>Grange, S. K., &amp; Hüglin, C. (2020). <a
+href="https://www.bafu.admin.ch/dam/bafu/en/dokumente/luft/externe-studien-berichte/swiss_visibility_note.pdf.download.pdf/swiss_visibility_note.pdf">Horizontal
+visibility across Switzerland between 1980 and 2018.</a> A report
+prepared by Empa, Swiss Federal Laboratories for Materials Science and
+Technology, Air Pollution/Environmental Technology Laboratory
+commissioned by the Federal Office for the Environment (FOEN).</p>
+<p>Grange, S. K. (2017). <a
+href="https://drive.google.com/open?id=1Z-Lxz8LccK9ENCLwS0c2Y0EUZ5bCq2lW">Technical
+note: smonitor Europe.</a></p>
+<p>Grange, S. and Xie, S. (2015). <a
+href="http://www.knowledgeauckland.org.nz/assets/publications/TR2015-004-Auckland-2011-industrial-air-emission-inventory.pdf">Auckland
+industrial air emission inventory 2011. Auckland Council technical
+report, TR2015/004.</a></p>
+<p>Grange, S. K. (2014). <a
+href="https://drive.google.com/open?id=0B7lRD1eNlhErbWNQeTVPTy1pRWc">Technical
+note: Averaging wind speeds and directions</a> (or <a
+href="http://doi.org/10.13140/RG.2.1.3349.2006">DOI</a>)</p>
+</div>
+<div id="theses" class="section level3">
+<h3>Theses</h3>
+<p>Grange, S. K. (2019). <a
+href="https://drive.google.com/open?id=1FQ3bjNRWO4vB_jd_9W8O7gWQwaqiwt8B"><em>Development
+of Data Analytic Approaches for Air Quality Data</em></a>. PhD thesis.
+Chemistry, The University of York.</p>
+<p>Grange, S. K. (2011). <a
+href="https://drive.google.com/file/d/0B7lRD1eNlhErVnlaQUsxSkgyaVk/edit?usp=sharing"><em>Spatio-temporal
+variation of atmospheric pollutants during the winter of 2011 in Nelson
+South.</em></a> MSc thesis. School of Environment, The University of
+Auckland.</p>
+</div>
+<div id="posters" class="section level3">
+<h3>Posters</h3>
+<p>Emmenegger, L., Bernet, L., Brunner, D., Christen, A., D’Onofrio, C.,
+Fischer, A., Hammer, S., Grange, S., Hilland, R., Järvi, L., Kunz,
+A.-K., Kutsch, W., Kljun, N., Mauder, M., Mensah, A. A., Rubli, P.,
+Stagakis, S., Vermeulen, A., Vogt, R., and the ICOS Cities team (2024).
+<a
+href="https://drive.google.com/file/d/1IrwZN8twPxIBPz5vG0fm6szGOpQW9uBd/view?usp=sharing">ICOS
+Cities: Observation-based greenhouse gas emissions monitoring: first
+results from the Zürich pilot city.</a> 14th International Conference on
+Air Quality, Helsinki, Finland, 13–17 May, 2024.</p>
+<p>Grange, S. K., Farren, N. J., Vaughan, A. R., Rose, R. A., and
+Carslaw, D. C. (2019). <a
+href="https://drive.google.com/open?id=1NQKZKBJ7cExlRXhZMqn-HrVwoHWlFatU">Strong
+ambient temperature dependence on NO<sub>x</sub> emissions for
+light-duty diesel vehicles.</a> Presented at American Geophysical Union
+(AGU) 2019 Fall Meeting, San Francisco, California, 9–13 December.
+Abstract number 488377 and final paper number A21W-2634.</p>
+<p>Grange, S. K. and Carslaw, D. C. (2019). <a
+href="https://drive.google.com/open?id=1wfqJhwEgcHW9nWkhMByjkeTDhEnQTLUd"><em>Using
+meteorological normalisation to detect changes in NO<sub>2</sub>
+emissions at London Marylebone Road.</em></a> Poster presented at the
+Atmospheric Science Conference 2019, Birmingham, United Kingdom,
+2019-07-03.</p>
+<p>Grange, S. K. (2018). <a
+href="https://drive.google.com/open?id=1WtdfCmwPATRHeftg2qUSTeHg2D9s2Y5K"><em>Outlook
+for European roadside NO<sub>2</sub> better than thought.</em></a> Third
+year poster competition sponsored by Johnson Matthey.</p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
