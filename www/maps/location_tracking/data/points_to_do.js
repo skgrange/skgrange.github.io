@@ -2520,30 +2520,6 @@ var points_to_do = [{
         "name": "Evolène",
         "type": "To-do"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.473549, 46.90546]
-      },
-      "properties": {
-        "date": "",
-        "name": "Säuhoger",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.469896, 46.90021]
-      },
-      "properties": {
-        "date": "",
-        "name": "Egg",
-        "type": "To-do"
-      }
     }
   ]
 }];
