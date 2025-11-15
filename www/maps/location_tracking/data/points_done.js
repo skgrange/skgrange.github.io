@@ -59885,6 +59885,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.468032, 46.89322]
+      },
+      "properties": {
+        "date": "2025-11-15",
+        "name": "Englisbergwald",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.469874, 46.90022]
+      },
+      "properties": {
+        "date": "2025-11-15",
+        "name": "Egg",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470092, 46.90428]
+      },
+      "properties": {
+        "date": "2025-11-15",
+        "name": "Tannacker",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.473428, 46.90551]
+      },
+      "properties": {
+        "date": "2025-11-15",
+        "name": "Unnamed transmission tower",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
