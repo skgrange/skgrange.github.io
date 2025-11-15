@@ -59873,6 +59873,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.443736, 46.95006]
+      },
+      "properties": {
+        "date": "2025-11-14",
+        "name": "Lehrerzimmer",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
