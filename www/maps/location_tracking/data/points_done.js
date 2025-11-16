@@ -59933,6 +59933,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.549681, 47.81389]
+      },
+      "properties": {
+        "date": "2025-11-16",
+        "name": "Neuenburg Grenze",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.546366, 47.81445]
+      },
+      "properties": {
+        "date": "2025-11-16",
+        "name": "Neuenburg Grenze",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.542168, 47.80801]
+      },
+      "properties": {
+        "date": "2025-11-16",
+        "name": "Unnamed trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.537439, 47.80421]
+      },
+      "properties": {
+        "date": "2025-11-16",
+        "name": "Grand Canal d'Alsace",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.549879, 47.81677]
+      },
+      "properties": {
+        "date": "2025-11-16",
+        "name": "Mülhauser Straße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
