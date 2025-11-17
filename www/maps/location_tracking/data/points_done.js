@@ -59993,6 +59993,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.456858, 46.94912]
+      },
+      "properties": {
+        "date": "2025-11-17",
+        "name": "Nydeggstalden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
