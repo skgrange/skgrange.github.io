@@ -60005,6 +60005,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.432165, 46.9616]
+      },
+      "properties": {
+        "date": "2025-11-18",
+        "name": "Neufeld Gym",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.43783, 46.95628]
+      },
+      "properties": {
+        "date": "2025-11-18",
+        "name": "Bierhübeli",
+        "type": "Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
