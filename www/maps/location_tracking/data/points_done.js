@@ -60029,6 +60029,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.424161, 46.9665]
+      },
+      "properties": {
+        "date": "2025-11-20",
+        "name": "Bawartenhubel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
