@@ -2520,6 +2520,18 @@ var points_to_do = [{
         "name": "Evolène",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.490058, 46.85298]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gutenbrünnenweg",
+        "type": "To-do"
+      }
     }
   ]
 }];
