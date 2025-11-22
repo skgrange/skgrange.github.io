@@ -58145,6 +58145,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.545279, 46.83919]
+      },
+      "properties": {
+        "date": "2025-10-08",
+        "name": "Gerzensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.431414, 46.95198]
       },
       "properties": {
@@ -60035,6 +60047,66 @@ var points_done = [{
         "date": "2025-11-20",
         "name": "Bawartenhubel",
         "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.536487, 46.88953]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Hunzikenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.531656, 46.89541]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Aare path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.536855, 46.88868]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Campagna",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.561, 46.83479]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Thalgutstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.569859, 46.84104]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Wichtrach",
+        "type": "Attraction"
       }
     },
     {
