@@ -60113,6 +60113,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.945848, 46.52261]
+      },
+      "properties": {
+        "date": "2025-11-23",
+        "name": "Les Paccots",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.950993, 46.51269]
+      },
+      "properties": {
+        "date": "2025-11-23",
+        "name": "Les Joncs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.952294, 46.50725]
+      },
+      "properties": {
+        "date": "2025-11-23",
+        "name": "Route des Crêtes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
