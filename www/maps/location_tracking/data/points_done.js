@@ -60161,6 +60161,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.440618, 46.94589]
+      },
+      "properties": {
+        "date": "2025-11-27",
+        "name": "Berner Sternenmarkt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442631, 46.94973]
+      },
+      "properties": {
+        "date": "2025-11-27",
+        "name": "Holy Cow!",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
