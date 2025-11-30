@@ -60161,6 +60161,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.441486, 46.95155]
+      },
+      "properties": {
+        "date": "2025-11-26",
+        "name": "AureusDrive",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.440618, 46.94589]
       },
       "properties": {
@@ -60179,6 +60191,54 @@ var points_done = [{
         "date": "2025-11-27",
         "name": "Holy Cow!",
         "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.572053, 47.4394]
+      },
+      "properties": {
+        "date": "2025-11-29",
+        "name": "Balsberg",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.452078, 46.94873]
+      },
+      "properties": {
+        "date": "2025-11-29",
+        "name": "Mani-Matter-Stutz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443986, 46.94789]
+      },
+      "properties": {
+        "date": "2025-11-29",
+        "name": "Santa Lucia",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.896823, 46.56391]
+      },
+      "properties": {
+        "date": "2025-11-30",
+        "name": "Eiger Guesthouse",
+        "type": "Coffee"
       }
     },
     {
