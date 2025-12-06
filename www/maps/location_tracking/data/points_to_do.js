@@ -2381,18 +2381,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.456058, 46.84282]
-      },
-      "properties": {
-        "date": "",
-        "name": "Buetschelegg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.836452, 47.05554]
       },
       "properties": {

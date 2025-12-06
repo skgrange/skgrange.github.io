@@ -60329,6 +60329,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.459725, 46.84321]
+      },
+      "properties": {
+        "date": "2025-12-06",
+        "name": "Bütschelegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.45608, 46.8428]
+      },
+      "properties": {
+        "date": "2025-12-06",
+        "name": "Bütschelegg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.463375, 46.83771]
+      },
+      "properties": {
+        "date": "2025-12-06",
+        "name": "Oberbütschel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438621, 46.82143]
+      },
+      "properties": {
+        "date": "2025-12-06",
+        "name": "Rüeggisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.402065, 46.80792]
+      },
+      "properties": {
+        "date": "2025-12-06",
+        "name": "Thunstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
