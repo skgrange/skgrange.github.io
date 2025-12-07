@@ -60389,6 +60389,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.144638, 47.19447]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Corgémont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.071944, 47.17784]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Courtelary",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.927655, 47.12641]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Renan",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.896453, 47.12322]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "La Cibourg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.829092, 47.10236]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "La Chaux-de-Fonds",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.606485, 47.05552]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Morteau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.60714, 47.04015]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Montlebon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.647211, 47.01158]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Le Gardot",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.73157, 46.99932]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Les Ponts-de-Martel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.778876, 46.98372]
+      },
+      "properties": {
+        "date": "2025-12-07",
+        "name": "Col de la Tourne",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
