@@ -60509,6 +60509,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.429284, 46.95266]
+      },
+      "properties": {
+        "date": "2025-12-09",
+        "name": "Departement Chemie und Biochemie",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
