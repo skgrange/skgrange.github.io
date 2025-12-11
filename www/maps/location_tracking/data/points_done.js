@@ -60521,6 +60521,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.442363, 46.94565]
+      },
+      "properties": {
+        "date": "2025-12-11",
+        "name": "Bundesrain",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438983, 46.9502]
+      },
+      "properties": {
+        "date": "2025-12-11",
+        "name": "Kleine Westtangente",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
