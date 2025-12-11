@@ -60545,6 +60545,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.547752, 46.82073]
+      },
+      "properties": {
+        "date": "2025-12-11",
+        "name": "Kirchdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.540022, 46.78711]
+      },
+      "properties": {
+        "date": "2025-12-11",
+        "name": "Seftigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.520624, 46.79066]
+      },
+      "properties": {
+        "date": "2025-12-11",
+        "name": "Burgistein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
