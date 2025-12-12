@@ -60581,6 +60581,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.490058, 46.85298]
+      },
+      "properties": {
+        "date": "2025-12-12",
+        "name": "Gutenbrünnenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.486402, 46.84128]
+      },
+      "properties": {
+        "date": "2025-12-12",
+        "name": "Gutenbrünnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.501838, 46.82354]
+      },
+      "properties": {
+        "date": "2025-12-12",
+        "name": "Kirchenthurnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.511575, 46.81403]
+      },
+      "properties": {
+        "date": "2025-12-12",
+        "name": "Mühlethurnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.535575, 46.81323]
+      },
+      "properties": {
+        "date": "2025-12-12",
+        "name": "Steigholzstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
