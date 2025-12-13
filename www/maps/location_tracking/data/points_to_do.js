@@ -2508,6 +2508,18 @@ var points_to_do = [{
         "name": "Evolène",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.678046, 46.73923]
+      },
+      "properties": {
+        "date": "",
+        "name": "Oberi Allmit",
+        "type": "To-do"
+      }
     }
   ]
 }];

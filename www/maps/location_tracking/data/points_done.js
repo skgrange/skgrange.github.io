@@ -60641,6 +60641,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.483521, 46.92481]
+      },
+      "properties": {
+        "date": "2025-12-13",
+        "name": "Selhofen Zopfen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
