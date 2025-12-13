@@ -2520,6 +2520,18 @@ var points_to_do = [{
         "name": "Oberi Allmit",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.347599, -35.63496]
+      },
+      "properties": {
+        "date": "",
+        "name": "Etoru Road",
+        "type": "To-do"
+      }
     }
   ]
 }];
