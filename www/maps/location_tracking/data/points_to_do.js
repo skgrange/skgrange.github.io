@@ -1997,18 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.43433, 46.90022]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ulmizberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.324075, 47.01484]
       },
       "properties": {

@@ -60653,6 +60653,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.403691, 46.89799]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Gasel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.417982, 46.8922]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Schlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.440029, 46.89633]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Oberulmiz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441687, 46.89931]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Ulmizbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.434354, 46.90024]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Ulmizberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.434032, 46.90056]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Ulmizberg Aussichtsturm",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453794, 46.8951]
+      },
+      "properties": {
+        "date": "2025-12-14",
+        "name": "Kühlewil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
