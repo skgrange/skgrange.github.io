@@ -60737,6 +60737,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.445042, 46.94919]
+      },
+      "properties": {
+        "date": "2025-12-16",
+        "name": "Müller",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444417, 46.94899]
+      },
+      "properties": {
+        "date": "2025-12-16",
+        "name": "Glatz",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
