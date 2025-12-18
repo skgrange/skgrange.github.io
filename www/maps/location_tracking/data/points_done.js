@@ -60761,6 +60761,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.443554, 46.95048]
+      },
+      "properties": {
+        "date": "2025-12-18",
+        "name": "Turnhalle",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
