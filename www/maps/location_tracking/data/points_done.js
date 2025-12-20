@@ -60773,6 +60773,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.362229, 46.96797]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Talmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3509, 46.96784]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Hofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.339897, 46.97389]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Illiswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.285867, 46.96899]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Wehrbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.276876, 46.96274]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Buttenried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.259683, 46.95611]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Steinriesel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.271501, 46.94631]
+      },
+      "properties": {
+        "date": "2025-12-20",
+        "name": "Allenlüften",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
