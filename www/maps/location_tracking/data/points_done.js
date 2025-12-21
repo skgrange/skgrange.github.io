@@ -60857,6 +60857,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.332891, 46.2062]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Route de Nendaz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.326923, 46.18627]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Route de Veysonnaz viewpoint",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.346136, 46.19555]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Route des Mayens de l'Ours",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.342738, 46.19548]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Relais des Mayens",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.338004, 46.19313]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Route de Pra",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.357305, 46.21076]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Salins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.295871, 46.2228]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9709, 46.31897]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Aigle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.051254, 46.36084]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Le Sépey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.101843, 46.3965]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Les Mosses",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.102626, 46.39899]
+      },
+      "properties": {
+        "date": "2025-12-21",
+        "name": "Col des Mosses",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

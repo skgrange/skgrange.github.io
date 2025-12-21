@@ -2201,18 +2201,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.102634, 46.39898]
-      },
-      "properties": {
-        "date": "",
-        "name": "Col des Mosses",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [6.977236, 46.45155]
       },
       "properties": {
