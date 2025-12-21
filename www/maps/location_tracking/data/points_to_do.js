@@ -2129,18 +2129,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.336947, 46.19614]
-      },
-      "properties": {
-        "date": "",
-        "name": "Veysonnaz",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [10.358844, 46.94308]
       },
       "properties": {
