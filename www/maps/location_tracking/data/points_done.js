@@ -59585,6 +59585,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.505271, 46.85732]
+      },
+      "properties": {
+        "date": "2025-11-05",
+        "name": "Heitern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.459738, 46.96571]
       },
       "properties": {
@@ -60106,6 +60118,18 @@ var points_done = [{
       "properties": {
         "date": "2025-11-22",
         "name": "Wichtrach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.516891, 46.84139]
+      },
+      "properties": {
+        "date": "2025-11-22",
+        "name": "Gelterfingen",
         "type": "Attraction"
       }
     },
