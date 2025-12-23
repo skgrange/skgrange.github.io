@@ -61013,6 +61013,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.836452, 47.05554]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Fritzeflue",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.850102, 47.07839]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Eriswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.84975, 47.11348]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Brunnenplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.849678, 47.11327]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Lienhart",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.699453, 47.07319]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Lueg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.671898, 47.07679]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Kaltacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.640938, 47.06919]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Kaltacker-Lueg-Strasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.631139, 47.05906]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Wynigenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.493129, 46.92044]
+      },
+      "properties": {
+        "date": "2025-12-23",
+        "name": "Giessenhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
