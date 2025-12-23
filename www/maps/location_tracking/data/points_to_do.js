@@ -2496,6 +2496,42 @@ var points_to_do = [{
         "name": "Etoru Road",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.402363, 46.92799]
+      },
+      "properties": {
+        "date": "",
+        "name": "Könizberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.380479, 46.91569]
+      },
+      "properties": {
+        "date": "",
+        "name": "Herzwil",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.380479, 46.91569]
+      },
+      "properties": {
+        "date": "",
+        "name": "Jägerheim",
+        "type": "To-do"
+      }
     }
   ]
 }];
