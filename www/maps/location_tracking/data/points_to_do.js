@@ -2357,18 +2357,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.509445, 46.94672]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gümligental",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [6.055875, 46.23435]
       },
       "properties": {

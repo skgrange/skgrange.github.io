@@ -61133,6 +61133,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.5227, 46.91716]
+      },
+      "properties": {
+        "date": "2025-12-24",
+        "name": "Schloss Allmendingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5182, 46.92517]
+      },
+      "properties": {
+        "date": "2025-12-24",
+        "name": "Hühnliwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.511886, 46.93477]
+      },
+      "properties": {
+        "date": "2025-12-24",
+        "name": "Gümligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.509456, 46.94543]
+      },
+      "properties": {
+        "date": "2025-12-24",
+        "name": "Gümligental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
