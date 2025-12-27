@@ -61301,6 +61301,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.706131, 47.18803]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Herzogenbuchsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
