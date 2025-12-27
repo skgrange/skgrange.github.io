@@ -61205,6 +61205,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.804737, 47.54791]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Engerfeld",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.816794, 47.56293]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Riburgerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.811033, 47.56943]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Kraftwerk Rheinsfelden",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.798421, 47.58741]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Karsau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.809801, 47.59214]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Forststraße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.833241, 47.58672]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Kraftwerk Ryburg-Schwörstadt",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.788244, 47.55902]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Rheinfelden (Baden)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.788244, 47.55902]
+      },
+      "properties": {
+        "date": "2025-12-27",
+        "name": "Sonnenberg West",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
