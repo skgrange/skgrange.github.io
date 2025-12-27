@@ -61289,7 +61289,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.788244, 47.55902]
+        "coordinates": [7.789293, 47.47181]
       },
       "properties": {
         "date": "2025-12-27",
