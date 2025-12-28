@@ -61313,6 +61313,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.502031, 46.91421]
+      },
+      "properties": {
+        "date": "2025-12-28",
+        "name": "The Circle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.512162, 46.90918]
+      },
+      "properties": {
+        "date": "2025-12-28",
+        "name": "Jägerheimweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.500392, 46.91901]
+      },
+      "properties": {
+        "date": "2025-12-28",
+        "name": "Auguetbrügg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
