@@ -61457,6 +61457,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.457415, 46.91807]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Rossacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453003, 46.92401]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Bächtelen serpentine track road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
