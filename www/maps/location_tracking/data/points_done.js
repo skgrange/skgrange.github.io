@@ -61361,6 +61361,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.428131, 46.9738]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Neubrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.435091, 46.97345]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Kalchackerhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.402328, 46.9907]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Ortschwaben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.385935, 46.9873]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Uettligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.379208, 46.98141]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Obere Schürmatte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.385323, 46.97928]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Runimoosweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.394056, 46.97837]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Buechwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.403616, 46.97871]
+      },
+      "properties": {
+        "date": "2025-12-29",
+        "name": "Löhr",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
