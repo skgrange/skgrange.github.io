@@ -2549,11 +2549,23 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.492729, 46.8845]
+        "coordinates": [7.257108, 46.54691]
       },
       "properties": {
         "date": "",
         "name": "Mittelberg",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [176.256342, -38.13181]
+      },
+      "properties": {
+        "date": "",
+        "name": "Wai Ariki Hot Springs & Spa",
         "type": "To-do"
       }
     }
