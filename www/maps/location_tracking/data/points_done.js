@@ -61481,6 +61481,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.53904, 47.26384]
+      },
+      "properties": {
+        "date": "2025-12-30",
+        "name": "Balmberg Kurhaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
