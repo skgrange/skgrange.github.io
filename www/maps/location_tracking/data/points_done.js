@@ -61505,6 +61505,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.480308, 46.83906]
+      },
+      "properties": {
+        "date": "2025-12-31",
+        "name": "Tavel-Denkmal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.480423, 46.83863]
+      },
+      "properties": {
+        "date": "2025-12-31",
+        "name": "Tavel-Denkmal",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.654756, 46.70226]
+      },
+      "properties": {
+        "date": "2026-01-01",
+        "name": "Thunstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.685274, 46.72053]
+      },
+      "properties": {
+        "date": "2026-01-01",
+        "name": "Unnamed carpark",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.808685, 46.66247]
+      },
+      "properties": {
+        "date": "2026-01-01",
+        "name": "Därligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
