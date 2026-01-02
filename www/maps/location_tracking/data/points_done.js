@@ -61565,6 +61565,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.402983, 46.79512]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Rüschegg-Graben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.377555, 46.77771]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Rüschegg Gambach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.323434, 46.73864]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Unnamed minor road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.351999, 46.71302]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Sangernboden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.287406, 46.6705]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Schwarzsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.274451, 46.66517]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Schwarzsee Bad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.27738, 46.66569]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Schwarzsee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.287251, 46.74188]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Plaffeien",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.215899, 46.81506]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Tafers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.189833, 46.85024]
+      },
+      "properties": {
+        "date": "2026-01-02",
+        "name": "Düdingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

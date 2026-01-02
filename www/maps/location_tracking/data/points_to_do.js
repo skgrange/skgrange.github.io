@@ -2105,18 +2105,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.287398, 46.67049]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schwarzsee",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.126758, 46.9114]
       },
       "properties": {
@@ -2566,6 +2554,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Wai Ariki Hot Springs & Spa",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.367669, 46.73103]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ottenleuebad",
         "type": "To-do"
       }
     }
