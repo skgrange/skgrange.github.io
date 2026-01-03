@@ -61685,6 +61685,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.449698, 46.93278]
+      },
+      "properties": {
+        "date": "2026-01-03",
+        "name": "Aarweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448087, 46.93306]
+      },
+      "properties": {
+        "date": "2026-01-03",
+        "name": "Bern-Schönau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
