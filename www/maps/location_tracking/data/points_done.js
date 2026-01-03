@@ -60749,18 +60749,6 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.453794, 46.8951]
-      },
-      "properties": {
-        "date": "2025-12-14",
-        "name": "Kühlewil",
-        "type": "Attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.445042, 46.94919]
       },
       "properties": {

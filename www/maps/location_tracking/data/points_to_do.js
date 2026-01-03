@@ -2556,6 +2556,18 @@ var points_to_do = [{
         "name": "Ottenleuebad",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.282597, 47.00358]
+      },
+      "properties": {
+        "date": "",
+        "name": "Panoramastrasse",
+        "type": "To-do"
+      }
     }
   ]
 }];
