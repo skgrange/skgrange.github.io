@@ -61697,6 +61697,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.208458, 46.1863]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Leytron",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.186968, 46.19257]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Products du Terroir",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.166911, 46.20374]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Ovronnaz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.160972, 46.2045]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Ovronnaz (télésiège)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.175247, 46.19876]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Les Bains d'Ovronnaz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.207865, 46.18584]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Coop",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
