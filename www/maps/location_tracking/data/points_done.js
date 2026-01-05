@@ -61769,6 +61769,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.498609, 46.83822]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Kaufdorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.511406, 46.83781]
+      },
+      "properties": {
+        "date": "2026-01-05",
+        "name": "Moos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
