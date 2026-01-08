@@ -61805,6 +61805,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.459837, 46.95154]
+      },
+      "properties": {
+        "date": "2026-01-08",
+        "name": "Rosengarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.461066, 46.94989]
+      },
+      "properties": {
+        "date": "2026-01-08",
+        "name": "Alter Aargauerstalden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.456622, 46.9449]
+      },
+      "properties": {
+        "date": "2026-01-08",
+        "name": "Kollerweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453352, 46.94411]
+      },
+      "properties": {
+        "date": "2026-01-08",
+        "name": "Englische Anlagen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

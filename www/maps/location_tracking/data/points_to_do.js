@@ -2069,18 +2069,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.459846, 46.95155]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rosengarten",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.47027, 46.85949]
       },
       "properties": {
