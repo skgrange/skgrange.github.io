@@ -61853,6 +61853,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.465178, 46.87953]
+      },
+      "properties": {
+        "date": "2026-01-09",
+        "name": "Waldhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.442218, 46.8884]
+      },
+      "properties": {
+        "date": "2026-01-09",
+        "name": "Rainweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439032, 46.89204]
+      },
+      "properties": {
+        "date": "2026-01-09",
+        "name": "Witschernweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
