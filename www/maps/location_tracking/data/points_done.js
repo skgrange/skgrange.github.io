@@ -61889,6 +61889,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.498947, 46.88502]
+      },
+      "properties": {
+        "date": "2026-01-10",
+        "name": "Scheuermatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.496871, 46.87721]
+      },
+      "properties": {
+        "date": "2026-01-10",
+        "name": "Toffekanal",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.498035, 46.87099]
+      },
+      "properties": {
+        "date": "2026-01-10",
+        "name": "Gürbestrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
