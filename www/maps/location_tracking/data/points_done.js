@@ -61937,6 +61937,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444967, 46.96552]
+      },
+      "properties": {
+        "date": "2026-01-12",
+        "name": "Felsenausteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.441395, 46.95859]
+      },
+      "properties": {
+        "date": "2026-01-12",
+        "name": "Reckweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443361, 46.95231]
+      },
+      "properties": {
+        "date": "2026-01-12",
+        "name": "Blutturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448537, 46.9502]
+      },
+      "properties": {
+        "date": "2026-01-12",
+        "name": "Altenbergsteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
