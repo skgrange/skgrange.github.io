@@ -2556,6 +2556,18 @@ var points_to_do = [{
         "name": "Panoramastrasse",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.946766, 47.33605]
+      },
+      "properties": {
+        "date": "",
+        "name": "Engelberg",
+        "type": "To-do"
+      }
     }
   ]
 }];
