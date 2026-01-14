@@ -61985,6 +61985,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.442368, 46.93818]
+      },
+      "properties": {
+        "date": "2026-01-14",
+        "name": "Vorplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.455567, 46.9392]
+      },
+      "properties": {
+        "date": "2026-01-14",
+        "name": "Dählhölzliwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
