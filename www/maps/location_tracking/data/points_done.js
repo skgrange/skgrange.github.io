@@ -62009,6 +62009,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437986, 46.95033]
+      },
+      "properties": {
+        "date": "2026-01-15",
+        "name": "Hauptgebäude Bristo",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
