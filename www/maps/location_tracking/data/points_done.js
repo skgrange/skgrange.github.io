@@ -62021,6 +62021,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.44202, 46.94699]
+      },
+      "properties": {
+        "date": "2026-01-18",
+        "name": "Tibits",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.447113, 46.95839]
+      },
+      "properties": {
+        "date": "2026-01-19",
+        "name": "Suban Thai Eatery",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
