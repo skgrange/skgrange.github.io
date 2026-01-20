@@ -62045,6 +62045,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.423204, 46.95322]
+      },
+      "properties": {
+        "date": "2026-01-20",
+        "name": "vonRoll",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
