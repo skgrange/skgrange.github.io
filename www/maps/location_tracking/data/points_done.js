@@ -62057,6 +62057,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.426203, 47.03378]
+      },
+      "properties": {
+        "date": "2026-01-21",
+        "name": "Tschumi",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.465548, 47.04414]
+      },
+      "properties": {
+        "date": "2026-01-21",
+        "name": "Dorfladen",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
