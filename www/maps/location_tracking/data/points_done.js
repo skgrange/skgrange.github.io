@@ -62093,6 +62093,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.441657, 46.94967]
+      },
+      "properties": {
+        "date": "2026-01-25",
+        "name": "Maharaja Palace",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
