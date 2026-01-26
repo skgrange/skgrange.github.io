@@ -62105,6 +62105,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.454861, 46.97164]
+      },
+      "properties": {
+        "date": "2026-01-26",
+        "name": "Aareegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.46139, 46.97121]
+      },
+      "properties": {
+        "date": "2026-01-26",
+        "name": "Thormemätteli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
