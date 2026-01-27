@@ -2501,18 +2501,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.492729, 46.8845]
-      },
-      "properties": {
-        "date": "",
-        "name": "Zimmerwaldweg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.257108, 46.54691]
       },
       "properties": {

@@ -62129,6 +62129,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.492284, 46.88387]
+      },
+      "properties": {
+        "date": "2026-01-27",
+        "name": "Zimmerwaldweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.484339, 46.87986]
+      },
+      "properties": {
+        "date": "2026-01-27",
+        "name": "Hoffmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
