@@ -62153,6 +62153,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.525281, 46.80686]
+      },
+      "properties": {
+        "date": "2026-01-29",
+        "name": "Lohnstorfstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
