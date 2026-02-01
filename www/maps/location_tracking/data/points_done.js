@@ -62201,6 +62201,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.397307, 46.91631]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Bindenhaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.380431, 46.91568]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Herzwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.347558, 46.9172]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Stahlengasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.338079, 46.92949]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Matzenried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

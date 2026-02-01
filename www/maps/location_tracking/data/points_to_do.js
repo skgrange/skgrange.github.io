@@ -2465,18 +2465,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.380479, 46.91569]
-      },
-      "properties": {
-        "date": "",
-        "name": "Herzwil",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.60727, 46.93922]
       },
       "properties": {
