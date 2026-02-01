@@ -62165,6 +62165,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.054628, 46.61913]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "kawa. coffee shop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.093874, 46.58359]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Le Pont qui Branle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.09922, 46.58078]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Le Châtelet",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
