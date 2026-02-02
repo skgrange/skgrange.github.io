@@ -62249,6 +62249,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.349505, 48.88725]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Château Rouge",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.344476, 48.88625]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Rue Maurice Utrillo",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.343116, 48.88615]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Basilique du Sacré-Cœur",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.343355, 48.88973]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Custine - Mont-Cenis",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.343355, 48.88973]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Bosquet - Rapp",
+        "type": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.298664, 48.86057]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Rue de l'Université",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.289689, 48.85399]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Castorama",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.289373, 48.85391]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Bir-Hakeim",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25827, 48.72349]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "Massy Palaiseau",
+        "type": "Bus station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
