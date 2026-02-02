@@ -62357,6 +62357,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.163199, 48.71088]
+      },
+      "properties": {
+        "date": "2026-02-02",
+        "name": "McDonald’s Originals",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
