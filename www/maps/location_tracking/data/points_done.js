@@ -62369,6 +62369,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.147924, 48.71148]
+      },
+      "properties": {
+        "date": "2026-02-03",
+        "name": "LSCE",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.151872, 48.70998]
+      },
+      "properties": {
+        "date": "2026-02-03",
+        "name": "Aristote building",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.164642, 48.71084]
+      },
+      "properties": {
+        "date": "2026-02-03",
+        "name": "FØ Pizza",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
