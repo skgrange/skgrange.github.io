@@ -62417,6 +62417,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.136758, 48.69822]
+      },
+      "properties": {
+        "date": "2026-02-06",
+        "name": "Gif-sur-Yvette",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [2.346587, 48.85303]
       },
       "properties": {
