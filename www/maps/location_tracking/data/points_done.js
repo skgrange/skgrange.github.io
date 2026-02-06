@@ -62417,6 +62417,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.346587, 48.85303]
+      },
+      "properties": {
+        "date": "2026-02-06",
+        "name": "La Crème de Paris",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.290105, 48.86062]
+      },
+      "properties": {
+        "date": "2026-02-06",
+        "name": "Avenue Albert 1er de Monaco",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.297406, 48.87647]
+      },
+      "properties": {
+        "date": "2026-02-06",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
