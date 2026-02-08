@@ -62465,6 +62465,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.65897, 47.06453]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Heimiswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.702382, 47.07363]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Luegstrasse",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7053, 47.07422]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Lueg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.714492, 47.07399]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Junkholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.695971, 47.08316]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Leumberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.667738, 47.10602]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "Wynigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.600345, 47.06878]
+      },
+      "properties": {
+        "date": "2026-02-08",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
