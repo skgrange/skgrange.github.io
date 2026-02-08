@@ -2465,18 +2465,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.686836, 47.0869]
-      },
-      "properties": {
-        "date": "",
-        "name": "Schwanden bei Wynigen",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.257108, 46.54691]
       },
       "properties": {
