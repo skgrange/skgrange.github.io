@@ -62165,6 +62165,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437277, 46.96275]
+      },
+      "properties": {
+        "date": "2026-02-01",
+        "name": "Neufeldtunnel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.054628, 46.61913]
       },
       "properties": {
