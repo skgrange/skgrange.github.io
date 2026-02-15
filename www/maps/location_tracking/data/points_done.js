@@ -62573,6 +62573,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.526149, 46.87161]
+      },
+      "properties": {
+        "date": "2026-02-15",
+        "name": "Hof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.518473, 46.88023]
+      },
+      "properties": {
+        "date": "2026-02-15",
+        "name": "Hohburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
