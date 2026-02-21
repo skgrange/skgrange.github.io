@@ -62705,6 +62705,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [51.54843, 25.28406]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "National Museum metro station",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54733, 25.27933]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Saeed Bin Al Aas Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
