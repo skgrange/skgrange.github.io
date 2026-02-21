@@ -62633,6 +62633,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [51.54617, 25.28752]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "One Minute",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54715, 25.29056]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Orient Pearl Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54463, 25.29129]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Caffe Vergnano 1882",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54528, 25.29246]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Flag Plaza",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54787, 25.29504]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Mina Park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.54963, 25.29837]
+      },
+      "properties": {
+        "date": "2026-02-21",
+        "name": "Old Doha Model",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
