@@ -62729,6 +62729,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9554, -35.22712]
+      },
+      "properties": {
+        "date": "2026-02-27",
+        "name": "Kerikeri Community Swimming Pool",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
