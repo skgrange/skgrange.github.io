@@ -62753,6 +62753,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.1273, -35.21549]
+      },
+      "properties": {
+        "date": "2026-03-01",
+        "name": "Middle Ground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0727, -35.21026]
+      },
+      "properties": {
+        "date": "2026-03-01",
+        "name": "Kent Passage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
