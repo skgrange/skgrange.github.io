@@ -62741,6 +62741,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9165, -35.21042]
+      },
+      "properties": {
+        "date": "2026-02-28",
+        "name": "Plumbing Plus",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
