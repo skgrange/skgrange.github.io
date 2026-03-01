@@ -72,6 +72,11 @@ var hill_shading = L.tileLayer.wms('https://ows.terrestris.de/osm/service?', {
   attribution: 'Elevation data from Shuttle Radar Topography Mission (SRTM) & served by terrestris GmbH & Co. KG'
 });
 
+// A layer, not a basemap
+var open_weather_map = L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png', {
+	attribution: 'Map data: &copy; <a href="http://www.openseamap.org">OpenSeaMap</a> contributors'
+});
+
 // Set-up base map
 var map = L.map("map", {
   layers: open_street_map

@@ -26,6 +26,7 @@ layer_extra = add_location_points(
 // Add some layer control
 var overlay_maps = {
   "Hill shading?": hill_shading,
+  "OpenSeaMap?": open_weather_map,
   "Display done?": layer_done,
   "Display to-do?": layer_to_do,
   "Display extras?": layer_extra
@@ -54,3 +55,4 @@ L.control.layers(base_maps, overlay_maps).addTo(map);
 
 // Bern
 map.setView(new L.LatLng(46.948955, 7.439965), 14);
+
