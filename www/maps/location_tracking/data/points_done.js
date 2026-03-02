@@ -62793,7 +62793,19 @@ var points_done = [{
       },
       "properties": {
         "date": "2026-03-02",
-        "name": "Boardwalk",
+        "name": "Unnamed boardwalk",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.982, -35.19379]
+      },
+      "properties": {
+        "date": "2026-03-03",
+        "name": "Rangitāne River",
         "type": "Attraction"
       }
     },
