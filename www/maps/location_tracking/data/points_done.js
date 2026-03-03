@@ -62813,6 +62813,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.3293, -35.73073]
+      },
+      "properties": {
+        "date": "2026-03-03",
+        "name": "Noel Leeming",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
