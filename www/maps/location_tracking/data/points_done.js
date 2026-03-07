@@ -63005,6 +63005,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.9325, -41.19433]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "Onyx",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [175.5681, -39.93637]
       },
       "properties": {
