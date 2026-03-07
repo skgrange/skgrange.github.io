@@ -62837,6 +62837,246 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.3334, -37.77957]
+      },
+      "properties": {
+        "date": "2026-03-05",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.7988, -39.67704]
+      },
+      "properties": {
+        "date": "2026-03-05",
+        "name": "New World",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.2875, -40.62052]
+      },
+      "properties": {
+        "date": "2026-03-05",
+        "name": "McDonald’s",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8683, -41.10686]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Paramata School",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7918, -41.22815]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Truscott Avenue",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7668, -41.24203]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Awarua Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7679, -41.24091]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Korimako Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7626, -41.24167]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Bell’s Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7625, -41.2392]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Skyline Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7894, -41.22991]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Truscott Avenue Track",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7761, -41.28077]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Sakura Sushi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9369, -41.05863]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Battle Hill campground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8953, -41.08927]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Te Ara Piko",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.872, -41.08937]
+      },
+      "properties": {
+        "date": "2026-03-06",
+        "name": "Pope Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5681, -39.93637]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "Kiwi Hot Dogs Hunterville",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8613, -38.2239]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "The White House",
+        "type": "Motel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8701, -38.21828]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "Bridge Street",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.875, -38.21328]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "Colson's Hill",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.854, -38.23233]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "Challenge",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.8746, -38.2193]
+      },
+      "properties": {
+        "date": "2026-03-07",
+        "name": "KFC",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
