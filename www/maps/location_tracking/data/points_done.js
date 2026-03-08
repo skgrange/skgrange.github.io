@@ -63089,6 +63089,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.6647, -36.39761]
+      },
+      "properties": {
+        "date": "2026-03-08",
+        "name": "Queen Street Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6647, -36.39761]
+      },
+      "properties": {
+        "date": "2026-03-08",
+        "name": "Playground",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
