@@ -63113,6 +63113,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [174.326, -35.72467]
+      },
+      "properties": {
+        "date": "2026-03-09",
+        "name": "New Zealand Fudge Farm Cafe",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
