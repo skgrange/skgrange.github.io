@@ -63125,6 +63125,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.8938, -35.17094]
+      },
+      "properties": {
+        "date": "2026-03-11",
+        "name": "La Patisserie",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
