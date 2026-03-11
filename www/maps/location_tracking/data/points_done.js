@@ -63137,6 +63137,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.7803, -35.10045]
+      },
+      "properties": {
+        "date": "2026-03-12",
+        "name": "The Beehive Café",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
