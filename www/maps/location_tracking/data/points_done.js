@@ -63149,6 +63149,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [173.9211, -35.21409]
+      },
+      "properties": {
+        "date": "2026-03-13",
+        "name": "Te Puāwaitanga",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9147, -35.21236]
+      },
+      "properties": {
+        "date": "2026-03-13",
+        "name": "Kahikatearoa Lane",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
