@@ -63173,6 +63173,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-118.4085, 33.94437]
+      },
+      "properties": {
+        "date": "2026-03-16",
+        "name": "World Way rest area",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4086, 33.9439]
+      },
+      "properties": {
+        "date": "2026-03-16",
+        "name": "Unknown cafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4085, 33.9447]
+      },
+      "properties": {
+        "date": "2026-03-16",
+        "name": "Starbucks",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4099, 33.94386]
+      },
+      "properties": {
+        "date": "2026-03-16",
+        "name": "Umami Burger",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
