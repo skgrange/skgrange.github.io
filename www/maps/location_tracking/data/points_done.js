@@ -63221,6 +63221,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.472479, 46.95274]
+      },
+      "properties": {
+        "date": "2026-03-20",
+        "name": "Schosshaldenfriedhof",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.475086, 46.96094]
+      },
+      "properties": {
+        "date": "2026-03-20",
+        "name": "Kleine Allmend",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.482947, 46.94992]
+      },
+      "properties": {
+        "date": "2026-03-20",
+        "name": "Schosshaldenwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.482947, 46.94992]
+      },
+      "properties": {
+        "date": "2026-03-20",
+        "name": "Luft-Station",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
