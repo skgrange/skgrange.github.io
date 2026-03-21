@@ -63281,6 +63281,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.876444, 47.21616]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Rangevillers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.907753, 47.23957]
       },
       "properties": {
@@ -63359,6 +63371,30 @@ var points_done = [{
         "date": "2026-03-21",
         "name": "Le Boéchet",
         "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.840966, 47.09175]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Eni",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.041641, 47.01982]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Denner",
+        "type": "Supermarket"
       }
     },
     {
