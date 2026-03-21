@@ -63269,6 +63269,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.840309, 47.20141]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "La Combe Saint-Pierre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.907753, 47.23957]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Col de la Vierge",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.918511, 47.23848]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Charmauvillers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.923318, 47.23176]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Rue de la Goule",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.926384, 47.22837]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Chapelle Notre-Dame",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.92578, 47.22412]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "La Goule",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.923516, 47.22007]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Unnamed road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.915511, 47.19108]
+      },
+      "properties": {
+        "date": "2026-03-21",
+        "name": "Le Boéchet",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
