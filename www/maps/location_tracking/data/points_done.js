@@ -63413,6 +63413,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.443642, 46.94928]
+      },
+      "properties": {
+        "date": "2026-03-24",
+        "name": "Ängelibeck",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
