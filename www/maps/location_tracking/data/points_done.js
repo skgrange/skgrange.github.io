@@ -63509,6 +63509,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.03031, 47.32986]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Kölliken Nord",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
