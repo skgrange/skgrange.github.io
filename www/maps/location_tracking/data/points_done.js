@@ -63425,6 +63425,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.59947, 47.31198]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Frutz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.600377, 47.32942]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Koblach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.617286, 47.34942]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Mäder",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.651897, 47.35461]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Altach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.671855, 47.37708]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Zollstelle Mäder",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.669862, 47.3781]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Grenzübergang Kriessern",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.641925, 47.38309]
+      },
+      "properties": {
+        "date": "2026-03-28",
+        "name": "Rietbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
