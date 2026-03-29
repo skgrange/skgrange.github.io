@@ -63533,6 +63533,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.004538, 46.87228]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Grisoni",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.074745, 46.90807]
       },
       "properties": {
