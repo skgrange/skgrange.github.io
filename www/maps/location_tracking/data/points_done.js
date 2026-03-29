@@ -63521,6 +63521,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.013631, 46.86736]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Domdidier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.074745, 46.90807]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Faoug",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.118218, 46.9649]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Sugiez",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.083183, 46.94821]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Môtier",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.058126, 46.93877]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Guévaux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.02271, 46.9175]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Salavaux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.033761, 46.92452]
+      },
+      "properties": {
+        "date": "2026-03-29",
+        "name": "Avia",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
