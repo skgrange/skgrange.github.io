@@ -63617,6 +63617,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.443511, 46.92795]
+      },
+      "properties": {
+        "date": "2026-03-30",
+        "name": "Gurtenbrauerei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448712, 46.92824]
+      },
+      "properties": {
+        "date": "2026-03-31",
+        "name": "Wabern Dorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
