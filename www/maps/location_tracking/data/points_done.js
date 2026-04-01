@@ -63641,6 +63641,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.437822, 46.85669]
+      },
+      "properties": {
+        "date": "2026-04-01",
+        "name": "Ratzenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439396, 46.86066]
+      },
+      "properties": {
+        "date": "2026-04-01",
+        "name": "Baumannshaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
