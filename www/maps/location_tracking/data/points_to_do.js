@@ -2520,6 +2520,18 @@ var points_to_do = [{
         "name": "Engelberg",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.520099, 47.13297]
+      },
+      "properties": {
+        "date": "",
+        "name": "Giessen Coffeehouse",
+        "type": "To-do"
+      }
     }
   ]
 }];
