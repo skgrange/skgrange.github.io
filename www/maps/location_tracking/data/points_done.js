@@ -63665,6 +63665,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.779307, 47.55959]
+      },
+      "properties": {
+        "date": "2026-04-02",
+        "name": "Friedhof Rheinfelden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.794432, 47.55613]
+      },
+      "properties": {
+        "date": "2026-04-02",
+        "name": "Zum Rhytörli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
