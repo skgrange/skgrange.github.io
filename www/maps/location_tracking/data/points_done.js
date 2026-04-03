@@ -63689,6 +63689,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.380774, 46.92049]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Schwändi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.356951, 46.93328]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Stegen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.357187, 46.95859]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Unnamed unpaved road",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.35782, 46.96362]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Wohlei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.35893, 46.9662]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Wohleibrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.373425, 46.97614]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Buechholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.421144, 46.98481]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Burrishus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.461334, 46.99991]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Zollikofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.486265, 46.98665]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Schlupf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.498019, 46.98408]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Habstetten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.530229, 46.89168]
+      },
+      "properties": {
+        "date": "2026-04-03",
+        "name": "Fahrhubel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
