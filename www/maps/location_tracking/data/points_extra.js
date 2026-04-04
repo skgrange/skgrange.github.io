@@ -2321,6 +2321,18 @@ var points_extra = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [175.442626, -36.26462]
+      },
+      "properties": {
+        "date": "",
+        "name": "Ō-Kupe-Mai-Tawhiti / Okupu Bay",
+        "type": "Extra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [169.390472, -45.25845]
       },
       "properties": {
