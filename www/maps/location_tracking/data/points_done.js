@@ -63821,6 +63821,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.27991, 46.9224]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Süri",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.299541, 46.92002]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Unnamed Bach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.315757, 46.92032]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Heitere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.320279, 46.92523]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Fuessacher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.300174, 46.92818]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Gäbelbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.300174, 46.92818]
+      },
+      "properties": {
+        "date": "2026-04-04",
+        "name": "Carine's Café am Bärenplatz",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
