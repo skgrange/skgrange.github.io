@@ -2532,6 +2532,18 @@ var points_to_do = [{
         "name": "Giessen Coffeehouse",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.526933, 47.43759]
+      },
+      "properties": {
+        "date": "",
+        "name": "Schloss Zwingen",
+        "type": "To-do"
+      }
     }
   ]
 }];
