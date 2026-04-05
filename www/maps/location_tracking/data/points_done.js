@@ -63893,6 +63893,198 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.631748, 47.52967]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Sportanlage Margelacker",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.631019, 47.53972]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Corkscrew bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62283, 47.54739]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Redingbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6041, 47.55521]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "St. Alban-Rheinweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.596153, 47.55464]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "St. Alban-Vorstadt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.596263, 47.55651]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Wettsteinbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.593403, 47.56159]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Kleinbasel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.592663, 47.58742]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Hiltalingerbrücken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.593285, 47.58895]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Weil am Rhein-Friedlingen",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.58993, 47.59156]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Dreiländerbrücke - Passerelle des Trois Pays",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.582996, 47.57587]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Quai de la Brigade du Languedoc",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.564647, 47.54679]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Neuweilerplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.592642, 47.5466]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Post-Passage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.62172, 47.52828]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Rüttihardbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.349365, 47.36407]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Avenue de la Gare",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.350642, 47.36235]
+      },
+      "properties": {
+        "date": "2026-04-05",
+        "name": "Place de la Gare",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
