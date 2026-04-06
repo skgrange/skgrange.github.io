@@ -64085,6 +64085,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.078089, 46.11538]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Rue du Verney",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.099915, 46.13636]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Route de Tassonnières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.100231, 46.13887]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Tassonnières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.102275, 46.14087]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Chemin de Plamont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.111655, 46.14371]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Chemin des Avasiers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.130073, 46.12503]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Charrat",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.111727, 46.11392]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Route des Indes",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.072996, 46.10133]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Place Centrale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.071033, 46.10495]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "Pont de la Bâtiaz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.073841, 46.10225]
+      },
+      "properties": {
+        "date": "2026-04-06",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
