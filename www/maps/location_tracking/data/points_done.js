@@ -64205,6 +64205,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.4371, 46.96507]
+      },
+      "properties": {
+        "date": "2026-04-07",
+        "name": "Alte Studerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.411153, 46.95112]
+      },
+      "properties": {
+        "date": "2026-04-07",
+        "name": "Unnamed bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
