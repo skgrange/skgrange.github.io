@@ -2544,6 +2544,42 @@ var points_to_do = [{
         "name": "Schloss Zwingen",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.124183, 46.09701]
+      },
+      "properties": {
+        "date": "",
+        "name": "Col des Planches",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.286242, 46.33163]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sanetschpass",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.574285, 46.13841]
+      },
+      "properties": {
+        "date": "",
+        "name": "Barrage de Moiry",
+        "type": "To-do"
+      }
     }
   ]
 }];
