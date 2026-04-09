@@ -64229,6 +64229,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.494714, 46.90522]
+      },
+      "properties": {
+        "date": "2026-04-09",
+        "name": "Pneuhaus Brönnimann",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
