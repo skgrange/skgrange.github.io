@@ -64253,6 +64253,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.444855, 46.94956]
+      },
+      "properties": {
+        "date": "2026-04-10",
+        "name": "Take Away 8.8",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
