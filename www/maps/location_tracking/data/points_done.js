@@ -64265,6 +64265,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.516714, 46.96221]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Etterholenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.546685, 46.97856]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Liebiberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
