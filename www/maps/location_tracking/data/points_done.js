@@ -64289,6 +64289,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.501932, 46.8244]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Kirche Kirchenthurnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427529, 46.78254]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Rütigrundbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.434547, 46.78602]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Giebeleggwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427529, 46.78254]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Obere Schwandbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427529, 46.78254]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Untere Schwandbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.427529, 46.78254]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Rütiplötschbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.450243, 46.82325]
+      },
+      "properties": {
+        "date": "2026-04-11",
+        "name": "Gofers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
