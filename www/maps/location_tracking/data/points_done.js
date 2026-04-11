@@ -64325,7 +64325,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.427529, 46.78254]
+        "coordinates": [7.423475, 46.78516]
       },
       "properties": {
         "date": "2026-04-11",
@@ -64337,7 +64337,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.427529, 46.78254]
+        "coordinates": [7.423475, 46.78516]
       },
       "properties": {
         "date": "2026-04-11",
@@ -64349,7 +64349,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.427529, 46.78254]
+        "coordinates": [7.40625, 46.79123]
       },
       "properties": {
         "date": "2026-04-11",
