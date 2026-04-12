@@ -64373,6 +64373,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.28867, 46.93641]
+      },
+      "properties": {
+        "date": "2026-04-12",
+        "name": "Juchlishaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.267461, 46.92921]
+      },
+      "properties": {
+        "date": "2026-04-12",
+        "name": "Feld",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.264946, 46.91852]
+      },
+      "properties": {
+        "date": "2026-04-12",
+        "name": "Sürihale",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.271104, 46.91787]
+      },
+      "properties": {
+        "date": "2026-04-12",
+        "name": "Sürigrabe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
