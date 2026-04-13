@@ -2580,6 +2580,18 @@ var points_to_do = [{
         "name": "Barrage de Moiry",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.556555, 46.98224]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lindental",
+        "type": "To-do"
+      }
     }
   ]
 }];
