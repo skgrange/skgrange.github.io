@@ -64421,6 +64421,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.43606, 46.94259]
+      },
+      "properties": {
+        "date": "2026-04-13",
+        "name": "Café Travois",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.436567, 46.94308]
+      },
+      "properties": {
+        "date": "2026-04-13",
+        "name": "Florapark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
