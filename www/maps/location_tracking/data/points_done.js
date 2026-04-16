@@ -64469,6 +64469,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.478068, 46.83189]
+      },
+      "properties": {
+        "date": "2026-04-16",
+        "name": "Hermiswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.491168, 46.82729]
+      },
+      "properties": {
+        "date": "2026-04-16",
+        "name": "Schulhausstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
