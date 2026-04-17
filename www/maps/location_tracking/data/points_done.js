@@ -64493,6 +64493,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.49462, 46.82475]
+      },
+      "properties": {
+        "date": "2026-04-17",
+        "name": "Stockackerstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.483948, 46.82321]
+      },
+      "properties": {
+        "date": "2026-04-17",
+        "name": "Haslistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
