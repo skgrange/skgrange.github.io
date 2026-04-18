@@ -64565,6 +64565,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.447701, 46.73189]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Stierenhütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.416769, 46.7158]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Schwefelbergbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.36695, 46.71285]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Steinbachbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.397072, 46.93842]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "RS Petrol",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
