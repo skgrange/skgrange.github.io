@@ -64517,6 +64517,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.338449, 46.91351]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Neueneggstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.27988, 46.91177]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Hinder Bramberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.308773, 46.94022]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Forstmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.331751, 46.94647]
+      },
+      "properties": {
+        "date": "2026-04-18",
+        "name": "Riedbachmühle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
