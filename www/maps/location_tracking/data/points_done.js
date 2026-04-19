@@ -64625,6 +64625,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.243053, 46.94409]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Alte Gümmenenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.241543, 46.93647]
       },
       "properties": {
@@ -64649,7 +64661,7 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.239451, 46.91858]
+        "coordinates": [7.235608, 46.91337]
       },
       "properties": {
         "date": "2026-04-19",
