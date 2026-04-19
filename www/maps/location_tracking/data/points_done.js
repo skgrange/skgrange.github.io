@@ -64613,6 +64613,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.242621, 46.94378]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Kleingümmenen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.241543, 46.93647]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Saaneviadukt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.235388, 46.91306]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Saanebrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.239451, 46.91858]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Saanebrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.239312, 46.91822]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Saane trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.192593, 46.88171]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Staudamm Schiffenen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.133421, 46.92654]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Fischergässli",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.116547, 46.92859]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Kornhaus",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.125538, 46.91322]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Münchenwiler",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.138399, 46.92174]
+      },
+      "properties": {
+        "date": "2026-04-19",
+        "name": "Riedlimatte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
