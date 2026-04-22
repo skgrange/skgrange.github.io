@@ -2093,18 +2093,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.126758, 46.9114]
-      },
-      "properties": {
-        "date": "",
-        "name": "Münchenwiler",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [10.358844, 46.94308]
       },
       "properties": {

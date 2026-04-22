@@ -64745,6 +64745,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.450407, 46.94674]
+      },
+      "properties": {
+        "date": "2026-04-22",
+        "name": "Fricktreppe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445718, 46.94503]
+      },
+      "properties": {
+        "date": "2026-04-22",
+        "name": "Dalmazimätteli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
