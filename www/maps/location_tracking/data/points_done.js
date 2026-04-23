@@ -64769,6 +64769,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.513039, 46.88872]
+      },
+      "properties": {
+        "date": "2026-04-23",
+        "name": "Hohfuhrenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.512808, 46.88386]
+      },
+      "properties": {
+        "date": "2026-04-23",
+        "name": "Breiten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.502675, 46.88351]
+      },
+      "properties": {
+        "date": "2026-04-23",
+        "name": "Gantrischweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
