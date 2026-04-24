@@ -64805,6 +64805,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.387978, 46.92619]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Papillonallee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.392214, 46.92738]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Tubentränki",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.415155, 46.9394]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Holligenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.402358, 46.92796]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Könizberg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.399026, 46.9269]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Chünizberg Stärn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.381348, 46.9266]
+      },
+      "properties": {
+        "date": "2026-04-24",
+        "name": "Ried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

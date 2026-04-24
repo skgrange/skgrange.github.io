@@ -2429,18 +2429,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.402363, 46.92799]
-      },
-      "properties": {
-        "date": "",
-        "name": "Könizberg",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.60727, 46.93922]
       },
       "properties": {
