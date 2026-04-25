@@ -64877,6 +64877,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.440139, 46.71831]
+      },
+      "properties": {
+        "date": "2026-04-25",
+        "name": "mein-foodbus",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.556604, 46.98207]
+      },
+      "properties": {
+        "date": "2026-04-25",
+        "name": "Lindental",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
