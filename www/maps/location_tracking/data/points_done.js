@@ -64925,6 +64925,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.47027, 46.85949]
+      },
+      "properties": {
+        "date": "2026-04-27",
+        "name": "Hubel",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

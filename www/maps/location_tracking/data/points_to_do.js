@@ -2069,18 +2069,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.47027, 46.85949]
-      },
-      "properties": {
-        "date": "",
-        "name": "Hubel",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.446113, 46.85361]
       },
       "properties": {
