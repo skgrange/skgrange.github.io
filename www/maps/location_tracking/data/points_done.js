@@ -64937,6 +64937,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.400628, 46.96]
+      },
+      "properties": {
+        "date": "2026-04-28",
+        "name": "Grosser Bremgartenwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
