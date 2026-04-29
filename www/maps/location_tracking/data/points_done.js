@@ -64949,6 +64949,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.446904, 46.94808]
+      },
+      "properties": {
+        "date": "2026-04-29",
+        "name": "H&M",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445461, 46.94815]
+      },
+      "properties": {
+        "date": "2026-04-29",
+        "name": "Dosenbach",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
