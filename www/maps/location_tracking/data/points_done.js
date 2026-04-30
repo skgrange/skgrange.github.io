@@ -64973,6 +64973,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.448972, 46.95109]
+      },
+      "properties": {
+        "date": "2026-04-30",
+        "name": "Rabbentaltreppe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
