@@ -64985,6 +64985,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.91084, 46.43475]
+      },
+      "properties": {
+        "date": "2026-05-02",
+        "name": "Sleepy Bear Coffee",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.832332, 46.47192]
+      },
+      "properties": {
+        "date": "2026-05-02",
+        "name": "Avenue des Jordils",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.833126, 46.47323]
+      },
+      "properties": {
+        "date": "2026-05-02",
+        "name": "Unnamed stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.827131, 46.47494]
+      },
+      "properties": {
+        "date": "2026-05-02",
+        "name": "Chemin du Chesaux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
