@@ -65033,6 +65033,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.445179, 47.04491]
+      },
+      "properties": {
+        "date": "2026-05-03",
+        "name": "Sargans",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37794, 48.185]
+      },
+      "properties": {
+        "date": "2026-05-03",
+        "name": "Wien Hauptbahnhof",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37479, 48.18616]
+      },
+      "properties": {
+        "date": "2026-05-03",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40104, 48.22365]
+      },
+      "properties": {
+        "date": "2026-05-03",
+        "name": "Vorgartenstraße",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39771, 48.22228]
+      },
+      "properties": {
+        "date": "2026-05-03",
+        "name": "ibis Wien Messe",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
