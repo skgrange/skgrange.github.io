@@ -65093,6 +65093,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.40883, 48.23001]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "Pier 22",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40933, 48.23073]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "Ponte Cagrana",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39793, 48.2398]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "Brigittenauer Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40045, 48.23549]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "Donauinsel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37623, 48.20896]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "YGF Malatang",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3805, 48.21909]
+      },
+      "properties": {
+        "date": "2026-05-04",
+        "name": "Taborstraße",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41756, 48.20271]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Heustadlsteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40183, 48.22442]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Bipa",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40235, 48.22397]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Vorgarten Bäckerei",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37049, 48.20871]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "La Gelateria Italiana",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37036, 48.20837]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Leopoldsbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.39254, 48.21817]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Hendricks Sportsbar",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
