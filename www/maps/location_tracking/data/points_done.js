@@ -65261,6 +65261,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.37925, 48.22431]
+      },
+      "properties": {
+        "date": "2026-05-06",
+        "name": "Augarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
