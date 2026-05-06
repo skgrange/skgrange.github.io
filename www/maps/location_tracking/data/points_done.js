@@ -65237,6 +65237,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.37051, 48.20974]
+      },
+      "properties": {
+        "date": "2026-05-05",
+        "name": "Hotel Wandl",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37166, 48.20525]
+      },
+      "properties": {
+        "date": "2026-05-06",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
