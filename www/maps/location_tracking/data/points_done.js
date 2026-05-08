@@ -65381,6 +65381,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.37346, 48.21217]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Koh-i-noor",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37471, 48.21035]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "dm",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37488, 48.21052]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Eis-Greissler",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
