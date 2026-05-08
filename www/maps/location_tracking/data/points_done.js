@@ -65297,6 +65297,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [16.3341, 48.18433]
+      },
+      "properties": {
+        "date": "2026-05-07",
+        "name": "Längenfeldgasse",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3332, 48.18374]
+      },
+      "properties": {
+        "date": "2026-05-07",
+        "name": "Velani",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.41086, 48.23764]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Heidegarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.36554, 48.24805]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Heiligenstadt",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37218, 48.25178]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Nußdorfer Steg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.37821, 48.25369]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Steinitzsteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.40211, 48.22531]
+      },
+      "properties": {
+        "date": "2026-05-08",
+        "name": "Mexicoplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
