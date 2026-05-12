@@ -65429,6 +65429,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.386232, 46.928]
+      },
+      "properties": {
+        "date": "2026-05-12",
+        "name": "Niederwangen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.295442, 46.94736]
+      },
+      "properties": {
+        "date": "2026-05-12",
+        "name": "Fluh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.302682, 46.94332]
+      },
+      "properties": {
+        "date": "2026-05-12",
+        "name": "Michelsforst",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
