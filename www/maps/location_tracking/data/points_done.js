@@ -65417,6 +65417,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.428751, 46.93052]
+      },
+      "properties": {
+        "date": "2026-05-12",
+        "name": "D’s Kafi",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
