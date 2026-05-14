@@ -65465,6 +65465,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.074122, 46.94975]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Lugnorre",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.085103, 46.95536]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Sur le Mont",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.094845, 46.96295]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Mont Vully - Plan Châtel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.093947, 46.96397]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Mont Vully",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.077566, 46.95616]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Réduit du Vully",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.102844, 46.9641]
+      },
+      "properties": {
+        "date": "2026-05-14",
+        "name": "Chemin du Champ-Muret",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
