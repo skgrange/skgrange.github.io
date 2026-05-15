@@ -65597,6 +65597,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.523451, 46.7897]
+      },
+      "properties": {
+        "date": "2026-05-15",
+        "name": "ecostop",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
