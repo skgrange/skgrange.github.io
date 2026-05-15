@@ -65549,6 +65549,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.827493, 47.59156]
+      },
+      "properties": {
+        "date": "2026-05-15",
+        "name": "Bettlerkuchi",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.82307, 47.58362]
+      },
+      "properties": {
+        "date": "2026-05-15",
+        "name": "8. Weg (Heimeholz)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.830806, 47.58163]
+      },
+      "properties": {
+        "date": "2026-05-15",
+        "name": "4. Weg (Heimeholz)",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.830894, 47.58612]
+      },
+      "properties": {
+        "date": "2026-05-15",
+        "name": "Unnamed trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
