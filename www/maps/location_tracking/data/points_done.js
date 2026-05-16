@@ -65681,6 +65681,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.246334, 46.89601]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Sarnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.280549, 46.90829]
       },
       "properties": {
