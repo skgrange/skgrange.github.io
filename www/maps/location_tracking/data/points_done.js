@@ -65609,6 +65609,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.343934, 46.98202]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "General Guisan Quai",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3487, 46.98459]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Kehrsitenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.36504, 46.9994]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Kehrsiten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.382255, 47.00296]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Bürgenstockbahn Schiffländi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.337448, 46.97961]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Stansstad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.310825, 46.96918]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Lopperstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.280549, 46.90829]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Riebetenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.281342, 46.92588]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Etschistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.338065, 46.97907]
+      },
+      "properties": {
+        "date": "2026-05-16",
+        "name": "Bäckerei Christen Beck",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
