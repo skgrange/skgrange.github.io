@@ -65729,6 +65729,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.844351, 46.46612]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Passage du Pont-de-Danse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.844745, 46.45841]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Le Café littéraire",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.853149, 46.45577]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Jardin Roussy",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.853873, 46.45366]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Crêperie Nomade",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.924514, 46.39643]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Villeneuve",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.926397, 46.41978]
+      },
+      "properties": {
+        "date": "2026-05-17",
+        "name": "Avenue de Chillon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
