@@ -65813,6 +65813,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.442808, 46.9501]
+      },
+      "properties": {
+        "date": "2026-05-18",
+        "name": "Qin Restaurant",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
