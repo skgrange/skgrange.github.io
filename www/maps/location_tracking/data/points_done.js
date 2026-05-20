@@ -65825,6 +65825,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.150375, 46.80193]
+      },
+      "properties": {
+        "date": "2026-05-20",
+        "name": "Esplanade de l'Ancienne-Gare",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.154288, 46.8025]
+      },
+      "properties": {
+        "date": "2026-05-20",
+        "name": "Parc des Grand-Places",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.155131, 46.80444]
+      },
+      "properties": {
+        "date": "2026-05-20",
+        "name": "Spizzi Pizza",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.162555, 46.80617]
+      },
+      "properties": {
+        "date": "2026-05-20",
+        "name": "Cathédrale Saint-Nicolas / Kathedrale Sankt Niklaus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
