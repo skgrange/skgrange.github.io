@@ -2544,6 +2544,30 @@ var points_to_do = [{
         "name": "Barrage de Moiry",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.190434, 46.80462]
+      },
+      "properties": {
+        "date": "",
+        "name": "Gorges du Gottéron",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.481166, 46.02581]
+      },
+      "properties": {
+        "date": "",
+        "name": "Arolla",
+        "type": "To-do"
+      }
     }
   ]
 }];
