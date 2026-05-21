@@ -65873,6 +65873,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.549109, 47.37835]
+      },
+      "properties": {
+        "date": "2026-05-21",
+        "name": "ETH CAB",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
