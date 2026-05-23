@@ -65885,6 +65885,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.492145, 46.9393]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Melchenbühlgut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.489677, 46.93996]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Grabmal Berset-Müller",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.47876, 46.9415]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Puffertgässli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.483095, 46.93541]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Egghölzli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.478943, 46.92898]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Gurtenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471186, 46.92552]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Fähribeizli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.470708, 46.92556]
+      },
+      "properties": {
+        "date": "2026-05-23",
+        "name": "Fähre Bodenacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
