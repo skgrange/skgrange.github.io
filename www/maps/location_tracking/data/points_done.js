@@ -65969,6 +65969,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.105628, 47.00608]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Inns",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.097117, 47.04299]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Erlach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.066698, 47.04569]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Zihlbrücke St. Johannsen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.064507, 47.05056]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Le Landeron",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.069525, 47.0814]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Lignières",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.043175, 47.10748]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "La Combe du Sapin",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.130368, 47.09929]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Prêles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.092471, 47.06341]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "La Neuveville",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.091471, 47.06091]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Quai Maurice Moeckli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.097155, 47.04317]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Café-Pâtisserie MiMi",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.303591, 47.07713]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Scall",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.30697, 47.07352]
+      },
+      "properties": {
+        "date": "2026-05-24",
+        "name": "Lyss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
