@@ -66113,6 +66113,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.615116, 47.11705]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Niederösch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.667454, 47.10589]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Wynigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.692562, 47.09855]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Gitzerbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.690102, 47.09049]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Mistelnberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.733149, 47.05734]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Foto-Spot",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.731594, 47.06391]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Schaukäserei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.664713, 47.10507]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Bäckerei Meier",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.668296, 47.14167]
+      },
+      "properties": {
+        "date": "2026-05-25",
+        "name": "Grasswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
