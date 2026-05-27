@@ -66233,6 +66233,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.445362, 46.92812]
+      },
+      "properties": {
+        "date": "2026-05-27",
+        "name": "Dermatologie am Gurten",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
