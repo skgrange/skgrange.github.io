@@ -66209,6 +66209,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.436272, 46.9556]
+      },
+      "properties": {
+        "date": "2026-05-27",
+        "name": "UniBe Mittelstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.435227, 46.95538]
+      },
+      "properties": {
+        "date": "2026-05-27",
+        "name": "Barbara-Lischetti-Platz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
