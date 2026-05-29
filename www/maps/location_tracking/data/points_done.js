@@ -66245,6 +66245,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.43661, 46.94524]
+      },
+      "properties": {
+        "date": "2026-05-29",
+        "name": "Reptechnic",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.475504, 46.95552]
+      },
+      "properties": {
+        "date": "2026-05-29",
+        "name": "Migrationsdienst des Kantons Bern",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
