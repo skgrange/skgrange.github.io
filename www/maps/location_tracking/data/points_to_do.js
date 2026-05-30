@@ -1997,18 +1997,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.324075, 47.01484]
-      },
-      "properties": {
-        "date": "",
-        "name": "Chutzenturm",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.246462, 46.97804]
       },
       "properties": {

@@ -66269,6 +66269,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.455109, 46.92643]
+      },
+      "properties": {
+        "date": "2026-05-29",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.364182, 47.00953]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Meikirch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.331319, 47.02693]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Frienisberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.323973, 47.01489]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Chutzenturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.305887, 47.01548]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Ruchwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.313123, 47.03407]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Seedorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.27631, 47.04447]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Aareberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.286022, 47.05243]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "Lidl",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.283643, 47.0506]
+      },
+      "properties": {
+        "date": "2026-05-30",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
