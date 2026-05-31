@@ -66425,6 +66425,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.452856, 46.8893]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Unnamed forest",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.439665, 46.89032]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Eggstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444707, 46.89531]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Unnamed grass path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
