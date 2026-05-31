@@ -66377,6 +66377,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.219455, 46.91023]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Kriechenwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.165811, 46.90305]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Jeuss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.179608, 46.9452]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Büchslen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.201023, 46.93259]
+      },
+      "properties": {
+        "date": "2026-05-31",
+        "name": "Ulmiz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
