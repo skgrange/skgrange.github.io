@@ -66485,6 +66485,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.466253, 46.91126]
+      },
+      "properties": {
+        "date": "2026-06-04",
+        "name": "Breitägerten’s stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.443559, 46.92489]
+      },
+      "properties": {
+        "date": "2026-06-04",
+        "name": "Hasenbrunnenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.438844, 46.92921]
+      },
+      "properties": {
+        "date": "2026-06-04",
+        "name": "Gurtenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
