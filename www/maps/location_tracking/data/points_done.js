@@ -66521,6 +66521,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.446711, 46.94664]
+      },
+      "properties": {
+        "date": "2026-06-04",
+        "name": "Bellevue Palace",
+        "type": "Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
