@@ -66533,6 +66533,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.68289, 46.61694]
+      },
+      "properties": {
+        "date": "2026-06-06",
+        "name": "Flugplatzstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.764485, 46.55044]
+      },
+      "properties": {
+        "date": "2026-06-06",
+        "name": "Golderli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.764485, 46.55044]
+      },
+      "properties": {
+        "date": "2026-06-06",
+        "name": "Gamchibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.679062, 46.68842]
+      },
+      "properties": {
+        "date": "2026-06-06",
+        "name": "Kronenplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
