@@ -66581,6 +66581,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.331851, 46.57161]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Grimsel Hospiz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3332, 46.57169]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Grimsel Hospiz Rundweg",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.333481, 46.56138]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Panoramastrasse Oberaar",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.330104, 46.56313]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Hausenegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.315245, 46.56466]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Kessiturm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.295944, 46.55334]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Trübtensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.283209, 46.5496]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Bäregghütte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.282782, 46.54975]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Bäregg",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.279392, 46.54932]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Unnamed viewpoint",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.361945, 46.56221]
+      },
+      "properties": {
+        "date": "2026-06-07",
+        "name": "Kiosk",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
