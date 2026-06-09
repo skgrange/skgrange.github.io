@@ -66701,6 +66701,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.414463, 46.96987]
+      },
+      "properties": {
+        "date": "2026-06-09",
+        "name": "Aareufer Bremgartenwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.412885, 46.96711]
+      },
+      "properties": {
+        "date": "2026-06-09",
+        "name": "Glasgrabe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.398919, 46.96631]
+      },
+      "properties": {
+        "date": "2026-06-09",
+        "name": "Hasli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
