@@ -66689,11 +66689,11 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.361945, 46.56221]
+        "coordinates": [8.362178, 46.56233]
       },
       "properties": {
         "date": "2026-06-07",
-        "name": "Kiosk",
+        "name": "Truck Lounge Goms",
         "type": "Food"
       }
     },
