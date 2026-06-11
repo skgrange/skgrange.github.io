@@ -66737,6 +66737,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.475064, 46.91139]
+      },
+      "properties": {
+        "date": "2026-06-11",
+        "name": "Schlossmatte",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.488188, 46.90078]
+      },
+      "properties": {
+        "date": "2026-06-11",
+        "name": "Lochgut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
