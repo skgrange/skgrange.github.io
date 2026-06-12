@@ -66761,6 +66761,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.3094, 46.50589]
+      },
+      "properties": {
+        "date": "2026-06-12",
+        "name": "Gommer-Träff",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.309543, 46.50603]
+      },
+      "properties": {
+        "date": "2026-06-12",
+        "name": "Volg",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
