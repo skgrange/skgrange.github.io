@@ -66785,6 +66785,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.34296, 46.95633]
+      },
+      "properties": {
+        "date": "2026-06-13",
+        "name": "Breitacher",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.358662, 46.96678]
+      },
+      "properties": {
+        "date": "2026-06-13",
+        "name": "Wohlei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
