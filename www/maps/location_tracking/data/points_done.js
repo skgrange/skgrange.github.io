@@ -66809,6 +66809,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.532807, 46.81189]
+      },
+      "properties": {
+        "date": "2026-06-14",
+        "name": "Sarren",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.529438, 46.82162]
+      },
+      "properties": {
+        "date": "2026-06-14",
+        "name": "Moos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.520737, 46.80784]
+      },
+      "properties": {
+        "date": "2026-06-14",
+        "name": "Unnamed building",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.517687, 46.80174]
+      },
+      "properties": {
+        "date": "2026-06-14",
+        "name": "Griensammler",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
