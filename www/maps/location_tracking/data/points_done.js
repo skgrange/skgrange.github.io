@@ -66977,6 +66977,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.925643, 45.97057]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Farmacia Centro Grancia",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.935592, 45.99642]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Lidl",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.924957, 45.96817]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Epinae",
+        "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
