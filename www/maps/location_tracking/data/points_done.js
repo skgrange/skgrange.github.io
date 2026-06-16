@@ -66857,6 +66857,126 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.023989, 46.19328]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Piazza del Sole",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.024257, 46.19371]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Migros",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.024888, 46.1947]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Coop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.029818, 46.18818]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Castello di Sasso Corbaro",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.029818, 46.18818]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Piazza Nosetto",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.022045, 46.19295]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Castelgrande",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.023367, 46.19176]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Piazza Collegiata",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.021833, 46.19107]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Caffè Nosetto",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.023493, 46.19163]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Gelateria Veneta",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.921545, 45.93075]
+      },
+      "properties": {
+        "date": "2026-06-16",
+        "name": "Villetta Poesia",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
