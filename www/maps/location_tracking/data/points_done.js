@@ -67013,6 +67013,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.771129, 46.15597]
+      },
+      "properties": {
+        "date": "2026-06-17",
+        "name": "Via Baraggie",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.769356, 46.15366]
+      },
+      "properties": {
+        "date": "2026-06-17",
+        "name": "Piazza Giuseppe Motta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.768477, 46.15424]
+      },
+      "properties": {
+        "date": "2026-06-17",
+        "name": "Batello",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.771478, 46.15566]
+      },
+      "properties": {
+        "date": "2026-06-17",
+        "name": "Coop",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
