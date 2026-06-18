@@ -67073,6 +67073,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.850785, 46.19361]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Selvatica",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.772175, 46.34851]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Strada de Redòrta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.755766, 46.35312]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Redòrta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.792075, 46.35685]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Strada de Vegornèss",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.799161, 46.3661]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Secada",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.799161, 46.3661]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Unnamed bridge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.78991, 46.16902]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "MUYU Coffee Roasters",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.793287, 46.16916]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Locano",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.794805, 46.16908]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Piazza Grande",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.928634, 45.9793]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Emil Frey",
+        "type": "Fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.917538, 45.92322]
+      },
+      "properties": {
+        "date": "2026-06-18",
+        "name": "Ristorante alla Torre Chez Max",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
