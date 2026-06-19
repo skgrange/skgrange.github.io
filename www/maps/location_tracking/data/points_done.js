@@ -67217,6 +67217,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.689802, 46.51053]
+      },
+      "properties": {
+        "date": "2026-06-19",
+        "name": "Ambri-Piotta",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
