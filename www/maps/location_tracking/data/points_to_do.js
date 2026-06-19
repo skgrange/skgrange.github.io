@@ -2544,6 +2544,18 @@ var points_to_do = [{
         "name": "Arolla",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.453679, 46.32302]
+      },
+      "properties": {
+        "date": "",
+        "name": "Guriner Furggu",
+        "type": "To-do"
+      }
     }
   ]
 }];
