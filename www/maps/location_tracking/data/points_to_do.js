@@ -2556,6 +2556,18 @@ var points_to_do = [{
         "name": "Guriner Furggu",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.373899, 46.45371]
+      },
+      "properties": {
+        "date": "",
+        "name": "Griespass",
+        "type": "To-do"
+      }
     }
   ]
 }];
