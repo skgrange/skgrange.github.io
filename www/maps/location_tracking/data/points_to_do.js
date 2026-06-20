@@ -2568,6 +2568,54 @@ var points_to_do = [{
         "name": "Griespass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.159722, 46.78588]
+      },
+      "properties": {
+        "date": "",
+        "name": "Lungern",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.963999, 46.71173]
+      },
+      "properties": {
+        "date": "",
+        "name": "Iseltwald",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.48641, 46.42486]
+      },
+      "properties": {
+        "date": "",
+        "name": "Simmenfälle",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.490471, 46.41448]
+      },
+      "properties": {
+        "date": "",
+        "name": "Siebenbrunnen",
+        "type": "To-do"
+      }
     }
   ]
 }];
