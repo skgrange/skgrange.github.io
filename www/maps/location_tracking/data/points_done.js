@@ -67229,6 +67229,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.455975, 46.88853]
+      },
+      "properties": {
+        "date": "2026-06-20",
+        "name": "Chüliwilwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.446341, 46.88023]
+      },
+      "properties": {
+        "date": "2026-06-20",
+        "name": "Lisiberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.457625, 46.87839]
+      },
+      "properties": {
+        "date": "2026-06-20",
+        "name": "Allmid",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
