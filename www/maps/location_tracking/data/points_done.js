@@ -67265,6 +67265,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.552578, 46.88304]
+      },
+      "properties": {
+        "date": "2026-06-21",
+        "name": "Psychiatriezentrum Münsingen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.583372, 46.81226]
+      },
+      "properties": {
+        "date": "2026-06-21",
+        "name": "Professoreistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
