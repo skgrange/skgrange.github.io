@@ -2628,6 +2628,18 @@ var points_to_do = [{
         "name": "Val Calnègia",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.928615, 46.74226]
+      },
+      "properties": {
+        "date": "",
+        "name": "Augstmatthorn",
+        "type": "To-do"
+      }
     }
   ]
 }];
