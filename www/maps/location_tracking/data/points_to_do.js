@@ -2616,6 +2616,18 @@ var points_to_do = [{
         "name": "Siebenbrunnen",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.527322, 46.36005]
+      },
+      "properties": {
+        "date": "",
+        "name": "Val Calnègia",
+        "type": "To-do"
+      }
     }
   ]
 }];
