@@ -67325,6 +67325,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.415613, 46.92303]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "Poststelle",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.416388, 46.9261]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "McDonald’s",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.495194, 46.90533]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "Garage Brönnimann",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
