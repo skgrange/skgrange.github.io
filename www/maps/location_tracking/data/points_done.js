@@ -67289,6 +67289,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.450369, 46.94493]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "Schwellenmätteli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444863, 46.95613]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "Okra",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.44479, 46.95557]
+      },
+      "properties": {
+        "date": "2026-06-23",
+        "name": "Lorrainepark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
