@@ -67361,6 +67361,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.452652, 46.92836]
+      },
+      "properties": {
+        "date": "2026-06-26",
+        "name": "Mama Vietnam",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
