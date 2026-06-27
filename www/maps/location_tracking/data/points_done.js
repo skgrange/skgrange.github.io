@@ -67373,6 +67373,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.713935, 46.49743]
+      },
+      "properties": {
+        "date": "2026-06-27",
+        "name": "Berghotel Oeschinensee",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
