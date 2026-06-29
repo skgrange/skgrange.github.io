@@ -67385,6 +67385,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.452499, 46.94765]
+      },
+      "properties": {
+        "date": "2026-06-27",
+        "name": "eniline",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.549107, 47.37786]
+      },
+      "properties": {
+        "date": "2026-06-29",
+        "name": "ETH LFH",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

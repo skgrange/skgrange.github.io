@@ -2640,6 +2640,18 @@ var points_to_do = [{
         "name": "Augstmatthorn",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.626003, 46.48237]
+      },
+      "properties": {
+        "date": "",
+        "name": "Bunderchrinde",
+        "type": "To-do"
+      }
     }
   ]
 }];
