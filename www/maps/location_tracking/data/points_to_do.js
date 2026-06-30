@@ -2652,6 +2652,18 @@ var points_to_do = [{
         "name": "Bunderchrinde",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.805314, 46.7507]
+      },
+      "properties": {
+        "date": "",
+        "name": "Sichle",
+        "type": "To-do"
+      }
     }
   ]
 }];
