@@ -67409,6 +67409,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.450874, 46.92871]
+      },
+      "properties": {
+        "date": "2026-06-30",
+        "name": "Poststelle",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
