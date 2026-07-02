@@ -67421,6 +67421,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.959863, 47.01047]
+      },
+      "properties": {
+        "date": "2026-07-02",
+        "name": "Rue du Vully",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
