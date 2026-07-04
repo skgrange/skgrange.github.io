@@ -2561,18 +2561,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.373899, 46.45371]
-      },
-      "properties": {
-        "date": "",
-        "name": "Griespass",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.159722, 46.78588]
       },
       "properties": {
