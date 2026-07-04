@@ -67481,6 +67481,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.373162, 46.45282]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Swiss-Italian boarder",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.370834, 46.45097]
       },
       "properties": {
