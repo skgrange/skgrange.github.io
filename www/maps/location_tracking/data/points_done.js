@@ -67433,6 +67433,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.369114, 46.47266]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Altstafel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.374323, 46.4667]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Stocke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.374307, 46.46311]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Mandeli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.373977, 46.45378]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Griespass",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.370834, 46.45097]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Bivacco Passo del Gries",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.382338, 46.45876]
+      },
+      "properties": {
+        "date": "2026-07-04",
+        "name": "Passo del Corno",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
