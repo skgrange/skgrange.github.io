@@ -67517,6 +67517,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.394958, 46.62771]
+      },
+      "properties": {
+        "date": "2026-07-05",
+        "name": "Alp Scheidwegen",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.284716, 46.47557]
+      },
+      "properties": {
+        "date": "2026-07-05",
+        "name": "Promenade",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.286516, 46.47214]
+      },
+      "properties": {
+        "date": "2026-07-05",
+        "name": "Lauibachbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.285346, 46.4754]
+      },
+      "properties": {
+        "date": "2026-07-05",
+        "name": "Gstaad Chocolate Shop",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.284534, 46.47559]
+      },
+      "properties": {
+        "date": "2026-07-05",
+        "name": "Ice cream stand",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
