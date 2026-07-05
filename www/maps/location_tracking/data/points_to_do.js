@@ -1937,18 +1937,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.284257, 46.47514]
-      },
-      "properties": {
-        "date": "",
-        "name": "Gstaad",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [6.608105, 47.056]
       },
       "properties": {
