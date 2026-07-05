@@ -2652,6 +2652,42 @@ var points_to_do = [{
         "name": "Sichle",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.450001, 46.94783]
+      },
+      "properties": {
+        "date": "",
+        "name": "Einsteinhaus",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.447491, 46.94845]
+      },
+      "properties": {
+        "date": "",
+        "name": "Kindlifresserbrunnen",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.474042, 46.94917]
+      },
+      "properties": {
+        "date": "",
+        "name": "Zentrum Paul Klee",
+        "type": "To-do"
+      }
     }
   ]
 }];
