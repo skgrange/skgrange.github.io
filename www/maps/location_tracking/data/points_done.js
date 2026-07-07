@@ -67589,6 +67589,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.460599, 46.90002]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Unnamed path",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.436419, 46.88917]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Eggstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.431996, 46.88702]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Zingghöch",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.434654, 46.88562]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Rainweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.448497, 46.88533]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Kühlewilwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.461745, 46.89165]
+      },
+      "properties": {
+        "date": "2026-07-07",
+        "name": "Englisbergwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
