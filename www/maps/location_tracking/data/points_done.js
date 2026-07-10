@@ -67697,6 +67697,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.448269, 46.95062]
+      },
+      "properties": {
+        "date": "2026-07-09",
+        "name": "Trybhouz",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
