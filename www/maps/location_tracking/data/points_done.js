@@ -67721,6 +67721,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.521735, 46.84801]
+      },
+      "properties": {
+        "date": "2026-07-11",
+        "name": "Schlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.518237, 46.85154]
+      },
+      "properties": {
+        "date": "2026-07-11",
+        "name": "Eggenhorn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.512068, 46.85737]
+      },
+      "properties": {
+        "date": "2026-07-11",
+        "name": "Chieffere",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
