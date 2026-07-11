@@ -67709,6 +67709,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.406242, 46.94372]
+      },
+      "properties": {
+        "date": "2026-07-11",
+        "name": "Pfisternbeck",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
