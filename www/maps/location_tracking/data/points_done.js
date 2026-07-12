@@ -67757,6 +67757,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.40777, 46.58305]
+      },
+      "properties": {
+        "date": "2026-07-12",
+        "name": "Klein Furkahorn trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.406279, 46.58574]
+      },
+      "properties": {
+        "date": "2026-07-12",
+        "name": "Klein Furkahorn",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.412395, 46.57552]
+      },
+      "properties": {
+        "date": "2026-07-12",
+        "name": "Furkastock",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
