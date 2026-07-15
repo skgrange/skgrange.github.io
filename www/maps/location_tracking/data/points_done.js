@@ -67793,6 +67793,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.431355, 46.94196]
+      },
+      "properties": {
+        "date": "2026-07-15",
+        "name": "Elite Fotostudio",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.431275, 46.94181]
+      },
+      "properties": {
+        "date": "2026-07-15",
+        "name": "Drip Roasters Café",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
