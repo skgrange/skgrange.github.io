@@ -67817,6 +67817,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.43533, 46.9528]
+      },
+      "properties": {
+        "date": "2026-07-17",
+        "name": "Geographisches Institut",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
