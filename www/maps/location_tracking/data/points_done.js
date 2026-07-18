@@ -67829,6 +67829,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.531072, 46.8259]
+      },
+      "properties": {
+        "date": "2026-07-18",
+        "name": "Grammoos",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.533963, 46.80565]
+      },
+      "properties": {
+        "date": "2026-07-18",
+        "name": "Hagi",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.535892, 46.79553]
+      },
+      "properties": {
+        "date": "2026-07-18",
+        "name": "Underhueb",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.523682, 46.78955]
+      },
+      "properties": {
+        "date": "2026-07-18",
+        "name": "Auto Glaus",
+        "type": "Car wash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
