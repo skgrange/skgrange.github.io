@@ -67877,6 +67877,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.415749, 46.94659]
+      },
+      "properties": {
+        "date": "2026-07-19",
+        "name": "Bakery Bakery",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.418647, 46.94626]
+      },
+      "properties": {
+        "date": "2026-07-19",
+        "name": "Freiburgstrasse",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.484018, 46.87738]
+      },
+      "properties": {
+        "date": "2026-07-20",
+        "name": "Gruben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.484865, 46.88154]
+      },
+      "properties": {
+        "date": "2026-07-20",
+        "name": "Hoffmatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
