@@ -67925,6 +67925,186 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.473023, 46.91582]
+      },
+      "properties": {
+        "date": "2026-07-22",
+        "name": "Selhofen Schule",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.43562, 48.1441]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "TÜV Süd",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.44391, 48.14803]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "DM",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.56938, 48.14717]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Gabelsbergerstraße",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.56912, 48.15075]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "TUM N5",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.56912, 48.15075]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Mensa Arcisstraße",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5657, 48.14898]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Stehcafe",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.60098, 48.13028]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Wörthstraße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.60555, 48.1305]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Breisacher Straße",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.57356, 48.1246]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Isar cycleway",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.57451, 48.08928]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Oberbiberger Strassl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.64947, 47.97429]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Sauerlach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.51453, 47.96779]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Ludwigshöhe",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.58829, 48.13201]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Rustikeria",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.66984, 48.12112]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Hotel Obermaier",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
