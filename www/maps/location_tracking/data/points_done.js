@@ -68105,6 +68105,222 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [11.67111, 48.12254]
+      },
+      "properties": {
+        "date": "2026-07-24",
+        "name": "Rewe",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.65809, 48.11852]
+      },
+      "properties": {
+        "date": "2026-07-24",
+        "name": "Backstube Wünsche",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.65809, 48.11852]
+      },
+      "properties": {
+        "date": "2026-07-24",
+        "name": "Achenseeplatz",
+        "type": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.77987, 47.9708]
+      },
+      "properties": {
+        "date": "2026-07-24",
+        "name": "Ayinger Bräustüberl",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.13384, 47.93072]
+      },
+      "properties": {
+        "date": "2026-07-24",
+        "name": "Dießener Straße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.34919, 47.62161]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Kesselberg",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31611, 47.59638]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Herzogstandbahn Talstation",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31641, 47.60675]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Herzogstandbahn Bergstation",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31021, 47.61363]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Summit cross",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.30849, 47.61346]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Herzogstand",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31113, 47.60783]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Berggasthaus Herzogstand",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31477, 47.60667]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Kriegerkapelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31708, 47.58923]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Unnamed shop",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.31795, 47.59191]
+      },
+      "properties": {
+        "date": "2026-07-25",
+        "name": "Unnamed swimming area",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.72415, 47.57429]
+      },
+      "properties": {
+        "date": "2026-07-26",
+        "name": "Am Ehberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.73667, 47.57305]
+      },
+      "properties": {
+        "date": "2026-07-26",
+        "name": "Gipsmühlweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.77235, 47.61401]
+      },
+      "properties": {
+        "date": "2026-07-26",
+        "name": "Schwarz",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.852832, 47.53065]
+      },
+      "properties": {
+        "date": "2026-07-26",
+        "name": "Rastplatz Stegen",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
