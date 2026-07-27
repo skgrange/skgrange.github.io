@@ -68321,6 +68321,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.405995, 46.94351]
+      },
+      "properties": {
+        "date": "2026-07-27",
+        "name": "Coop Vitality",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
