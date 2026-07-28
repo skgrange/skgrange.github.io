@@ -68357,6 +68357,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.436119, 46.94004]
+      },
+      "properties": {
+        "date": "2026-07-28",
+        "name": "La Golosa",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
