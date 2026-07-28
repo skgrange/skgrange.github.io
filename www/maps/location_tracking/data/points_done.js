@@ -68009,6 +68009,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [11.59228, 48.13677]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Maximiliansbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.59403, 48.13562]
+      },
+      "properties": {
+        "date": "2026-07-23",
+        "name": "Max-Planck-Straße",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [11.60098, 48.13028]
       },
       "properties": {
