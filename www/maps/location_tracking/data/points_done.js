@@ -68381,6 +68381,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.45284, 46.84513]
+      },
+      "properties": {
+        "date": "2026-07-31",
+        "name": "Rattenholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.459264, 46.84971]
+      },
+      "properties": {
+        "date": "2026-07-31",
+        "name": "Seitenberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.458775, 46.85368]
+      },
+      "properties": {
+        "date": "2026-07-31",
+        "name": "Oberes Rattenholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
