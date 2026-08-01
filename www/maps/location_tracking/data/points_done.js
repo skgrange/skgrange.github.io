@@ -68417,6 +68417,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.64083, 47.01674]
+      },
+      "properties": {
+        "date": "2026-08-01",
+        "name": "Schützenmattstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.610588, 46.9908]
+      },
+      "properties": {
+        "date": "2026-08-01",
+        "name": "Velotransport",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.652546, 47.02003]
+      },
+      "properties": {
+        "date": "2026-08-01",
+        "name": "Cafe Ryser",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
