@@ -68453,6 +68453,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.500907, 46.92022]
+      },
+      "properties": {
+        "date": "2026-08-02",
+        "name": "Haldenweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.509002, 46.91837]
+      },
+      "properties": {
+        "date": "2026-08-02",
+        "name": "Märchligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.509002, 46.91837]
+      },
+      "properties": {
+        "date": "2026-08-02",
+        "name": "Unnamed waterfall & cave",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
