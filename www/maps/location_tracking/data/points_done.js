@@ -68489,6 +68489,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.482677, 46.89084]
+      },
+      "properties": {
+        "date": "2026-08-05",
+        "name": "Cholholz car park",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.476727, 46.88138]
+      },
+      "properties": {
+        "date": "2026-08-05",
+        "name": "Willishalten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
