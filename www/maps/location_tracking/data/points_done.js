@@ -68513,6 +68513,150 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.439691, 46.94909]
+      },
+      "properties": {
+        "date": "2026-08-06",
+        "name": "Bakery Bakery",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.576771, 46.93034]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Schützenhausstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.580655, 46.93062]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Leen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.589997, 46.93484]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Wattenwilwald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.584118, 46.93695]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Worbberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.591681, 46.94478]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Hübeli climb",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.594683, 46.94674]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Unnamed viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.600071, 46.9524]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Mänziwil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.602837, 46.95686]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Mänziwilegg",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.602837, 46.95685]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Wikartswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.59759, 46.93954]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Rüttihubelbad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.563837, 46.91596]
+      },
+      "properties": {
+        "date": "2026-08-08",
+        "name": "Ländli",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

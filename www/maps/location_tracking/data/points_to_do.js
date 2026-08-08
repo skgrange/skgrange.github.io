@@ -2381,18 +2381,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.60727, 46.93922]
-      },
-      "properties": {
-        "date": "",
-        "name": "Moos",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.257108, 46.54691]
       },
       "properties": {
