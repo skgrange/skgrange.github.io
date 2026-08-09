@@ -68657,6 +68657,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.432466, 46.83253]
+      },
+      "properties": {
+        "date": "2026-08-09",
+        "name": "Fultigenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.424499, 46.83763]
+      },
+      "properties": {
+        "date": "2026-08-09",
+        "name": "Vorderfultigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.429279, 46.84469]
+      },
+      "properties": {
+        "date": "2026-08-09",
+        "name": "Bütschelbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.436862, 46.84267]
+      },
+      "properties": {
+        "date": "2026-08-09",
+        "name": "Baumgarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.446799, 46.83697]
+      },
+      "properties": {
+        "date": "2026-08-09",
+        "name": "Niederbütschel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
