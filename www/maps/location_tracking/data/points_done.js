@@ -68729,6 +68729,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.13543, 46.60885]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Route du Pessot",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.132782, 46.61236]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Barrage de Montsalvens",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.138061, 46.61556]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Unnamed stream",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.151182, 46.60532]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Route du Motélon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.236305, 46.59839]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Im Fang",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.209056, 46.60203]
+      },
+      "properties": {
+        "date": "2026-08-16",
+        "name": "Jauntalbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
