@@ -68801,6 +68801,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.038068, 46.56128]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "Moléson-sur-Gruyères",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.038068, 46.56128]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "Bar à Toutou",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0311, 46.56535]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "La Chaux-Dessus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.024341, 46.56003]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "Unnamed viewpoint",
+        "type": "Viewpoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.024188, 46.55672]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "Plan-Francey",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.034163, 46.56166]
+      },
+      "properties": {
+        "date": "2026-08-19",
+        "name": "Bob-luge",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
