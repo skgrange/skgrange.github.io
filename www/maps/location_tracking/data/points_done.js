@@ -68873,6 +68873,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.431436, 46.94202]
+      },
+      "properties": {
+        "date": "2026-08-20",
+        "name": "Da Nino",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.434416, 46.94214]
+      },
+      "properties": {
+        "date": "2026-08-20",
+        "name": "Monbijoupark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
