@@ -68909,6 +68909,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.550121, 46.82276]
+      },
+      "properties": {
+        "date": "2026-08-28",
+        "name": "Seegasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.553838, 46.83973]
+      },
+      "properties": {
+        "date": "2026-08-28",
+        "name": "Waldegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.547852, 46.83984]
+      },
+      "properties": {
+        "date": "2026-08-28",
+        "name": "Schloss Neu Gerzensee",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.551363, 46.83096]
+      },
+      "properties": {
+        "date": "2026-08-28",
+        "name": "Seegasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
