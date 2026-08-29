@@ -68957,6 +68957,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.347278, 46.98466]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Gschwendweg",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.34929, 46.97853]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Batöniweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.352973, 46.96419]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Tirolerwehr",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.35349, 46.95861]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Batöni",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.35496, 46.95878]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Wasserfallarena Batöni viewpoint",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.353056, 46.95833]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Hängebrücke Batöni",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.254788, 47.11526]
+      },
+      "properties": {
+        "date": "2026-08-29",
+        "name": "Strandbad Unterterzen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
