@@ -69041,6 +69041,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.560136, 47.18498]
+      },
+      "properties": {
+        "date": "2026-08-30",
+        "name": "Grüngenstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.536326, 47.2062]
+      },
+      "properties": {
+        "date": "2026-08-30",
+        "name": "Café Bar Landhaus",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
