@@ -69089,6 +69089,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.589855, 47.07324]
+      },
+      "properties": {
+        "date": "2026-09-04",
+        "name": "Landi",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.53926, 46.85384]
+      },
+      "properties": {
+        "date": "2026-09-04",
+        "name": "Vordere Chlapf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
