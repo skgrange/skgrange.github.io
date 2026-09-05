@@ -69113,6 +69113,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [9.28455, 47.31766]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Kronenplatz",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.407572, 47.33149]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Landsgemeindeplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.408757, 47.33082]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Hauptgasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.466572, 47.3315]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Eggerstanden",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.396433, 47.35661]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Schlatt",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.392632, 47.36803]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Leimensteig",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.285274, 47.31773]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "9107 - Zentrum für Handwerk und Kunst",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.282621, 47.3171]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Dorfplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.305828, 47.40659]
+      },
+      "properties": {
+        "date": "2026-09-05",
+        "name": "Decathlon",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
