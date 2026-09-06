@@ -69221,6 +69221,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.517411, 46.88297]
+      },
+      "properties": {
+        "date": "2026-09-06",
+        "name": "Hoburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.517658, 46.86505]
+      },
+      "properties": {
+        "date": "2026-09-06",
+        "name": "Weidli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.515064, 46.87069]
+      },
+      "properties": {
+        "date": "2026-09-06",
+        "name": "Hohlen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.516311, 46.88248]
+      },
+      "properties": {
+        "date": "2026-09-06",
+        "name": "Unnamed ford",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.516885, 46.88344]
+      },
+      "properties": {
+        "date": "2026-09-06",
+        "name": "Burgruine Hohburg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
