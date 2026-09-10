@@ -69293,6 +69293,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.452874, 46.97057]
+      },
+      "properties": {
+        "date": "2026-09-10",
+        "name": "Unnamed trail",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.466747, 46.97381]
+      },
+      "properties": {
+        "date": "2026-09-10",
+        "name": "Löchliweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
