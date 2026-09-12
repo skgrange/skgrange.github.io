@@ -2669,18 +2669,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.40288, 46.85761]
-      },
-      "properties": {
-        "date": "",
-        "name": "Col de Bor",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.398136, 46.82776]
       },
       "properties": {
