@@ -69329,6 +69329,78 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.403782, 46.87311]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Oberbalm",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.394003, 46.87106]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Oberbalmstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.403755, 46.85672]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Borisried",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.419575, 46.85788]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Flüh",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.426951, 46.86212]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Tschuggen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.429185, 46.86509]
+      },
+      "properties": {
+        "date": "2026-09-12",
+        "name": "Stein",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
