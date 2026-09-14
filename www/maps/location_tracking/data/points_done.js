@@ -69437,6 +69437,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.19248, 55.69453]
+      },
+      "properties": {
+        "date": "2026-09-14",
+        "name": "Rekas",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19147, 55.6945]
+      },
+      "properties": {
+        "date": "2026-09-14",
+        "name": "Hemköp",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
