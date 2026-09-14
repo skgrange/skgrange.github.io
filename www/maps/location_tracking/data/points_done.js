@@ -69401,6 +69401,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.64917, 55.62964]
+      },
+      "properties": {
+        "date": "2026-09-14",
+        "name": "Espresso House",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.18639, 55.70674]
+      },
+      "properties": {
+        "date": "2026-09-14",
+        "name": "Lund centralstation",
+        "type": "Rain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19834, 55.69601]
+      },
+      "properties": {
+        "date": "2026-09-14",
+        "name": "The More Hotel",
+        "type": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
