@@ -69461,6 +69461,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.20167, 55.70209]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Östra kyrkogården",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.20335, 55.70408]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Botaniska trädgården",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.20314, 55.70528]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Agardhsdammen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19458, 55.7056]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Lundagård",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.18578, 55.69917]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Stadsparken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19578, 55.70529]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "AF-borgen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1973, 55.70159]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Coop",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.20367, 55.69608]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "ICA Nära Satelliten",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
