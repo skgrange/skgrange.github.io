@@ -69533,6 +69533,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.19371, 55.703]
+      },
+      "properties": {
+        "date": "2026-09-15",
+        "name": "Espresso House",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [13.1973, 55.70159]
       },
       "properties": {
@@ -69551,6 +69563,30 @@ var points_done = [{
         "date": "2026-09-15",
         "name": "ICA Nära Satelliten",
         "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19306, 55.70217]
+      },
+      "properties": {
+        "date": "2026-09-16",
+        "name": "H&M",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1901, 55.7029]
+      },
+      "properties": {
+        "date": "2026-09-16",
+        "name": "La Pizzeria Italia",
+        "type": "Food"
       }
     },
     {
