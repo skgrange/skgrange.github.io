@@ -69605,6 +69605,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.19337, 55.70413]
+      },
+      "properties": {
+        "date": "2026-09-17",
+        "name": "Lunds domkyrka",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19238, 55.70172]
+      },
+      "properties": {
+        "date": "2026-09-17",
+        "name": "Clas Ohlson",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {

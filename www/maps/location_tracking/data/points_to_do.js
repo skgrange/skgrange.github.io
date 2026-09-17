@@ -2676,6 +2676,18 @@ var points_to_do = [{
         "name": "Rossgrabenbrücke",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.487424, 46.64068]
+      },
+      "properties": {
+        "date": "",
+        "name": "Älpergen",
+        "type": "To-do"
+      }
     }
   ]
 }];
