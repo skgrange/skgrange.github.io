@@ -69593,6 +69593,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.19444, 55.71479]
+      },
+      "properties": {
+        "date": "2026-09-17",
+        "name": "Norra kyrkogården",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
