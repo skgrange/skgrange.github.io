@@ -69641,6 +69641,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [13.17164, 55.69757]
+      },
+      "properties": {
+        "date": "2026-09-18",
+        "name": "Västhagen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.16154, 55.69899]
+      },
+      "properties": {
+        "date": "2026-09-18",
+        "name": "Klimatleken",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.15561, 55.69876]
+      },
+      "properties": {
+        "date": "2026-09-18",
+        "name": "Höjeådalen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
