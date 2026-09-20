@@ -69677,6 +69677,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.230224, 46.7033]
+      },
+      "properties": {
+        "date": "2026-09-20",
+        "name": "Unnamed carpark",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.597185, 46.63427]
+      },
+      "properties": {
+        "date": "2026-09-20",
+        "name": "Tavola 1620",
+        "type": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.209915, 46.7148]
+      },
+      "properties": {
+        "date": "2026-09-20",
+        "name": "Oeltrans",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
