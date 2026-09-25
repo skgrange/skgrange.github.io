@@ -69713,6 +69713,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.524119, 46.87251]
+      },
+      "properties": {
+        "date": "2026-09-25",
+        "name": "Wegacker",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.527212, 46.86345]
+      },
+      "properties": {
+        "date": "2026-09-25",
+        "name": "Mooshus",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.525181, 46.86302]
+      },
+      "properties": {
+        "date": "2026-09-25",
+        "name": "Wyler",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.521247, 46.85766]
+      },
+      "properties": {
+        "date": "2026-09-25",
+        "name": "Harzern",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
