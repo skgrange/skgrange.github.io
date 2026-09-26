@@ -69761,6 +69761,114 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.382949, 46.94181]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Zypressenstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.37909, 46.94259]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Winterholz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.379025, 46.94259]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Willy-Liechti-Gedächnisbrunnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.389542, 46.94457]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Fellerstock",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.385975, 46.94083]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Friedhof Bümpliz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.383502, 46.94191]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Friedhof Bümpliz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.389864, 46.93937]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Denner",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.389974, 46.93928]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "AVI Restaurant",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.390387, 46.94143]
+      },
+      "properties": {
+        "date": "2026-09-26",
+        "name": "Intrigo",
+        "type": "Ice cream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
