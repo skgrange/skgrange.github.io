@@ -69869,6 +69869,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.212535, 46.08044]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Le Châble",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.243681, 46.05704]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Champsec",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.192333, 46.0855]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Rue du Stand",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.214617, 46.07862]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Gare du Châble",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.233472, 46.09365]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Médran",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.252666, 46.0911]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "Les Ruinettes",
+        "type": "Cable car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.268722, 46.07913]
+      },
+      "properties": {
+        "date": "2026-09-27",
+        "name": "La Chaux",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
