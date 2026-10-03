@@ -69953,6 +69953,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.117054, 46.38747]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Volg",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.134056, 46.40613]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Fiesch",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.103474, 46.41333]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Fiescheralp",
+        "type": "Railway station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.086841, 46.42272]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Elselicka",
+        "type": "Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.093123, 46.42718]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Bergstation Eggishorn",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.094236, 46.43136]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Eggishorn",
+        "type": "Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.134429, 46.40634]
+      },
+      "properties": {
+        "date": "2026-10-03",
+        "name": "Volken Sport",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
