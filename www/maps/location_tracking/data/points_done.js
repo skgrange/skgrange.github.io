@@ -70037,6 +70037,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.423215, 46.946]
+      },
+      "properties": {
+        "date": "2026-10-05",
+        "name": "Inselpark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.422059, 46.9453]
+      },
+      "properties": {
+        "date": "2026-10-05",
+        "name": "Engländerhubel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.41718, 46.94452]
+      },
+      "properties": {
+        "date": "2026-10-05",
+        "name": "Stadtteilpark Holligen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.417212, 46.94236]
+      },
+      "properties": {
+        "date": "2026-10-05",
+        "name": "Familiengärten Schlossgut",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.430717, 46.94469]
+      },
+      "properties": {
+        "date": "2026-10-05",
+        "name": "Schwarztoranlage",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
