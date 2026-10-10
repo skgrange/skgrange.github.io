@@ -2669,18 +2669,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.398136, 46.82776]
-      },
-      "properties": {
-        "date": "",
-        "name": "Rossgrabenbrücke",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [8.487424, 46.64068]
       },
       "properties": {
