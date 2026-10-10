@@ -70097,6 +70097,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.368329, 46.8201]
+      },
+      "properties": {
+        "date": "2026-10-10",
+        "name": "Brünnen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.398128, 46.82775]
+      },
+      "properties": {
+        "date": "2026-10-10",
+        "name": "Rossgrabenbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.402401, 46.82934]
+      },
+      "properties": {
+        "date": "2026-10-10",
+        "name": "Schwandbachbrücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.401196, 46.83805]
+      },
+      "properties": {
+        "date": "2026-10-10",
+        "name": "Hinterfultigen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.431422, 46.83674]
+      },
+      "properties": {
+        "date": "2026-10-10",
+        "name": "Niederbütschelstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
