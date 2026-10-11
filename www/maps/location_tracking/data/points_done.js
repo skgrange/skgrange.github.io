@@ -70157,6 +70157,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.163633, 46.81431]
+      },
+      "properties": {
+        "date": "2026-10-11",
+        "name": "Pont de la Poya",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.180915, 46.80302]
+      },
+      "properties": {
+        "date": "2026-10-11",
+        "name": "Chemin du Gottéron",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.199948, 46.80728]
+      },
+      "properties": {
+        "date": "2026-10-11",
+        "name": "Gorges du Gottéron",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.212463, 46.80406]
+      },
+      "properties": {
+        "date": "2026-10-11",
+        "name": "Ameismüli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.175918, 46.80984]
+      },
+      "properties": {
+        "date": "2026-10-11",
+        "name": "Route de la Heitera",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
