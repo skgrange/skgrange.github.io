@@ -70217,6 +70217,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.468364, 46.84696]
+      },
+      "properties": {
+        "date": "2026-10-15",
+        "name": "Buchweidweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.477712, 46.83686]
+      },
+      "properties": {
+        "date": "2026-10-15",
+        "name": "Grillstelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
