@@ -70241,6 +70241,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.478288, 46.88336]
+      },
+      "properties": {
+        "date": "2026-10-16",
+        "name": "Winzenriedstrasse",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.459674, 46.88149]
+      },
+      "properties": {
+        "date": "2026-10-16",
+        "name": "Obere Wald",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
