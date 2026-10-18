@@ -70265,6 +70265,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.545507, 46.94667]
+      },
+      "properties": {
+        "date": "2026-10-18",
+        "name": "Nesselbank",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.539113, 46.94577]
+      },
+      "properties": {
+        "date": "2026-10-18",
+        "name": "Dentenbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
