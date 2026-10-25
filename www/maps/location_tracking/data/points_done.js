@@ -70289,6 +70289,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.338409, 46.91354]
+      },
+      "properties": {
+        "date": "2026-10-25",
+        "name": "Bim Stundstei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.343663, 46.92026]
+      },
+      "properties": {
+        "date": "2026-10-25",
+        "name": "Niederwangenhubel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
