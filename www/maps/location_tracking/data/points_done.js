@@ -70313,6 +70313,42 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.493309, 46.9615]
+      },
+      "properties": {
+        "date": "2026-10-27",
+        "name": "Pappelweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.490273, 46.95119]
+      },
+      "properties": {
+        "date": "2026-10-27",
+        "name": "Unnamed stairs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.488584, 46.95591]
+      },
+      "properties": {
+        "date": "2026-10-27",
+        "name": "Seepark",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
