@@ -70349,6 +70349,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.429303, 46.9522]
+      },
+      "properties": {
+        "date": "2026-10-29",
+        "name": "Gertrud-Woker-Strasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.425725, 46.95342]
+      },
+      "properties": {
+        "date": "2026-10-29",
+        "name": "Spielstrasse Aebistrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.420224, 46.94877]
       },
       "properties": {
