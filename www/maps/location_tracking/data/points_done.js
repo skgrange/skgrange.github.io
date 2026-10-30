@@ -70385,6 +70385,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.480257, 46.92104]
+      },
+      "properties": {
+        "date": "2026-10-30",
+        "name": "Unter Selhofen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
