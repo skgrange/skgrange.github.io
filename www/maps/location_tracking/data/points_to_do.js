@@ -2405,18 +2405,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.367669, 46.73103]
-      },
-      "properties": {
-        "date": "",
-        "name": "Ottenleuebad",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [7.282597, 47.00358]
       },
       "properties": {
@@ -2662,6 +2650,18 @@ var points_to_do = [{
       "properties": {
         "date": "",
         "name": "Älpergen",
+        "type": "To-do"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.36209, 46.73723]
+      },
+      "properties": {
+        "date": "",
+        "name": "Horbüelpass",
         "type": "To-do"
       }
     }
