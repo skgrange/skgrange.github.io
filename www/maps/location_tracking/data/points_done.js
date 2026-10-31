@@ -70397,6 +70397,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.49804, 46.7903]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Burgistein Dorf",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.500878, 46.77839]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Lörtscherei",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.488285, 46.773]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Grundbach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.407046, 46.78187]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Rüschegg Heubach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.369852, 46.73129]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Ottenleuebad",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.453416, 46.73357]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Gurnigel Berghaus",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.499832, 46.81229]
+      },
+      "properties": {
+        "date": "2026-10-31",
+        "name": "Mülibach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
