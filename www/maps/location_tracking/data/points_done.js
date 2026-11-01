@@ -70481,6 +70481,66 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.099614, 47.04484]
+      },
+      "properties": {
+        "date": "2026-11-01",
+        "name": "Tennis-Parkplatz",
+        "type": "Car parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.101508, 47.04656]
+      },
+      "properties": {
+        "date": "2026-11-01",
+        "name": "Erlach Brücke",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.121673, 47.05589]
+      },
+      "properties": {
+        "date": "2026-11-01",
+        "name": "Sankt Petersinsel",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.135586, 47.06832]
+      },
+      "properties": {
+        "date": "2026-11-01",
+        "name": "St. Petersinsel Nord",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.096931, 47.04375]
+      },
+      "properties": {
+        "date": "2026-11-01",
+        "name": "Margherita",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
