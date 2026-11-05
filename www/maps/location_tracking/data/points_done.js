@@ -70541,6 +70541,30 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.44386, 46.9619]
+      },
+      "properties": {
+        "date": "2026-11-05",
+        "name": "Jurastrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.444216, 46.96828]
+      },
+      "properties": {
+        "date": "2026-11-05",
+        "name": "Felsenau",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
