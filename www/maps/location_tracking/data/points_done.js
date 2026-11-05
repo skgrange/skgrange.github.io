@@ -70541,6 +70541,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.44725, 46.9487]
+      },
+      "properties": {
+        "date": "2026-11-04",
+        "name": "Kornhauskeller",
+        "type": "Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.44386, 46.9619]
       },
       "properties": {
