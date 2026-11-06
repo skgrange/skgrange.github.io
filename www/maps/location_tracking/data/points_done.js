@@ -70577,6 +70577,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.568454, 47.07237]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Smyths Toys",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.631912, 47.0593]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Wynigebrügg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.632658, 47.05362]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Waldegg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.631016, 47.05315]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Waldeggbrügg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6264, 47.0553]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Grabenstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.626424, 47.05575]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Schmiedengasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.627264, 47.05611]
+      },
+      "properties": {
+        "date": "2026-11-06",
+        "name": "Kronenplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
