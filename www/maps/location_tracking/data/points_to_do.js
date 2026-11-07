@@ -2664,6 +2664,18 @@ var points_to_do = [{
         "name": "Horbüelpass",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3438, 46.97898]
+      },
+      "properties": {
+        "date": "",
+        "name": "Illiswilwald",
+        "type": "To-do"
+      }
     }
   ]
 }];
