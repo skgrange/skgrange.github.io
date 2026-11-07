@@ -70661,6 +70661,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.317809, 46.98154]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Murzelen",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.285534, 46.99495]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Frieswil",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.277192, 47.02774]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Mülital",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.276825, 47.0447]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Steffen",
+        "type": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.297851, 47.05047]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Spins",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.391653, 47.03158]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Schüpbergstrasse",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.394394, 47.02309]
+      },
+      "properties": {
+        "date": "2026-11-07",
+        "name": "Schüpberg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
