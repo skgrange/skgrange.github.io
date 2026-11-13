@@ -70769,6 +70769,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.418886, 46.91613]
+      },
+      "properties": {
+        "date": "2026-11-13",
+        "name": "Entsorgungshof Werkhof Köniz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
