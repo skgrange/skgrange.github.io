@@ -70781,6 +70781,138 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.148154, 46.23744]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Chambésy-Pierrière",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.996561, 46.17741]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "La Plane park",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.991307, 46.17731]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "La Plaine-Douane",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.000423, 46.18752]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Route de la Donzelle",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.007011, 46.18692]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Ruisseau des Eaux-Froides",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.009977, 46.18242]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "L'Allondon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.009103, 46.17955]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Viaduc de l'Allondon",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.977455, 46.18314]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Cimetière de Challex",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.982791, 46.19079]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Chemin de Chalamont",
+        "type": "International boarder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.19623, 46.3683]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Crans-près-Céligny services",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.57046, 46.67387]
+      },
+      "properties": {
+        "date": "2026-11-15",
+        "name": "Bavois northbound services",
+        "type": "Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
