@@ -70913,6 +70913,54 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.159489, 46.79362]
+      },
+      "properties": {
+        "date": "2026-11-21",
+        "name": "Université de Fribourg - Pérolles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.155428, 46.78825]
+      },
+      "properties": {
+        "date": "2026-11-21",
+        "name": "Pont de Pérolles",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.15757, 46.78347]
+      },
+      "properties": {
+        "date": "2026-11-21",
+        "name": "Chemin des Falaises",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.157013, 46.79168]
+      },
+      "properties": {
+        "date": "2026-11-21",
+        "name": "Chemin des Verdiers",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
