@@ -70961,6 +70961,90 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.157971, 47.15534]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Rastplatz Inseli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.315792, 47.05537]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Parkhaus National",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.312949, 47.05031]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Europaplatz",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.314314, 47.04989]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Inseli",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.315891, 47.04794]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Werftsteg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.321457, 47.04665]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Aufschütte - Ufschötti",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.324705, 47.05488]
+      },
+      "properties": {
+        "date": "2026-11-22",
+        "name": "Spittelerquai",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
