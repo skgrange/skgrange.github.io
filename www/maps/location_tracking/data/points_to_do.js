@@ -2676,6 +2676,18 @@ var points_to_do = [{
         "name": "Illiswilwald",
         "type": "To-do"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.169695, 46.00597]
+      },
+      "properties": {
+        "date": "",
+        "name": "Passo San Boldo",
+        "type": "To-do"
+      }
     }
   ]
 }];
