@@ -71045,6 +71045,18 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.445434, 46.95253]
+      },
+      "properties": {
+        "date": "2026-11-24",
+        "name": "Südafrikagarten",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
