@@ -71057,6 +71057,102 @@ var points_done = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.817363, 47.61906]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Nordschwaben",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.81293, 47.63575]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Wiechs",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.843004, 47.69163]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Sportpark Brühl",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.878045, 47.72787]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Mambach",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.873431, 47.72278]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Todtnauerli-Radweg",
+        "type": "Attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.854584, 47.70711]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Edeka",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.852953, 47.70667]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "Aldi",
+        "type": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.765821, 47.64485]
+      },
+      "properties": {
+        "date": "2026-11-27",
+        "name": "DM",
+        "type": "Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-0.59075, 51.51056]
       },
       "properties": {
