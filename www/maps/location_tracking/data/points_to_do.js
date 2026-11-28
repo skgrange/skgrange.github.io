@@ -1541,18 +1541,6 @@ var points_to_do = [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.87806, 47.72785]
-      },
-      "properties": {
-        "date": "",
-        "name": "Mambach",
-        "type": "To-do"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.12551, 46.3726]
       },
       "properties": {
